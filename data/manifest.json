@@ -1,6 +1,3243 @@
 {
-  "generated": "2026-06-03T14:55:25.2600000+00:00",
+  "generated": "2026-06-03T20:01:23.6010000+00:00",
   "sessions": [
+    {
+      "url": "sessions/pr/716/dotnet-blazor/author-a-data-loading-search-component--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "author-a-data-loading-search-component",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/author-a-data-loading-search-component--baseline--run0",
+      "name": "dotnet-blazor / Author a data-loading search component (baseline, run 0)",
+      "mtime": 1780516882702
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/author-a-data-loading-search-component--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "author-a-data-loading-search-component",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/author-a-data-loading-search-component--isolated--run0",
+      "name": "dotnet-blazor / Author a data-loading search component (isolated, run 0)",
+      "mtime": 1780516882709
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/author-a-data-loading-search-component--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "author-a-data-loading-search-component",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/author-a-data-loading-search-component--plugin--run0",
+      "name": "dotnet-blazor / Author a data-loading search component (plugin, run 0)",
+      "mtime": 1780516882713
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/author-a-generic-data-table-component--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "author-a-generic-data-table-component",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/author-a-generic-data-table-component--baseline--run0",
+      "name": "dotnet-blazor / Author a generic data table component (baseline, run 0)",
+      "mtime": 1780516882716
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/author-a-generic-data-table-component--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "author-a-generic-data-table-component",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/author-a-generic-data-table-component--isolated--run0",
+      "name": "dotnet-blazor / Author a generic data table component (isolated, run 0)",
+      "mtime": 1780516882719
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/author-a-generic-data-table-component--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "author-a-generic-data-table-component",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/author-a-generic-data-table-component--plugin--run0",
+      "name": "dotnet-blazor / Author a generic data table component (plugin, run 0)",
+      "mtime": 1780516882723
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/author-a-multi-step-wizard-with-async-validation-and-shared-state--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "author-a-multi-step-wizard-with-async-validation-and-shared-state",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/author-a-multi-step-wizard-with-async-validation-and-shared-state--baseline--run0",
+      "name": "dotnet-blazor / Author a multi-step wizard with async validation and shared state (baseline, run 0)",
+      "mtime": 1780516882726
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/author-a-multi-step-wizard-with-async-validation-and-shared-state--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "author-a-multi-step-wizard-with-async-validation-and-shared-state",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/author-a-multi-step-wizard-with-async-validation-and-shared-state--isolated--run0",
+      "name": "dotnet-blazor / Author a multi-step wizard with async validation and shared state (isolated, run 0)",
+      "mtime": 1780516882729
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/author-a-multi-step-wizard-with-async-validation-and-shared-state--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "author-a-multi-step-wizard-with-async-validation-and-shared-state",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/author-a-multi-step-wizard-with-async-validation-and-shared-state--plugin--run0",
+      "name": "dotnet-blazor / Author a multi-step wizard with async validation and shared state (plugin, run 0)",
+      "mtime": 1780516882734
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/author-a-real-time-notification-badge-component--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "author-a-real-time-notification-badge-component",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/author-a-real-time-notification-badge-component--baseline--run0",
+      "name": "dotnet-blazor / Author a real-time notification badge component (baseline, run 0)",
+      "mtime": 1780516882737
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/author-a-real-time-notification-badge-component--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "author-a-real-time-notification-badge-component",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/author-a-real-time-notification-badge-component--isolated--run0",
+      "name": "dotnet-blazor / Author a real-time notification badge component (isolated, run 0)",
+      "mtime": 1780516882740
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/author-a-real-time-notification-badge-component--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "author-a-real-time-notification-badge-component",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/author-a-real-time-notification-badge-component--plugin--run0",
+      "name": "dotnet-blazor / Author a real-time notification badge component (plugin, run 0)",
+      "mtime": 1780516882744
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/author-a-sortable-list-with-code-behind-pattern--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "author-a-sortable-list-with-code-behind-pattern",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/author-a-sortable-list-with-code-behind-pattern--baseline--run0",
+      "name": "dotnet-blazor / Author a sortable list with code-behind pattern (baseline, run 0)",
+      "mtime": 1780516882747
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/author-a-sortable-list-with-code-behind-pattern--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "author-a-sortable-list-with-code-behind-pattern",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/author-a-sortable-list-with-code-behind-pattern--isolated--run0",
+      "name": "dotnet-blazor / Author a sortable list with code-behind pattern (isolated, run 0)",
+      "mtime": 1780516882750
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/author-a-sortable-list-with-code-behind-pattern--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "author-a-sortable-list-with-code-behind-pattern",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/author-a-sortable-list-with-code-behind-pattern--plugin--run0",
+      "name": "dotnet-blazor / Author a sortable list with code-behind pattern (plugin, run 0)",
+      "mtime": 1780516882753
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/event-registration-with-custom-validation--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "event-registration-with-custom-validation",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/event-registration-with-custom-validation--baseline--run0",
+      "name": "dotnet-blazor / Event registration with custom validation (baseline, run 0)",
+      "mtime": 1780516882756
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/event-registration-with-custom-validation--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "event-registration-with-custom-validation",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/event-registration-with-custom-validation--isolated--run0",
+      "name": "dotnet-blazor / Event registration with custom validation (isolated, run 0)",
+      "mtime": 1780516882760
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/event-registration-with-custom-validation--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "event-registration-with-custom-validation",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/event-registration-with-custom-validation--plugin--run0",
+      "name": "dotnet-blazor / Event registration with custom validation (plugin, run 0)",
+      "mtime": 1780516882763
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/multi-step-booking-form-with-cross-field-validation--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "multi-step-booking-form-with-cross-field-validation",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/multi-step-booking-form-with-cross-field-validation--baseline--run0",
+      "name": "dotnet-blazor / Multi-step booking form with cross-field validation (baseline, run 0)",
+      "mtime": 1780516882767
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/multi-step-booking-form-with-cross-field-validation--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "multi-step-booking-form-with-cross-field-validation",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/multi-step-booking-form-with-cross-field-validation--isolated--run0",
+      "name": "dotnet-blazor / Multi-step booking form with cross-field validation (isolated, run 0)",
+      "mtime": 1780516882770
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/multi-step-booking-form-with-cross-field-validation--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "multi-step-booking-form-with-cross-field-validation",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/multi-step-booking-form-with-cross-field-validation--plugin--run0",
+      "name": "dotnet-blazor / Multi-step booking form with cross-field validation (plugin, run 0)",
+      "mtime": 1780516882773
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/login-and-account-management-in-a-globally-interactive-app--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "login-and-account-management-in-a-globally-interactive-app",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/login-and-account-management-in-a-globally-interactive-app--baseline--run0",
+      "name": "dotnet-blazor / Login and account management in a globally interactive app (baseline, run 0)",
+      "mtime": 1780516882777
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/login-and-account-management-in-a-globally-interactive-app--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "login-and-account-management-in-a-globally-interactive-app",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/login-and-account-management-in-a-globally-interactive-app--isolated--run0",
+      "name": "dotnet-blazor / Login and account management in a globally interactive app (isolated, run 0)",
+      "mtime": 1780516882780
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/login-and-account-management-in-a-globally-interactive-app--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "login-and-account-management-in-a-globally-interactive-app",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/login-and-account-management-in-a-globally-interactive-app--plugin--run0",
+      "name": "dotnet-blazor / Login and account management in a globally interactive app (plugin, run 0)",
+      "mtime": 1780516882784
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/multi-tier-app-with-webassembly-auth--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "multi-tier-app-with-webassembly-auth",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/multi-tier-app-with-webassembly-auth--baseline--run0",
+      "name": "dotnet-blazor / Multi-tier app with WebAssembly auth (baseline, run 0)",
+      "mtime": 1780516882788
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/multi-tier-app-with-webassembly-auth--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "multi-tier-app-with-webassembly-auth",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/multi-tier-app-with-webassembly-auth--isolated--run0",
+      "name": "dotnet-blazor / Multi-tier app with WebAssembly auth (isolated, run 0)",
+      "mtime": 1780516882791
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/multi-tier-app-with-webassembly-auth--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "multi-tier-app-with-webassembly-auth",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/multi-tier-app-with-webassembly-auth--plugin--run0",
+      "name": "dotnet-blazor / Multi-tier app with WebAssembly auth (plugin, run 0)",
+      "mtime": 1780516882794
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/multi-tenant-notification-hub-with-cross-component-fan-out--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "multi-tenant-notification-hub-with-cross-component-fan-out",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/multi-tenant-notification-hub-with-cross-component-fan-out--baseline--run0",
+      "name": "dotnet-blazor / Multi-tenant notification hub with cross-component fan-out (baseline, run 0)",
+      "mtime": 1780516882801
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/multi-tenant-notification-hub-with-cross-component-fan-out--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "multi-tenant-notification-hub-with-cross-component-fan-out",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/multi-tenant-notification-hub-with-cross-component-fan-out--isolated--run0",
+      "name": "dotnet-blazor / Multi-tenant notification hub with cross-component fan-out (isolated, run 0)",
+      "mtime": 1780516882804
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/multi-tenant-notification-hub-with-cross-component-fan-out--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "multi-tenant-notification-hub-with-cross-component-fan-out",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/multi-tenant-notification-hub-with-cross-component-fan-out--plugin--run0",
+      "name": "dotnet-blazor / Multi-tenant notification hub with cross-component fan-out (plugin, run 0)",
+      "mtime": 1780516882808
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/warehouse-dashboard-with-site-selector-and-live-stock-alerts--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "warehouse-dashboard-with-site-selector-and-live-stock-alerts",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/warehouse-dashboard-with-site-selector-and-live-stock-alerts--baseline--run0",
+      "name": "dotnet-blazor / Warehouse dashboard with site selector and live stock alerts (baseline, run 0)",
+      "mtime": 1780516882811
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/warehouse-dashboard-with-site-selector-and-live-stock-alerts--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "warehouse-dashboard-with-site-selector-and-live-stock-alerts",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/warehouse-dashboard-with-site-selector-and-live-stock-alerts--isolated--run0",
+      "name": "dotnet-blazor / Warehouse dashboard with site selector and live stock alerts (isolated, run 0)",
+      "mtime": 1780516882814
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/warehouse-dashboard-with-site-selector-and-live-stock-alerts--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "warehouse-dashboard-with-site-selector-and-live-stock-alerts",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/warehouse-dashboard-with-site-selector-and-live-stock-alerts--plugin--run0",
+      "name": "dotnet-blazor / Warehouse dashboard with site selector and live stock alerts (plugin, run 0)",
+      "mtime": 1780516882818
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/global-logistics-tracking-for-worldwide-users--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "global-logistics-tracking-for-worldwide-users",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/global-logistics-tracking-for-worldwide-users--baseline--run0",
+      "name": "dotnet-blazor / Global logistics tracking for worldwide users (baseline, run 0)",
+      "mtime": 1780516882821
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/global-logistics-tracking-for-worldwide-users--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "global-logistics-tracking-for-worldwide-users",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/global-logistics-tracking-for-worldwide-users--isolated--run0",
+      "name": "dotnet-blazor / Global logistics tracking for worldwide users (isolated, run 0)",
+      "mtime": 1780516882825
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/global-logistics-tracking-for-worldwide-users--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "global-logistics-tracking-for-worldwide-users",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/global-logistics-tracking-for-worldwide-users--plugin--run0",
+      "name": "dotnet-blazor / Global logistics tracking for worldwide users (plugin, run 0)",
+      "mtime": 1780516882828
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/recipe-community-with-interactive-ratings-on-static-pages--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "recipe-community-with-interactive-ratings-on-static-pages",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/recipe-community-with-interactive-ratings-on-static-pages--baseline--run0",
+      "name": "dotnet-blazor / Recipe community with interactive ratings on static pages (baseline, run 0)",
+      "mtime": 1780516882831
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/recipe-community-with-interactive-ratings-on-static-pages--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "recipe-community-with-interactive-ratings-on-static-pages",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/recipe-community-with-interactive-ratings-on-static-pages--isolated--run0",
+      "name": "dotnet-blazor / Recipe community with interactive ratings on static pages (isolated, run 0)",
+      "mtime": 1780516882834
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/recipe-community-with-interactive-ratings-on-static-pages--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "recipe-community-with-interactive-ratings-on-static-pages",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/recipe-community-with-interactive-ratings-on-static-pages--plugin--run0",
+      "name": "dotnet-blazor / Recipe community with interactive ratings on static pages (plugin, run 0)",
+      "mtime": 1780516882838
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/university-course-catalog-with-enrollment-form--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "university-course-catalog-with-enrollment-form",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/university-course-catalog-with-enrollment-form--baseline--run0",
+      "name": "dotnet-blazor / University course catalog with enrollment form (baseline, run 0)",
+      "mtime": 1780516882841
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/university-course-catalog-with-enrollment-form--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "university-course-catalog-with-enrollment-form",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/university-course-catalog-with-enrollment-form--isolated--run0",
+      "name": "dotnet-blazor / University course catalog with enrollment form (isolated, run 0)",
+      "mtime": 1780516882844
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/university-course-catalog-with-enrollment-form--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "university-course-catalog-with-enrollment-form",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/university-course-catalog-with-enrollment-form--plugin--run0",
+      "name": "dotnet-blazor / University course catalog with enrollment form (plugin, run 0)",
+      "mtime": 1780516882847
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/real-time-shipment-tracker-with-auto-interactivity--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "real-time-shipment-tracker-with-auto-interactivity",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/real-time-shipment-tracker-with-auto-interactivity--baseline--run0",
+      "name": "dotnet-blazor / Real-time shipment tracker with Auto interactivity (baseline, run 0)",
+      "mtime": 1780516882851
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/real-time-shipment-tracker-with-auto-interactivity--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "real-time-shipment-tracker-with-auto-interactivity",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/real-time-shipment-tracker-with-auto-interactivity--isolated--run0",
+      "name": "dotnet-blazor / Real-time shipment tracker with Auto interactivity (isolated, run 0)",
+      "mtime": 1780516882854
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/real-time-shipment-tracker-with-auto-interactivity--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "real-time-shipment-tracker-with-auto-interactivity",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/real-time-shipment-tracker-with-auto-interactivity--plugin--run0",
+      "name": "dotnet-blazor / Real-time shipment tracker with Auto interactivity (plugin, run 0)",
+      "mtime": 1780516882857
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/recipe-browser-with-resilient-data-loading--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "recipe-browser-with-resilient-data-loading",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/recipe-browser-with-resilient-data-loading--baseline--run0",
+      "name": "dotnet-blazor / Recipe browser with resilient data loading (baseline, run 0)",
+      "mtime": 1780516882862
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/recipe-browser-with-resilient-data-loading--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "recipe-browser-with-resilient-data-loading",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/recipe-browser-with-resilient-data-loading--isolated--run0",
+      "name": "dotnet-blazor / Recipe browser with resilient data loading (isolated, run 0)",
+      "mtime": 1780516882867
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/recipe-browser-with-resilient-data-loading--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "recipe-browser-with-resilient-data-loading",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/recipe-browser-with-resilient-data-loading--plugin--run0",
+      "name": "dotnet-blazor / Recipe browser with resilient data loading (plugin, run 0)",
+      "mtime": 1780516882875
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/application-settings-page-with-nested-tab-panels--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "application-settings-page-with-nested-tab-panels",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/application-settings-page-with-nested-tab-panels--baseline--run0",
+      "name": "dotnet-blazor / Application settings page with nested tab panels (baseline, run 0)",
+      "mtime": 1780516882879
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/application-settings-page-with-nested-tab-panels--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "application-settings-page-with-nested-tab-panels",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/application-settings-page-with-nested-tab-panels--isolated--run0",
+      "name": "dotnet-blazor / Application settings page with nested tab panels (isolated, run 0)",
+      "mtime": 1780516882882
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/application-settings-page-with-nested-tab-panels--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "application-settings-page-with-nested-tab-panels",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/application-settings-page-with-nested-tab-panels--plugin--run0",
+      "name": "dotnet-blazor / Application settings page with nested tab panels (plugin, run 0)",
+      "mtime": 1780516882885
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/e-commerce-product-catalog-with-filters-and-pagination--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "e-commerce-product-catalog-with-filters-and-pagination",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/e-commerce-product-catalog-with-filters-and-pagination--baseline--run0",
+      "name": "dotnet-blazor / E-commerce product catalog with filters and pagination (baseline, run 0)",
+      "mtime": 1780516882889
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/e-commerce-product-catalog-with-filters-and-pagination--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "e-commerce-product-catalog-with-filters-and-pagination",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/e-commerce-product-catalog-with-filters-and-pagination--isolated--run0",
+      "name": "dotnet-blazor / E-commerce product catalog with filters and pagination (isolated, run 0)",
+      "mtime": 1780516882892
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/e-commerce-product-catalog-with-filters-and-pagination--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "e-commerce-product-catalog-with-filters-and-pagination",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/e-commerce-product-catalog-with-filters-and-pagination--plugin--run0",
+      "name": "dotnet-blazor / E-commerce product catalog with filters and pagination (plugin, run 0)",
+      "mtime": 1780516882895
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/multi-step-job-application-wizard--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "multi-step-job-application-wizard",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/multi-step-job-application-wizard--baseline--run0",
+      "name": "dotnet-blazor / Multi-step job application wizard (baseline, run 0)",
+      "mtime": 1780516882898
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/multi-step-job-application-wizard--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "multi-step-job-application-wizard",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/multi-step-job-application-wizard--isolated--run0",
+      "name": "dotnet-blazor / Multi-step job application wizard (isolated, run 0)",
+      "mtime": 1780516882901
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/multi-step-job-application-wizard--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "multi-step-job-application-wizard",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/multi-step-job-application-wizard--plugin--run0",
+      "name": "dotnet-blazor / Multi-step job application wizard (plugin, run 0)",
+      "mtime": 1780516882905
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/project-management-kanban-board--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "project-management-kanban-board",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/project-management-kanban-board--baseline--run0",
+      "name": "dotnet-blazor / Project management Kanban board (baseline, run 0)",
+      "mtime": 1780516882910
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/project-management-kanban-board--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "project-management-kanban-board",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/project-management-kanban-board--isolated--run0",
+      "name": "dotnet-blazor / Project management Kanban board (isolated, run 0)",
+      "mtime": 1780516882914
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/project-management-kanban-board--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "project-management-kanban-board",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/project-management-kanban-board--plugin--run0",
+      "name": "dotnet-blazor / Project management Kanban board (plugin, run 0)",
+      "mtime": 1780516882917
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/team-chat-interface-with-message-threads--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "team-chat-interface-with-message-threads",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/team-chat-interface-with-message-threads--baseline--run0",
+      "name": "dotnet-blazor / Team chat interface with message threads (baseline, run 0)",
+      "mtime": 1780516882920
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/team-chat-interface-with-message-threads--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "team-chat-interface-with-message-threads",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/team-chat-interface-with-message-threads--isolated--run0",
+      "name": "dotnet-blazor / Team chat interface with message threads (isolated, run 0)",
+      "mtime": 1780516882924
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/team-chat-interface-with-message-threads--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "team-chat-interface-with-message-threads",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/team-chat-interface-with-message-threads--plugin--run0",
+      "name": "dotnet-blazor / Team chat interface with message threads (plugin, run 0)",
+      "mtime": 1780516882927
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/equipment-inventory-loaded-once--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "equipment-inventory-loaded-once",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/equipment-inventory-loaded-once--baseline--run0",
+      "name": "dotnet-blazor / Equipment inventory loaded once (baseline, run 0)",
+      "mtime": 1780516882930
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/equipment-inventory-loaded-once--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "equipment-inventory-loaded-once",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/equipment-inventory-loaded-once--isolated--run0",
+      "name": "dotnet-blazor / Equipment inventory loaded once (isolated, run 0)",
+      "mtime": 1780516882933
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/equipment-inventory-loaded-once--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "equipment-inventory-loaded-once",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/equipment-inventory-loaded-once--plugin--run0",
+      "name": "dotnet-blazor / Equipment inventory loaded once (plugin, run 0)",
+      "mtime": 1780516882936
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/notifications-page-with-live-polling--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "notifications-page-with-live-polling",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/notifications-page-with-live-polling--baseline--run0",
+      "name": "dotnet-blazor / Notifications page with live polling (baseline, run 0)",
+      "mtime": 1780516882939
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/notifications-page-with-live-polling--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "notifications-page-with-live-polling",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/notifications-page-with-live-polling--isolated--run0",
+      "name": "dotnet-blazor / Notifications page with live polling (isolated, run 0)",
+      "mtime": 1780516882943
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/notifications-page-with-live-polling--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "notifications-page-with-live-polling",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/notifications-page-with-live-polling--plugin--run0",
+      "name": "dotnet-blazor / Notifications page with live polling (plugin, run 0)",
+      "mtime": 1780516882947
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/auto-saving-notepad-that-survives-page-reloads--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "auto-saving-notepad-that-survives-page-reloads",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/auto-saving-notepad-that-survives-page-reloads--baseline--run0",
+      "name": "dotnet-blazor / Auto-saving notepad that survives page reloads (baseline, run 0)",
+      "mtime": 1780516882951
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/auto-saving-notepad-that-survives-page-reloads--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "auto-saving-notepad-that-survives-page-reloads",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/auto-saving-notepad-that-survives-page-reloads--isolated--run0",
+      "name": "dotnet-blazor / Auto-saving notepad that survives page reloads (isolated, run 0)",
+      "mtime": 1780516882954
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/auto-saving-notepad-that-survives-page-reloads--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "auto-saving-notepad-that-survives-page-reloads",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/auto-saving-notepad-that-survives-page-reloads--plugin--run0",
+      "name": "dotnet-blazor / Auto-saving notepad that survives page reloads (plugin, run 0)",
+      "mtime": 1780516882957
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/infinite-scroll-list-using-intersectionobserver--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "infinite-scroll-list-using-intersectionobserver",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/infinite-scroll-list-using-intersectionobserver--baseline--run0",
+      "name": "dotnet-blazor / Infinite scroll list using IntersectionObserver (baseline, run 0)",
+      "mtime": 1780516882960
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/infinite-scroll-list-using-intersectionobserver--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "infinite-scroll-list-using-intersectionobserver",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/infinite-scroll-list-using-intersectionobserver--isolated--run0",
+      "name": "dotnet-blazor / Infinite scroll list using IntersectionObserver (isolated, run 0)",
+      "mtime": 1780516882964
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/infinite-scroll-list-using-intersectionobserver--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "infinite-scroll-list-using-intersectionobserver",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/infinite-scroll-list-using-intersectionobserver--plugin--run0",
+      "name": "dotnet-blazor / Infinite scroll list using IntersectionObserver (plugin, run 0)",
+      "mtime": 1780516882967
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/responsive-layout-that-adapts-to-screen-size--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "responsive-layout-that-adapts-to-screen-size",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/responsive-layout-that-adapts-to-screen-size--baseline--run0",
+      "name": "dotnet-blazor / Responsive layout that adapts to screen size (baseline, run 0)",
+      "mtime": 1780516882970
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/responsive-layout-that-adapts-to-screen-size--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "responsive-layout-that-adapts-to-screen-size",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/responsive-layout-that-adapts-to-screen-size--isolated--run0",
+      "name": "dotnet-blazor / Responsive layout that adapts to screen size (isolated, run 0)",
+      "mtime": 1780516882973
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/responsive-layout-that-adapts-to-screen-size--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "responsive-layout-that-adapts-to-screen-size",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/responsive-layout-that-adapts-to-screen-size--plugin--run0",
+      "name": "dotnet-blazor / Responsive layout that adapts to screen size (plugin, run 0)",
+      "mtime": 1780516882977
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/user-activity-tracker-that-detects-idle-timeout--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "baseline",
+        "user-activity-tracker-that-detects-idle-timeout",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/user-activity-tracker-that-detects-idle-timeout--baseline--run0",
+      "name": "dotnet-blazor / User activity tracker that detects idle timeout (baseline, run 0)",
+      "mtime": 1780516882980
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/user-activity-tracker-that-detects-idle-timeout--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "isolated",
+        "user-activity-tracker-that-detects-idle-timeout",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/user-activity-tracker-that-detects-idle-timeout--isolated--run0",
+      "name": "dotnet-blazor / User activity tracker that detects idle timeout (isolated, run 0)",
+      "mtime": 1780516882983
+    },
+    {
+      "url": "sessions/pr/716/dotnet-blazor/user-activity-tracker-that-detects-idle-timeout--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-blazor",
+        "plugin",
+        "user-activity-tracker-that-detects-idle-timeout",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-blazor/user-activity-tracker-that-detects-idle-timeout--plugin--run0",
+      "name": "dotnet-blazor / User activity tracker that detects idle timeout (plugin, run 0)",
+      "mtime": 1780516882986
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/catches-linq-on-hot-path-string-processing-and-all-char-isupper---baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "catches-linq-on-hot-path-string-processing-and-all-char-isupper-",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/catches-linq-on-hot-path-string-processing-and-all-char-isupper---baseline--run0",
+      "name": "dotnet-diag / Catches LINQ on hot-path string processing and All(char.IsUpper) (baseline, run 0)",
+      "mtime": 1780516883015
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/catches-linq-on-hot-path-string-processing-and-all-char-isupper---isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "catches-linq-on-hot-path-string-processing-and-all-char-isupper-",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/catches-linq-on-hot-path-string-processing-and-all-char-isupper---isolated--run0",
+      "name": "dotnet-diag / Catches LINQ on hot-path string processing and All(char.IsUpper) (isolated, run 0)",
+      "mtime": 1780516883018
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/catches-linq-on-hot-path-string-processing-and-all-char-isupper---plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "catches-linq-on-hot-path-string-processing-and-all-char-isupper-",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/catches-linq-on-hot-path-string-processing-and-all-char-isupper---plugin--run0",
+      "name": "dotnet-diag / Catches LINQ on hot-path string processing and All(char.IsUpper) (plugin, run 0)",
+      "mtime": 1780516883022
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/catches-compound-allocations-in-recursive-number-converter-with-tolower--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "catches-compound-allocations-in-recursive-number-converter-with-tolower",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/catches-compound-allocations-in-recursive-number-converter-with-tolower--baseline--run0",
+      "name": "dotnet-diag / Catches compound allocations in recursive number converter with ToLower (baseline, run 0)",
+      "mtime": 1780516883025
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/catches-compound-allocations-in-recursive-number-converter-with-tolower--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "catches-compound-allocations-in-recursive-number-converter-with-tolower",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/catches-compound-allocations-in-recursive-number-converter-with-tolower--isolated--run0",
+      "name": "dotnet-diag / Catches compound allocations in recursive number converter with ToLower (isolated, run 0)",
+      "mtime": 1780516883031
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/catches-compound-allocations-in-recursive-number-converter-with-tolower--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "catches-compound-allocations-in-recursive-number-converter-with-tolower",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/catches-compound-allocations-in-recursive-number-converter-with-tolower--plugin--run0",
+      "name": "dotnet-diag / Catches compound allocations in recursive number converter with ToLower (plugin, run 0)",
+      "mtime": 1780516883034
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/detects-aggregate-replace-chain-and-struct-missing-iequatable--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "detects-aggregate-replace-chain-and-struct-missing-iequatable",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/detects-aggregate-replace-chain-and-struct-missing-iequatable--baseline--run0",
+      "name": "dotnet-diag / Detects Aggregate+Replace chain and struct missing IEquatable (baseline, run 0)",
+      "mtime": 1780516883037
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/detects-aggregate-replace-chain-and-struct-missing-iequatable--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "detects-aggregate-replace-chain-and-struct-missing-iequatable",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/detects-aggregate-replace-chain-and-struct-missing-iequatable--isolated--run0",
+      "name": "dotnet-diag / Detects Aggregate+Replace chain and struct missing IEquatable (isolated, run 0)",
+      "mtime": 1780516883041
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/detects-aggregate-replace-chain-and-struct-missing-iequatable--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "detects-aggregate-replace-chain-and-struct-missing-iequatable",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/detects-aggregate-replace-chain-and-struct-missing-iequatable--plugin--run0",
+      "name": "dotnet-diag / Detects Aggregate+Replace chain and struct missing IEquatable (plugin, run 0)",
+      "mtime": 1780516883044
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/detects-currentculture-comparer-and-compiled-regex-budget-in-inflection-rules--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "detects-currentculture-comparer-and-compiled-regex-budget-in-inflection-rules",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/detects-currentculture-comparer-and-compiled-regex-budget-in-inflection-rules--baseline--run0",
+      "name": "dotnet-diag / Detects CurrentCulture comparer and compiled regex budget in inflection rules (baseline, run 0)",
+      "mtime": 1780516883048
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/detects-currentculture-comparer-and-compiled-regex-budget-in-inflection-rules--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "detects-currentculture-comparer-and-compiled-regex-budget-in-inflection-rules",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/detects-currentculture-comparer-and-compiled-regex-budget-in-inflection-rules--isolated--run0",
+      "name": "dotnet-diag / Detects CurrentCulture comparer and compiled regex budget in inflection rules (isolated, run 0)",
+      "mtime": 1780516883051
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/detects-currentculture-comparer-and-compiled-regex-budget-in-inflection-rules--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "detects-currentculture-comparer-and-compiled-regex-budget-in-inflection-rules",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/detects-currentculture-comparer-and-compiled-regex-budget-in-inflection-rules--plugin--run0",
+      "name": "dotnet-diag / Detects CurrentCulture comparer and compiled regex budget in inflection rules (plugin, run 0)",
+      "mtime": 1780516883054
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/detects-linq-pipeline-in-timespan-formatting-and-collection-processing--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "detects-linq-pipeline-in-timespan-formatting-and-collection-processing",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/detects-linq-pipeline-in-timespan-formatting-and-collection-processing--baseline--run0",
+      "name": "dotnet-diag / Detects LINQ pipeline in TimeSpan formatting and collection processing (baseline, run 0)",
+      "mtime": 1780516883058
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/detects-linq-pipeline-in-timespan-formatting-and-collection-processing--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "detects-linq-pipeline-in-timespan-formatting-and-collection-processing",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/detects-linq-pipeline-in-timespan-formatting-and-collection-processing--isolated--run0",
+      "name": "dotnet-diag / Detects LINQ pipeline in TimeSpan formatting and collection processing (isolated, run 0)",
+      "mtime": 1780516883061
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/detects-linq-pipeline-in-timespan-formatting-and-collection-processing--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "detects-linq-pipeline-in-timespan-formatting-and-collection-processing",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/detects-linq-pipeline-in-timespan-formatting-and-collection-processing--plugin--run0",
+      "name": "dotnet-diag / Detects LINQ pipeline in TimeSpan formatting and collection processing (plugin, run 0)",
+      "mtime": 1780516883065
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/detects-compiled-regex-startup-budget-and-regex-chain-allocations--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "detects-compiled-regex-startup-budget-and-regex-chain-allocations",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/detects-compiled-regex-startup-budget-and-regex-chain-allocations--baseline--run0",
+      "name": "dotnet-diag / Detects compiled regex startup budget and regex chain allocations (baseline, run 0)",
+      "mtime": 1780516883068
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/detects-compiled-regex-startup-budget-and-regex-chain-allocations--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "detects-compiled-regex-startup-budget-and-regex-chain-allocations",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/detects-compiled-regex-startup-budget-and-regex-chain-allocations--isolated--run0",
+      "name": "dotnet-diag / Detects compiled regex startup budget and regex chain allocations (isolated, run 0)",
+      "mtime": 1780516883071
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/detects-compiled-regex-startup-budget-and-regex-chain-allocations--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "detects-compiled-regex-startup-budget-and-regex-chain-allocations",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/detects-compiled-regex-startup-budget-and-regex-chain-allocations--plugin--run0",
+      "name": "dotnet-diag / Detects compiled regex startup budget and regex chain allocations (plugin, run 0)",
+      "mtime": 1780516883075
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/finds-stringcomparison-ordinal-missing-and-frozendictionary-opportunities--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "finds-stringcomparison-ordinal-missing-and-frozendictionary-opportunities",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/finds-stringcomparison-ordinal-missing-and-frozendictionary-opportunities--baseline--run0",
+      "name": "dotnet-diag / Finds StringComparison.Ordinal missing and FrozenDictionary opportunities (baseline, run 0)",
+      "mtime": 1780516883078
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/finds-stringcomparison-ordinal-missing-and-frozendictionary-opportunities--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "finds-stringcomparison-ordinal-missing-and-frozendictionary-opportunities",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/finds-stringcomparison-ordinal-missing-and-frozendictionary-opportunities--isolated--run0",
+      "name": "dotnet-diag / Finds StringComparison.Ordinal missing and FrozenDictionary opportunities (isolated, run 0)",
+      "mtime": 1780516883082
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/finds-stringcomparison-ordinal-missing-and-frozendictionary-opportunities--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "finds-stringcomparison-ordinal-missing-and-frozendictionary-opportunities",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/finds-stringcomparison-ordinal-missing-and-frozendictionary-opportunities--plugin--run0",
+      "name": "dotnet-diag / Finds StringComparison.Ordinal missing and FrozenDictionary opportunities (plugin, run 0)",
+      "mtime": 1780516883085
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/finds-branched-replace-chain-in-format-string-manipulation--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "finds-branched-replace-chain-in-format-string-manipulation",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/finds-branched-replace-chain-in-format-string-manipulation--baseline--run0",
+      "name": "dotnet-diag / Finds branched Replace chain in format string manipulation (baseline, run 0)",
+      "mtime": 1780516883089
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/finds-branched-replace-chain-in-format-string-manipulation--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "finds-branched-replace-chain-in-format-string-manipulation",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/finds-branched-replace-chain-in-format-string-manipulation--isolated--run0",
+      "name": "dotnet-diag / Finds branched Replace chain in format string manipulation (isolated, run 0)",
+      "mtime": 1780516883092
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/finds-branched-replace-chain-in-format-string-manipulation--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "finds-branched-replace-chain-in-format-string-manipulation",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/finds-branched-replace-chain-in-format-string-manipulation--plugin--run0",
+      "name": "dotnet-diag / Finds branched Replace chain in format string manipulation (plugin, run 0)",
+      "mtime": 1780516883096
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/finds-per-call-dictionary-allocation-not-hoisted-to-static--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "finds-per-call-dictionary-allocation-not-hoisted-to-static",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/finds-per-call-dictionary-allocation-not-hoisted-to-static--baseline--run0",
+      "name": "dotnet-diag / Finds per-call Dictionary allocation not hoisted to static (baseline, run 0)",
+      "mtime": 1780516883099
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/finds-per-call-dictionary-allocation-not-hoisted-to-static--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "finds-per-call-dictionary-allocation-not-hoisted-to-static",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/finds-per-call-dictionary-allocation-not-hoisted-to-static--isolated--run0",
+      "name": "dotnet-diag / Finds per-call Dictionary allocation not hoisted to static (isolated, run 0)",
+      "mtime": 1780516883103
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/finds-per-call-dictionary-allocation-not-hoisted-to-static--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "finds-per-call-dictionary-allocation-not-hoisted-to-static",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/finds-per-call-dictionary-allocation-not-hoisted-to-static--plugin--run0",
+      "name": "dotnet-diag / Finds per-call Dictionary allocation not hoisted to static (plugin, run 0)",
+      "mtime": 1780516883106
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/flags-span-inconsistencies-and-compound-method-chains-in-truncation-library--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "flags-span-inconsistencies-and-compound-method-chains-in-truncation-library",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/flags-span-inconsistencies-and-compound-method-chains-in-truncation-library--baseline--run0",
+      "name": "dotnet-diag / Flags Span inconsistencies and compound method chains in truncation library (baseline, run 0)",
+      "mtime": 1780516883110
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/flags-span-inconsistencies-and-compound-method-chains-in-truncation-library--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "flags-span-inconsistencies-and-compound-method-chains-in-truncation-library",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/flags-span-inconsistencies-and-compound-method-chains-in-truncation-library--isolated--run0",
+      "name": "dotnet-diag / Flags Span inconsistencies and compound method chains in truncation library (isolated, run 0)",
+      "mtime": 1780516883113
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/flags-span-inconsistencies-and-compound-method-chains-in-truncation-library--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "flags-span-inconsistencies-and-compound-method-chains-in-truncation-library",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/flags-span-inconsistencies-and-compound-method-chains-in-truncation-library--plugin--run0",
+      "name": "dotnet-diag / Flags Span inconsistencies and compound method chains in truncation library (plugin, run 0)",
+      "mtime": 1780516883117
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/identifies-unsealed-leaf-classes-and-locale-hierarchy-patterns--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "identifies-unsealed-leaf-classes-and-locale-hierarchy-patterns",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/identifies-unsealed-leaf-classes-and-locale-hierarchy-patterns--baseline--run0",
+      "name": "dotnet-diag / Identifies unsealed leaf classes and locale hierarchy patterns (baseline, run 0)",
+      "mtime": 1780516883120
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/identifies-unsealed-leaf-classes-and-locale-hierarchy-patterns--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "identifies-unsealed-leaf-classes-and-locale-hierarchy-patterns",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/identifies-unsealed-leaf-classes-and-locale-hierarchy-patterns--isolated--run0",
+      "name": "dotnet-diag / Identifies unsealed leaf classes and locale hierarchy patterns (isolated, run 0)",
+      "mtime": 1780516883124
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/identifies-unsealed-leaf-classes-and-locale-hierarchy-patterns--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "identifies-unsealed-leaf-classes-and-locale-hierarchy-patterns",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/identifies-unsealed-leaf-classes-and-locale-hierarchy-patterns--plugin--run0",
+      "name": "dotnet-diag / Identifies unsealed leaf classes and locale hierarchy patterns (plugin, run 0)",
+      "mtime": 1780516883127
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/handle--net-frames-with-no-buildid-metadata--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "handle--net-frames-with-no-buildid-metadata",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/handle--net-frames-with-no-buildid-metadata--baseline--run0",
+      "name": "dotnet-diag / Handle .NET frames with no BuildId metadata (baseline, run 0)",
+      "mtime": 1780516883131
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/handle--net-frames-with-no-buildid-metadata--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "handle--net-frames-with-no-buildid-metadata",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/handle--net-frames-with-no-buildid-metadata--isolated--run0",
+      "name": "dotnet-diag / Handle .NET frames with no BuildId metadata (isolated, run 0)",
+      "mtime": 1780516883137
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/handle--net-frames-with-no-buildid-metadata--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "handle--net-frames-with-no-buildid-metadata",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/handle--net-frames-with-no-buildid-metadata--plugin--run0",
+      "name": "dotnet-diag / Handle .NET frames with no BuildId metadata (plugin, run 0)",
+      "mtime": 1780516883140
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/recognize-nativeaot-tombstone-with-app-binary-and-libsystem-native-so--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "recognize-nativeaot-tombstone-with-app-binary-and-libsystem-native-so",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/recognize-nativeaot-tombstone-with-app-binary-and-libsystem-native-so--baseline--run0",
+      "name": "dotnet-diag / Recognize NativeAOT tombstone with app binary and libSystem.Native.so (baseline, run 0)",
+      "mtime": 1780516883143
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/recognize-nativeaot-tombstone-with-app-binary-and-libsystem-native-so--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "recognize-nativeaot-tombstone-with-app-binary-and-libsystem-native-so",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/recognize-nativeaot-tombstone-with-app-binary-and-libsystem-native-so--isolated--run0",
+      "name": "dotnet-diag / Recognize NativeAOT tombstone with app binary and libSystem.Native.so (isolated, run 0)",
+      "mtime": 1780516883147
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/recognize-nativeaot-tombstone-with-app-binary-and-libsystem-native-so--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "recognize-nativeaot-tombstone-with-app-binary-and-libsystem-native-so",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/recognize-nativeaot-tombstone-with-app-binary-and-libsystem-native-so--plugin--run0",
+      "name": "dotnet-diag / Recognize NativeAOT tombstone with app binary and libSystem.Native.so (plugin, run 0)",
+      "mtime": 1780516883150
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/recognize-tombstone-with-no--net-frames--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "recognize-tombstone-with-no--net-frames",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/recognize-tombstone-with-no--net-frames--baseline--run0",
+      "name": "dotnet-diag / Recognize tombstone with no .NET frames (baseline, run 0)",
+      "mtime": 1780516883154
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/recognize-tombstone-with-no--net-frames--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "recognize-tombstone-with-no--net-frames",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/recognize-tombstone-with-no--net-frames--isolated--run0",
+      "name": "dotnet-diag / Recognize tombstone with no .NET frames (isolated, run 0)",
+      "mtime": 1780516883157
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/recognize-tombstone-with-no--net-frames--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "recognize-tombstone-with-no--net-frames",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/recognize-tombstone-with-no--net-frames--plugin--run0",
+      "name": "dotnet-diag / Recognize tombstone with no .NET frames (plugin, run 0)",
+      "mtime": 1780516883160
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/reject-ios-crash-log-as-wrong-format--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "reject-ios-crash-log-as-wrong-format",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/reject-ios-crash-log-as-wrong-format--baseline--run0",
+      "name": "dotnet-diag / Reject iOS crash log as wrong format (baseline, run 0)",
+      "mtime": 1780516883164
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/reject-ios-crash-log-as-wrong-format--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "reject-ios-crash-log-as-wrong-format",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/reject-ios-crash-log-as-wrong-format--isolated--run0",
+      "name": "dotnet-diag / Reject iOS crash log as wrong format (isolated, run 0)",
+      "mtime": 1780516883167
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/reject-ios-crash-log-as-wrong-format--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "reject-ios-crash-log-as-wrong-format",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/reject-ios-crash-log-as-wrong-format--plugin--run0",
+      "name": "dotnet-diag / Reject iOS crash log as wrong format (plugin, run 0)",
+      "mtime": 1780516883170
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/symbolicate--net-frames-in-an-android-tombstone--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "symbolicate--net-frames-in-an-android-tombstone",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/symbolicate--net-frames-in-an-android-tombstone--baseline--run0",
+      "name": "dotnet-diag / Symbolicate .NET frames in an Android tombstone (baseline, run 0)",
+      "mtime": 1780516883174
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/symbolicate--net-frames-in-an-android-tombstone--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "symbolicate--net-frames-in-an-android-tombstone",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/symbolicate--net-frames-in-an-android-tombstone--isolated--run0",
+      "name": "dotnet-diag / Symbolicate .NET frames in an Android tombstone (isolated, run 0)",
+      "mtime": 1780516883177
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/symbolicate--net-frames-in-an-android-tombstone--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "symbolicate--net-frames-in-an-android-tombstone",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/symbolicate--net-frames-in-an-android-tombstone--plugin--run0",
+      "name": "dotnet-diag / Symbolicate .NET frames in an Android tombstone (plugin, run 0)",
+      "mtime": 1780516883180
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/symbolicate-coreclr-frames-in-an-android-tombstone--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "symbolicate-coreclr-frames-in-an-android-tombstone",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/symbolicate-coreclr-frames-in-an-android-tombstone--baseline--run0",
+      "name": "dotnet-diag / Symbolicate CoreCLR frames in an Android tombstone (baseline, run 0)",
+      "mtime": 1780516883184
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/symbolicate-coreclr-frames-in-an-android-tombstone--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "symbolicate-coreclr-frames-in-an-android-tombstone",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/symbolicate-coreclr-frames-in-an-android-tombstone--isolated--run0",
+      "name": "dotnet-diag / Symbolicate CoreCLR frames in an Android tombstone (isolated, run 0)",
+      "mtime": 1780516883188
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/symbolicate-coreclr-frames-in-an-android-tombstone--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "symbolicate-coreclr-frames-in-an-android-tombstone",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/symbolicate-coreclr-frames-in-an-android-tombstone--plugin--run0",
+      "name": "dotnet-diag / Symbolicate CoreCLR frames in an Android tombstone (plugin, run 0)",
+      "mtime": 1780516883191
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/symbolicate-multi-thread-tombstone--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "symbolicate-multi-thread-tombstone",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/symbolicate-multi-thread-tombstone--baseline--run0",
+      "name": "dotnet-diag / Symbolicate multi-thread tombstone (baseline, run 0)",
+      "mtime": 1780516883196
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/symbolicate-multi-thread-tombstone--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "symbolicate-multi-thread-tombstone",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/symbolicate-multi-thread-tombstone--isolated--run0",
+      "name": "dotnet-diag / Symbolicate multi-thread tombstone (isolated, run 0)",
+      "mtime": 1780516883200
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/symbolicate-multi-thread-tombstone--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "symbolicate-multi-thread-tombstone",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/symbolicate-multi-thread-tombstone--plugin--run0",
+      "name": "dotnet-diag / Symbolicate multi-thread tombstone (plugin, run 0)",
+      "mtime": 1780516883203
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/symbolicate-tombstone-with-multiple--net-libraries-and-different-buildids--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "symbolicate-tombstone-with-multiple--net-libraries-and-different-buildids",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/symbolicate-tombstone-with-multiple--net-libraries-and-different-buildids--baseline--run0",
+      "name": "dotnet-diag / Symbolicate tombstone with multiple .NET libraries and different BuildIds (baseline, run 0)",
+      "mtime": 1780516883206
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/symbolicate-tombstone-with-multiple--net-libraries-and-different-buildids--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "symbolicate-tombstone-with-multiple--net-libraries-and-different-buildids",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/symbolicate-tombstone-with-multiple--net-libraries-and-different-buildids--isolated--run0",
+      "name": "dotnet-diag / Symbolicate tombstone with multiple .NET libraries and different BuildIds (isolated, run 0)",
+      "mtime": 1780516883210
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/symbolicate-tombstone-with-multiple--net-libraries-and-different-buildids--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "symbolicate-tombstone-with-multiple--net-libraries-and-different-buildids",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/symbolicate-tombstone-with-multiple--net-libraries-and-different-buildids--plugin--run0",
+      "name": "dotnet-diag / Symbolicate tombstone with multiple .NET libraries and different BuildIds (plugin, run 0)",
+      "mtime": 1780516883213
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/investigate-root-cause-of-a--net-maui-ios-crash--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "investigate-root-cause-of-a--net-maui-ios-crash",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/investigate-root-cause-of-a--net-maui-ios-crash--baseline--run0",
+      "name": "dotnet-diag / Investigate root cause of a .NET MAUI iOS crash (baseline, run 0)",
+      "mtime": 1780516883216
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/investigate-root-cause-of-a--net-maui-ios-crash--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "investigate-root-cause-of-a--net-maui-ios-crash",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/investigate-root-cause-of-a--net-maui-ios-crash--isolated--run0",
+      "name": "dotnet-diag / Investigate root cause of a .NET MAUI iOS crash (isolated, run 0)",
+      "mtime": 1780516883219
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/investigate-root-cause-of-a--net-maui-ios-crash--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "investigate-root-cause-of-a--net-maui-ios-crash",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/investigate-root-cause-of-a--net-maui-ios-crash--plugin--run0",
+      "name": "dotnet-diag / Investigate root cause of a .NET MAUI iOS crash (plugin, run 0)",
+      "mtime": 1780516883223
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/parse--net-frames-and-locate-dsyms-from-an-ios-crash-log--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "parse--net-frames-and-locate-dsyms-from-an-ios-crash-log",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/parse--net-frames-and-locate-dsyms-from-an-ios-crash-log--baseline--run0",
+      "name": "dotnet-diag / Parse .NET frames and locate dSYMs from an iOS crash log (baseline, run 0)",
+      "mtime": 1780516883226
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/parse--net-frames-and-locate-dsyms-from-an-ios-crash-log--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "parse--net-frames-and-locate-dsyms-from-an-ios-crash-log",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/parse--net-frames-and-locate-dsyms-from-an-ios-crash-log--isolated--run0",
+      "name": "dotnet-diag / Parse .NET frames and locate dSYMs from an iOS crash log (isolated, run 0)",
+      "mtime": 1780516883230
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/parse--net-frames-and-locate-dsyms-from-an-ios-crash-log--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "parse--net-frames-and-locate-dsyms-from-an-ios-crash-log",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/parse--net-frames-and-locate-dsyms-from-an-ios-crash-log--plugin--run0",
+      "name": "dotnet-diag / Parse .NET frames and locate dSYMs from an iOS crash log (plugin, run 0)",
+      "mtime": 1780516883233
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/reject-android-tombstone-passed-as-ios-crash-log--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "reject-android-tombstone-passed-as-ios-crash-log",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/reject-android-tombstone-passed-as-ios-crash-log--baseline--run0",
+      "name": "dotnet-diag / Reject Android tombstone passed as iOS crash log (baseline, run 0)",
+      "mtime": 1780516883236
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/reject-android-tombstone-passed-as-ios-crash-log--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "reject-android-tombstone-passed-as-ios-crash-log",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/reject-android-tombstone-passed-as-ios-crash-log--isolated--run0",
+      "name": "dotnet-diag / Reject Android tombstone passed as iOS crash log (isolated, run 0)",
+      "mtime": 1780516883242
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/reject-android-tombstone-passed-as-ios-crash-log--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "reject-android-tombstone-passed-as-ios-crash-log",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/reject-android-tombstone-passed-as-ios-crash-log--plugin--run0",
+      "name": "dotnet-diag / Reject Android tombstone passed as iOS crash log (plugin, run 0)",
+      "mtime": 1780516883246
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/analyze-healthy-managed-exe-activation--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "analyze-healthy-managed-exe-activation",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/analyze-healthy-managed-exe-activation--baseline--run0",
+      "name": "dotnet-diag / Analyze healthy managed EXE activation (baseline, run 0)",
+      "mtime": 1780516883249
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/analyze-healthy-managed-exe-activation--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "analyze-healthy-managed-exe-activation",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/analyze-healthy-managed-exe-activation--isolated--run0",
+      "name": "dotnet-diag / Analyze healthy managed EXE activation (isolated, run 0)",
+      "mtime": 1780516883252
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/analyze-healthy-managed-exe-activation--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "analyze-healthy-managed-exe-activation",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/analyze-healthy-managed-exe-activation--plugin--run0",
+      "name": "dotnet-diag / Analyze healthy managed EXE activation (plugin, run 0)",
+      "mtime": 1780516883256
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/decline-non-clr-activation-issue--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "decline-non-clr-activation-issue",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/decline-non-clr-activation-issue--baseline--run0",
+      "name": "dotnet-diag / Decline non-CLR-activation issue (baseline, run 0)",
+      "mtime": 1780516883259
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/decline-non-clr-activation-issue--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "decline-non-clr-activation-issue",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/decline-non-clr-activation-issue--isolated--run0",
+      "name": "dotnet-diag / Decline non-CLR-activation issue (isolated, run 0)",
+      "mtime": 1780516883262
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/decline-non-clr-activation-issue--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "decline-non-clr-activation-issue",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/decline-non-clr-activation-issue--plugin--run0",
+      "name": "dotnet-diag / Decline non-CLR-activation issue (plugin, run 0)",
+      "mtime": 1780516883266
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/diagnose-fod-suppressed-but-activation-still-failing--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "diagnose-fod-suppressed-but-activation-still-failing",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/diagnose-fod-suppressed-but-activation-still-failing--baseline--run0",
+      "name": "dotnet-diag / Diagnose FOD suppressed but activation still failing (baseline, run 0)",
+      "mtime": 1780516883269
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/diagnose-fod-suppressed-but-activation-still-failing--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "diagnose-fod-suppressed-but-activation-still-failing",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/diagnose-fod-suppressed-but-activation-still-failing--isolated--run0",
+      "name": "dotnet-diag / Diagnose FOD suppressed but activation still failing (isolated, run 0)",
+      "mtime": 1780516883272
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/diagnose-fod-suppressed-but-activation-still-failing--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "diagnose-fod-suppressed-but-activation-still-failing",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/diagnose-fod-suppressed-but-activation-still-failing--plugin--run0",
+      "name": "dotnet-diag / Diagnose FOD suppressed but activation still failing (plugin, run 0)",
+      "mtime": 1780516883276
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/diagnose-unexpected-fod-dialog-from-native-build-tool--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "diagnose-unexpected-fod-dialog-from-native-build-tool",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/diagnose-unexpected-fod-dialog-from-native-build-tool--baseline--run0",
+      "name": "dotnet-diag / Diagnose unexpected FOD dialog from native build tool (baseline, run 0)",
+      "mtime": 1780516883280
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/diagnose-unexpected-fod-dialog-from-native-build-tool--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "diagnose-unexpected-fod-dialog-from-native-build-tool",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/diagnose-unexpected-fod-dialog-from-native-build-tool--isolated--run0",
+      "name": "dotnet-diag / Diagnose unexpected FOD dialog from native build tool (isolated, run 0)",
+      "mtime": 1780516883284
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/diagnose-unexpected-fod-dialog-from-native-build-tool--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "diagnose-unexpected-fod-dialog-from-native-build-tool",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/diagnose-unexpected-fod-dialog-from-native-build-tool--plugin--run0",
+      "name": "dotnet-diag / Diagnose unexpected FOD dialog from native build tool (plugin, run 0)",
+      "mtime": 1780516883287
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/explain-uselegacyv2runtimeactivationpolicy-in-activation-log--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "explain-uselegacyv2runtimeactivationpolicy-in-activation-log",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/explain-uselegacyv2runtimeactivationpolicy-in-activation-log--baseline--run0",
+      "name": "dotnet-diag / Explain useLegacyV2RuntimeActivationPolicy in activation log (baseline, run 0)",
+      "mtime": 1780516883292
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/explain-uselegacyv2runtimeactivationpolicy-in-activation-log--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "explain-uselegacyv2runtimeactivationpolicy-in-activation-log",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/explain-uselegacyv2runtimeactivationpolicy-in-activation-log--isolated--run0",
+      "name": "dotnet-diag / Explain useLegacyV2RuntimeActivationPolicy in activation log (isolated, run 0)",
+      "mtime": 1780516883296
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/explain-uselegacyv2runtimeactivationpolicy-in-activation-log--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "explain-uselegacyv2runtimeactivationpolicy-in-activation-log",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/explain-uselegacyv2runtimeactivationpolicy-in-activation-log--plugin--run0",
+      "name": "dotnet-diag / Explain useLegacyV2RuntimeActivationPolicy in activation log (plugin, run 0)",
+      "mtime": 1780516883300
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/explain-why-same-binary-behaves-differently-under-different-launch-methods--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "explain-why-same-binary-behaves-differently-under-different-launch-methods",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/explain-why-same-binary-behaves-differently-under-different-launch-methods--baseline--run0",
+      "name": "dotnet-diag / Explain why same binary behaves differently under different launch methods (baseline, run 0)",
+      "mtime": 1780516883303
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/explain-why-same-binary-behaves-differently-under-different-launch-methods--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "explain-why-same-binary-behaves-differently-under-different-launch-methods",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/explain-why-same-binary-behaves-differently-under-different-launch-methods--isolated--run0",
+      "name": "dotnet-diag / Explain why same binary behaves differently under different launch methods (isolated, run 0)",
+      "mtime": 1780516883307
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/explain-why-same-binary-behaves-differently-under-different-launch-methods--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "explain-why-same-binary-behaves-differently-under-different-launch-methods",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/explain-why-same-binary-behaves-differently-under-different-launch-methods--plugin--run0",
+      "name": "dotnet-diag / Explain why same binary behaves differently under different launch methods (plugin, run 0)",
+      "mtime": 1780516883310
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/identify-multiple-activation-sequences-in-a-single-log--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "identify-multiple-activation-sequences-in-a-single-log",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/identify-multiple-activation-sequences-in-a-single-log--baseline--run0",
+      "name": "dotnet-diag / Identify multiple activation sequences in a single log (baseline, run 0)",
+      "mtime": 1780516883314
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/identify-multiple-activation-sequences-in-a-single-log--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "identify-multiple-activation-sequences-in-a-single-log",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/identify-multiple-activation-sequences-in-a-single-log--isolated--run0",
+      "name": "dotnet-diag / Identify multiple activation sequences in a single log (isolated, run 0)",
+      "mtime": 1780516883317
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/identify-multiple-activation-sequences-in-a-single-log--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "identify-multiple-activation-sequences-in-a-single-log",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/identify-multiple-activation-sequences-in-a-single-log--plugin--run0",
+      "name": "dotnet-diag / Identify multiple activation sequences in a single log (plugin, run 0)",
+      "mtime": 1780516883321
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/-net-10-on-linux-with-root-access-and-native-call-stacks--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "-net-10-on-linux-with-root-access-and-native-call-stacks",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/-net-10-on-linux-with-root-access-and-native-call-stacks--baseline--run0",
+      "name": "dotnet-diag / .NET 10 on Linux with root access and native call stacks (baseline, run 0)",
+      "mtime": 1780516883324
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/-net-10-on-linux-with-root-access-and-native-call-stacks--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "-net-10-on-linux-with-root-access-and-native-call-stacks",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/-net-10-on-linux-with-root-access-and-native-call-stacks--isolated--run0",
+      "name": "dotnet-diag / .NET 10 on Linux with root access and native call stacks (isolated, run 0)",
+      "mtime": 1780516883327
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/-net-10-on-linux-with-root-access-and-native-call-stacks--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "-net-10-on-linux-with-root-access-and-native-call-stacks",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/-net-10-on-linux-with-root-access-and-native-call-stacks--plugin--run0",
+      "name": "dotnet-diag / .NET 10 on Linux with root access and native call stacks (plugin, run 0)",
+      "mtime": 1780516883331
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/-net-framework-on-windows-without-admin-privileges--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "-net-framework-on-windows-without-admin-privileges",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/-net-framework-on-windows-without-admin-privileges--baseline--run0",
+      "name": "dotnet-diag / .NET Framework on Windows without admin privileges (baseline, run 0)",
+      "mtime": 1780516883334
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/-net-framework-on-windows-without-admin-privileges--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "-net-framework-on-windows-without-admin-privileges",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/-net-framework-on-windows-without-admin-privileges--isolated--run0",
+      "name": "dotnet-diag / .NET Framework on Windows without admin privileges (isolated, run 0)",
+      "mtime": 1780516883337
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/-net-framework-on-windows-without-admin-privileges--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "-net-framework-on-windows-without-admin-privileges",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/-net-framework-on-windows-without-admin-privileges--plugin--run0",
+      "name": "dotnet-diag / .NET Framework on Windows without admin privileges (plugin, run 0)",
+      "mtime": 1780516883341
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/assembly-loading-failure-on-linux---net-8---baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "assembly-loading-failure-on-linux---net-8-",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/assembly-loading-failure-on-linux---net-8---baseline--run0",
+      "name": "dotnet-diag / Assembly loading failure on Linux (.NET 8) (baseline, run 0)",
+      "mtime": 1780516883344
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/assembly-loading-failure-on-linux---net-8---isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "assembly-loading-failure-on-linux---net-8-",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/assembly-loading-failure-on-linux---net-8---isolated--run0",
+      "name": "dotnet-diag / Assembly loading failure on Linux (.NET 8) (isolated, run 0)",
+      "mtime": 1780516883350
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/assembly-loading-failure-on-linux---net-8---plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "assembly-loading-failure-on-linux---net-8-",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/assembly-loading-failure-on-linux---net-8---plugin--run0",
+      "name": "dotnet-diag / Assembly loading failure on Linux (.NET 8) (plugin, run 0)",
+      "mtime": 1780516883353
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/container-installation-without--net-sdk--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "container-installation-without--net-sdk",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/container-installation-without--net-sdk--baseline--run0",
+      "name": "dotnet-diag / Container installation without .NET SDK (baseline, run 0)",
+      "mtime": 1780516883357
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/container-installation-without--net-sdk--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "container-installation-without--net-sdk",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/container-installation-without--net-sdk--isolated--run0",
+      "name": "dotnet-diag / Container installation without .NET SDK (isolated, run 0)",
+      "mtime": 1780516883361
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/container-installation-without--net-sdk--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "container-installation-without--net-sdk",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/container-installation-without--net-sdk--plugin--run0",
+      "name": "dotnet-diag / Container installation without .NET SDK (plugin, run 0)",
+      "mtime": 1780516883365
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/excessive-gc-on-linux---net-8---baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "excessive-gc-on-linux---net-8-",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/excessive-gc-on-linux---net-8---baseline--run0",
+      "name": "dotnet-diag / Excessive GC on Linux (.NET 8) (baseline, run 0)",
+      "mtime": 1780516883369
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/excessive-gc-on-linux---net-8---isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "excessive-gc-on-linux---net-8-",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/excessive-gc-on-linux---net-8---isolated--run0",
+      "name": "dotnet-diag / Excessive GC on Linux (.NET 8) (isolated, run 0)",
+      "mtime": 1780516883372
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/excessive-gc-on-linux---net-8---plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "excessive-gc-on-linux---net-8-",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/excessive-gc-on-linux---net-8---plugin--run0",
+      "name": "dotnet-diag / Excessive GC on Linux (.NET 8) (plugin, run 0)",
+      "mtime": 1780516883376
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/http-500s-from-downstream-service-on-linux---net-8---baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "http-500s-from-downstream-service-on-linux---net-8-",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/http-500s-from-downstream-service-on-linux---net-8---baseline--run0",
+      "name": "dotnet-diag / HTTP 500s from downstream service on Linux (.NET 8) (baseline, run 0)",
+      "mtime": 1780516883379
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/http-500s-from-downstream-service-on-linux---net-8---isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "http-500s-from-downstream-service-on-linux---net-8-",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/http-500s-from-downstream-service-on-linux---net-8---isolated--run0",
+      "name": "dotnet-diag / HTTP 500s from downstream service on Linux (.NET 8) (isolated, run 0)",
+      "mtime": 1780516883382
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/http-500s-from-downstream-service-on-linux---net-8---plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "http-500s-from-downstream-service-on-linux---net-8-",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/http-500s-from-downstream-service-on-linux---net-8---plugin--run0",
+      "name": "dotnet-diag / HTTP 500s from downstream service on Linux (.NET 8) (plugin, run 0)",
+      "mtime": 1780516883386
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/hang-or-deadlock-diagnosis-on-linux--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "hang-or-deadlock-diagnosis-on-linux",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/hang-or-deadlock-diagnosis-on-linux--baseline--run0",
+      "name": "dotnet-diag / Hang or deadlock diagnosis on Linux (baseline, run 0)",
+      "mtime": 1780516883389
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/hang-or-deadlock-diagnosis-on-linux--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "hang-or-deadlock-diagnosis-on-linux",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/hang-or-deadlock-diagnosis-on-linux--isolated--run0",
+      "name": "dotnet-diag / Hang or deadlock diagnosis on Linux (isolated, run 0)",
+      "mtime": 1780516883392
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/hang-or-deadlock-diagnosis-on-linux--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "hang-or-deadlock-diagnosis-on-linux",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/hang-or-deadlock-diagnosis-on-linux--plugin--run0",
+      "name": "dotnet-diag / Hang or deadlock diagnosis on Linux (plugin, run 0)",
+      "mtime": 1780516883396
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/high-cpu-in-kubernetes-on-linux---net-8---baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "high-cpu-in-kubernetes-on-linux---net-8-",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/high-cpu-in-kubernetes-on-linux---net-8---baseline--run0",
+      "name": "dotnet-diag / High CPU in Kubernetes on Linux (.NET 8) (baseline, run 0)",
+      "mtime": 1780516883399
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/high-cpu-in-kubernetes-on-linux---net-8---isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "high-cpu-in-kubernetes-on-linux---net-8-",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/high-cpu-in-kubernetes-on-linux---net-8---isolated--run0",
+      "name": "dotnet-diag / High CPU in Kubernetes on Linux (.NET 8) (isolated, run 0)",
+      "mtime": 1780516883402
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/high-cpu-in-kubernetes-on-linux---net-8---plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "high-cpu-in-kubernetes-on-linux---net-8-",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/high-cpu-in-kubernetes-on-linux---net-8---plugin--run0",
+      "name": "dotnet-diag / High CPU in Kubernetes on Linux (.NET 8) (plugin, run 0)",
+      "mtime": 1780516883406
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/kubernetes-with-console-access-prefers-console-tools--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "kubernetes-with-console-access-prefers-console-tools",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/kubernetes-with-console-access-prefers-console-tools--baseline--run0",
+      "name": "dotnet-diag / Kubernetes with console access prefers console tools (baseline, run 0)",
+      "mtime": 1780516883409
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/kubernetes-with-console-access-prefers-console-tools--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "kubernetes-with-console-access-prefers-console-tools",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/kubernetes-with-console-access-prefers-console-tools--isolated--run0",
+      "name": "dotnet-diag / Kubernetes with console access prefers console tools (isolated, run 0)",
+      "mtime": 1780516883412
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/kubernetes-with-console-access-prefers-console-tools--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "kubernetes-with-console-access-prefers-console-tools",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/kubernetes-with-console-access-prefers-console-tools--plugin--run0",
+      "name": "dotnet-diag / Kubernetes with console access prefers console tools (plugin, run 0)",
+      "mtime": 1780516883416
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/linux-pre--net-10-needing-native-call-stacks--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "linux-pre--net-10-needing-native-call-stacks",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/linux-pre--net-10-needing-native-call-stacks--baseline--run0",
+      "name": "dotnet-diag / Linux pre-.NET 10 needing native call stacks (baseline, run 0)",
+      "mtime": 1780516883419
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/linux-pre--net-10-needing-native-call-stacks--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "linux-pre--net-10-needing-native-call-stacks",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/linux-pre--net-10-needing-native-call-stacks--isolated--run0",
+      "name": "dotnet-diag / Linux pre-.NET 10 needing native call stacks (isolated, run 0)",
+      "mtime": 1780516883423
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/linux-pre--net-10-needing-native-call-stacks--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "linux-pre--net-10-needing-native-call-stacks",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/linux-pre--net-10-needing-native-call-stacks--plugin--run0",
+      "name": "dotnet-diag / Linux pre-.NET 10 needing native call stacks (plugin, run 0)",
+      "mtime": 1780516883426
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/long-running-intermittent-issue-with-perfview-triggers--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "long-running-intermittent-issue-with-perfview-triggers",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/long-running-intermittent-issue-with-perfview-triggers--baseline--run0",
+      "name": "dotnet-diag / Long-running intermittent issue with PerfView triggers (baseline, run 0)",
+      "mtime": 1780516883430
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/long-running-intermittent-issue-with-perfview-triggers--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "long-running-intermittent-issue-with-perfview-triggers",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/long-running-intermittent-issue-with-perfview-triggers--isolated--run0",
+      "name": "dotnet-diag / Long-running intermittent issue with PerfView triggers (isolated, run 0)",
+      "mtime": 1780516883433
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/long-running-intermittent-issue-with-perfview-triggers--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "long-running-intermittent-issue-with-perfview-triggers",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/long-running-intermittent-issue-with-perfview-triggers--plugin--run0",
+      "name": "dotnet-diag / Long-running intermittent issue with PerfView triggers (plugin, run 0)",
+      "mtime": 1780516883437
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/memory-leak-on--net-framework-windows--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "memory-leak-on--net-framework-windows",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/memory-leak-on--net-framework-windows--baseline--run0",
+      "name": "dotnet-diag / Memory leak on .NET Framework Windows (baseline, run 0)",
+      "mtime": 1780516883440
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/memory-leak-on--net-framework-windows--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "memory-leak-on--net-framework-windows",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/memory-leak-on--net-framework-windows--isolated--run0",
+      "name": "dotnet-diag / Memory leak on .NET Framework Windows (isolated, run 0)",
+      "mtime": 1780516883443
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/memory-leak-on--net-framework-windows--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "memory-leak-on--net-framework-windows",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/memory-leak-on--net-framework-windows--plugin--run0",
+      "name": "dotnet-diag / Memory leak on .NET Framework Windows (plugin, run 0)",
+      "mtime": 1780516883447
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/memory-leak-on-linux---net-8---baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "memory-leak-on-linux---net-8-",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/memory-leak-on-linux---net-8---baseline--run0",
+      "name": "dotnet-diag / Memory leak on Linux (.NET 8) (baseline, run 0)",
+      "mtime": 1780516883450
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/memory-leak-on-linux---net-8---isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "memory-leak-on-linux---net-8-",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/memory-leak-on-linux---net-8---isolated--run0",
+      "name": "dotnet-diag / Memory leak on Linux (.NET 8) (isolated, run 0)",
+      "mtime": 1780516883456
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/memory-leak-on-linux---net-8---plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "memory-leak-on-linux---net-8-",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/memory-leak-on-linux---net-8---plugin--run0",
+      "name": "dotnet-diag / Memory leak on Linux (.NET 8) (plugin, run 0)",
+      "mtime": 1780516883459
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/networking-timeouts-on-windows-with-admin---net-8---baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "networking-timeouts-on-windows-with-admin---net-8-",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/networking-timeouts-on-windows-with-admin---net-8---baseline--run0",
+      "name": "dotnet-diag / Networking timeouts on Windows with admin (.NET 8) (baseline, run 0)",
+      "mtime": 1780516883462
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/networking-timeouts-on-windows-with-admin---net-8---isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "networking-timeouts-on-windows-with-admin---net-8-",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/networking-timeouts-on-windows-with-admin---net-8---isolated--run0",
+      "name": "dotnet-diag / Networking timeouts on Windows with admin (.NET 8) (isolated, run 0)",
+      "mtime": 1780516883466
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/networking-timeouts-on-windows-with-admin---net-8---plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "networking-timeouts-on-windows-with-admin---net-8-",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/networking-timeouts-on-windows-with-admin---net-8---plugin--run0",
+      "name": "dotnet-diag / Networking timeouts on Windows with admin (.NET 8) (plugin, run 0)",
+      "mtime": 1780516883469
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/slow-requests-on-windows-with-perfview--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "slow-requests-on-windows-with-perfview",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/slow-requests-on-windows-with-perfview--baseline--run0",
+      "name": "dotnet-diag / Slow requests on Windows with PerfView (baseline, run 0)",
+      "mtime": 1780516883472
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/slow-requests-on-windows-with-perfview--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "slow-requests-on-windows-with-perfview",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/slow-requests-on-windows-with-perfview--isolated--run0",
+      "name": "dotnet-diag / Slow requests on Windows with PerfView (isolated, run 0)",
+      "mtime": 1780516883476
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/slow-requests-on-windows-with-perfview--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "slow-requests-on-windows-with-perfview",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/slow-requests-on-windows-with-perfview--plugin--run0",
+      "name": "dotnet-diag / Slow requests on Windows with PerfView (plugin, run 0)",
+      "mtime": 1780516883479
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/windows-container-high-cpu-with-perfview--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "windows-container-high-cpu-with-perfview",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/windows-container-high-cpu-with-perfview--baseline--run0",
+      "name": "dotnet-diag / Windows container high CPU with PerfView (baseline, run 0)",
+      "mtime": 1780516883482
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/windows-container-high-cpu-with-perfview--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "windows-container-high-cpu-with-perfview",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/windows-container-high-cpu-with-perfview--isolated--run0",
+      "name": "dotnet-diag / Windows container high CPU with PerfView (isolated, run 0)",
+      "mtime": 1780516883486
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/windows-container-high-cpu-with-perfview--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "windows-container-high-cpu-with-perfview",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/windows-container-high-cpu-with-perfview--plugin--run0",
+      "name": "dotnet-diag / Windows container high CPU with PerfView (plugin, run 0)",
+      "mtime": 1780516883489
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/windows-modern--net-with-admin-high-cpu--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "windows-modern--net-with-admin-high-cpu",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/windows-modern--net-with-admin-high-cpu--baseline--run0",
+      "name": "dotnet-diag / Windows modern .NET with admin high CPU (baseline, run 0)",
+      "mtime": 1780516883492
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/windows-modern--net-with-admin-high-cpu--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "windows-modern--net-with-admin-high-cpu",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/windows-modern--net-with-admin-high-cpu--isolated--run0",
+      "name": "dotnet-diag / Windows modern .NET with admin high CPU (isolated, run 0)",
+      "mtime": 1780516883496
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/windows-modern--net-with-admin-high-cpu--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "windows-modern--net-with-admin-high-cpu",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/windows-modern--net-with-admin-high-cpu--plugin--run0",
+      "name": "dotnet-diag / Windows modern .NET with admin high CPU (plugin, run 0)",
+      "mtime": 1780516883499
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/advisory--coreclr-alpine-docker-non-root-configuration--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "advisory--coreclr-alpine-docker-non-root-configuration",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/advisory--coreclr-alpine-docker-non-root-configuration--baseline--run0",
+      "name": "dotnet-diag / Advisory: CoreCLR Alpine Docker non-root configuration (baseline, run 0)",
+      "mtime": 1780516883502
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/advisory--coreclr-alpine-docker-non-root-configuration--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "advisory--coreclr-alpine-docker-non-root-configuration",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/advisory--coreclr-alpine-docker-non-root-configuration--isolated--run0",
+      "name": "dotnet-diag / Advisory: CoreCLR Alpine Docker non-root configuration (isolated, run 0)",
+      "mtime": 1780516883506
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/advisory--coreclr-alpine-docker-non-root-configuration--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "advisory--coreclr-alpine-docker-non-root-configuration",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/advisory--coreclr-alpine-docker-non-root-configuration--plugin--run0",
+      "name": "dotnet-diag / Advisory: CoreCLR Alpine Docker non-root configuration (plugin, run 0)",
+      "mtime": 1780516883509
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/advisory--nativeaot-kubernetes-dump-collection-setup--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "advisory--nativeaot-kubernetes-dump-collection-setup",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/advisory--nativeaot-kubernetes-dump-collection-setup--baseline--run0",
+      "name": "dotnet-diag / Advisory: NativeAOT Kubernetes dump collection setup (baseline, run 0)",
+      "mtime": 1780516883512
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/advisory--nativeaot-kubernetes-dump-collection-setup--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "advisory--nativeaot-kubernetes-dump-collection-setup",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/advisory--nativeaot-kubernetes-dump-collection-setup--isolated--run0",
+      "name": "dotnet-diag / Advisory: NativeAOT Kubernetes dump collection setup (isolated, run 0)",
+      "mtime": 1780516883516
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/advisory--nativeaot-kubernetes-dump-collection-setup--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "advisory--nativeaot-kubernetes-dump-collection-setup",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/advisory--nativeaot-kubernetes-dump-collection-setup--plugin--run0",
+      "name": "dotnet-diag / Advisory: NativeAOT Kubernetes dump collection setup (plugin, run 0)",
+      "mtime": 1780516883519
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/advisory--macos-nativeaot-crash-dump-recovery-steps--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "advisory--macos-nativeaot-crash-dump-recovery-steps",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/advisory--macos-nativeaot-crash-dump-recovery-steps--baseline--run0",
+      "name": "dotnet-diag / Advisory: macOS NativeAOT crash dump recovery steps (baseline, run 0)",
+      "mtime": 1780516883522
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/advisory--macos-nativeaot-crash-dump-recovery-steps--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "advisory--macos-nativeaot-crash-dump-recovery-steps",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/advisory--macos-nativeaot-crash-dump-recovery-steps--isolated--run0",
+      "name": "dotnet-diag / Advisory: macOS NativeAOT crash dump recovery steps (isolated, run 0)",
+      "mtime": 1780516883526
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/advisory--macos-nativeaot-crash-dump-recovery-steps--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "advisory--macos-nativeaot-crash-dump-recovery-steps",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/advisory--macos-nativeaot-crash-dump-recovery-steps--plugin--run0",
+      "name": "dotnet-diag / Advisory: macOS NativeAOT crash dump recovery steps (plugin, run 0)",
+      "mtime": 1780516883529
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/configure-coreclr-dump-collection-in-alpine-docker-as-non-root--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "configure-coreclr-dump-collection-in-alpine-docker-as-non-root",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/configure-coreclr-dump-collection-in-alpine-docker-as-non-root--baseline--run0",
+      "name": "dotnet-diag / Configure CoreCLR dump collection in Alpine Docker as non-root (baseline, run 0)",
+      "mtime": 1780516883532
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/configure-coreclr-dump-collection-in-alpine-docker-as-non-root--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "configure-coreclr-dump-collection-in-alpine-docker-as-non-root",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/configure-coreclr-dump-collection-in-alpine-docker-as-non-root--isolated--run0",
+      "name": "dotnet-diag / Configure CoreCLR dump collection in Alpine Docker as non-root (isolated, run 0)",
+      "mtime": 1780516883536
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/configure-coreclr-dump-collection-in-alpine-docker-as-non-root--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "configure-coreclr-dump-collection-in-alpine-docker-as-non-root",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/configure-coreclr-dump-collection-in-alpine-docker-as-non-root--plugin--run0",
+      "name": "dotnet-diag / Configure CoreCLR dump collection in Alpine Docker as non-root (plugin, run 0)",
+      "mtime": 1780516883539
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/configure-automatic-crash-dumps-for-coreclr-app-on-linux--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "configure-automatic-crash-dumps-for-coreclr-app-on-linux",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/configure-automatic-crash-dumps-for-coreclr-app-on-linux--baseline--run0",
+      "name": "dotnet-diag / Configure automatic crash dumps for CoreCLR app on Linux (baseline, run 0)",
+      "mtime": 1780516883542
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/configure-automatic-crash-dumps-for-coreclr-app-on-linux--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "configure-automatic-crash-dumps-for-coreclr-app-on-linux",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/configure-automatic-crash-dumps-for-coreclr-app-on-linux--isolated--run0",
+      "name": "dotnet-diag / Configure automatic crash dumps for CoreCLR app on Linux (isolated, run 0)",
+      "mtime": 1780516883546
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/configure-automatic-crash-dumps-for-coreclr-app-on-linux--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "configure-automatic-crash-dumps-for-coreclr-app-on-linux",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/configure-automatic-crash-dumps-for-coreclr-app-on-linux--plugin--run0",
+      "name": "dotnet-diag / Configure automatic crash dumps for CoreCLR app on Linux (plugin, run 0)",
+      "mtime": 1780516883549
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/decline-dump-analysis-request--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "decline-dump-analysis-request",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/decline-dump-analysis-request--baseline--run0",
+      "name": "dotnet-diag / Decline dump analysis request (baseline, run 0)",
+      "mtime": 1780516883552
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/decline-dump-analysis-request--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "decline-dump-analysis-request",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/decline-dump-analysis-request--isolated--run0",
+      "name": "dotnet-diag / Decline dump analysis request (isolated, run 0)",
+      "mtime": 1780516883558
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/decline-dump-analysis-request--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "decline-dump-analysis-request",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/decline-dump-analysis-request--plugin--run0",
+      "name": "dotnet-diag / Decline dump analysis request (plugin, run 0)",
+      "mtime": 1780516883561
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/detect-runtime-and-configure-crash-dumps-for-unknown--net-app-on-linux--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "detect-runtime-and-configure-crash-dumps-for-unknown--net-app-on-linux",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/detect-runtime-and-configure-crash-dumps-for-unknown--net-app-on-linux--baseline--run0",
+      "name": "dotnet-diag / Detect runtime and configure crash dumps for unknown .NET app on Linux (baseline, run 0)",
+      "mtime": 1780516883565
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/detect-runtime-and-configure-crash-dumps-for-unknown--net-app-on-linux--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "detect-runtime-and-configure-crash-dumps-for-unknown--net-app-on-linux",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/detect-runtime-and-configure-crash-dumps-for-unknown--net-app-on-linux--isolated--run0",
+      "name": "dotnet-diag / Detect runtime and configure crash dumps for unknown .NET app on Linux (isolated, run 0)",
+      "mtime": 1780516883568
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/detect-runtime-and-configure-crash-dumps-for-unknown--net-app-on-linux--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "detect-runtime-and-configure-crash-dumps-for-unknown--net-app-on-linux",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/detect-runtime-and-configure-crash-dumps-for-unknown--net-app-on-linux--plugin--run0",
+      "name": "dotnet-diag / Detect runtime and configure crash dumps for unknown .NET app on Linux (plugin, run 0)",
+      "mtime": 1780516883571
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/recover-crash-dump-from-macos-nativeaot-without-createdump--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "recover-crash-dump-from-macos-nativeaot-without-createdump",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/recover-crash-dump-from-macos-nativeaot-without-createdump--baseline--run0",
+      "name": "dotnet-diag / Recover crash dump from macOS NativeAOT without createdump (baseline, run 0)",
+      "mtime": 1780516883574
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/recover-crash-dump-from-macos-nativeaot-without-createdump--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "recover-crash-dump-from-macos-nativeaot-without-createdump",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/recover-crash-dump-from-macos-nativeaot-without-createdump--isolated--run0",
+      "name": "dotnet-diag / Recover crash dump from macOS NativeAOT without createdump (isolated, run 0)",
+      "mtime": 1780516883578
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/recover-crash-dump-from-macos-nativeaot-without-createdump--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "recover-crash-dump-from-macos-nativeaot-without-createdump",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/recover-crash-dump-from-macos-nativeaot-without-createdump--plugin--run0",
+      "name": "dotnet-diag / Recover crash dump from macOS NativeAOT without createdump (plugin, run 0)",
+      "mtime": 1780516883581
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/set-up-nativeaot-crash-dumps-with-createdump-in-kubernetes--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "set-up-nativeaot-crash-dumps-with-createdump-in-kubernetes",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/set-up-nativeaot-crash-dumps-with-createdump-in-kubernetes--baseline--run0",
+      "name": "dotnet-diag / Set up NativeAOT crash dumps with createdump in Kubernetes (baseline, run 0)",
+      "mtime": 1780516883584
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/set-up-nativeaot-crash-dumps-with-createdump-in-kubernetes--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "set-up-nativeaot-crash-dumps-with-createdump-in-kubernetes",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/set-up-nativeaot-crash-dumps-with-createdump-in-kubernetes--isolated--run0",
+      "name": "dotnet-diag / Set up NativeAOT crash dumps with createdump in Kubernetes (isolated, run 0)",
+      "mtime": 1780516883588
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/set-up-nativeaot-crash-dumps-with-createdump-in-kubernetes--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "set-up-nativeaot-crash-dumps-with-createdump-in-kubernetes",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/set-up-nativeaot-crash-dumps-with-createdump-in-kubernetes--plugin--run0",
+      "name": "dotnet-diag / Set up NativeAOT crash dumps with createdump in Kubernetes (plugin, run 0)",
+      "mtime": 1780516883591
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/investigate-runtime-upgrade-performance-impact--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "baseline",
+        "investigate-runtime-upgrade-performance-impact",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/investigate-runtime-upgrade-performance-impact--baseline--run0",
+      "name": "dotnet-diag / Investigate runtime upgrade performance impact (baseline, run 0)",
+      "mtime": 1780516883594
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/investigate-runtime-upgrade-performance-impact--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "isolated",
+        "investigate-runtime-upgrade-performance-impact",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/investigate-runtime-upgrade-performance-impact--isolated--run0",
+      "name": "dotnet-diag / Investigate runtime upgrade performance impact (isolated, run 0)",
+      "mtime": 1780516883598
+    },
+    {
+      "url": "sessions/pr/716/dotnet-diag/investigate-runtime-upgrade-performance-impact--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-diag",
+        "plugin",
+        "investigate-runtime-upgrade-performance-impact",
+        "pr-716"
+      ],
+      "id": "pr/716/dotnet-diag/investigate-runtime-upgrade-performance-impact--plugin--run0",
+      "name": "dotnet-diag / Investigate runtime upgrade performance impact (plugin, run 0)",
+      "mtime": 1780516883601
+    },
     {
       "name": "dotnet-data / Optimize bulk operations with EF Core 7+ ExecuteUpdate and ExecuteDelete (baseline, run 0)",
       "id": "pr/713/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--baseline--run0",
