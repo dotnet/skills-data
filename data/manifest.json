@@ -302329,630 +302329,6 @@
       "id": "pr/703/dotnet-template-engine/validate-template-with-multiple-errors--plugin--run0"
     },
     {
-      "url": "sessions/pr/701/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-data",
-        "baseline",
-        "optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete",
-        "pr-701"
-      ],
-      "name": "dotnet-data / Optimize bulk operations with EF Core 7+ ExecuteUpdate and ExecuteDelete (baseline, run 0)",
-      "mtime": 1780039793750,
-      "id": "pr/701/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--baseline--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-data",
-        "isolated",
-        "optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete",
-        "pr-701"
-      ],
-      "name": "dotnet-data / Optimize bulk operations with EF Core 7+ ExecuteUpdate and ExecuteDelete (isolated, run 0)",
-      "mtime": 1780039793758,
-      "id": "pr/701/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--isolated--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-data",
-        "plugin",
-        "optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete",
-        "pr-701"
-      ],
-      "name": "dotnet-data / Optimize bulk operations with EF Core 7+ ExecuteUpdate and ExecuteDelete (plugin, run 0)",
-      "mtime": 1780039793761,
-      "id": "pr/701/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--plugin--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/analyze-mock-usage-in-fakeiteasy-tests--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "baseline",
-        "analyze-mock-usage-in-fakeiteasy-tests",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Analyze mock usage in FakeItEasy tests (baseline, run 0)",
-      "mtime": 1780039793793,
-      "id": "pr/701/dotnet-experimental/analyze-mock-usage-in-fakeiteasy-tests--baseline--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/analyze-mock-usage-in-fakeiteasy-tests--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "isolated",
-        "analyze-mock-usage-in-fakeiteasy-tests",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Analyze mock usage in FakeItEasy tests (isolated, run 0)",
-      "mtime": 1780039793797,
-      "id": "pr/701/dotnet-experimental/analyze-mock-usage-in-fakeiteasy-tests--isolated--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/analyze-mock-usage-in-fakeiteasy-tests--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "plugin",
-        "analyze-mock-usage-in-fakeiteasy-tests",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Analyze mock usage in FakeItEasy tests (plugin, run 0)",
-      "mtime": 1780039793800,
-      "id": "pr/701/dotnet-experimental/analyze-mock-usage-in-fakeiteasy-tests--plugin--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/analyze-mock-usage-in-nsubstitute-tests--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "baseline",
-        "analyze-mock-usage-in-nsubstitute-tests",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Analyze mock usage in NSubstitute tests (baseline, run 0)",
-      "mtime": 1780039793804,
-      "id": "pr/701/dotnet-experimental/analyze-mock-usage-in-nsubstitute-tests--baseline--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/analyze-mock-usage-in-nsubstitute-tests--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "isolated",
-        "analyze-mock-usage-in-nsubstitute-tests",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Analyze mock usage in NSubstitute tests (isolated, run 0)",
-      "mtime": 1780039793807,
-      "id": "pr/701/dotnet-experimental/analyze-mock-usage-in-nsubstitute-tests--isolated--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/analyze-mock-usage-in-nsubstitute-tests--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "plugin",
-        "analyze-mock-usage-in-nsubstitute-tests",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Analyze mock usage in NSubstitute tests (plugin, run 0)",
-      "mtime": 1780039793812,
-      "id": "pr/701/dotnet-experimental/analyze-mock-usage-in-nsubstitute-tests--plugin--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/detect-excessive-mock-configuration-sprawl--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "baseline",
-        "detect-excessive-mock-configuration-sprawl",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Detect excessive mock configuration sprawl (baseline, run 0)",
-      "mtime": 1780039793816,
-      "id": "pr/701/dotnet-experimental/detect-excessive-mock-configuration-sprawl--baseline--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/detect-excessive-mock-configuration-sprawl--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "isolated",
-        "detect-excessive-mock-configuration-sprawl",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Detect excessive mock configuration sprawl (isolated, run 0)",
-      "mtime": 1780039793819,
-      "id": "pr/701/dotnet-experimental/detect-excessive-mock-configuration-sprawl--isolated--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/detect-excessive-mock-configuration-sprawl--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "plugin",
-        "detect-excessive-mock-configuration-sprawl",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Detect excessive mock configuration sprawl (plugin, run 0)",
-      "mtime": 1780039793823,
-      "id": "pr/701/dotnet-experimental/detect-excessive-mock-configuration-sprawl--plugin--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/detect-mocking-of-stable-framework-types--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "baseline",
-        "detect-mocking-of-stable-framework-types",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Detect mocking of stable framework types (baseline, run 0)",
-      "mtime": 1780039793826,
-      "id": "pr/701/dotnet-experimental/detect-mocking-of-stable-framework-types--baseline--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/detect-mocking-of-stable-framework-types--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "isolated",
-        "detect-mocking-of-stable-framework-types",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Detect mocking of stable framework types (isolated, run 0)",
-      "mtime": 1780039793829,
-      "id": "pr/701/dotnet-experimental/detect-mocking-of-stable-framework-types--isolated--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/detect-mocking-of-stable-framework-types--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "plugin",
-        "detect-mocking-of-stable-framework-types",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Detect mocking of stable framework types (plugin, run 0)",
-      "mtime": 1780039793833,
-      "id": "pr/701/dotnet-experimental/detect-mocking-of-stable-framework-types--plugin--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/detect-redundant-mock-configurations-duplicated-across-tests--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "baseline",
-        "detect-redundant-mock-configurations-duplicated-across-tests",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Detect redundant mock configurations duplicated across tests (baseline, run 0)",
-      "mtime": 1780039793838,
-      "id": "pr/701/dotnet-experimental/detect-redundant-mock-configurations-duplicated-across-tests--baseline--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/detect-redundant-mock-configurations-duplicated-across-tests--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "isolated",
-        "detect-redundant-mock-configurations-duplicated-across-tests",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Detect redundant mock configurations duplicated across tests (isolated, run 0)",
-      "mtime": 1780039793843,
-      "id": "pr/701/dotnet-experimental/detect-redundant-mock-configurations-duplicated-across-tests--isolated--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/detect-redundant-mock-configurations-duplicated-across-tests--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "plugin",
-        "detect-redundant-mock-configurations-duplicated-across-tests",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Detect redundant mock configurations duplicated across tests (plugin, run 0)",
-      "mtime": 1780039793848,
-      "id": "pr/701/dotnet-experimental/detect-redundant-mock-configurations-duplicated-across-tests--plugin--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/detect-unused-and-unreachable-mock-setups--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "baseline",
-        "detect-unused-and-unreachable-mock-setups",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Detect unused and unreachable mock setups (baseline, run 0)",
-      "mtime": 1780039793852,
-      "id": "pr/701/dotnet-experimental/detect-unused-and-unreachable-mock-setups--baseline--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/detect-unused-and-unreachable-mock-setups--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "isolated",
-        "detect-unused-and-unreachable-mock-setups",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Detect unused and unreachable mock setups (isolated, run 0)",
-      "mtime": 1780039793855,
-      "id": "pr/701/dotnet-experimental/detect-unused-and-unreachable-mock-setups--isolated--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/detect-unused-and-unreachable-mock-setups--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "plugin",
-        "detect-unused-and-unreachable-mock-setups",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Detect unused and unreachable mock setups (plugin, run 0)",
-      "mtime": 1780039793859,
-      "id": "pr/701/dotnet-experimental/detect-unused-and-unreachable-mock-setups--plugin--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/no-optimization-opportunity---dictionary-based-lookup-service--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "baseline",
-        "no-optimization-opportunity---dictionary-based-lookup-service",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / No optimization opportunity — dictionary-based lookup service (baseline, run 0)",
-      "mtime": 1780039793862,
-      "id": "pr/701/dotnet-experimental/no-optimization-opportunity---dictionary-based-lookup-service--baseline--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/no-optimization-opportunity---dictionary-based-lookup-service--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "isolated",
-        "no-optimization-opportunity---dictionary-based-lookup-service",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / No optimization opportunity — dictionary-based lookup service (isolated, run 0)",
-      "mtime": 1780039793866,
-      "id": "pr/701/dotnet-experimental/no-optimization-opportunity---dictionary-based-lookup-service--isolated--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/no-optimization-opportunity---dictionary-based-lookup-service--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "plugin",
-        "no-optimization-opportunity---dictionary-based-lookup-service",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / No optimization opportunity — dictionary-based lookup service (plugin, run 0)",
-      "mtime": 1780039793870,
-      "id": "pr/701/dotnet-experimental/no-optimization-opportunity---dictionary-based-lookup-service--plugin--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/optimize-byte-buffer-bit-reversal-with-simd--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "baseline",
-        "optimize-byte-buffer-bit-reversal-with-simd",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Optimize byte buffer bit reversal with SIMD (baseline, run 0)",
-      "mtime": 1780039793873,
-      "id": "pr/701/dotnet-experimental/optimize-byte-buffer-bit-reversal-with-simd--baseline--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/optimize-byte-buffer-bit-reversal-with-simd--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "isolated",
-        "optimize-byte-buffer-bit-reversal-with-simd",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Optimize byte buffer bit reversal with SIMD (isolated, run 0)",
-      "mtime": 1780039793877,
-      "id": "pr/701/dotnet-experimental/optimize-byte-buffer-bit-reversal-with-simd--isolated--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/optimize-byte-buffer-bit-reversal-with-simd--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "plugin",
-        "optimize-byte-buffer-bit-reversal-with-simd",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Optimize byte buffer bit reversal with SIMD (plugin, run 0)",
-      "mtime": 1780039793884,
-      "id": "pr/701/dotnet-experimental/optimize-byte-buffer-bit-reversal-with-simd--plugin--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/optimize-int-array-conditional-increment-with-simd--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "baseline",
-        "optimize-int-array-conditional-increment-with-simd",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Optimize int array conditional increment with SIMD (baseline, run 0)",
-      "mtime": 1780039793887,
-      "id": "pr/701/dotnet-experimental/optimize-int-array-conditional-increment-with-simd--baseline--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/optimize-int-array-conditional-increment-with-simd--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "isolated",
-        "optimize-int-array-conditional-increment-with-simd",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Optimize int array conditional increment with SIMD (isolated, run 0)",
-      "mtime": 1780039793891,
-      "id": "pr/701/dotnet-experimental/optimize-int-array-conditional-increment-with-simd--isolated--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/optimize-int-array-conditional-increment-with-simd--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "plugin",
-        "optimize-int-array-conditional-increment-with-simd",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Optimize int array conditional increment with SIMD (plugin, run 0)",
-      "mtime": 1780039793895,
-      "id": "pr/701/dotnet-experimental/optimize-int-array-conditional-increment-with-simd--plugin--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/optimize-manual-min-max-with-tensorprimitives--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "baseline",
-        "optimize-manual-min-max-with-tensorprimitives",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Optimize manual min/max with TensorPrimitives (baseline, run 0)",
-      "mtime": 1780039793898,
-      "id": "pr/701/dotnet-experimental/optimize-manual-min-max-with-tensorprimitives--baseline--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/optimize-manual-min-max-with-tensorprimitives--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "isolated",
-        "optimize-manual-min-max-with-tensorprimitives",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Optimize manual min/max with TensorPrimitives (isolated, run 0)",
-      "mtime": 1780039793902,
-      "id": "pr/701/dotnet-experimental/optimize-manual-min-max-with-tensorprimitives--isolated--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/optimize-manual-min-max-with-tensorprimitives--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "plugin",
-        "optimize-manual-min-max-with-tensorprimitives",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Optimize manual min/max with TensorPrimitives (plugin, run 0)",
-      "mtime": 1780039793906,
-      "id": "pr/701/dotnet-experimental/optimize-manual-min-max-with-tensorprimitives--plugin--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/optimize-manual-product-with-tensorprimitives--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "baseline",
-        "optimize-manual-product-with-tensorprimitives",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Optimize manual product with TensorPrimitives (baseline, run 0)",
-      "mtime": 1780039793909,
-      "id": "pr/701/dotnet-experimental/optimize-manual-product-with-tensorprimitives--baseline--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/optimize-manual-product-with-tensorprimitives--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "isolated",
-        "optimize-manual-product-with-tensorprimitives",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Optimize manual product with TensorPrimitives (isolated, run 0)",
-      "mtime": 1780039793913,
-      "id": "pr/701/dotnet-experimental/optimize-manual-product-with-tensorprimitives--isolated--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/optimize-manual-product-with-tensorprimitives--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "plugin",
-        "optimize-manual-product-with-tensorprimitives",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Optimize manual product with TensorPrimitives (plugin, run 0)",
-      "mtime": 1780039793916,
-      "id": "pr/701/dotnet-experimental/optimize-manual-product-with-tensorprimitives--plugin--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/detect-repeated-object-construction-and-setup-across-test-methods--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "baseline",
-        "detect-repeated-object-construction-and-setup-across-test-methods",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Detect repeated object construction and setup across test methods (baseline, run 0)",
-      "mtime": 1780039793919,
-      "id": "pr/701/dotnet-experimental/detect-repeated-object-construction-and-setup-across-test-methods--baseline--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/detect-repeated-object-construction-and-setup-across-test-methods--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "isolated",
-        "detect-repeated-object-construction-and-setup-across-test-methods",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Detect repeated object construction and setup across test methods (isolated, run 0)",
-      "mtime": 1780039793922,
-      "id": "pr/701/dotnet-experimental/detect-repeated-object-construction-and-setup-across-test-methods--isolated--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/detect-repeated-object-construction-and-setup-across-test-methods--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "plugin",
-        "detect-repeated-object-construction-and-setup-across-test-methods",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Detect repeated object construction and setup across test methods (plugin, run 0)",
-      "mtime": 1780039793926,
-      "id": "pr/701/dotnet-experimental/detect-repeated-object-construction-and-setup-across-test-methods--plugin--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/recognize-tests-with-minimal-boilerplate-that-need-no-refactoring--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "baseline",
-        "recognize-tests-with-minimal-boilerplate-that-need-no-refactoring",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Recognize tests with minimal boilerplate that need no refactoring (baseline, run 0)",
-      "mtime": 1780039793929,
-      "id": "pr/701/dotnet-experimental/recognize-tests-with-minimal-boilerplate-that-need-no-refactoring--baseline--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/recognize-tests-with-minimal-boilerplate-that-need-no-refactoring--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "isolated",
-        "recognize-tests-with-minimal-boilerplate-that-need-no-refactoring",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Recognize tests with minimal boilerplate that need no refactoring (isolated, run 0)",
-      "mtime": 1780039793932,
-      "id": "pr/701/dotnet-experimental/recognize-tests-with-minimal-boilerplate-that-need-no-refactoring--isolated--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/recognize-tests-with-minimal-boilerplate-that-need-no-refactoring--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "plugin",
-        "recognize-tests-with-minimal-boilerplate-that-need-no-refactoring",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Recognize tests with minimal boilerplate that need no refactoring (plugin, run 0)",
-      "mtime": 1780039793936,
-      "id": "pr/701/dotnet-experimental/recognize-tests-with-minimal-boilerplate-that-need-no-refactoring--plugin--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/recognize-well-maintained-tests-that-need-minimal-changes--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "baseline",
-        "recognize-well-maintained-tests-that-need-minimal-changes",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Recognize well-maintained tests that need minimal changes (baseline, run 0)",
-      "mtime": 1780039793939,
-      "id": "pr/701/dotnet-experimental/recognize-well-maintained-tests-that-need-minimal-changes--baseline--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/recognize-well-maintained-tests-that-need-minimal-changes--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "isolated",
-        "recognize-well-maintained-tests-that-need-minimal-changes",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Recognize well-maintained tests that need minimal changes (isolated, run 0)",
-      "mtime": 1780039793942,
-      "id": "pr/701/dotnet-experimental/recognize-well-maintained-tests-that-need-minimal-changes--isolated--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/recognize-well-maintained-tests-that-need-minimal-changes--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "plugin",
-        "recognize-well-maintained-tests-that-need-minimal-changes",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Recognize well-maintained tests that need minimal changes (plugin, run 0)",
-      "mtime": 1780039793945,
-      "id": "pr/701/dotnet-experimental/recognize-well-maintained-tests-that-need-minimal-changes--plugin--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/recommend-data-driven-patterns-with-display-names-for-unclear-parameters--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "baseline",
-        "recommend-data-driven-patterns-with-display-names-for-unclear-parameters",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Recommend data-driven patterns with display names for unclear parameters (baseline, run 0)",
-      "mtime": 1780039793948,
-      "id": "pr/701/dotnet-experimental/recommend-data-driven-patterns-with-display-names-for-unclear-parameters--baseline--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/recommend-data-driven-patterns-with-display-names-for-unclear-parameters--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "isolated",
-        "recommend-data-driven-patterns-with-display-names-for-unclear-parameters",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Recommend data-driven patterns with display names for unclear parameters (isolated, run 0)",
-      "mtime": 1780039793952,
-      "id": "pr/701/dotnet-experimental/recommend-data-driven-patterns-with-display-names-for-unclear-parameters--isolated--run0"
-    },
-    {
-      "url": "sessions/pr/701/dotnet-experimental/recommend-data-driven-patterns-with-display-names-for-unclear-parameters--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-experimental",
-        "plugin",
-        "recommend-data-driven-patterns-with-display-names-for-unclear-parameters",
-        "pr-701"
-      ],
-      "name": "dotnet-experimental / Recommend data-driven patterns with display names for unclear parameters (plugin, run 0)",
-      "mtime": 1780039793955,
-      "id": "pr/701/dotnet-experimental/recommend-data-driven-patterns-with-display-names-for-unclear-parameters--plugin--run0"
-    },
-    {
       "id": "pr/629/dotnet-test/decline-wrapper-generation-for-already-abstracted-code--baseline--run0",
       "tags": [
         "pr",
@@ -454999,7 +454375,631 @@
         "warehouse-dashboard-with-site-selector-and-live-stock-alerts",
         "2026-05-29"
       ]
+    },
+    {
+      "id": "pr/701/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--baseline--run0",
+      "url": "sessions/pr/701/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--baseline--run0.jsonl",
+      "mtime": 1780646739210,
+      "tags": [
+        "pr",
+        "dotnet-data",
+        "baseline",
+        "optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete",
+        "pr-701"
+      ],
+      "name": "dotnet-data / optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete (baseline)"
+    },
+    {
+      "id": "pr/701/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--isolated--run0",
+      "url": "sessions/pr/701/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--isolated--run0.jsonl",
+      "mtime": 1780646739210,
+      "tags": [
+        "pr",
+        "dotnet-data",
+        "isolated",
+        "optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete",
+        "pr-701"
+      ],
+      "name": "dotnet-data / optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete (isolated)"
+    },
+    {
+      "id": "pr/701/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--plugin--run0",
+      "url": "sessions/pr/701/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--plugin--run0.jsonl",
+      "mtime": 1780646739210,
+      "tags": [
+        "pr",
+        "dotnet-data",
+        "plugin",
+        "optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete",
+        "pr-701"
+      ],
+      "name": "dotnet-data / optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete (plugin)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/analyze-mock-usage-in-fakeiteasy-tests--baseline--run0",
+      "url": "sessions/pr/701/dotnet-experimental/analyze-mock-usage-in-fakeiteasy-tests--baseline--run0.jsonl",
+      "mtime": 1780646739210,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "baseline",
+        "analyze-mock-usage-in-fakeiteasy-tests",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / analyze-mock-usage-in-fakeiteasy-tests (baseline)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/analyze-mock-usage-in-fakeiteasy-tests--isolated--run0",
+      "url": "sessions/pr/701/dotnet-experimental/analyze-mock-usage-in-fakeiteasy-tests--isolated--run0.jsonl",
+      "mtime": 1780646739211,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "isolated",
+        "analyze-mock-usage-in-fakeiteasy-tests",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / analyze-mock-usage-in-fakeiteasy-tests (isolated)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/analyze-mock-usage-in-fakeiteasy-tests--plugin--run0",
+      "url": "sessions/pr/701/dotnet-experimental/analyze-mock-usage-in-fakeiteasy-tests--plugin--run0.jsonl",
+      "mtime": 1780646739211,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "plugin",
+        "analyze-mock-usage-in-fakeiteasy-tests",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / analyze-mock-usage-in-fakeiteasy-tests (plugin)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/analyze-mock-usage-in-nsubstitute-tests--baseline--run0",
+      "url": "sessions/pr/701/dotnet-experimental/analyze-mock-usage-in-nsubstitute-tests--baseline--run0.jsonl",
+      "mtime": 1780646739211,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "baseline",
+        "analyze-mock-usage-in-nsubstitute-tests",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / analyze-mock-usage-in-nsubstitute-tests (baseline)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/analyze-mock-usage-in-nsubstitute-tests--isolated--run0",
+      "url": "sessions/pr/701/dotnet-experimental/analyze-mock-usage-in-nsubstitute-tests--isolated--run0.jsonl",
+      "mtime": 1780646739211,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "isolated",
+        "analyze-mock-usage-in-nsubstitute-tests",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / analyze-mock-usage-in-nsubstitute-tests (isolated)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/analyze-mock-usage-in-nsubstitute-tests--plugin--run0",
+      "url": "sessions/pr/701/dotnet-experimental/analyze-mock-usage-in-nsubstitute-tests--plugin--run0.jsonl",
+      "mtime": 1780646739211,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "plugin",
+        "analyze-mock-usage-in-nsubstitute-tests",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / analyze-mock-usage-in-nsubstitute-tests (plugin)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/detect-excessive-mock-configuration-sprawl--baseline--run0",
+      "url": "sessions/pr/701/dotnet-experimental/detect-excessive-mock-configuration-sprawl--baseline--run0.jsonl",
+      "mtime": 1780646739212,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "baseline",
+        "detect-excessive-mock-configuration-sprawl",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / detect-excessive-mock-configuration-sprawl (baseline)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/detect-excessive-mock-configuration-sprawl--isolated--run0",
+      "url": "sessions/pr/701/dotnet-experimental/detect-excessive-mock-configuration-sprawl--isolated--run0.jsonl",
+      "mtime": 1780646739212,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "isolated",
+        "detect-excessive-mock-configuration-sprawl",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / detect-excessive-mock-configuration-sprawl (isolated)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/detect-excessive-mock-configuration-sprawl--plugin--run0",
+      "url": "sessions/pr/701/dotnet-experimental/detect-excessive-mock-configuration-sprawl--plugin--run0.jsonl",
+      "mtime": 1780646739212,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "plugin",
+        "detect-excessive-mock-configuration-sprawl",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / detect-excessive-mock-configuration-sprawl (plugin)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/detect-mocking-of-stable-framework-types--baseline--run0",
+      "url": "sessions/pr/701/dotnet-experimental/detect-mocking-of-stable-framework-types--baseline--run0.jsonl",
+      "mtime": 1780646739212,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "baseline",
+        "detect-mocking-of-stable-framework-types",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / detect-mocking-of-stable-framework-types (baseline)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/detect-mocking-of-stable-framework-types--isolated--run0",
+      "url": "sessions/pr/701/dotnet-experimental/detect-mocking-of-stable-framework-types--isolated--run0.jsonl",
+      "mtime": 1780646739212,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "isolated",
+        "detect-mocking-of-stable-framework-types",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / detect-mocking-of-stable-framework-types (isolated)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/detect-mocking-of-stable-framework-types--plugin--run0",
+      "url": "sessions/pr/701/dotnet-experimental/detect-mocking-of-stable-framework-types--plugin--run0.jsonl",
+      "mtime": 1780646739213,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "plugin",
+        "detect-mocking-of-stable-framework-types",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / detect-mocking-of-stable-framework-types (plugin)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/detect-redundant-mock-configurations-duplicated-across-tests--baseline--run0",
+      "url": "sessions/pr/701/dotnet-experimental/detect-redundant-mock-configurations-duplicated-across-tests--baseline--run0.jsonl",
+      "mtime": 1780646739213,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "baseline",
+        "detect-redundant-mock-configurations-duplicated-across-tests",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / detect-redundant-mock-configurations-duplicated-across-tests (baseline)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/detect-redundant-mock-configurations-duplicated-across-tests--isolated--run0",
+      "url": "sessions/pr/701/dotnet-experimental/detect-redundant-mock-configurations-duplicated-across-tests--isolated--run0.jsonl",
+      "mtime": 1780646739213,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "isolated",
+        "detect-redundant-mock-configurations-duplicated-across-tests",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / detect-redundant-mock-configurations-duplicated-across-tests (isolated)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/detect-redundant-mock-configurations-duplicated-across-tests--plugin--run0",
+      "url": "sessions/pr/701/dotnet-experimental/detect-redundant-mock-configurations-duplicated-across-tests--plugin--run0.jsonl",
+      "mtime": 1780646739213,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "plugin",
+        "detect-redundant-mock-configurations-duplicated-across-tests",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / detect-redundant-mock-configurations-duplicated-across-tests (plugin)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/detect-repeated-object-construction-and-setup-across-test-methods--baseline--run0",
+      "url": "sessions/pr/701/dotnet-experimental/detect-repeated-object-construction-and-setup-across-test-methods--baseline--run0.jsonl",
+      "mtime": 1780646739213,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "baseline",
+        "detect-repeated-object-construction-and-setup-across-test-methods",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / detect-repeated-object-construction-and-setup-across-test-methods (baseline)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/detect-repeated-object-construction-and-setup-across-test-methods--isolated--run0",
+      "url": "sessions/pr/701/dotnet-experimental/detect-repeated-object-construction-and-setup-across-test-methods--isolated--run0.jsonl",
+      "mtime": 1780646739213,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "isolated",
+        "detect-repeated-object-construction-and-setup-across-test-methods",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / detect-repeated-object-construction-and-setup-across-test-methods (isolated)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/detect-repeated-object-construction-and-setup-across-test-methods--plugin--run0",
+      "url": "sessions/pr/701/dotnet-experimental/detect-repeated-object-construction-and-setup-across-test-methods--plugin--run0.jsonl",
+      "mtime": 1780646739214,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "plugin",
+        "detect-repeated-object-construction-and-setup-across-test-methods",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / detect-repeated-object-construction-and-setup-across-test-methods (plugin)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/detect-unused-and-unreachable-mock-setups--baseline--run0",
+      "url": "sessions/pr/701/dotnet-experimental/detect-unused-and-unreachable-mock-setups--baseline--run0.jsonl",
+      "mtime": 1780646739214,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "baseline",
+        "detect-unused-and-unreachable-mock-setups",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / detect-unused-and-unreachable-mock-setups (baseline)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/detect-unused-and-unreachable-mock-setups--isolated--run0",
+      "url": "sessions/pr/701/dotnet-experimental/detect-unused-and-unreachable-mock-setups--isolated--run0.jsonl",
+      "mtime": 1780646739214,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "isolated",
+        "detect-unused-and-unreachable-mock-setups",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / detect-unused-and-unreachable-mock-setups (isolated)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/detect-unused-and-unreachable-mock-setups--plugin--run0",
+      "url": "sessions/pr/701/dotnet-experimental/detect-unused-and-unreachable-mock-setups--plugin--run0.jsonl",
+      "mtime": 1780646739214,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "plugin",
+        "detect-unused-and-unreachable-mock-setups",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / detect-unused-and-unreachable-mock-setups (plugin)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/no-optimization-opportunity---dictionary-based-lookup-service--baseline--run0",
+      "url": "sessions/pr/701/dotnet-experimental/no-optimization-opportunity---dictionary-based-lookup-service--baseline--run0.jsonl",
+      "mtime": 1780646739215,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "baseline",
+        "no-optimization-opportunity---dictionary-based-lookup-service",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / no-optimization-opportunity---dictionary-based-lookup-service (baseline)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/no-optimization-opportunity---dictionary-based-lookup-service--isolated--run0",
+      "url": "sessions/pr/701/dotnet-experimental/no-optimization-opportunity---dictionary-based-lookup-service--isolated--run0.jsonl",
+      "mtime": 1780646739215,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "isolated",
+        "no-optimization-opportunity---dictionary-based-lookup-service",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / no-optimization-opportunity---dictionary-based-lookup-service (isolated)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/no-optimization-opportunity---dictionary-based-lookup-service--plugin--run0",
+      "url": "sessions/pr/701/dotnet-experimental/no-optimization-opportunity---dictionary-based-lookup-service--plugin--run0.jsonl",
+      "mtime": 1780646739216,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "plugin",
+        "no-optimization-opportunity---dictionary-based-lookup-service",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / no-optimization-opportunity---dictionary-based-lookup-service (plugin)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/optimize-byte-buffer-bit-reversal-with-simd--baseline--run0",
+      "url": "sessions/pr/701/dotnet-experimental/optimize-byte-buffer-bit-reversal-with-simd--baseline--run0.jsonl",
+      "mtime": 1780646739216,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "baseline",
+        "optimize-byte-buffer-bit-reversal-with-simd",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / optimize-byte-buffer-bit-reversal-with-simd (baseline)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/optimize-byte-buffer-bit-reversal-with-simd--isolated--run0",
+      "url": "sessions/pr/701/dotnet-experimental/optimize-byte-buffer-bit-reversal-with-simd--isolated--run0.jsonl",
+      "mtime": 1780646739217,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "isolated",
+        "optimize-byte-buffer-bit-reversal-with-simd",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / optimize-byte-buffer-bit-reversal-with-simd (isolated)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/optimize-byte-buffer-bit-reversal-with-simd--plugin--run0",
+      "url": "sessions/pr/701/dotnet-experimental/optimize-byte-buffer-bit-reversal-with-simd--plugin--run0.jsonl",
+      "mtime": 1780646739217,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "plugin",
+        "optimize-byte-buffer-bit-reversal-with-simd",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / optimize-byte-buffer-bit-reversal-with-simd (plugin)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/optimize-int-array-conditional-increment-with-simd--baseline--run0",
+      "url": "sessions/pr/701/dotnet-experimental/optimize-int-array-conditional-increment-with-simd--baseline--run0.jsonl",
+      "mtime": 1780646739217,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "baseline",
+        "optimize-int-array-conditional-increment-with-simd",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / optimize-int-array-conditional-increment-with-simd (baseline)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/optimize-int-array-conditional-increment-with-simd--isolated--run0",
+      "url": "sessions/pr/701/dotnet-experimental/optimize-int-array-conditional-increment-with-simd--isolated--run0.jsonl",
+      "mtime": 1780646739218,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "isolated",
+        "optimize-int-array-conditional-increment-with-simd",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / optimize-int-array-conditional-increment-with-simd (isolated)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/optimize-int-array-conditional-increment-with-simd--plugin--run0",
+      "url": "sessions/pr/701/dotnet-experimental/optimize-int-array-conditional-increment-with-simd--plugin--run0.jsonl",
+      "mtime": 1780646739218,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "plugin",
+        "optimize-int-array-conditional-increment-with-simd",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / optimize-int-array-conditional-increment-with-simd (plugin)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/optimize-manual-min-max-with-tensorprimitives--baseline--run0",
+      "url": "sessions/pr/701/dotnet-experimental/optimize-manual-min-max-with-tensorprimitives--baseline--run0.jsonl",
+      "mtime": 1780646739218,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "baseline",
+        "optimize-manual-min-max-with-tensorprimitives",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / optimize-manual-min-max-with-tensorprimitives (baseline)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/optimize-manual-min-max-with-tensorprimitives--isolated--run0",
+      "url": "sessions/pr/701/dotnet-experimental/optimize-manual-min-max-with-tensorprimitives--isolated--run0.jsonl",
+      "mtime": 1780646739218,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "isolated",
+        "optimize-manual-min-max-with-tensorprimitives",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / optimize-manual-min-max-with-tensorprimitives (isolated)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/optimize-manual-min-max-with-tensorprimitives--plugin--run0",
+      "url": "sessions/pr/701/dotnet-experimental/optimize-manual-min-max-with-tensorprimitives--plugin--run0.jsonl",
+      "mtime": 1780646739218,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "plugin",
+        "optimize-manual-min-max-with-tensorprimitives",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / optimize-manual-min-max-with-tensorprimitives (plugin)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/optimize-manual-product-with-tensorprimitives--baseline--run0",
+      "url": "sessions/pr/701/dotnet-experimental/optimize-manual-product-with-tensorprimitives--baseline--run0.jsonl",
+      "mtime": 1780646739219,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "baseline",
+        "optimize-manual-product-with-tensorprimitives",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / optimize-manual-product-with-tensorprimitives (baseline)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/optimize-manual-product-with-tensorprimitives--isolated--run0",
+      "url": "sessions/pr/701/dotnet-experimental/optimize-manual-product-with-tensorprimitives--isolated--run0.jsonl",
+      "mtime": 1780646739219,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "isolated",
+        "optimize-manual-product-with-tensorprimitives",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / optimize-manual-product-with-tensorprimitives (isolated)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/optimize-manual-product-with-tensorprimitives--plugin--run0",
+      "url": "sessions/pr/701/dotnet-experimental/optimize-manual-product-with-tensorprimitives--plugin--run0.jsonl",
+      "mtime": 1780646739219,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "plugin",
+        "optimize-manual-product-with-tensorprimitives",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / optimize-manual-product-with-tensorprimitives (plugin)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/recognize-tests-with-minimal-boilerplate-that-need-no-refactoring--baseline--run0",
+      "url": "sessions/pr/701/dotnet-experimental/recognize-tests-with-minimal-boilerplate-that-need-no-refactoring--baseline--run0.jsonl",
+      "mtime": 1780646739220,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "baseline",
+        "recognize-tests-with-minimal-boilerplate-that-need-no-refactoring",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / recognize-tests-with-minimal-boilerplate-that-need-no-refactoring (baseline)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/recognize-tests-with-minimal-boilerplate-that-need-no-refactoring--isolated--run0",
+      "url": "sessions/pr/701/dotnet-experimental/recognize-tests-with-minimal-boilerplate-that-need-no-refactoring--isolated--run0.jsonl",
+      "mtime": 1780646739220,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "isolated",
+        "recognize-tests-with-minimal-boilerplate-that-need-no-refactoring",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / recognize-tests-with-minimal-boilerplate-that-need-no-refactoring (isolated)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/recognize-tests-with-minimal-boilerplate-that-need-no-refactoring--plugin--run0",
+      "url": "sessions/pr/701/dotnet-experimental/recognize-tests-with-minimal-boilerplate-that-need-no-refactoring--plugin--run0.jsonl",
+      "mtime": 1780646739220,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "plugin",
+        "recognize-tests-with-minimal-boilerplate-that-need-no-refactoring",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / recognize-tests-with-minimal-boilerplate-that-need-no-refactoring (plugin)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/recognize-well-maintained-tests-that-need-minimal-changes--baseline--run0",
+      "url": "sessions/pr/701/dotnet-experimental/recognize-well-maintained-tests-that-need-minimal-changes--baseline--run0.jsonl",
+      "mtime": 1780646739220,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "baseline",
+        "recognize-well-maintained-tests-that-need-minimal-changes",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / recognize-well-maintained-tests-that-need-minimal-changes (baseline)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/recognize-well-maintained-tests-that-need-minimal-changes--isolated--run0",
+      "url": "sessions/pr/701/dotnet-experimental/recognize-well-maintained-tests-that-need-minimal-changes--isolated--run0.jsonl",
+      "mtime": 1780646739220,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "isolated",
+        "recognize-well-maintained-tests-that-need-minimal-changes",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / recognize-well-maintained-tests-that-need-minimal-changes (isolated)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/recognize-well-maintained-tests-that-need-minimal-changes--plugin--run0",
+      "url": "sessions/pr/701/dotnet-experimental/recognize-well-maintained-tests-that-need-minimal-changes--plugin--run0.jsonl",
+      "mtime": 1780646739221,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "plugin",
+        "recognize-well-maintained-tests-that-need-minimal-changes",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / recognize-well-maintained-tests-that-need-minimal-changes (plugin)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/recommend-data-driven-patterns-with-display-names-for-unclear-parameters--baseline--run0",
+      "url": "sessions/pr/701/dotnet-experimental/recommend-data-driven-patterns-with-display-names-for-unclear-parameters--baseline--run0.jsonl",
+      "mtime": 1780646739221,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "baseline",
+        "recommend-data-driven-patterns-with-display-names-for-unclear-parameters",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / recommend-data-driven-patterns-with-display-names-for-unclear-parameters (baseline)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/recommend-data-driven-patterns-with-display-names-for-unclear-parameters--isolated--run0",
+      "url": "sessions/pr/701/dotnet-experimental/recommend-data-driven-patterns-with-display-names-for-unclear-parameters--isolated--run0.jsonl",
+      "mtime": 1780646739221,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "isolated",
+        "recommend-data-driven-patterns-with-display-names-for-unclear-parameters",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / recommend-data-driven-patterns-with-display-names-for-unclear-parameters (isolated)"
+    },
+    {
+      "id": "pr/701/dotnet-experimental/recommend-data-driven-patterns-with-display-names-for-unclear-parameters--plugin--run0",
+      "url": "sessions/pr/701/dotnet-experimental/recommend-data-driven-patterns-with-display-names-for-unclear-parameters--plugin--run0.jsonl",
+      "mtime": 1780646739221,
+      "tags": [
+        "pr",
+        "dotnet-experimental",
+        "plugin",
+        "recommend-data-driven-patterns-with-display-names-for-unclear-parameters",
+        "pr-701"
+      ],
+      "name": "dotnet-experimental / recommend-data-driven-patterns-with-display-names-for-unclear-parameters (plugin)"
     }
   ],
-  "generated": "2026-06-05T02:55:37.7430000+00:00"
+  "generated": "2026-06-05T08:05:39.2210000+00:00"
 }
