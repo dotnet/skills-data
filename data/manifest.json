@@ -1,6 +1,2150 @@
 {
-  "generated": "2026-06-05T11:10:21.3590000+00:00",
   "sessions": [
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "baseline",
+        "configure-all-three-opentelemetry-signals-with-correct-otlp-export",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Configure all three OpenTelemetry signals with correct OTLP export (baseline, run 0)",
+      "mtime": 1780658053568,
+      "url": "sessions/pr/643/dotnet-aspnet/configure-all-three-opentelemetry-signals-with-correct-otlp-export--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/configure-all-three-opentelemetry-signals-with-correct-otlp-export--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "isolated",
+        "configure-all-three-opentelemetry-signals-with-correct-otlp-export",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Configure all three OpenTelemetry signals with correct OTLP export (isolated, run 0)",
+      "mtime": 1780658053576,
+      "url": "sessions/pr/643/dotnet-aspnet/configure-all-three-opentelemetry-signals-with-correct-otlp-export--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/configure-all-three-opentelemetry-signals-with-correct-otlp-export--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "plugin",
+        "configure-all-three-opentelemetry-signals-with-correct-otlp-export",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Configure all three OpenTelemetry signals with correct OTLP export (plugin, run 0)",
+      "mtime": 1780658053579,
+      "url": "sessions/pr/643/dotnet-aspnet/configure-all-three-opentelemetry-signals-with-correct-otlp-export--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/configure-all-three-opentelemetry-signals-with-correct-otlp-export--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "baseline",
+        "propagate-trace-context-across-a-message-queue",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Propagate trace context across a message queue (baseline, run 0)",
+      "mtime": 1780658053582,
+      "url": "sessions/pr/643/dotnet-aspnet/propagate-trace-context-across-a-message-queue--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/propagate-trace-context-across-a-message-queue--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "isolated",
+        "propagate-trace-context-across-a-message-queue",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Propagate trace context across a message queue (isolated, run 0)",
+      "mtime": 1780658053585,
+      "url": "sessions/pr/643/dotnet-aspnet/propagate-trace-context-across-a-message-queue--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/propagate-trace-context-across-a-message-queue--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "plugin",
+        "propagate-trace-context-across-a-message-queue",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Propagate trace context across a message queue (plugin, run 0)",
+      "mtime": 1780658053589,
+      "url": "sessions/pr/643/dotnet-aspnet/propagate-trace-context-across-a-message-queue--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/propagate-trace-context-across-a-message-queue--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "baseline",
+        "set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Set up OpenTelemetry tracing and metrics with custom spans in ASP.NET Core (baseline, run 0)",
+      "mtime": 1780658053592,
+      "url": "sessions/pr/643/dotnet-aspnet/set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "isolated",
+        "set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Set up OpenTelemetry tracing and metrics with custom spans in ASP.NET Core (isolated, run 0)",
+      "mtime": 1780658053595,
+      "url": "sessions/pr/643/dotnet-aspnet/set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "plugin",
+        "set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Set up OpenTelemetry tracing and metrics with custom spans in ASP.NET Core (plugin, run 0)",
+      "mtime": 1780658053598,
+      "url": "sessions/pr/643/dotnet-aspnet/set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "baseline",
+        "blazor-server-app-with-cascadingauthenticationstate",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Blazor Server app with CascadingAuthenticationState (baseline, run 0)",
+      "mtime": 1780658053601,
+      "url": "sessions/pr/643/dotnet-aspnet/blazor-server-app-with-cascadingauthenticationstate--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/blazor-server-app-with-cascadingauthenticationstate--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "isolated",
+        "blazor-server-app-with-cascadingauthenticationstate",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Blazor Server app with CascadingAuthenticationState (isolated, run 0)",
+      "mtime": 1780658053605,
+      "url": "sessions/pr/643/dotnet-aspnet/blazor-server-app-with-cascadingauthenticationstate--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/blazor-server-app-with-cascadingauthenticationstate--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "plugin",
+        "blazor-server-app-with-cascadingauthenticationstate",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Blazor Server app with CascadingAuthenticationState (plugin, run 0)",
+      "mtime": 1780658053608,
+      "url": "sessions/pr/643/dotnet-aspnet/blazor-server-app-with-cascadingauthenticationstate--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/blazor-server-app-with-cascadingauthenticationstate--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "baseline",
+        "add-a-new-api-endpoint-to-an-existing-controller-based-project",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Add a new API endpoint to an existing controller-based project (baseline, run 0)",
+      "mtime": 1780658053611,
+      "url": "sessions/pr/643/dotnet-aspnet/add-a-new-api-endpoint-to-an-existing-controller-based-project--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/add-a-new-api-endpoint-to-an-existing-controller-based-project--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "isolated",
+        "add-a-new-api-endpoint-to-an-existing-controller-based-project",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Add a new API endpoint to an existing controller-based project (isolated, run 0)",
+      "mtime": 1780658053614,
+      "url": "sessions/pr/643/dotnet-aspnet/add-a-new-api-endpoint-to-an-existing-controller-based-project--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/add-a-new-api-endpoint-to-an-existing-controller-based-project--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "plugin",
+        "add-a-new-api-endpoint-to-an-existing-controller-based-project",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Add a new API endpoint to an existing controller-based project (plugin, run 0)",
+      "mtime": 1780658053617,
+      "url": "sessions/pr/643/dotnet-aspnet/add-a-new-api-endpoint-to-an-existing-controller-based-project--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/add-a-new-api-endpoint-to-an-existing-controller-based-project--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "baseline",
+        "add-error-handling-with-problemdetails-and-iexceptionhandler",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Add error handling with ProblemDetails and IExceptionHandler (baseline, run 0)",
+      "mtime": 1780658053620,
+      "url": "sessions/pr/643/dotnet-aspnet/add-error-handling-with-problemdetails-and-iexceptionhandler--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/add-error-handling-with-problemdetails-and-iexceptionhandler--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "isolated",
+        "add-error-handling-with-problemdetails-and-iexceptionhandler",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Add error handling with ProblemDetails and IExceptionHandler (isolated, run 0)",
+      "mtime": 1780658053625,
+      "url": "sessions/pr/643/dotnet-aspnet/add-error-handling-with-problemdetails-and-iexceptionhandler--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/add-error-handling-with-problemdetails-and-iexceptionhandler--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "plugin",
+        "add-error-handling-with-problemdetails-and-iexceptionhandler",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Add error handling with ProblemDetails and IExceptionHandler (plugin, run 0)",
+      "mtime": 1780658053630,
+      "url": "sessions/pr/643/dotnet-aspnet/add-error-handling-with-problemdetails-and-iexceptionhandler--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/add-error-handling-with-problemdetails-and-iexceptionhandler--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "baseline",
+        "create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Create a CRUD Web API with minimal APIs, OpenAPI, and proper HTTP semantics (baseline, run 0)",
+      "mtime": 1780658053634,
+      "url": "sessions/pr/643/dotnet-aspnet/create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "isolated",
+        "create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Create a CRUD Web API with minimal APIs, OpenAPI, and proper HTTP semantics (isolated, run 0)",
+      "mtime": 1780658053639,
+      "url": "sessions/pr/643/dotnet-aspnet/create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "plugin",
+        "create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Create a CRUD Web API with minimal APIs, OpenAPI, and proper HTTP semantics (plugin, run 0)",
+      "mtime": 1780658053643,
+      "url": "sessions/pr/643/dotnet-aspnet/create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "baseline",
+        "implement-secure-file-upload-in-asp-net-core-8-minimal-api",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Implement secure file upload in ASP.NET Core 8 minimal API (baseline, run 0)",
+      "mtime": 1780658053647,
+      "url": "sessions/pr/643/dotnet-aspnet/implement-secure-file-upload-in-asp-net-core-8-minimal-api--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/implement-secure-file-upload-in-asp-net-core-8-minimal-api--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "isolated",
+        "implement-secure-file-upload-in-asp-net-core-8-minimal-api",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Implement secure file upload in ASP.NET Core 8 minimal API (isolated, run 0)",
+      "mtime": 1780658053651,
+      "url": "sessions/pr/643/dotnet-aspnet/implement-secure-file-upload-in-asp-net-core-8-minimal-api--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/implement-secure-file-upload-in-asp-net-core-8-minimal-api--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "plugin",
+        "implement-secure-file-upload-in-asp-net-core-8-minimal-api",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Implement secure file upload in ASP.NET Core 8 minimal API (plugin, run 0)",
+      "mtime": 1780658053655,
+      "url": "sessions/pr/643/dotnet-aspnet/implement-secure-file-upload-in-asp-net-core-8-minimal-api--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/implement-secure-file-upload-in-asp-net-core-8-minimal-api--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "baseline",
+        "stream-very-large-file-uploads-without-buffering",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Stream very large file uploads without buffering (baseline, run 0)",
+      "mtime": 1780658053659,
+      "url": "sessions/pr/643/dotnet-aspnet/stream-very-large-file-uploads-without-buffering--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/stream-very-large-file-uploads-without-buffering--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "isolated",
+        "stream-very-large-file-uploads-without-buffering",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Stream very large file uploads without buffering (isolated, run 0)",
+      "mtime": 1780658053662,
+      "url": "sessions/pr/643/dotnet-aspnet/stream-very-large-file-uploads-without-buffering--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/stream-very-large-file-uploads-without-buffering--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "plugin",
+        "stream-very-large-file-uploads-without-buffering",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Stream very large file uploads without buffering (plugin, run 0)",
+      "mtime": 1780658053665,
+      "url": "sessions/pr/643/dotnet-aspnet/stream-very-large-file-uploads-without-buffering--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/stream-very-large-file-uploads-without-buffering--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "baseline",
+        "upload-multiple-files-with-metadata-in-minimal-api",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Upload multiple files with metadata in minimal API (baseline, run 0)",
+      "mtime": 1780658053668,
+      "url": "sessions/pr/643/dotnet-aspnet/upload-multiple-files-with-metadata-in-minimal-api--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/upload-multiple-files-with-metadata-in-minimal-api--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "isolated",
+        "upload-multiple-files-with-metadata-in-minimal-api",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Upload multiple files with metadata in minimal API (isolated, run 0)",
+      "mtime": 1780658053675,
+      "url": "sessions/pr/643/dotnet-aspnet/upload-multiple-files-with-metadata-in-minimal-api--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/upload-multiple-files-with-metadata-in-minimal-api--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-aspnet",
+        "plugin",
+        "upload-multiple-files-with-metadata-in-minimal-api",
+        "pr-643"
+      ],
+      "name": "dotnet-aspnet / Upload multiple files with metadata in minimal API (plugin, run 0)",
+      "mtime": 1780658053678,
+      "url": "sessions/pr/643/dotnet-aspnet/upload-multiple-files-with-metadata-in-minimal-api--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-aspnet/upload-multiple-files-with-metadata-in-minimal-api--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "make-azure-resourcemanager-aot-compatible",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Make Azure.ResourceManager AOT-compatible (baseline, run 0)",
+      "mtime": 1780658053709,
+      "url": "sessions/pr/643/dotnet-upgrade/make-azure-resourcemanager-aot-compatible--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/make-azure-resourcemanager-aot-compatible--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "make-azure-resourcemanager-aot-compatible",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Make Azure.ResourceManager AOT-compatible (isolated, run 0)",
+      "mtime": 1780658053713,
+      "url": "sessions/pr/643/dotnet-upgrade/make-azure-resourcemanager-aot-compatible--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/make-azure-resourcemanager-aot-compatible--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "make-azure-resourcemanager-aot-compatible",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Make Azure.ResourceManager AOT-compatible (plugin, run 0)",
+      "mtime": 1780658053717,
+      "url": "sessions/pr/643/dotnet-upgrade/make-azure-resourcemanager-aot-compatible--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/make-azure-resourcemanager-aot-compatible--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "basic-tfm-update-with-docker-and-global-json",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Basic TFM update with Docker and global.json (baseline, run 0)",
+      "mtime": 1780658053720,
+      "url": "sessions/pr/643/dotnet-upgrade/basic-tfm-update-with-docker-and-global-json--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/basic-tfm-update-with-docker-and-global-json--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "basic-tfm-update-with-docker-and-global-json",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Basic TFM update with Docker and global.json (isolated, run 0)",
+      "mtime": 1780658053724,
+      "url": "sessions/pr/643/dotnet-upgrade/basic-tfm-update-with-docker-and-global-json--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/basic-tfm-update-with-docker-and-global-json--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "basic-tfm-update-with-docker-and-global-json",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Basic TFM update with Docker and global.json (plugin, run 0)",
+      "mtime": 1780658053727,
+      "url": "sessions/pr/643/dotnet-upgrade/basic-tfm-update-with-docker-and-global-json--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/basic-tfm-update-with-docker-and-global-json--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "c--15-compiler-breaking-changes---span-safe-context--nameof--with--",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / C# 15 compiler breaking changes — Span safe-context, nameof, with() (baseline, run 0)",
+      "mtime": 1780658053730,
+      "url": "sessions/pr/643/dotnet-upgrade/c--15-compiler-breaking-changes---span-safe-context--nameof--with----baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/c--15-compiler-breaking-changes---span-safe-context--nameof--with----baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "c--15-compiler-breaking-changes---span-safe-context--nameof--with--",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / C# 15 compiler breaking changes — Span safe-context, nameof, with() (isolated, run 0)",
+      "mtime": 1780658053733,
+      "url": "sessions/pr/643/dotnet-upgrade/c--15-compiler-breaking-changes---span-safe-context--nameof--with----isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/c--15-compiler-breaking-changes---span-safe-context--nameof--with----isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "c--15-compiler-breaking-changes---span-safe-context--nameof--with--",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / C# 15 compiler breaking changes — Span safe-context, nameof, with() (plugin, run 0)",
+      "mtime": 1780658053736,
+      "url": "sessions/pr/643/dotnet-upgrade/c--15-compiler-breaking-changes---span-safe-context--nameof--with----plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/c--15-compiler-breaking-changes---span-safe-context--nameof--with----plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "c--15-dynamic-operator-and-ref-readonly-delegate-issues",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / C# 15 dynamic operator and ref readonly delegate issues (baseline, run 0)",
+      "mtime": 1780658053739,
+      "url": "sessions/pr/643/dotnet-upgrade/c--15-dynamic-operator-and-ref-readonly-delegate-issues--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/c--15-dynamic-operator-and-ref-readonly-delegate-issues--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "c--15-dynamic-operator-and-ref-readonly-delegate-issues",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / C# 15 dynamic operator and ref readonly delegate issues (isolated, run 0)",
+      "mtime": 1780658053743,
+      "url": "sessions/pr/643/dotnet-upgrade/c--15-dynamic-operator-and-ref-readonly-delegate-issues--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/c--15-dynamic-operator-and-ref-readonly-delegate-issues--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "c--15-dynamic-operator-and-ref-readonly-delegate-issues",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / C# 15 dynamic operator and ref readonly delegate issues (plugin, run 0)",
+      "mtime": 1780658053746,
+      "url": "sessions/pr/643/dotnet-upgrade/c--15-dynamic-operator-and-ref-readonly-delegate-issues--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/c--15-dynamic-operator-and-ref-readonly-delegate-issues--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "console-app-with-compression-and-tar-operations",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Console app with compression and TAR operations (baseline, run 0)",
+      "mtime": 1780658053749,
+      "url": "sessions/pr/643/dotnet-upgrade/console-app-with-compression-and-tar-operations--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/console-app-with-compression-and-tar-operations--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "console-app-with-compression-and-tar-operations",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Console app with compression and TAR operations (isolated, run 0)",
+      "mtime": 1780658053752,
+      "url": "sessions/pr/643/dotnet-upgrade/console-app-with-compression-and-tar-operations--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/console-app-with-compression-and-tar-operations--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "console-app-with-compression-and-tar-operations",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Console app with compression and TAR operations (plugin, run 0)",
+      "mtime": 1780658053755,
+      "url": "sessions/pr/643/dotnet-upgrade/console-app-with-compression-and-tar-operations--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/console-app-with-compression-and-tar-operations--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "cryptography-app-using-dsa-on-macos",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Cryptography app using DSA on macOS (baseline, run 0)",
+      "mtime": 1780658053758,
+      "url": "sessions/pr/643/dotnet-upgrade/cryptography-app-using-dsa-on-macos--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/cryptography-app-using-dsa-on-macos--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "cryptography-app-using-dsa-on-macos",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Cryptography app using DSA on macOS (isolated, run 0)",
+      "mtime": 1780658053762,
+      "url": "sessions/pr/643/dotnet-upgrade/cryptography-app-using-dsa-on-macos--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/cryptography-app-using-dsa-on-macos--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "cryptography-app-using-dsa-on-macos",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Cryptography app using DSA on macOS (plugin, run 0)",
+      "mtime": 1780658053765,
+      "url": "sessions/pr/643/dotnet-upgrade/cryptography-app-using-dsa-on-macos--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/cryptography-app-using-dsa-on-macos--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "deployment-to-older-hardware-with-minimum-requirement-changes",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Deployment to older hardware with minimum requirement changes (baseline, run 0)",
+      "mtime": 1780658053768,
+      "url": "sessions/pr/643/dotnet-upgrade/deployment-to-older-hardware-with-minimum-requirement-changes--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/deployment-to-older-hardware-with-minimum-requirement-changes--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "deployment-to-older-hardware-with-minimum-requirement-changes",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Deployment to older hardware with minimum requirement changes (isolated, run 0)",
+      "mtime": 1780658053771,
+      "url": "sessions/pr/643/dotnet-upgrade/deployment-to-older-hardware-with-minimum-requirement-changes--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/deployment-to-older-hardware-with-minimum-requirement-changes--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "deployment-to-older-hardware-with-minimum-requirement-changes",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Deployment to older hardware with minimum requirement changes (plugin, run 0)",
+      "mtime": 1780658053774,
+      "url": "sessions/pr/643/dotnet-upgrade/deployment-to-older-hardware-with-minimum-requirement-changes--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/deployment-to-older-hardware-with-minimum-requirement-changes--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "ef-core-app-with-cosmos-db-provider-using-sync-apis",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / EF Core app with Cosmos DB provider using sync APIs (baseline, run 0)",
+      "mtime": 1780658053777,
+      "url": "sessions/pr/643/dotnet-upgrade/ef-core-app-with-cosmos-db-provider-using-sync-apis--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/ef-core-app-with-cosmos-db-provider-using-sync-apis--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "ef-core-app-with-cosmos-db-provider-using-sync-apis",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / EF Core app with Cosmos DB provider using sync APIs (isolated, run 0)",
+      "mtime": 1780658053780,
+      "url": "sessions/pr/643/dotnet-upgrade/ef-core-app-with-cosmos-db-provider-using-sync-apis--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/ef-core-app-with-cosmos-db-provider-using-sync-apis--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "ef-core-app-with-cosmos-db-provider-using-sync-apis",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / EF Core app with Cosmos DB provider using sync APIs (plugin, run 0)",
+      "mtime": 1780658053783,
+      "url": "sessions/pr/643/dotnet-upgrade/ef-core-app-with-cosmos-db-provider-using-sync-apis--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/ef-core-app-with-cosmos-db-provider-using-sync-apis--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "asp-net-core-app-with-di-validation--forwarded-headers--and-httpclientfactory-casting",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / ASP.NET Core app with DI validation, forwarded headers, and HttpClientFactory casting (baseline, run 0)",
+      "mtime": 1780658053787,
+      "url": "sessions/pr/643/dotnet-upgrade/asp-net-core-app-with-di-validation--forwarded-headers--and-httpclientfactory-casting--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/asp-net-core-app-with-di-validation--forwarded-headers--and-httpclientfactory-casting--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "asp-net-core-app-with-di-validation--forwarded-headers--and-httpclientfactory-casting",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / ASP.NET Core app with DI validation, forwarded headers, and HttpClientFactory casting (isolated, run 0)",
+      "mtime": 1780658053792,
+      "url": "sessions/pr/643/dotnet-upgrade/asp-net-core-app-with-di-validation--forwarded-headers--and-httpclientfactory-casting--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/asp-net-core-app-with-di-validation--forwarded-headers--and-httpclientfactory-casting--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "asp-net-core-app-with-di-validation--forwarded-headers--and-httpclientfactory-casting",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / ASP.NET Core app with DI validation, forwarded headers, and HttpClientFactory casting (plugin, run 0)",
+      "mtime": 1780658053796,
+      "url": "sessions/pr/643/dotnet-upgrade/asp-net-core-app-with-di-validation--forwarded-headers--and-httpclientfactory-casting--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/asp-net-core-app-with-di-validation--forwarded-headers--and-httpclientfactory-casting--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "app-with-jsondocument-null-deserialization-and-binaryformatter-fallback",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / App with JsonDocument null deserialization and BinaryFormatter fallback (baseline, run 0)",
+      "mtime": 1780658053799,
+      "url": "sessions/pr/643/dotnet-upgrade/app-with-jsondocument-null-deserialization-and-binaryformatter-fallback--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/app-with-jsondocument-null-deserialization-and-binaryformatter-fallback--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "app-with-jsondocument-null-deserialization-and-binaryformatter-fallback",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / App with JsonDocument null deserialization and BinaryFormatter fallback (isolated, run 0)",
+      "mtime": 1780658053802,
+      "url": "sessions/pr/643/dotnet-upgrade/app-with-jsondocument-null-deserialization-and-binaryformatter-fallback--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/app-with-jsondocument-null-deserialization-and-binaryformatter-fallback--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "app-with-jsondocument-null-deserialization-and-binaryformatter-fallback",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / App with JsonDocument null deserialization and BinaryFormatter fallback (plugin, run 0)",
+      "mtime": 1780658053805,
+      "url": "sessions/pr/643/dotnet-upgrade/app-with-jsondocument-null-deserialization-and-binaryformatter-fallback--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/app-with-jsondocument-null-deserialization-and-binaryformatter-fallback--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "app-with-empty-environment-variables--zip-encoding--and-keyed-di-services",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / App with empty environment variables, ZIP encoding, and keyed DI services (baseline, run 0)",
+      "mtime": 1780658053811,
+      "url": "sessions/pr/643/dotnet-upgrade/app-with-empty-environment-variables--zip-encoding--and-keyed-di-services--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/app-with-empty-environment-variables--zip-encoding--and-keyed-di-services--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "app-with-empty-environment-variables--zip-encoding--and-keyed-di-services",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / App with empty environment variables, ZIP encoding, and keyed DI services (isolated, run 0)",
+      "mtime": 1780658053816,
+      "url": "sessions/pr/643/dotnet-upgrade/app-with-empty-environment-variables--zip-encoding--and-keyed-di-services--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/app-with-empty-environment-variables--zip-encoding--and-keyed-di-services--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "app-with-empty-environment-variables--zip-encoding--and-keyed-di-services",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / App with empty environment variables, ZIP encoding, and keyed DI services (plugin, run 0)",
+      "mtime": 1780658053819,
+      "url": "sessions/pr/643/dotnet-upgrade/app-with-empty-environment-variables--zip-encoding--and-keyed-di-services--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/app-with-empty-environment-variables--zip-encoding--and-keyed-di-services--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "c--13-compiler-breaking-changes---inlinearray-on-record--iterator-safe-context--collection-expressions",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / C# 13 compiler breaking changes — InlineArray on record, iterator safe context, collection expressions (baseline, run 0)",
+      "mtime": 1780658053823,
+      "url": "sessions/pr/643/dotnet-upgrade/c--13-compiler-breaking-changes---inlinearray-on-record--iterator-safe-context--collection-expressions--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/c--13-compiler-breaking-changes---inlinearray-on-record--iterator-safe-context--collection-expressions--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "c--13-compiler-breaking-changes---inlinearray-on-record--iterator-safe-context--collection-expressions",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / C# 13 compiler breaking changes — InlineArray on record, iterator safe context, collection expressions (isolated, run 0)",
+      "mtime": 1780658053826,
+      "url": "sessions/pr/643/dotnet-upgrade/c--13-compiler-breaking-changes---inlinearray-on-record--iterator-safe-context--collection-expressions--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/c--13-compiler-breaking-changes---inlinearray-on-record--iterator-safe-context--collection-expressions--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "c--13-compiler-breaking-changes---inlinearray-on-record--iterator-safe-context--collection-expressions",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / C# 13 compiler breaking changes — InlineArray on record, iterator safe context, collection expressions (plugin, run 0)",
+      "mtime": 1780658053830,
+      "url": "sessions/pr/643/dotnet-upgrade/c--13-compiler-breaking-changes---inlinearray-on-record--iterator-safe-context--collection-expressions--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/c--13-compiler-breaking-changes---inlinearray-on-record--iterator-safe-context--collection-expressions--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "ci-pipeline-with-terminal-logger-parsing-and-version-constraints",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / CI pipeline with Terminal Logger parsing and version constraints (baseline, run 0)",
+      "mtime": 1780658053833,
+      "url": "sessions/pr/643/dotnet-upgrade/ci-pipeline-with-terminal-logger-parsing-and-version-constraints--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/ci-pipeline-with-terminal-logger-parsing-and-version-constraints--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "ci-pipeline-with-terminal-logger-parsing-and-version-constraints",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / CI pipeline with Terminal Logger parsing and version constraints (isolated, run 0)",
+      "mtime": 1780658053836,
+      "url": "sessions/pr/643/dotnet-upgrade/ci-pipeline-with-terminal-logger-parsing-and-version-constraints--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/ci-pipeline-with-terminal-logger-parsing-and-version-constraints--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "ci-pipeline-with-terminal-logger-parsing-and-version-constraints",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / CI pipeline with Terminal Logger parsing and version constraints (plugin, run 0)",
+      "mtime": 1780658053840,
+      "url": "sessions/pr/643/dotnet-upgrade/ci-pipeline-with-terminal-logger-parsing-and-version-constraints--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/ci-pipeline-with-terminal-logger-parsing-and-version-constraints--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "containerized-app-with-env-var-precedence-reversal-and-zlib-removal",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Containerized app with env var precedence reversal and zlib removal (baseline, run 0)",
+      "mtime": 1780658053843,
+      "url": "sessions/pr/643/dotnet-upgrade/containerized-app-with-env-var-precedence-reversal-and-zlib-removal--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/containerized-app-with-env-var-precedence-reversal-and-zlib-removal--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "containerized-app-with-env-var-precedence-reversal-and-zlib-removal",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Containerized app with env var precedence reversal and zlib removal (isolated, run 0)",
+      "mtime": 1780658053846,
+      "url": "sessions/pr/643/dotnet-upgrade/containerized-app-with-env-var-precedence-reversal-and-zlib-removal--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/containerized-app-with-env-var-precedence-reversal-and-zlib-removal--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "containerized-app-with-env-var-precedence-reversal-and-zlib-removal",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Containerized app with env var precedence reversal and zlib removal (plugin, run 0)",
+      "mtime": 1780658053849,
+      "url": "sessions/pr/643/dotnet-upgrade/containerized-app-with-env-var-precedence-reversal-and-zlib-removal--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/containerized-app-with-env-var-precedence-reversal-and-zlib-removal--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "containerized-app-with-zlib-dependency-and-runtime-configuration",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Containerized app with zlib dependency and runtime configuration (baseline, run 0)",
+      "mtime": 1780658053853,
+      "url": "sessions/pr/643/dotnet-upgrade/containerized-app-with-zlib-dependency-and-runtime-configuration--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/containerized-app-with-zlib-dependency-and-runtime-configuration--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "containerized-app-with-zlib-dependency-and-runtime-configuration",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Containerized app with zlib dependency and runtime configuration (isolated, run 0)",
+      "mtime": 1780658053856,
+      "url": "sessions/pr/643/dotnet-upgrade/containerized-app-with-zlib-dependency-and-runtime-configuration--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/containerized-app-with-zlib-dependency-and-runtime-configuration--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "containerized-app-with-zlib-dependency-and-runtime-configuration",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Containerized app with zlib dependency and runtime configuration (plugin, run 0)",
+      "mtime": 1780658053860,
+      "url": "sessions/pr/643/dotnet-upgrade/containerized-app-with-zlib-dependency-and-runtime-configuration--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/containerized-app-with-zlib-dependency-and-runtime-configuration--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "ef-core-cosmos-db-app-with-discriminator-and-sync-i-o",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / EF Core Cosmos DB app with discriminator and sync I/O (baseline, run 0)",
+      "mtime": 1780658053863,
+      "url": "sessions/pr/643/dotnet-upgrade/ef-core-cosmos-db-app-with-discriminator-and-sync-i-o--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/ef-core-cosmos-db-app-with-discriminator-and-sync-i-o--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "ef-core-cosmos-db-app-with-discriminator-and-sync-i-o",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / EF Core Cosmos DB app with discriminator and sync I/O (isolated, run 0)",
+      "mtime": 1780658053866,
+      "url": "sessions/pr/643/dotnet-upgrade/ef-core-cosmos-db-app-with-discriminator-and-sync-i-o--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/ef-core-cosmos-db-app-with-discriminator-and-sync-i-o--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "ef-core-cosmos-db-app-with-discriminator-and-sync-i-o",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / EF Core Cosmos DB app with discriminator and sync I/O (plugin, run 0)",
+      "mtime": 1780658053870,
+      "url": "sessions/pr/643/dotnet-upgrade/ef-core-cosmos-db-app-with-discriminator-and-sync-i-o--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/ef-core-cosmos-db-app-with-discriminator-and-sync-i-o--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "ef-core-cosmos-db-app-with-existing-documents-and-composite-id-format",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / EF Core Cosmos DB app with existing documents and composite id format (baseline, run 0)",
+      "mtime": 1780658053873,
+      "url": "sessions/pr/643/dotnet-upgrade/ef-core-cosmos-db-app-with-existing-documents-and-composite-id-format--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/ef-core-cosmos-db-app-with-existing-documents-and-composite-id-format--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "ef-core-cosmos-db-app-with-existing-documents-and-composite-id-format",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / EF Core Cosmos DB app with existing documents and composite id format (isolated, run 0)",
+      "mtime": 1780658053876,
+      "url": "sessions/pr/643/dotnet-upgrade/ef-core-cosmos-db-app-with-existing-documents-and-composite-id-format--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/ef-core-cosmos-db-app-with-existing-documents-and-composite-id-format--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "ef-core-cosmos-db-app-with-existing-documents-and-composite-id-format",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / EF Core Cosmos DB app with existing documents and composite id format (plugin, run 0)",
+      "mtime": 1780658053880,
+      "url": "sessions/pr/643/dotnet-upgrade/ef-core-cosmos-db-app-with-existing-documents-and-composite-id-format--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/ef-core-cosmos-db-app-with-existing-documents-and-composite-id-format--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "ef-core-app-with-migration-patterns-and-cosmos-db-discriminator",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / EF Core app with migration patterns and Cosmos DB discriminator (baseline, run 0)",
+      "mtime": 1780658053883,
+      "url": "sessions/pr/643/dotnet-upgrade/ef-core-app-with-migration-patterns-and-cosmos-db-discriminator--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/ef-core-app-with-migration-patterns-and-cosmos-db-discriminator--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "ef-core-app-with-migration-patterns-and-cosmos-db-discriminator",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / EF Core app with migration patterns and Cosmos DB discriminator (isolated, run 0)",
+      "mtime": 1780658053887,
+      "url": "sessions/pr/643/dotnet-upgrade/ef-core-app-with-migration-patterns-and-cosmos-db-discriminator--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/ef-core-app-with-migration-patterns-and-cosmos-db-discriminator--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "ef-core-app-with-migration-patterns-and-cosmos-db-discriminator",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / EF Core app with migration patterns and Cosmos DB discriminator (plugin, run 0)",
+      "mtime": 1780658053890,
+      "url": "sessions/pr/643/dotnet-upgrade/ef-core-app-with-migration-patterns-and-cosmos-db-discriminator--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/ef-core-app-with-migration-patterns-and-cosmos-db-discriminator--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "library-with-string-trim-span-overload--keyed-services--and-inlinearray",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Library with String.Trim span overload, keyed services, and InlineArray (baseline, run 0)",
+      "mtime": 1780658053895,
+      "url": "sessions/pr/643/dotnet-upgrade/library-with-string-trim-span-overload--keyed-services--and-inlinearray--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/library-with-string-trim-span-overload--keyed-services--and-inlinearray--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "library-with-string-trim-span-overload--keyed-services--and-inlinearray",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Library with String.Trim span overload, keyed services, and InlineArray (isolated, run 0)",
+      "mtime": 1780658053899,
+      "url": "sessions/pr/643/dotnet-upgrade/library-with-string-trim-span-overload--keyed-services--and-inlinearray--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/library-with-string-trim-span-overload--keyed-services--and-inlinearray--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "library-with-string-trim-span-overload--keyed-services--and-inlinearray",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Library with String.Trim span overload, keyed services, and InlineArray (plugin, run 0)",
+      "mtime": 1780658053902,
+      "url": "sessions/pr/643/dotnet-upgrade/library-with-string-trim-span-overload--keyed-services--and-inlinearray--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/library-with-string-trim-span-overload--keyed-services--and-inlinearray--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "winforms-app-with-custom-usercontrols-and-picturebox-url-loading",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / WinForms app with custom UserControls and PictureBox URL loading (baseline, run 0)",
+      "mtime": 1780658053906,
+      "url": "sessions/pr/643/dotnet-upgrade/winforms-app-with-custom-usercontrols-and-picturebox-url-loading--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/winforms-app-with-custom-usercontrols-and-picturebox-url-loading--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "winforms-app-with-custom-usercontrols-and-picturebox-url-loading",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / WinForms app with custom UserControls and PictureBox URL loading (isolated, run 0)",
+      "mtime": 1780658053909,
+      "url": "sessions/pr/643/dotnet-upgrade/winforms-app-with-custom-usercontrols-and-picturebox-url-loading--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/winforms-app-with-custom-usercontrols-and-picturebox-url-loading--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "winforms-app-with-custom-usercontrols-and-picturebox-url-loading",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / WinForms app with custom UserControls and PictureBox URL loading (plugin, run 0)",
+      "mtime": 1780658053913,
+      "url": "sessions/pr/643/dotnet-upgrade/winforms-app-with-custom-usercontrols-and-picturebox-url-loading--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/winforms-app-with-custom-usercontrols-and-picturebox-url-loading--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "asp-net-core-app-with-openapi-transformers-using-microsoft-openapi-v1-apis",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / ASP.NET Core app with OpenAPI transformers using Microsoft.OpenApi v1 APIs (baseline, run 0)",
+      "mtime": 1780658053916,
+      "url": "sessions/pr/643/dotnet-upgrade/asp-net-core-app-with-openapi-transformers-using-microsoft-openapi-v1-apis--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/asp-net-core-app-with-openapi-transformers-using-microsoft-openapi-v1-apis--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "asp-net-core-app-with-openapi-transformers-using-microsoft-openapi-v1-apis",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / ASP.NET Core app with OpenAPI transformers using Microsoft.OpenApi v1 APIs (isolated, run 0)",
+      "mtime": 1780658053919,
+      "url": "sessions/pr/643/dotnet-upgrade/asp-net-core-app-with-openapi-transformers-using-microsoft-openapi-v1-apis--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/asp-net-core-app-with-openapi-transformers-using-microsoft-openapi-v1-apis--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "asp-net-core-app-with-openapi-transformers-using-microsoft-openapi-v1-apis",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / ASP.NET Core app with OpenAPI transformers using Microsoft.OpenApi v1 APIs (plugin, run 0)",
+      "mtime": 1780658053923,
+      "url": "sessions/pr/643/dotnet-upgrade/asp-net-core-app-with-openapi-transformers-using-microsoft-openapi-v1-apis--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/asp-net-core-app-with-openapi-transformers-using-microsoft-openapi-v1-apis--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "asp-net-core-app-with-webhostbuilder--openapi--and-forwarded-headers",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / ASP.NET Core app with WebHostBuilder, OpenAPI, and forwarded headers (baseline, run 0)",
+      "mtime": 1780658053926,
+      "url": "sessions/pr/643/dotnet-upgrade/asp-net-core-app-with-webhostbuilder--openapi--and-forwarded-headers--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/asp-net-core-app-with-webhostbuilder--openapi--and-forwarded-headers--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "asp-net-core-app-with-webhostbuilder--openapi--and-forwarded-headers",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / ASP.NET Core app with WebHostBuilder, OpenAPI, and forwarded headers (isolated, run 0)",
+      "mtime": 1780658053929,
+      "url": "sessions/pr/643/dotnet-upgrade/asp-net-core-app-with-webhostbuilder--openapi--and-forwarded-headers--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/asp-net-core-app-with-webhostbuilder--openapi--and-forwarded-headers--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "asp-net-core-app-with-webhostbuilder--openapi--and-forwarded-headers",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / ASP.NET Core app with WebHostBuilder, OpenAPI, and forwarded headers (plugin, run 0)",
+      "mtime": 1780658053933,
+      "url": "sessions/pr/643/dotnet-upgrade/asp-net-core-app-with-webhostbuilder--openapi--and-forwarded-headers--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/asp-net-core-app-with-webhostbuilder--openapi--and-forwarded-headers--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "app-using-sslstream-properties-and-systemevents",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / App using SslStream properties and SystemEvents (baseline, run 0)",
+      "mtime": 1780658053936,
+      "url": "sessions/pr/643/dotnet-upgrade/app-using-sslstream-properties-and-systemevents--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/app-using-sslstream-properties-and-systemevents--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "app-using-sslstream-properties-and-systemevents",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / App using SslStream properties and SystemEvents (isolated, run 0)",
+      "mtime": 1780658053939,
+      "url": "sessions/pr/643/dotnet-upgrade/app-using-sslstream-properties-and-systemevents--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/app-using-sslstream-properties-and-systemevents--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "app-using-sslstream-properties-and-systemevents",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / App using SslStream properties and SystemEvents (plugin, run 0)",
+      "mtime": 1780658053943,
+      "url": "sessions/pr/643/dotnet-upgrade/app-using-sslstream-properties-and-systemevents--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/app-using-sslstream-properties-and-systemevents--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "blazor-wasm-app-with-generic-math-shift-masking-and-tar-operations",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Blazor WASM app with generic math shift masking and tar operations (baseline, run 0)",
+      "mtime": 1780658053946,
+      "url": "sessions/pr/643/dotnet-upgrade/blazor-wasm-app-with-generic-math-shift-masking-and-tar-operations--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/blazor-wasm-app-with-generic-math-shift-masking-and-tar-operations--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "blazor-wasm-app-with-generic-math-shift-masking-and-tar-operations",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Blazor WASM app with generic math shift masking and tar operations (isolated, run 0)",
+      "mtime": 1780658053950,
+      "url": "sessions/pr/643/dotnet-upgrade/blazor-wasm-app-with-generic-math-shift-masking-and-tar-operations--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/blazor-wasm-app-with-generic-math-shift-masking-and-tar-operations--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "blazor-wasm-app-with-generic-math-shift-masking-and-tar-operations",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Blazor WASM app with generic math shift masking and tar operations (plugin, run 0)",
+      "mtime": 1780658053953,
+      "url": "sessions/pr/643/dotnet-upgrade/blazor-wasm-app-with-generic-math-shift-masking-and-tar-operations--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/blazor-wasm-app-with-generic-math-shift-masking-and-tar-operations--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "c--14-compiler-breaking-changes---field-keyword--extension-keyword--disposal",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / C# 14 compiler breaking changes — field keyword, extension keyword, disposal (baseline, run 0)",
+      "mtime": 1780658053956,
+      "url": "sessions/pr/643/dotnet-upgrade/c--14-compiler-breaking-changes---field-keyword--extension-keyword--disposal--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/c--14-compiler-breaking-changes---field-keyword--extension-keyword--disposal--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "c--14-compiler-breaking-changes---field-keyword--extension-keyword--disposal",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / C# 14 compiler breaking changes — field keyword, extension keyword, disposal (isolated, run 0)",
+      "mtime": 1780658053960,
+      "url": "sessions/pr/643/dotnet-upgrade/c--14-compiler-breaking-changes---field-keyword--extension-keyword--disposal--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/c--14-compiler-breaking-changes---field-keyword--extension-keyword--disposal--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "c--14-compiler-breaking-changes---field-keyword--extension-keyword--disposal",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / C# 14 compiler breaking changes — field keyword, extension keyword, disposal (plugin, run 0)",
+      "mtime": 1780658053963,
+      "url": "sessions/pr/643/dotnet-upgrade/c--14-compiler-breaking-changes---field-keyword--extension-keyword--disposal--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/c--14-compiler-breaking-changes---field-keyword--extension-keyword--disposal--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "console-app-with-system-linq-async--sigterm--and-bufferedstream",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Console app with System.Linq.Async, SIGTERM, and BufferedStream (baseline, run 0)",
+      "mtime": 1780658053967,
+      "url": "sessions/pr/643/dotnet-upgrade/console-app-with-system-linq-async--sigterm--and-bufferedstream--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/console-app-with-system-linq-async--sigterm--and-bufferedstream--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "console-app-with-system-linq-async--sigterm--and-bufferedstream",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Console app with System.Linq.Async, SIGTERM, and BufferedStream (isolated, run 0)",
+      "mtime": 1780658053970,
+      "url": "sessions/pr/643/dotnet-upgrade/console-app-with-system-linq-async--sigterm--and-bufferedstream--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/console-app-with-system-linq-async--sigterm--and-bufferedstream--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "console-app-with-system-linq-async--sigterm--and-bufferedstream",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Console app with System.Linq.Async, SIGTERM, and BufferedStream (plugin, run 0)",
+      "mtime": 1780658053974,
+      "url": "sessions/pr/643/dotnet-upgrade/console-app-with-system-linq-async--sigterm--and-bufferedstream--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/console-app-with-system-linq-async--sigterm--and-bufferedstream--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "containerized-single-file-app-with-p-invoke-and-idispatchex",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Containerized single-file app with P/Invoke and IDispatchEx (baseline, run 0)",
+      "mtime": 1780658053977,
+      "url": "sessions/pr/643/dotnet-upgrade/containerized-single-file-app-with-p-invoke-and-idispatchex--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/containerized-single-file-app-with-p-invoke-and-idispatchex--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "containerized-single-file-app-with-p-invoke-and-idispatchex",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Containerized single-file app with P/Invoke and IDispatchEx (isolated, run 0)",
+      "mtime": 1780658053980,
+      "url": "sessions/pr/643/dotnet-upgrade/containerized-single-file-app-with-p-invoke-and-idispatchex--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/containerized-single-file-app-with-p-invoke-and-idispatchex--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "containerized-single-file-app-with-p-invoke-and-idispatchex",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Containerized single-file app with P/Invoke and IDispatchEx (plugin, run 0)",
+      "mtime": 1780658053984,
+      "url": "sessions/pr/643/dotnet-upgrade/containerized-single-file-app-with-p-invoke-and-idispatchex--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/containerized-single-file-app-with-p-invoke-and-idispatchex--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "cryptography-app-with-openssl--x-509--and-rfc2898derivebytes",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Cryptography app with OpenSSL, X.509, and Rfc2898DeriveBytes (baseline, run 0)",
+      "mtime": 1780658053987,
+      "url": "sessions/pr/643/dotnet-upgrade/cryptography-app-with-openssl--x-509--and-rfc2898derivebytes--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/cryptography-app-with-openssl--x-509--and-rfc2898derivebytes--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "cryptography-app-with-openssl--x-509--and-rfc2898derivebytes",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Cryptography app with OpenSSL, X.509, and Rfc2898DeriveBytes (isolated, run 0)",
+      "mtime": 1780658053990,
+      "url": "sessions/pr/643/dotnet-upgrade/cryptography-app-with-openssl--x-509--and-rfc2898derivebytes--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/cryptography-app-with-openssl--x-509--and-rfc2898derivebytes--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "cryptography-app-with-openssl--x-509--and-rfc2898derivebytes",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Cryptography app with OpenSSL, X.509, and Rfc2898DeriveBytes (plugin, run 0)",
+      "mtime": 1780658053994,
+      "url": "sessions/pr/643/dotnet-upgrade/cryptography-app-with-openssl--x-509--and-rfc2898derivebytes--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/cryptography-app-with-openssl--x-509--and-rfc2898derivebytes--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "ef-core-app-with-azure-sql-json-columns-and-parameterized-collections",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / EF Core app with Azure SQL JSON columns and parameterized collections (baseline, run 0)",
+      "mtime": 1780658053999,
+      "url": "sessions/pr/643/dotnet-upgrade/ef-core-app-with-azure-sql-json-columns-and-parameterized-collections--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/ef-core-app-with-azure-sql-json-columns-and-parameterized-collections--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "ef-core-app-with-azure-sql-json-columns-and-parameterized-collections",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / EF Core app with Azure SQL JSON columns and parameterized collections (isolated, run 0)",
+      "mtime": 1780658054003,
+      "url": "sessions/pr/643/dotnet-upgrade/ef-core-app-with-azure-sql-json-columns-and-parameterized-collections--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/ef-core-app-with-azure-sql-json-columns-and-parameterized-collections--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "ef-core-app-with-azure-sql-json-columns-and-parameterized-collections",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / EF Core app with Azure SQL JSON columns and parameterized collections (plugin, run 0)",
+      "mtime": 1780658054006,
+      "url": "sessions/pr/643/dotnet-upgrade/ef-core-app-with-azure-sql-json-columns-and-parameterized-collections--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/ef-core-app-with-azure-sql-json-columns-and-parameterized-collections--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "ef-core-app-with-dynamic-executeupdate-and-complex-types",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / EF Core app with dynamic ExecuteUpdate and complex types (baseline, run 0)",
+      "mtime": 1780658054010,
+      "url": "sessions/pr/643/dotnet-upgrade/ef-core-app-with-dynamic-executeupdate-and-complex-types--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/ef-core-app-with-dynamic-executeupdate-and-complex-types--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "ef-core-app-with-dynamic-executeupdate-and-complex-types",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / EF Core app with dynamic ExecuteUpdate and complex types (isolated, run 0)",
+      "mtime": 1780658054013,
+      "url": "sessions/pr/643/dotnet-upgrade/ef-core-app-with-dynamic-executeupdate-and-complex-types--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/ef-core-app-with-dynamic-executeupdate-and-complex-types--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "ef-core-app-with-dynamic-executeupdate-and-complex-types",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / EF Core app with dynamic ExecuteUpdate and complex types (plugin, run 0)",
+      "mtime": 1780658054017,
+      "url": "sessions/pr/643/dotnet-upgrade/ef-core-app-with-dynamic-executeupdate-and-complex-types--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/ef-core-app-with-dynamic-executeupdate-and-complex-types--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "expression-tree-code-broken-by-c--14-span-overload-resolution",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Expression tree code broken by C# 14 span overload resolution (baseline, run 0)",
+      "mtime": 1780658054020,
+      "url": "sessions/pr/643/dotnet-upgrade/expression-tree-code-broken-by-c--14-span-overload-resolution--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/expression-tree-code-broken-by-c--14-span-overload-resolution--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "expression-tree-code-broken-by-c--14-span-overload-resolution",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Expression tree code broken by C# 14 span overload resolution (isolated, run 0)",
+      "mtime": 1780658054024,
+      "url": "sessions/pr/643/dotnet-upgrade/expression-tree-code-broken-by-c--14-span-overload-resolution--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/expression-tree-code-broken-by-c--14-span-overload-resolution--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "expression-tree-code-broken-by-c--14-span-overload-resolution",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Expression tree code broken by C# 14 span overload resolution (plugin, run 0)",
+      "mtime": 1780658054027,
+      "url": "sessions/pr/643/dotnet-upgrade/expression-tree-code-broken-by-c--14-span-overload-resolution--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/expression-tree-code-broken-by-c--14-span-overload-resolution--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "json-polymorphism-with-conflicting-property-names-and-xmlserializer",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / JSON polymorphism with conflicting property names and XmlSerializer (baseline, run 0)",
+      "mtime": 1780658054030,
+      "url": "sessions/pr/643/dotnet-upgrade/json-polymorphism-with-conflicting-property-names-and-xmlserializer--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/json-polymorphism-with-conflicting-property-names-and-xmlserializer--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "json-polymorphism-with-conflicting-property-names-and-xmlserializer",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / JSON polymorphism with conflicting property names and XmlSerializer (isolated, run 0)",
+      "mtime": 1780658054034,
+      "url": "sessions/pr/643/dotnet-upgrade/json-polymorphism-with-conflicting-property-names-and-xmlserializer--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/json-polymorphism-with-conflicting-property-names-and-xmlserializer--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "json-polymorphism-with-conflicting-property-names-and-xmlserializer",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / JSON polymorphism with conflicting property names and XmlSerializer (plugin, run 0)",
+      "mtime": 1780658054037,
+      "url": "sessions/pr/643/dotnet-upgrade/json-polymorphism-with-conflicting-property-names-and-xmlserializer--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/json-polymorphism-with-conflicting-property-names-and-xmlserializer--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "library-with-nuget-auditing--transitive-deps--and-inlinearray",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Library with NuGet auditing, transitive deps, and InlineArray (baseline, run 0)",
+      "mtime": 1780658054040,
+      "url": "sessions/pr/643/dotnet-upgrade/library-with-nuget-auditing--transitive-deps--and-inlinearray--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/library-with-nuget-auditing--transitive-deps--and-inlinearray--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "library-with-nuget-auditing--transitive-deps--and-inlinearray",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Library with NuGet auditing, transitive deps, and InlineArray (isolated, run 0)",
+      "mtime": 1780658054044,
+      "url": "sessions/pr/643/dotnet-upgrade/library-with-nuget-auditing--transitive-deps--and-inlinearray--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/library-with-nuget-auditing--transitive-deps--and-inlinearray--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "library-with-nuget-auditing--transitive-deps--and-inlinearray",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Library with NuGet auditing, transitive deps, and InlineArray (plugin, run 0)",
+      "mtime": 1780658054047,
+      "url": "sessions/pr/643/dotnet-upgrade/library-with-nuget-auditing--transitive-deps--and-inlinearray--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/library-with-nuget-auditing--transitive-deps--and-inlinearray--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "sdk-and-nuget-obscure-tooling-changes",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / SDK and NuGet obscure tooling changes (baseline, run 0)",
+      "mtime": 1780658054050,
+      "url": "sessions/pr/643/dotnet-upgrade/sdk-and-nuget-obscure-tooling-changes--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/sdk-and-nuget-obscure-tooling-changes--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "sdk-and-nuget-obscure-tooling-changes",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / SDK and NuGet obscure tooling changes (isolated, run 0)",
+      "mtime": 1780658054054,
+      "url": "sessions/pr/643/dotnet-upgrade/sdk-and-nuget-obscure-tooling-changes--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/sdk-and-nuget-obscure-tooling-changes--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "sdk-and-nuget-obscure-tooling-changes",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / SDK and NuGet obscure tooling changes (plugin, run 0)",
+      "mtime": 1780658054057,
+      "url": "sessions/pr/643/dotnet-upgrade/sdk-and-nuget-obscure-tooling-changes--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/sdk-and-nuget-obscure-tooling-changes--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "sqlite-app-with-datetimeoffset-timezone-handling",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / SQLite app with DateTimeOffset timezone handling (baseline, run 0)",
+      "mtime": 1780658054060,
+      "url": "sessions/pr/643/dotnet-upgrade/sqlite-app-with-datetimeoffset-timezone-handling--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/sqlite-app-with-datetimeoffset-timezone-handling--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "sqlite-app-with-datetimeoffset-timezone-handling",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / SQLite app with DateTimeOffset timezone handling (isolated, run 0)",
+      "mtime": 1780658054064,
+      "url": "sessions/pr/643/dotnet-upgrade/sqlite-app-with-datetimeoffset-timezone-handling--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/sqlite-app-with-datetimeoffset-timezone-handling--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "sqlite-app-with-datetimeoffset-timezone-handling",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / SQLite app with DateTimeOffset timezone handling (plugin, run 0)",
+      "mtime": 1780658054067,
+      "url": "sessions/pr/643/dotnet-upgrade/sqlite-app-with-datetimeoffset-timezone-handling--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/sqlite-app-with-datetimeoffset-timezone-handling--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "winforms-and-wpf-desktop-app-with-system-drawing-and-dynamicresource",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / WinForms and WPF desktop app with System.Drawing and DynamicResource (baseline, run 0)",
+      "mtime": 1780658054071,
+      "url": "sessions/pr/643/dotnet-upgrade/winforms-and-wpf-desktop-app-with-system-drawing-and-dynamicresource--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/winforms-and-wpf-desktop-app-with-system-drawing-and-dynamicresource--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "winforms-and-wpf-desktop-app-with-system-drawing-and-dynamicresource",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / WinForms and WPF desktop app with System.Drawing and DynamicResource (isolated, run 0)",
+      "mtime": 1780658054074,
+      "url": "sessions/pr/643/dotnet-upgrade/winforms-and-wpf-desktop-app-with-system-drawing-and-dynamicresource--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/winforms-and-wpf-desktop-app-with-system-drawing-and-dynamicresource--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "winforms-and-wpf-desktop-app-with-system-drawing-and-dynamicresource",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / WinForms and WPF desktop app with System.Drawing and DynamicResource (plugin, run 0)",
+      "mtime": 1780658054078,
+      "url": "sessions/pr/643/dotnet-upgrade/winforms-and-wpf-desktop-app-with-system-drawing-and-dynamicresource--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/winforms-and-wpf-desktop-app-with-system-drawing-and-dynamicresource--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "worker-service-with-config-null-array-binding-and-provideralias-assembly-change",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Worker service with config null array binding and ProviderAlias assembly change (baseline, run 0)",
+      "mtime": 1780658054082,
+      "url": "sessions/pr/643/dotnet-upgrade/worker-service-with-config-null-array-binding-and-provideralias-assembly-change--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/worker-service-with-config-null-array-binding-and-provideralias-assembly-change--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "worker-service-with-config-null-array-binding-and-provideralias-assembly-change",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Worker service with config null array binding and ProviderAlias assembly change (isolated, run 0)",
+      "mtime": 1780658054085,
+      "url": "sessions/pr/643/dotnet-upgrade/worker-service-with-config-null-array-binding-and-provideralias-assembly-change--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/worker-service-with-config-null-array-binding-and-provideralias-assembly-change--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "worker-service-with-config-null-array-binding-and-provideralias-assembly-change",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Worker service with config null array binding and ProviderAlias assembly change (plugin, run 0)",
+      "mtime": 1780658054089,
+      "url": "sessions/pr/643/dotnet-upgrade/worker-service-with-config-null-array-binding-and-provideralias-assembly-change--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/worker-service-with-config-null-array-binding-and-provideralias-assembly-change--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "enable-nrt-in-asp-net-core-web-api-with-ef-core",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Enable NRT in ASP.NET Core Web API with EF Core (baseline, run 0)",
+      "mtime": 1780658054092,
+      "url": "sessions/pr/643/dotnet-upgrade/enable-nrt-in-asp-net-core-web-api-with-ef-core--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/enable-nrt-in-asp-net-core-web-api-with-ef-core--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "enable-nrt-in-asp-net-core-web-api-with-ef-core",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Enable NRT in ASP.NET Core Web API with EF Core (isolated, run 0)",
+      "mtime": 1780658054095,
+      "url": "sessions/pr/643/dotnet-upgrade/enable-nrt-in-asp-net-core-web-api-with-ef-core--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/enable-nrt-in-asp-net-core-web-api-with-ef-core--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "enable-nrt-in-asp-net-core-web-api-with-ef-core",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Enable NRT in ASP.NET Core Web API with EF Core (plugin, run 0)",
+      "mtime": 1780658054099,
+      "url": "sessions/pr/643/dotnet-upgrade/enable-nrt-in-asp-net-core-web-api-with-ef-core--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/enable-nrt-in-asp-net-core-web-api-with-ef-core--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "enable-nrt-in-a-small-library-with-mixed-nullability",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Enable NRT in a small library with mixed nullability (baseline, run 0)",
+      "mtime": 1780658054104,
+      "url": "sessions/pr/643/dotnet-upgrade/enable-nrt-in-a-small-library-with-mixed-nullability--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/enable-nrt-in-a-small-library-with-mixed-nullability--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "enable-nrt-in-a-small-library-with-mixed-nullability",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Enable NRT in a small library with mixed nullability (isolated, run 0)",
+      "mtime": 1780658054108,
+      "url": "sessions/pr/643/dotnet-upgrade/enable-nrt-in-a-small-library-with-mixed-nullability--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/enable-nrt-in-a-small-library-with-mixed-nullability--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "enable-nrt-in-a-small-library-with-mixed-nullability",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Enable NRT in a small library with mixed nullability (plugin, run 0)",
+      "mtime": 1780658054112,
+      "url": "sessions/pr/643/dotnet-upgrade/enable-nrt-in-a-small-library-with-mixed-nullability--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/enable-nrt-in-a-small-library-with-mixed-nullability--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "file-by-file-migration--only-modify-the-targeted-file",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / File-by-file migration: only modify the targeted file (baseline, run 0)",
+      "mtime": 1780658054115,
+      "url": "sessions/pr/643/dotnet-upgrade/file-by-file-migration--only-modify-the-targeted-file--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/file-by-file-migration--only-modify-the-targeted-file--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "file-by-file-migration--only-modify-the-targeted-file",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / File-by-file migration: only modify the targeted file (isolated, run 0)",
+      "mtime": 1780658054118,
+      "url": "sessions/pr/643/dotnet-upgrade/file-by-file-migration--only-modify-the-targeted-file--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/file-by-file-migration--only-modify-the-targeted-file--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "file-by-file-migration--only-modify-the-targeted-file",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / File-by-file migration: only modify the targeted file (plugin, run 0)",
+      "mtime": 1780658054122,
+      "url": "sessions/pr/643/dotnet-upgrade/file-by-file-migration--only-modify-the-targeted-file--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/file-by-file-migration--only-modify-the-targeted-file--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "asp-net-response-end-and-response-redirect-with-thread-abort",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / ASP.NET Response.End and Response.Redirect with Thread.Abort (baseline, run 0)",
+      "mtime": 1780658054125,
+      "url": "sessions/pr/643/dotnet-upgrade/asp-net-response-end-and-response-redirect-with-thread-abort--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/asp-net-response-end-and-response-redirect-with-thread-abort--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "asp-net-response-end-and-response-redirect-with-thread-abort",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / ASP.NET Response.End and Response.Redirect with Thread.Abort (isolated, run 0)",
+      "mtime": 1780658054129,
+      "url": "sessions/pr/643/dotnet-upgrade/asp-net-response-end-and-response-redirect-with-thread-abort--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/asp-net-response-end-and-response-redirect-with-thread-abort--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "asp-net-response-end-and-response-redirect-with-thread-abort",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / ASP.NET Response.End and Response.Redirect with Thread.Abort (plugin, run 0)",
+      "mtime": 1780658054132,
+      "url": "sessions/pr/643/dotnet-upgrade/asp-net-response-end-and-response-redirect-with-thread-abort--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/asp-net-response-end-and-response-redirect-with-thread-abort--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "blocking-waithandle-with-thread-interrupt",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Blocking WaitHandle with Thread.Interrupt (baseline, run 0)",
+      "mtime": 1780658054135,
+      "url": "sessions/pr/643/dotnet-upgrade/blocking-waithandle-with-thread-interrupt--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/blocking-waithandle-with-thread-interrupt--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "blocking-waithandle-with-thread-interrupt",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Blocking WaitHandle with Thread.Interrupt (isolated, run 0)",
+      "mtime": 1780658054139,
+      "url": "sessions/pr/643/dotnet-upgrade/blocking-waithandle-with-thread-interrupt--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/blocking-waithandle-with-thread-interrupt--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "blocking-waithandle-with-thread-interrupt",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Blocking WaitHandle with Thread.Interrupt (plugin, run 0)",
+      "mtime": 1780658054143,
+      "url": "sessions/pr/643/dotnet-upgrade/blocking-waithandle-with-thread-interrupt--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/blocking-waithandle-with-thread-interrupt--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "thread-join-and-thread-sleep-only---should-not-migrate",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Thread.Join and Thread.Sleep only — should not migrate (baseline, run 0)",
+      "mtime": 1780658054148,
+      "url": "sessions/pr/643/dotnet-upgrade/thread-join-and-thread-sleep-only---should-not-migrate--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/thread-join-and-thread-sleep-only---should-not-migrate--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "thread-join-and-thread-sleep-only---should-not-migrate",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Thread.Join and Thread.Sleep only — should not migrate (isolated, run 0)",
+      "mtime": 1780658054153,
+      "url": "sessions/pr/643/dotnet-upgrade/thread-join-and-thread-sleep-only---should-not-migrate--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/thread-join-and-thread-sleep-only---should-not-migrate--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "thread-join-and-thread-sleep-only---should-not-migrate",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Thread.Join and Thread.Sleep only — should not migrate (plugin, run 0)",
+      "mtime": 1780658054158,
+      "url": "sessions/pr/643/dotnet-upgrade/thread-join-and-thread-sleep-only---should-not-migrate--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/thread-join-and-thread-sleep-only---should-not-migrate--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "timeout-enforcement-via-thread-abort",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Timeout enforcement via Thread.Abort (baseline, run 0)",
+      "mtime": 1780658054163,
+      "url": "sessions/pr/643/dotnet-upgrade/timeout-enforcement-via-thread-abort--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/timeout-enforcement-via-thread-abort--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "timeout-enforcement-via-thread-abort",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Timeout enforcement via Thread.Abort (isolated, run 0)",
+      "mtime": 1780658054167,
+      "url": "sessions/pr/643/dotnet-upgrade/timeout-enforcement-via-thread-abort--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/timeout-enforcement-via-thread-abort--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "timeout-enforcement-via-thread-abort",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Timeout enforcement via Thread.Abort (plugin, run 0)",
+      "mtime": 1780658054170,
+      "url": "sessions/pr/643/dotnet-upgrade/timeout-enforcement-via-thread-abort--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/timeout-enforcement-via-thread-abort--plugin--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "baseline",
+        "worker-thread-with-abort-based-cancellation",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Worker thread with abort-based cancellation (baseline, run 0)",
+      "mtime": 1780658054173,
+      "url": "sessions/pr/643/dotnet-upgrade/worker-thread-with-abort-based-cancellation--baseline--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/worker-thread-with-abort-based-cancellation--baseline--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "isolated",
+        "worker-thread-with-abort-based-cancellation",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Worker thread with abort-based cancellation (isolated, run 0)",
+      "mtime": 1780658054177,
+      "url": "sessions/pr/643/dotnet-upgrade/worker-thread-with-abort-based-cancellation--isolated--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/worker-thread-with-abort-based-cancellation--isolated--run0"
+    },
+    {
+      "tags": [
+        "pr",
+        "dotnet-upgrade",
+        "plugin",
+        "worker-thread-with-abort-based-cancellation",
+        "pr-643"
+      ],
+      "name": "dotnet-upgrade / Worker thread with abort-based cancellation (plugin, run 0)",
+      "mtime": 1780658054180,
+      "url": "sessions/pr/643/dotnet-upgrade/worker-thread-with-abort-based-cancellation--plugin--run0.jsonl",
+      "id": "pr/643/dotnet-upgrade/worker-thread-with-abort-based-cancellation--plugin--run0"
+    },
     {
       "name": "dotnet-ai / Create an HTTP MCP server with tools and resources (baseline, run 0)",
       "id": "pr/720/dotnet-ai/create-an-http-mcp-server-with-tools-and-resources--baseline--run0",
@@ -457029,5 +459173,6 @@
       ],
       "name": "dotnet-experimental / recommend-data-driven-patterns-with-display-names-for-unclear-parameters (plugin)"
     }
-  ]
+  ],
+  "generated": "2026-06-05T11:14:14.1800000+00:00"
 }
