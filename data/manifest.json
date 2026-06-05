@@ -1,6 +1,825 @@
 {
-  "generated": "2026-06-05T11:03:16.6520000+00:00",
+  "generated": "2026-06-05T11:10:21.3590000+00:00",
   "sessions": [
+    {
+      "name": "dotnet-ai / Create an HTTP MCP server with tools and resources (baseline, run 0)",
+      "id": "pr/720/dotnet-ai/create-an-http-mcp-server-with-tools-and-resources--baseline--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "baseline",
+        "create-an-http-mcp-server-with-tools-and-resources",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/create-an-http-mcp-server-with-tools-and-resources--baseline--run0.jsonl",
+      "mtime": 1780657821135
+    },
+    {
+      "name": "dotnet-ai / Create an HTTP MCP server with tools and resources (isolated, run 0)",
+      "id": "pr/720/dotnet-ai/create-an-http-mcp-server-with-tools-and-resources--isolated--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "isolated",
+        "create-an-http-mcp-server-with-tools-and-resources",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/create-an-http-mcp-server-with-tools-and-resources--isolated--run0.jsonl",
+      "mtime": 1780657821143
+    },
+    {
+      "name": "dotnet-ai / Create an HTTP MCP server with tools and resources (plugin, run 0)",
+      "id": "pr/720/dotnet-ai/create-an-http-mcp-server-with-tools-and-resources--plugin--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "plugin",
+        "create-an-http-mcp-server-with-tools-and-resources",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/create-an-http-mcp-server-with-tools-and-resources--plugin--run0.jsonl",
+      "mtime": 1780657821146
+    },
+    {
+      "name": "dotnet-ai / Create an MCP server with tools, prompts, and proper logging (baseline, run 0)",
+      "id": "pr/720/dotnet-ai/create-an-mcp-server-with-tools--prompts--and-proper-logging--baseline--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "baseline",
+        "create-an-mcp-server-with-tools--prompts--and-proper-logging",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/create-an-mcp-server-with-tools--prompts--and-proper-logging--baseline--run0.jsonl",
+      "mtime": 1780657821149
+    },
+    {
+      "name": "dotnet-ai / Create an MCP server with tools, prompts, and proper logging (isolated, run 0)",
+      "id": "pr/720/dotnet-ai/create-an-mcp-server-with-tools--prompts--and-proper-logging--isolated--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "isolated",
+        "create-an-mcp-server-with-tools--prompts--and-proper-logging",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/create-an-mcp-server-with-tools--prompts--and-proper-logging--isolated--run0.jsonl",
+      "mtime": 1780657821152
+    },
+    {
+      "name": "dotnet-ai / Create an MCP server with tools, prompts, and proper logging (plugin, run 0)",
+      "id": "pr/720/dotnet-ai/create-an-mcp-server-with-tools--prompts--and-proper-logging--plugin--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "plugin",
+        "create-an-mcp-server-with-tools--prompts--and-proper-logging",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/create-an-mcp-server-with-tools--prompts--and-proper-logging--plugin--run0.jsonl",
+      "mtime": 1780657821154
+    },
+    {
+      "name": "dotnet-ai / Implement MCP tools with proper attributes and DI (baseline, run 0)",
+      "id": "pr/720/dotnet-ai/implement-mcp-tools-with-proper-attributes-and-di--baseline--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "baseline",
+        "implement-mcp-tools-with-proper-attributes-and-di",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/implement-mcp-tools-with-proper-attributes-and-di--baseline--run0.jsonl",
+      "mtime": 1780657821157
+    },
+    {
+      "name": "dotnet-ai / Implement MCP tools with proper attributes and DI (isolated, run 0)",
+      "id": "pr/720/dotnet-ai/implement-mcp-tools-with-proper-attributes-and-di--isolated--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "isolated",
+        "implement-mcp-tools-with-proper-attributes-and-di",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/implement-mcp-tools-with-proper-attributes-and-di--isolated--run0.jsonl",
+      "mtime": 1780657821161
+    },
+    {
+      "name": "dotnet-ai / Implement MCP tools with proper attributes and DI (plugin, run 0)",
+      "id": "pr/720/dotnet-ai/implement-mcp-tools-with-proper-attributes-and-di--plugin--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "plugin",
+        "implement-mcp-tools-with-proper-attributes-and-di",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/implement-mcp-tools-with-proper-attributes-and-di--plugin--run0.jsonl",
+      "mtime": 1780657821164
+    },
+    {
+      "name": "dotnet-ai / Configure VS Code to use an MCP server (baseline, run 0)",
+      "id": "pr/720/dotnet-ai/configure-vs-code-to-use-an-mcp-server--baseline--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "baseline",
+        "configure-vs-code-to-use-an-mcp-server",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/configure-vs-code-to-use-an-mcp-server--baseline--run0.jsonl",
+      "mtime": 1780657821167
+    },
+    {
+      "name": "dotnet-ai / Configure VS Code to use an MCP server (isolated, run 0)",
+      "id": "pr/720/dotnet-ai/configure-vs-code-to-use-an-mcp-server--isolated--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "isolated",
+        "configure-vs-code-to-use-an-mcp-server",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/configure-vs-code-to-use-an-mcp-server--isolated--run0.jsonl",
+      "mtime": 1780657821170
+    },
+    {
+      "name": "dotnet-ai / Configure VS Code to use an MCP server (plugin, run 0)",
+      "id": "pr/720/dotnet-ai/configure-vs-code-to-use-an-mcp-server--plugin--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "plugin",
+        "configure-vs-code-to-use-an-mcp-server",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/configure-vs-code-to-use-an-mcp-server--plugin--run0.jsonl",
+      "mtime": 1780657821173
+    },
+    {
+      "name": "dotnet-ai / Debug a failing MCP server tool (baseline, run 0)",
+      "id": "pr/720/dotnet-ai/debug-a-failing-mcp-server-tool--baseline--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "baseline",
+        "debug-a-failing-mcp-server-tool",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/debug-a-failing-mcp-server-tool--baseline--run0.jsonl",
+      "mtime": 1780657821176
+    },
+    {
+      "name": "dotnet-ai / Debug a failing MCP server tool (isolated, run 0)",
+      "id": "pr/720/dotnet-ai/debug-a-failing-mcp-server-tool--isolated--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "isolated",
+        "debug-a-failing-mcp-server-tool",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/debug-a-failing-mcp-server-tool--isolated--run0.jsonl",
+      "mtime": 1780657821179
+    },
+    {
+      "name": "dotnet-ai / Debug a failing MCP server tool (plugin, run 0)",
+      "id": "pr/720/dotnet-ai/debug-a-failing-mcp-server-tool--plugin--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "plugin",
+        "debug-a-failing-mcp-server-tool",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/debug-a-failing-mcp-server-tool--plugin--run0.jsonl",
+      "mtime": 1780657821195
+    },
+    {
+      "name": "dotnet-ai / Debug an MCP server with MCP Inspector (baseline, run 0)",
+      "id": "pr/720/dotnet-ai/debug-an-mcp-server-with-mcp-inspector--baseline--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "baseline",
+        "debug-an-mcp-server-with-mcp-inspector",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/debug-an-mcp-server-with-mcp-inspector--baseline--run0.jsonl",
+      "mtime": 1780657821197
+    },
+    {
+      "name": "dotnet-ai / Debug an MCP server with MCP Inspector (isolated, run 0)",
+      "id": "pr/720/dotnet-ai/debug-an-mcp-server-with-mcp-inspector--isolated--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "isolated",
+        "debug-an-mcp-server-with-mcp-inspector",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/debug-an-mcp-server-with-mcp-inspector--isolated--run0.jsonl",
+      "mtime": 1780657821202
+    },
+    {
+      "name": "dotnet-ai / Debug an MCP server with MCP Inspector (plugin, run 0)",
+      "id": "pr/720/dotnet-ai/debug-an-mcp-server-with-mcp-inspector--plugin--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "plugin",
+        "debug-an-mcp-server-with-mcp-inspector",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/debug-an-mcp-server-with-mcp-inspector--plugin--run0.jsonl",
+      "mtime": 1780657821206
+    },
+    {
+      "name": "dotnet-ai / Deploy an HTTP MCP server to Azure Container Apps (baseline, run 0)",
+      "id": "pr/720/dotnet-ai/deploy-an-http-mcp-server-to-azure-container-apps--baseline--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "baseline",
+        "deploy-an-http-mcp-server-to-azure-container-apps",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/deploy-an-http-mcp-server-to-azure-container-apps--baseline--run0.jsonl",
+      "mtime": 1780657821210
+    },
+    {
+      "name": "dotnet-ai / Deploy an HTTP MCP server to Azure Container Apps (isolated, run 0)",
+      "id": "pr/720/dotnet-ai/deploy-an-http-mcp-server-to-azure-container-apps--isolated--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "isolated",
+        "deploy-an-http-mcp-server-to-azure-container-apps",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/deploy-an-http-mcp-server-to-azure-container-apps--isolated--run0.jsonl",
+      "mtime": 1780657821215
+    },
+    {
+      "name": "dotnet-ai / Deploy an HTTP MCP server to Azure Container Apps (plugin, run 0)",
+      "id": "pr/720/dotnet-ai/deploy-an-http-mcp-server-to-azure-container-apps--plugin--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "plugin",
+        "deploy-an-http-mcp-server-to-azure-container-apps",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/deploy-an-http-mcp-server-to-azure-container-apps--plugin--run0.jsonl",
+      "mtime": 1780657821219
+    },
+    {
+      "name": "dotnet-ai / Publish an MCP server as a NuGet tool package (baseline, run 0)",
+      "id": "pr/720/dotnet-ai/publish-an-mcp-server-as-a-nuget-tool-package--baseline--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "baseline",
+        "publish-an-mcp-server-as-a-nuget-tool-package",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/publish-an-mcp-server-as-a-nuget-tool-package--baseline--run0.jsonl",
+      "mtime": 1780657821223
+    },
+    {
+      "name": "dotnet-ai / Publish an MCP server as a NuGet tool package (isolated, run 0)",
+      "id": "pr/720/dotnet-ai/publish-an-mcp-server-as-a-nuget-tool-package--isolated--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "isolated",
+        "publish-an-mcp-server-as-a-nuget-tool-package",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/publish-an-mcp-server-as-a-nuget-tool-package--isolated--run0.jsonl",
+      "mtime": 1780657821227
+    },
+    {
+      "name": "dotnet-ai / Publish an MCP server as a NuGet tool package (plugin, run 0)",
+      "id": "pr/720/dotnet-ai/publish-an-mcp-server-as-a-nuget-tool-package--plugin--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "plugin",
+        "publish-an-mcp-server-as-a-nuget-tool-package",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/publish-an-mcp-server-as-a-nuget-tool-package--plugin--run0.jsonl",
+      "mtime": 1780657821231
+    },
+    {
+      "name": "dotnet-ai / Publish to the MCP Registry (baseline, run 0)",
+      "id": "pr/720/dotnet-ai/publish-to-the-mcp-registry--baseline--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "baseline",
+        "publish-to-the-mcp-registry",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/publish-to-the-mcp-registry--baseline--run0.jsonl",
+      "mtime": 1780657821235
+    },
+    {
+      "name": "dotnet-ai / Publish to the MCP Registry (isolated, run 0)",
+      "id": "pr/720/dotnet-ai/publish-to-the-mcp-registry--isolated--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "isolated",
+        "publish-to-the-mcp-registry",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/publish-to-the-mcp-registry--isolated--run0.jsonl",
+      "mtime": 1780657821238
+    },
+    {
+      "name": "dotnet-ai / Publish to the MCP Registry (plugin, run 0)",
+      "id": "pr/720/dotnet-ai/publish-to-the-mcp-registry--plugin--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "plugin",
+        "publish-to-the-mcp-registry",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/publish-to-the-mcp-registry--plugin--run0.jsonl",
+      "mtime": 1780657821241
+    },
+    {
+      "name": "dotnet-ai / Create evaluations for an MCP server (baseline, run 0)",
+      "id": "pr/720/dotnet-ai/create-evaluations-for-an-mcp-server--baseline--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "baseline",
+        "create-evaluations-for-an-mcp-server",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/create-evaluations-for-an-mcp-server--baseline--run0.jsonl",
+      "mtime": 1780657821244
+    },
+    {
+      "name": "dotnet-ai / Create evaluations for an MCP server (isolated, run 0)",
+      "id": "pr/720/dotnet-ai/create-evaluations-for-an-mcp-server--isolated--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "isolated",
+        "create-evaluations-for-an-mcp-server",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/create-evaluations-for-an-mcp-server--isolated--run0.jsonl",
+      "mtime": 1780657821247
+    },
+    {
+      "name": "dotnet-ai / Create evaluations for an MCP server (plugin, run 0)",
+      "id": "pr/720/dotnet-ai/create-evaluations-for-an-mcp-server--plugin--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "plugin",
+        "create-evaluations-for-an-mcp-server",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/create-evaluations-for-an-mcp-server--plugin--run0.jsonl",
+      "mtime": 1780657821249
+    },
+    {
+      "name": "dotnet-ai / Test an HTTP MCP server with WebApplicationFactory (baseline, run 0)",
+      "id": "pr/720/dotnet-ai/test-an-http-mcp-server-with-webapplicationfactory--baseline--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "baseline",
+        "test-an-http-mcp-server-with-webapplicationfactory",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/test-an-http-mcp-server-with-webapplicationfactory--baseline--run0.jsonl",
+      "mtime": 1780657821252
+    },
+    {
+      "name": "dotnet-ai / Test an HTTP MCP server with WebApplicationFactory (isolated, run 0)",
+      "id": "pr/720/dotnet-ai/test-an-http-mcp-server-with-webapplicationfactory--isolated--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "isolated",
+        "test-an-http-mcp-server-with-webapplicationfactory",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/test-an-http-mcp-server-with-webapplicationfactory--isolated--run0.jsonl",
+      "mtime": 1780657821255
+    },
+    {
+      "name": "dotnet-ai / Test an HTTP MCP server with WebApplicationFactory (plugin, run 0)",
+      "id": "pr/720/dotnet-ai/test-an-http-mcp-server-with-webapplicationfactory--plugin--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "plugin",
+        "test-an-http-mcp-server-with-webapplicationfactory",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/test-an-http-mcp-server-with-webapplicationfactory--plugin--run0.jsonl",
+      "mtime": 1780657821258
+    },
+    {
+      "name": "dotnet-ai / Write unit and integration tests for an MCP server (baseline, run 0)",
+      "id": "pr/720/dotnet-ai/write-unit-and-integration-tests-for-an-mcp-server--baseline--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "baseline",
+        "write-unit-and-integration-tests-for-an-mcp-server",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/write-unit-and-integration-tests-for-an-mcp-server--baseline--run0.jsonl",
+      "mtime": 1780657821260
+    },
+    {
+      "name": "dotnet-ai / Write unit and integration tests for an MCP server (isolated, run 0)",
+      "id": "pr/720/dotnet-ai/write-unit-and-integration-tests-for-an-mcp-server--isolated--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "isolated",
+        "write-unit-and-integration-tests-for-an-mcp-server",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/write-unit-and-integration-tests-for-an-mcp-server--isolated--run0.jsonl",
+      "mtime": 1780657821263
+    },
+    {
+      "name": "dotnet-ai / Write unit and integration tests for an MCP server (plugin, run 0)",
+      "id": "pr/720/dotnet-ai/write-unit-and-integration-tests-for-an-mcp-server--plugin--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "plugin",
+        "write-unit-and-integration-tests-for-an-mcp-server",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/write-unit-and-integration-tests-for-an-mcp-server--plugin--run0.jsonl",
+      "mtime": 1780657821266
+    },
+    {
+      "name": "dotnet-ai / Agentic workflow with guardrails (baseline, run 0)",
+      "id": "pr/720/dotnet-ai/agentic-workflow-with-guardrails--baseline--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "baseline",
+        "agentic-workflow-with-guardrails",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/agentic-workflow-with-guardrails--baseline--run0.jsonl",
+      "mtime": 1780657821269
+    },
+    {
+      "name": "dotnet-ai / Agentic workflow with guardrails (isolated, run 0)",
+      "id": "pr/720/dotnet-ai/agentic-workflow-with-guardrails--isolated--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "isolated",
+        "agentic-workflow-with-guardrails",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/agentic-workflow-with-guardrails--isolated--run0.jsonl",
+      "mtime": 1780657821272
+    },
+    {
+      "name": "dotnet-ai / Agentic workflow with guardrails (plugin, run 0)",
+      "id": "pr/720/dotnet-ai/agentic-workflow-with-guardrails--plugin--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "plugin",
+        "agentic-workflow-with-guardrails",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/agentic-workflow-with-guardrails--plugin--run0.jsonl",
+      "mtime": 1780657821275
+    },
+    {
+      "name": "dotnet-ai / LLM integration with MEAI abstraction (baseline, run 0)",
+      "id": "pr/720/dotnet-ai/llm-integration-with-meai-abstraction--baseline--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "baseline",
+        "llm-integration-with-meai-abstraction",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/llm-integration-with-meai-abstraction--baseline--run0.jsonl",
+      "mtime": 1780657821277
+    },
+    {
+      "name": "dotnet-ai / LLM integration with MEAI abstraction (isolated, run 0)",
+      "id": "pr/720/dotnet-ai/llm-integration-with-meai-abstraction--isolated--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "isolated",
+        "llm-integration-with-meai-abstraction",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/llm-integration-with-meai-abstraction--isolated--run0.jsonl",
+      "mtime": 1780657821280
+    },
+    {
+      "name": "dotnet-ai / LLM integration with MEAI abstraction (plugin, run 0)",
+      "id": "pr/720/dotnet-ai/llm-integration-with-meai-abstraction--plugin--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "plugin",
+        "llm-integration-with-meai-abstraction",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/llm-integration-with-meai-abstraction--plugin--run0.jsonl",
+      "mtime": 1780657821283
+    },
+    {
+      "name": "dotnet-ai / ML.NET classification on tabular data (baseline, run 0)",
+      "id": "pr/720/dotnet-ai/ml-net-classification-on-tabular-data--baseline--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "baseline",
+        "ml-net-classification-on-tabular-data",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/ml-net-classification-on-tabular-data--baseline--run0.jsonl",
+      "mtime": 1780657821285
+    },
+    {
+      "name": "dotnet-ai / ML.NET classification on tabular data (isolated, run 0)",
+      "id": "pr/720/dotnet-ai/ml-net-classification-on-tabular-data--isolated--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "isolated",
+        "ml-net-classification-on-tabular-data",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/ml-net-classification-on-tabular-data--isolated--run0.jsonl",
+      "mtime": 1780657821288
+    },
+    {
+      "name": "dotnet-ai / ML.NET classification on tabular data (plugin, run 0)",
+      "id": "pr/720/dotnet-ai/ml-net-classification-on-tabular-data--plugin--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "plugin",
+        "ml-net-classification-on-tabular-data",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/ml-net-classification-on-tabular-data--plugin--run0.jsonl",
+      "mtime": 1780657821291
+    },
+    {
+      "name": "dotnet-ai / Natural-language scenario decomposition — RAG chatbot (baseline, run 0)",
+      "id": "pr/720/dotnet-ai/natural-language-scenario-decomposition---rag-chatbot--baseline--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "baseline",
+        "natural-language-scenario-decomposition---rag-chatbot",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/natural-language-scenario-decomposition---rag-chatbot--baseline--run0.jsonl",
+      "mtime": 1780657821294
+    },
+    {
+      "name": "dotnet-ai / Natural-language scenario decomposition — RAG chatbot (isolated, run 0)",
+      "id": "pr/720/dotnet-ai/natural-language-scenario-decomposition---rag-chatbot--isolated--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "isolated",
+        "natural-language-scenario-decomposition---rag-chatbot",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/natural-language-scenario-decomposition---rag-chatbot--isolated--run0.jsonl",
+      "mtime": 1780657821296
+    },
+    {
+      "name": "dotnet-ai / Natural-language scenario decomposition — RAG chatbot (plugin, run 0)",
+      "id": "pr/720/dotnet-ai/natural-language-scenario-decomposition---rag-chatbot--plugin--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "plugin",
+        "natural-language-scenario-decomposition---rag-chatbot",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/natural-language-scenario-decomposition---rag-chatbot--plugin--run0.jsonl",
+      "mtime": 1780657821299
+    },
+    {
+      "name": "dotnet-ai / RAG pipeline with vector search (baseline, run 0)",
+      "id": "pr/720/dotnet-ai/rag-pipeline-with-vector-search--baseline--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "baseline",
+        "rag-pipeline-with-vector-search",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/rag-pipeline-with-vector-search--baseline--run0.jsonl",
+      "mtime": 1780657821302
+    },
+    {
+      "name": "dotnet-ai / RAG pipeline with vector search (isolated, run 0)",
+      "id": "pr/720/dotnet-ai/rag-pipeline-with-vector-search--isolated--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "isolated",
+        "rag-pipeline-with-vector-search",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/rag-pipeline-with-vector-search--isolated--run0.jsonl",
+      "mtime": 1780657821304
+    },
+    {
+      "name": "dotnet-ai / RAG pipeline with vector search (plugin, run 0)",
+      "id": "pr/720/dotnet-ai/rag-pipeline-with-vector-search--plugin--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "plugin",
+        "rag-pipeline-with-vector-search",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/rag-pipeline-with-vector-search--plugin--run0.jsonl",
+      "mtime": 1780657821307
+    },
+    {
+      "name": "dotnet-ai / Reject LLM for tabular classification (baseline, run 0)",
+      "id": "pr/720/dotnet-ai/reject-llm-for-tabular-classification--baseline--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "baseline",
+        "reject-llm-for-tabular-classification",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/reject-llm-for-tabular-classification--baseline--run0.jsonl",
+      "mtime": 1780657821310
+    },
+    {
+      "name": "dotnet-ai / Reject LLM for tabular classification (isolated, run 0)",
+      "id": "pr/720/dotnet-ai/reject-llm-for-tabular-classification--isolated--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "isolated",
+        "reject-llm-for-tabular-classification",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/reject-llm-for-tabular-classification--isolated--run0.jsonl",
+      "mtime": 1780657821313
+    },
+    {
+      "name": "dotnet-ai / Reject LLM for tabular classification (plugin, run 0)",
+      "id": "pr/720/dotnet-ai/reject-llm-for-tabular-classification--plugin--run0",
+      "tags": [
+        "pr",
+        "dotnet-ai",
+        "plugin",
+        "reject-llm-for-tabular-classification",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet-ai/reject-llm-for-tabular-classification--plugin--run0.jsonl",
+      "mtime": 1780657821316
+    },
+    {
+      "name": "dotnet11 / Non-activation: camelCase JSON serialization on .NET 8 (baseline, run 0)",
+      "id": "pr/720/dotnet11/non-activation--camelcase-json-serialization-on--net-8--baseline--run0",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "baseline",
+        "non-activation--camelcase-json-serialization-on--net-8",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet11/non-activation--camelcase-json-serialization-on--net-8--baseline--run0.jsonl",
+      "mtime": 1780657821335
+    },
+    {
+      "name": "dotnet11 / Non-activation: camelCase JSON serialization on .NET 8 (isolated, run 0)",
+      "id": "pr/720/dotnet11/non-activation--camelcase-json-serialization-on--net-8--isolated--run0",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "isolated",
+        "non-activation--camelcase-json-serialization-on--net-8",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet11/non-activation--camelcase-json-serialization-on--net-8--isolated--run0.jsonl",
+      "mtime": 1780657821338
+    },
+    {
+      "name": "dotnet11 / Non-activation: camelCase JSON serialization on .NET 8 (plugin, run 0)",
+      "id": "pr/720/dotnet11/non-activation--camelcase-json-serialization-on--net-8--plugin--run0",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "plugin",
+        "non-activation--camelcase-json-serialization-on--net-8",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet11/non-activation--camelcase-json-serialization-on--net-8--plugin--run0.jsonl",
+      "mtime": 1780657821341
+    },
+    {
+      "name": "dotnet11 / Serialize JSON in .NET 11 with PascalCase property names (baseline, run 0)",
+      "id": "pr/720/dotnet11/serialize-json-in--net-11-with-pascalcase-property-names--baseline--run0",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "baseline",
+        "serialize-json-in--net-11-with-pascalcase-property-names",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet11/serialize-json-in--net-11-with-pascalcase-property-names--baseline--run0.jsonl",
+      "mtime": 1780657821346
+    },
+    {
+      "name": "dotnet11 / Serialize JSON in .NET 11 with PascalCase property names (isolated, run 0)",
+      "id": "pr/720/dotnet11/serialize-json-in--net-11-with-pascalcase-property-names--isolated--run0",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "isolated",
+        "serialize-json-in--net-11-with-pascalcase-property-names",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet11/serialize-json-in--net-11-with-pascalcase-property-names--isolated--run0.jsonl",
+      "mtime": 1780657821349
+    },
+    {
+      "name": "dotnet11 / Serialize JSON in .NET 11 with PascalCase property names (plugin, run 0)",
+      "id": "pr/720/dotnet11/serialize-json-in--net-11-with-pascalcase-property-names--plugin--run0",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "plugin",
+        "serialize-json-in--net-11-with-pascalcase-property-names",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet11/serialize-json-in--net-11-with-pascalcase-property-names--plugin--run0.jsonl",
+      "mtime": 1780657821351
+    },
+    {
+      "name": "dotnet11 / Type-safe JsonTypeInfo access without exceptions in .NET 11 (baseline, run 0)",
+      "id": "pr/720/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--baseline--run0",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "baseline",
+        "type-safe-jsontypeinfo-access-without-exceptions-in--net-11",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--baseline--run0.jsonl",
+      "mtime": 1780657821354
+    },
+    {
+      "name": "dotnet11 / Type-safe JsonTypeInfo access without exceptions in .NET 11 (isolated, run 0)",
+      "id": "pr/720/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--isolated--run0",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "isolated",
+        "type-safe-jsontypeinfo-access-without-exceptions-in--net-11",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--isolated--run0.jsonl",
+      "mtime": 1780657821356
+    },
+    {
+      "name": "dotnet11 / Type-safe JsonTypeInfo access without exceptions in .NET 11 (plugin, run 0)",
+      "id": "pr/720/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--plugin--run0",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "plugin",
+        "type-safe-jsontypeinfo-access-without-exceptions-in--net-11",
+        "pr-720"
+      ],
+      "url": "sessions/pr/720/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--plugin--run0.jsonl",
+      "mtime": 1780657821359
+    },
     {
       "tags": [
         "pr",
