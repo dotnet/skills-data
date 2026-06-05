@@ -1,5 +1,4 @@
 {
-  "generated": "2026-06-05T11:14:14.1800000+00:00",
   "sessions": [
     {
       "tags": [
@@ -459174,5 +459173,6 @@
       ],
       "name": "dotnet-experimental / recommend-data-driven-patterns-with-display-names-for-unclear-parameters (plugin)"
     }
-  ]
+  ],
+  "generated": "2026-06-05T11:14:14.1800000+00:00"
 }
