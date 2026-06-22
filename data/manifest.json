@@ -1,5 +1,4 @@
 {
-  "generated": "2026-06-22T08:37:20.4270000+00:00",
   "sessions": [
     {
       "url": "sessions/pr/794/dotnet-test/does-not-revert-a-gutted-looking-workspace--workspace-integrity---baseline--run0.jsonl",
@@ -412673,5 +412672,6 @@
       "name": "dotnet-msbuild / fix-shared-property-configuration (plugin)",
       "id": "pr/669/dotnet-msbuild/fix-shared-property-configuration--plugin--run2"
     }
-  ]
+  ],
+  "generated": "2026-06-22T08:37:20.4270000+00:00"
 }
