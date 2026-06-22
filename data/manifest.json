@@ -1,5 +1,162 @@
 {
+  "generated": "2026-06-22T18:40:08.8490000+00:00",
   "sessions": [
+    {
+      "url": "sessions/pr/803/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-data",
+        "baseline",
+        "optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete",
+        "pr-803"
+      ],
+      "mtime": 1782153608787,
+      "id": "pr/803/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--baseline--run0",
+      "name": "dotnet-data / Optimize bulk operations with EF Core 7+ ExecuteUpdate and ExecuteDelete (baseline, run 0)"
+    },
+    {
+      "url": "sessions/pr/803/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-data",
+        "isolated",
+        "optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete",
+        "pr-803"
+      ],
+      "mtime": 1782153608794,
+      "id": "pr/803/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--isolated--run0",
+      "name": "dotnet-data / Optimize bulk operations with EF Core 7+ ExecuteUpdate and ExecuteDelete (isolated, run 0)"
+    },
+    {
+      "url": "sessions/pr/803/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-data",
+        "plugin",
+        "optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete",
+        "pr-803"
+      ],
+      "mtime": 1782153608797,
+      "id": "pr/803/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--plugin--run0",
+      "name": "dotnet-data / Optimize bulk operations with EF Core 7+ ExecuteUpdate and ExecuteDelete (plugin, run 0)"
+    },
+    {
+      "url": "sessions/pr/803/dotnet11/non-activation--camelcase-json-serialization-on--net-8--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "baseline",
+        "non-activation--camelcase-json-serialization-on--net-8",
+        "pr-803"
+      ],
+      "mtime": 1782153608825,
+      "id": "pr/803/dotnet11/non-activation--camelcase-json-serialization-on--net-8--baseline--run0",
+      "name": "dotnet11 / Non-activation: camelCase JSON serialization on .NET 8 (baseline, run 0)"
+    },
+    {
+      "url": "sessions/pr/803/dotnet11/non-activation--camelcase-json-serialization-on--net-8--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "isolated",
+        "non-activation--camelcase-json-serialization-on--net-8",
+        "pr-803"
+      ],
+      "mtime": 1782153608828,
+      "id": "pr/803/dotnet11/non-activation--camelcase-json-serialization-on--net-8--isolated--run0",
+      "name": "dotnet11 / Non-activation: camelCase JSON serialization on .NET 8 (isolated, run 0)"
+    },
+    {
+      "url": "sessions/pr/803/dotnet11/non-activation--camelcase-json-serialization-on--net-8--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "plugin",
+        "non-activation--camelcase-json-serialization-on--net-8",
+        "pr-803"
+      ],
+      "mtime": 1782153608831,
+      "id": "pr/803/dotnet11/non-activation--camelcase-json-serialization-on--net-8--plugin--run0",
+      "name": "dotnet11 / Non-activation: camelCase JSON serialization on .NET 8 (plugin, run 0)"
+    },
+    {
+      "url": "sessions/pr/803/dotnet11/serialize-json-in--net-11-with-pascalcase-property-names--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "baseline",
+        "serialize-json-in--net-11-with-pascalcase-property-names",
+        "pr-803"
+      ],
+      "mtime": 1782153608834,
+      "id": "pr/803/dotnet11/serialize-json-in--net-11-with-pascalcase-property-names--baseline--run0",
+      "name": "dotnet11 / Serialize JSON in .NET 11 with PascalCase property names (baseline, run 0)"
+    },
+    {
+      "url": "sessions/pr/803/dotnet11/serialize-json-in--net-11-with-pascalcase-property-names--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "isolated",
+        "serialize-json-in--net-11-with-pascalcase-property-names",
+        "pr-803"
+      ],
+      "mtime": 1782153608837,
+      "id": "pr/803/dotnet11/serialize-json-in--net-11-with-pascalcase-property-names--isolated--run0",
+      "name": "dotnet11 / Serialize JSON in .NET 11 with PascalCase property names (isolated, run 0)"
+    },
+    {
+      "url": "sessions/pr/803/dotnet11/serialize-json-in--net-11-with-pascalcase-property-names--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "plugin",
+        "serialize-json-in--net-11-with-pascalcase-property-names",
+        "pr-803"
+      ],
+      "mtime": 1782153608840,
+      "id": "pr/803/dotnet11/serialize-json-in--net-11-with-pascalcase-property-names--plugin--run0",
+      "name": "dotnet11 / Serialize JSON in .NET 11 with PascalCase property names (plugin, run 0)"
+    },
+    {
+      "url": "sessions/pr/803/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "baseline",
+        "type-safe-jsontypeinfo-access-without-exceptions-in--net-11",
+        "pr-803"
+      ],
+      "mtime": 1782153608843,
+      "id": "pr/803/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--baseline--run0",
+      "name": "dotnet11 / Type-safe JsonTypeInfo access without exceptions in .NET 11 (baseline, run 0)"
+    },
+    {
+      "url": "sessions/pr/803/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "isolated",
+        "type-safe-jsontypeinfo-access-without-exceptions-in--net-11",
+        "pr-803"
+      ],
+      "mtime": 1782153608846,
+      "id": "pr/803/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--isolated--run0",
+      "name": "dotnet11 / Type-safe JsonTypeInfo access without exceptions in .NET 11 (isolated, run 0)"
+    },
+    {
+      "url": "sessions/pr/803/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "plugin",
+        "type-safe-jsontypeinfo-access-without-exceptions-in--net-11",
+        "pr-803"
+      ],
+      "mtime": 1782153608849,
+      "id": "pr/803/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--plugin--run0",
+      "name": "dotnet11 / Type-safe JsonTypeInfo access without exceptions in .NET 11 (plugin, run 0)"
+    },
     {
       "name": "dotnet-test / Decline request to write new tests from scratch (baseline, run 0)",
       "id": "pr/801/dotnet-test/decline-request-to-write-new-tests-from-scratch--baseline--run0",
@@ -413842,6 +413999,5 @@
       "name": "dotnet-msbuild / fix-shared-property-configuration (plugin)",
       "id": "pr/669/dotnet-msbuild/fix-shared-property-configuration--plugin--run2"
     }
-  ],
-  "generated": "2026-06-22T15:15:51.2430000+00:00"
+  ]
 }
