@@ -1,6 +1,1527 @@
 {
-  "generated": "2026-06-22T18:40:08.8490000+00:00",
+  "generated": "2026-06-22T18:53:07.2300000+00:00",
   "sessions": [
+    {
+      "url": "sessions/pr/804/dotnet/avoid-activating-for-language-agnostic-calendar-script--baseline--run0.jsonl",
+      "name": "dotnet / Avoid activating for language-agnostic calendar script (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "baseline",
+        "avoid-activating-for-language-agnostic-calendar-script",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet/avoid-activating-for-language-agnostic-calendar-script--baseline--run0",
+      "mtime": 1782154386763
+    },
+    {
+      "url": "sessions/pr/804/dotnet/avoid-activating-for-language-agnostic-calendar-script--isolated--run0.jsonl",
+      "name": "dotnet / Avoid activating for language-agnostic calendar script (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "isolated",
+        "avoid-activating-for-language-agnostic-calendar-script",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet/avoid-activating-for-language-agnostic-calendar-script--isolated--run0",
+      "mtime": 1782154386770
+    },
+    {
+      "url": "sessions/pr/804/dotnet/avoid-activating-for-language-agnostic-calendar-script--plugin--run0.jsonl",
+      "name": "dotnet / Avoid activating for language-agnostic calendar script (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "plugin",
+        "avoid-activating-for-language-agnostic-calendar-script",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet/avoid-activating-for-language-agnostic-calendar-script--plugin--run0",
+      "mtime": 1782154386773
+    },
+    {
+      "url": "sessions/pr/804/dotnet/compose-a-file-based-app-from-helper-files--baseline--run0.jsonl",
+      "name": "dotnet / Compose a file-based app from helper files (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "baseline",
+        "compose-a-file-based-app-from-helper-files",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet/compose-a-file-based-app-from-helper-files--baseline--run0",
+      "mtime": 1782154386776
+    },
+    {
+      "url": "sessions/pr/804/dotnet/compose-a-file-based-app-from-helper-files--isolated--run0.jsonl",
+      "name": "dotnet / Compose a file-based app from helper files (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "isolated",
+        "compose-a-file-based-app-from-helper-files",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet/compose-a-file-based-app-from-helper-files--isolated--run0",
+      "mtime": 1782154386780
+    },
+    {
+      "url": "sessions/pr/804/dotnet/compose-a-file-based-app-from-helper-files--plugin--run0.jsonl",
+      "name": "dotnet / Compose a file-based app from helper files (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "plugin",
+        "compose-a-file-based-app-from-helper-files",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet/compose-a-file-based-app-from-helper-files--plugin--run0",
+      "mtime": 1782154386783
+    },
+    {
+      "url": "sessions/pr/804/dotnet/test-a-c--language-feature-with-a-file-based-app--baseline--run0.jsonl",
+      "name": "dotnet / Test a C# language feature with a file-based app (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "baseline",
+        "test-a-c--language-feature-with-a-file-based-app",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet/test-a-c--language-feature-with-a-file-based-app--baseline--run0",
+      "mtime": 1782154386786
+    },
+    {
+      "url": "sessions/pr/804/dotnet/test-a-c--language-feature-with-a-file-based-app--isolated--run0.jsonl",
+      "name": "dotnet / Test a C# language feature with a file-based app (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "isolated",
+        "test-a-c--language-feature-with-a-file-based-app",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet/test-a-c--language-feature-with-a-file-based-app--isolated--run0",
+      "mtime": 1782154386789
+    },
+    {
+      "url": "sessions/pr/804/dotnet/test-a-c--language-feature-with-a-file-based-app--plugin--run0.jsonl",
+      "name": "dotnet / Test a C# language feature with a file-based app (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "plugin",
+        "test-a-c--language-feature-with-a-file-based-app",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet/test-a-c--language-feature-with-a-file-based-app--plugin--run0",
+      "mtime": 1782154386792
+    },
+    {
+      "url": "sessions/pr/804/dotnet/generate-libraryimport-declaration-from-c-header---net-8----baseline--run0.jsonl",
+      "name": "dotnet / Generate LibraryImport declaration from C header (.NET 8+) (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "baseline",
+        "generate-libraryimport-declaration-from-c-header---net-8--",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet/generate-libraryimport-declaration-from-c-header---net-8----baseline--run0",
+      "mtime": 1782154386795
+    },
+    {
+      "url": "sessions/pr/804/dotnet/generate-libraryimport-declaration-from-c-header---net-8----isolated--run0.jsonl",
+      "name": "dotnet / Generate LibraryImport declaration from C header (.NET 8+) (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "isolated",
+        "generate-libraryimport-declaration-from-c-header---net-8--",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet/generate-libraryimport-declaration-from-c-header---net-8----isolated--run0",
+      "mtime": 1782154386799
+    },
+    {
+      "url": "sessions/pr/804/dotnet/generate-libraryimport-declaration-from-c-header---net-8----plugin--run0.jsonl",
+      "name": "dotnet / Generate LibraryImport declaration from C header (.NET 8+) (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "plugin",
+        "generate-libraryimport-declaration-from-c-header---net-8--",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet/generate-libraryimport-declaration-from-c-header---net-8----plugin--run0",
+      "mtime": 1782154386802
+    },
+    {
+      "url": "sessions/pr/804/dotnet/generate-libraryimport-declaration-from-c-header---net-framework---baseline--run0.jsonl",
+      "name": "dotnet / Generate LibraryImport declaration from C header (.NET Framework) (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "baseline",
+        "generate-libraryimport-declaration-from-c-header---net-framework-",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet/generate-libraryimport-declaration-from-c-header---net-framework---baseline--run0",
+      "mtime": 1782154386805
+    },
+    {
+      "url": "sessions/pr/804/dotnet/generate-libraryimport-declaration-from-c-header---net-framework---isolated--run0.jsonl",
+      "name": "dotnet / Generate LibraryImport declaration from C header (.NET Framework) (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "isolated",
+        "generate-libraryimport-declaration-from-c-header---net-framework-",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet/generate-libraryimport-declaration-from-c-header---net-framework---isolated--run0",
+      "mtime": 1782154386808
+    },
+    {
+      "url": "sessions/pr/804/dotnet/generate-libraryimport-declaration-from-c-header---net-framework---plugin--run0.jsonl",
+      "name": "dotnet / Generate LibraryImport declaration from C header (.NET Framework) (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "plugin",
+        "generate-libraryimport-declaration-from-c-header---net-framework-",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet/generate-libraryimport-declaration-from-c-header---net-framework---plugin--run0",
+      "mtime": 1782154386812
+    },
+    {
+      "url": "sessions/pr/804/dotnet/migrate-existing-workflow-from-api-key-to-trusted-publishing--baseline--run0.jsonl",
+      "name": "dotnet / Migrate existing workflow from API key to trusted publishing (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "baseline",
+        "migrate-existing-workflow-from-api-key-to-trusted-publishing",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet/migrate-existing-workflow-from-api-key-to-trusted-publishing--baseline--run0",
+      "mtime": 1782154386815
+    },
+    {
+      "url": "sessions/pr/804/dotnet/migrate-existing-workflow-from-api-key-to-trusted-publishing--isolated--run0.jsonl",
+      "name": "dotnet / Migrate existing workflow from API key to trusted publishing (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "isolated",
+        "migrate-existing-workflow-from-api-key-to-trusted-publishing",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet/migrate-existing-workflow-from-api-key-to-trusted-publishing--isolated--run0",
+      "mtime": 1782154386818
+    },
+    {
+      "url": "sessions/pr/804/dotnet/migrate-existing-workflow-from-api-key-to-trusted-publishing--plugin--run0.jsonl",
+      "name": "dotnet / Migrate existing workflow from API key to trusted publishing (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "plugin",
+        "migrate-existing-workflow-from-api-key-to-trusted-publishing",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet/migrate-existing-workflow-from-api-key-to-trusted-publishing--plugin--run0",
+      "mtime": 1782154386822
+    },
+    {
+      "url": "sessions/pr/804/dotnet/set-up-nuget-publishing-without-mentioning-trusted-publishing--baseline--run0.jsonl",
+      "name": "dotnet / Set up NuGet publishing without mentioning trusted publishing (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "baseline",
+        "set-up-nuget-publishing-without-mentioning-trusted-publishing",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet/set-up-nuget-publishing-without-mentioning-trusted-publishing--baseline--run0",
+      "mtime": 1782154386825
+    },
+    {
+      "url": "sessions/pr/804/dotnet/set-up-nuget-publishing-without-mentioning-trusted-publishing--isolated--run0.jsonl",
+      "name": "dotnet / Set up NuGet publishing without mentioning trusted publishing (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "isolated",
+        "set-up-nuget-publishing-without-mentioning-trusted-publishing",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet/set-up-nuget-publishing-without-mentioning-trusted-publishing--isolated--run0",
+      "mtime": 1782154386828
+    },
+    {
+      "url": "sessions/pr/804/dotnet/set-up-nuget-publishing-without-mentioning-trusted-publishing--plugin--run0.jsonl",
+      "name": "dotnet / Set up NuGet publishing without mentioning trusted publishing (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "plugin",
+        "set-up-nuget-publishing-without-mentioning-trusted-publishing",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet/set-up-nuget-publishing-without-mentioning-trusted-publishing--plugin--run0",
+      "mtime": 1782154386831
+    },
+    {
+      "url": "sessions/pr/804/dotnet/set-up-trusted-publishing-for-a-new-nuget-library--baseline--run0.jsonl",
+      "name": "dotnet / Set up trusted publishing for a new NuGet library (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "baseline",
+        "set-up-trusted-publishing-for-a-new-nuget-library",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet/set-up-trusted-publishing-for-a-new-nuget-library--baseline--run0",
+      "mtime": 1782154386834
+    },
+    {
+      "url": "sessions/pr/804/dotnet/set-up-trusted-publishing-for-a-new-nuget-library--isolated--run0.jsonl",
+      "name": "dotnet / Set up trusted publishing for a new NuGet library (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "isolated",
+        "set-up-trusted-publishing-for-a-new-nuget-library",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet/set-up-trusted-publishing-for-a-new-nuget-library--isolated--run0",
+      "mtime": 1782154386838
+    },
+    {
+      "url": "sessions/pr/804/dotnet/set-up-trusted-publishing-for-a-new-nuget-library--plugin--run0.jsonl",
+      "name": "dotnet / Set up trusted publishing for a new NuGet library (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "plugin",
+        "set-up-trusted-publishing-for-a-new-nuget-library",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet/set-up-trusted-publishing-for-a-new-nuget-library--plugin--run0",
+      "mtime": 1782154386842
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/build-multiple-configurations-with-unique-binlogs--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Build multiple configurations with unique binlogs (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "build-multiple-configurations-with-unique-binlogs",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/build-multiple-configurations-with-unique-binlogs--baseline--run0",
+      "mtime": 1782154386873
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/build-multiple-configurations-with-unique-binlogs--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Build multiple configurations with unique binlogs (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "build-multiple-configurations-with-unique-binlogs",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/build-multiple-configurations-with-unique-binlogs--isolated--run0",
+      "mtime": 1782154386877
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/build-multiple-configurations-with-unique-binlogs--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Build multiple configurations with unique binlogs (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "build-multiple-configurations-with-unique-binlogs",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/build-multiple-configurations-with-unique-binlogs--plugin--run0",
+      "mtime": 1782154386880
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/build-project-with--bl-flag--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Build project with /bl flag (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "build-project-with--bl-flag",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/build-project-with--bl-flag--baseline--run0",
+      "mtime": 1782154386886
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/build-project-with--bl-flag--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Build project with /bl flag (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "build-project-with--bl-flag",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/build-project-with--bl-flag--isolated--run0",
+      "mtime": 1782154386889
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/build-project-with--bl-flag--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Build project with /bl flag (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "build-project-with--bl-flag",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/build-project-with--bl-flag--plugin--run0",
+      "mtime": 1782154386892
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/build-with--bl-in-powershell--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Build with /bl in PowerShell (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "build-with--bl-in-powershell",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/build-with--bl-in-powershell--baseline--run0",
+      "mtime": 1782154386896
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/build-with--bl-in-powershell--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Build with /bl in PowerShell (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "build-with--bl-in-powershell",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/build-with--bl-in-powershell--isolated--run0",
+      "mtime": 1782154386899
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/build-with--bl-in-powershell--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Build with /bl in PowerShell (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "build-with--bl-in-powershell",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/build-with--bl-in-powershell--plugin--run0",
+      "mtime": 1782154386902
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/establish-build-performance-baseline-and-recommend-optimizations--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Establish build performance baseline and recommend optimizations (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "establish-build-performance-baseline-and-recommend-optimizations",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/establish-build-performance-baseline-and-recommend-optimizations--baseline--run0",
+      "mtime": 1782154386905
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/establish-build-performance-baseline-and-recommend-optimizations--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Establish build performance baseline and recommend optimizations (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "establish-build-performance-baseline-and-recommend-optimizations",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/establish-build-performance-baseline-and-recommend-optimizations--isolated--run0",
+      "mtime": 1782154386909
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/establish-build-performance-baseline-and-recommend-optimizations--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Establish build performance baseline and recommend optimizations (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "establish-build-performance-baseline-and-recommend-optimizations",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/establish-build-performance-baseline-and-recommend-optimizations--plugin--run0",
+      "mtime": 1782154386912
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/analyze-msbuild-evaluation-performance-issues--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Analyze MSBuild evaluation performance issues (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "analyze-msbuild-evaluation-performance-issues",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/analyze-msbuild-evaluation-performance-issues--baseline--run0",
+      "mtime": 1782154386915
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/analyze-msbuild-evaluation-performance-issues--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Analyze MSBuild evaluation performance issues (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "analyze-msbuild-evaluation-performance-issues",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/analyze-msbuild-evaluation-performance-issues--isolated--run0",
+      "mtime": 1782154386918
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/analyze-msbuild-evaluation-performance-issues--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Analyze MSBuild evaluation performance issues (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "analyze-msbuild-evaluation-performance-issues",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/analyze-msbuild-evaluation-performance-issues--plugin--run0",
+      "mtime": 1782154386922
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-generated-file-inclusion-failure--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose generated file inclusion failure (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "diagnose-generated-file-inclusion-failure",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-generated-file-inclusion-failure--baseline--run0",
+      "mtime": 1782154386925
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-generated-file-inclusion-failure--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose generated file inclusion failure (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "diagnose-generated-file-inclusion-failure",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-generated-file-inclusion-failure--isolated--run0",
+      "mtime": 1782154386928
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-generated-file-inclusion-failure--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose generated file inclusion failure (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "diagnose-generated-file-inclusion-failure",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-generated-file-inclusion-failure--plugin--run0",
+      "mtime": 1782154386931
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/analyze-incremental-build-issues--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Analyze incremental build issues (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "analyze-incremental-build-issues",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/analyze-incremental-build-issues--baseline--run0",
+      "mtime": 1782154386935
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/analyze-incremental-build-issues--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Analyze incremental build issues (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "analyze-incremental-build-issues",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/analyze-incremental-build-issues--isolated--run0",
+      "mtime": 1782154386938
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/analyze-incremental-build-issues--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Analyze incremental build issues (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "analyze-incremental-build-issues",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/analyze-incremental-build-issues--plugin--run0",
+      "mtime": 1782154386941
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/modernize-legacy-project-to-sdk-style--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Modernize legacy project to SDK-style (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "modernize-legacy-project-to-sdk-style",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/modernize-legacy-project-to-sdk-style--baseline--run0",
+      "mtime": 1782154386944
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/modernize-legacy-project-to-sdk-style--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Modernize legacy project to SDK-style (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "modernize-legacy-project-to-sdk-style",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/modernize-legacy-project-to-sdk-style--isolated--run0",
+      "mtime": 1782154386947
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/modernize-legacy-project-to-sdk-style--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Modernize legacy project to SDK-style (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "modernize-legacy-project-to-sdk-style",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/modernize-legacy-project-to-sdk-style--plugin--run0",
+      "mtime": 1782154386951
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/recommend-msbuild-server-for-slow-cli-incremental-builds--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Recommend MSBuild Server for slow CLI incremental builds (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "recommend-msbuild-server-for-slow-cli-incremental-builds",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/recommend-msbuild-server-for-slow-cli-incremental-builds--baseline--run0",
+      "mtime": 1782154386954
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/recommend-msbuild-server-for-slow-cli-incremental-builds--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Recommend MSBuild Server for slow CLI incremental builds (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "recommend-msbuild-server-for-slow-cli-incremental-builds",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/recommend-msbuild-server-for-slow-cli-incremental-builds--isolated--run0",
+      "mtime": 1782154386957
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/recommend-msbuild-server-for-slow-cli-incremental-builds--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Recommend MSBuild Server for slow CLI incremental builds (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "recommend-msbuild-server-for-slow-cli-incremental-builds",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/recommend-msbuild-server-for-slow-cli-incremental-builds--plugin--run0",
+      "mtime": 1782154386960
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/explain-misleading-resolveprojectreferences-time--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Explain misleading ResolveProjectReferences time (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "explain-misleading-resolveprojectreferences-time",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/explain-misleading-resolveprojectreferences-time--baseline--run0",
+      "mtime": 1782154386963
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/explain-misleading-resolveprojectreferences-time--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Explain misleading ResolveProjectReferences time (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "explain-misleading-resolveprojectreferences-time",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/explain-misleading-resolveprojectreferences-time--isolated--run0",
+      "mtime": 1782154386967
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/explain-misleading-resolveprojectreferences-time--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Explain misleading ResolveProjectReferences time (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "explain-misleading-resolveprojectreferences-time",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/explain-misleading-resolveprojectreferences-time--plugin--run0",
+      "mtime": 1782154386970
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-build-failures-from-binlog-only--no-source-files---baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose build failures from binlog only (no source files) (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "diagnose-build-failures-from-binlog-only--no-source-files-",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-build-failures-from-binlog-only--no-source-files---baseline--run0",
+      "mtime": 1782154386997
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-build-failures-from-binlog-only--no-source-files---isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose build failures from binlog only (no source files) (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "diagnose-build-failures-from-binlog-only--no-source-files-",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-build-failures-from-binlog-only--no-source-files---isolated--run0",
+      "mtime": 1782154387003
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-build-failures-from-binlog-only--no-source-files---plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose build failures from binlog only (no source files) (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "diagnose-build-failures-from-binlog-only--no-source-files-",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-build-failures-from-binlog-only--no-source-files---plugin--run0",
+      "mtime": 1782154387006
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/add-a-module-to-an-f--project--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Add a module to an F# project (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "add-a-module-to-an-f--project",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/add-a-module-to-an-f--project--baseline--run0",
+      "mtime": 1782154387010
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/add-a-module-to-an-f--project--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Add a module to an F# project (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "add-a-module-to-an-f--project",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/add-a-module-to-an-f--project--isolated--run0",
+      "mtime": 1782154387013
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/add-a-module-to-an-f--project--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Add a module to an F# project (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "add-a-module-to-an-f--project",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/add-a-module-to-an-f--project--plugin--run0",
+      "mtime": 1782154387016
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/add-a-signature-file-to-define-public-api--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Add a signature file to define public API (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "add-a-signature-file-to-define-public-api",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/add-a-signature-file-to-define-public-api--baseline--run0",
+      "mtime": 1782154387019
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/add-a-signature-file-to-define-public-api--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Add a signature file to define public API (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "add-a-signature-file-to-define-public-api",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/add-a-signature-file-to-define-public-api--isolated--run0",
+      "mtime": 1782154387022
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/add-a-signature-file-to-define-public-api--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Add a signature file to define public API (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "add-a-signature-file-to-define-public-api",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/add-a-signature-file-to-define-public-api--plugin--run0",
+      "mtime": 1782154387025
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/fix-broken-file-order-causing-fs0039--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Fix broken file order causing FS0039 (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "fix-broken-file-order-causing-fs0039",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/fix-broken-file-order-causing-fs0039--baseline--run0",
+      "mtime": 1782154387028
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/fix-broken-file-order-causing-fs0039--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Fix broken file order causing FS0039 (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "fix-broken-file-order-causing-fs0039",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/fix-broken-file-order-causing-fs0039--isolated--run0",
+      "mtime": 1782154387031
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/fix-broken-file-order-causing-fs0039--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Fix broken file order causing FS0039 (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "fix-broken-file-order-causing-fs0039",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/fix-broken-file-order-causing-fs0039--plugin--run0",
+      "mtime": 1782154387035
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/review-msbuild-files-for-anti-patterns-and-style-issues--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Review MSBuild files for anti-patterns and style issues (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "review-msbuild-files-for-anti-patterns-and-style-issues",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/review-msbuild-files-for-anti-patterns-and-style-issues--baseline--run0",
+      "mtime": 1782154387038
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/review-msbuild-files-for-anti-patterns-and-style-issues--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Review MSBuild files for anti-patterns and style issues (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "review-msbuild-files-for-anti-patterns-and-style-issues",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/review-msbuild-files-for-anti-patterns-and-style-issues--isolated--run0",
+      "mtime": 1782154387041
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/review-msbuild-files-for-anti-patterns-and-style-issues--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Review MSBuild files for anti-patterns and style issues (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "review-msbuild-files-for-anti-patterns-and-style-issues",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/review-msbuild-files-for-anti-patterns-and-style-issues--plugin--run0",
+      "mtime": 1782154387044
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-multi-level-property-hierarchy-bugs--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose multi-level property hierarchy bugs (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "diagnose-multi-level-property-hierarchy-bugs",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-multi-level-property-hierarchy-bugs--baseline--run0",
+      "mtime": 1782154387047
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-multi-level-property-hierarchy-bugs--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose multi-level property hierarchy bugs (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "diagnose-multi-level-property-hierarchy-bugs",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-multi-level-property-hierarchy-bugs--isolated--run0",
+      "mtime": 1782154387050
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-multi-level-property-hierarchy-bugs--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose multi-level property hierarchy bugs (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "diagnose-multi-level-property-hierarchy-bugs",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-multi-level-property-hierarchy-bugs--plugin--run0",
+      "mtime": 1782154387053
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-shared-build-property-issues--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose shared build property issues (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "diagnose-shared-build-property-issues",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-shared-build-property-issues--baseline--run0",
+      "mtime": 1782154387057
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-shared-build-property-issues--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose shared build property issues (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "diagnose-shared-build-property-issues",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-shared-build-property-issues--isolated--run0",
+      "mtime": 1782154387060
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-shared-build-property-issues--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose shared build property issues (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "diagnose-shared-build-property-issues",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-shared-build-property-issues--plugin--run0",
+      "mtime": 1782154387063
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/fix-shared-property-configuration--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Fix shared property configuration (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "fix-shared-property-configuration",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/fix-shared-property-configuration--baseline--run0",
+      "mtime": 1782154387066
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/fix-shared-property-configuration--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Fix shared property configuration (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "fix-shared-property-configuration",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/fix-shared-property-configuration--isolated--run0",
+      "mtime": 1782154387069
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/fix-shared-property-configuration--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Fix shared property configuration (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "fix-shared-property-configuration",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/fix-shared-property-configuration--plugin--run0",
+      "mtime": 1782154387072
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-broken-sdk-target-chain-across-files--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose broken SDK target chain across files (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "diagnose-broken-sdk-target-chain-across-files",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-broken-sdk-target-chain-across-files--baseline--run0",
+      "mtime": 1782154387075
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-broken-sdk-target-chain-across-files--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose broken SDK target chain across files (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "diagnose-broken-sdk-target-chain-across-files",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-broken-sdk-target-chain-across-files--isolated--run0",
+      "mtime": 1782154387078
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-broken-sdk-target-chain-across-files--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose broken SDK target chain across files (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "diagnose-broken-sdk-target-chain-across-files",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-broken-sdk-target-chain-across-files--plugin--run0",
+      "mtime": 1782154387081
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-custom-target-build-regression--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose custom target build regression (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "diagnose-custom-target-build-regression",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-custom-target-build-regression--baseline--run0",
+      "mtime": 1782154387084
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-custom-target-build-regression--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose custom target build regression (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "diagnose-custom-target-build-regression",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-custom-target-build-regression--isolated--run0",
+      "mtime": 1782154387088
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-custom-target-build-regression--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose custom target build regression (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "diagnose-custom-target-build-regression",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-custom-target-build-regression--plugin--run0",
+      "mtime": 1782154387091
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/fix-custom-target-anti-patterns--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Fix custom target anti-patterns (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "fix-custom-target-anti-patterns",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/fix-custom-target-anti-patterns--baseline--run0",
+      "mtime": 1782154387103
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/fix-custom-target-anti-patterns--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Fix custom target anti-patterns (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "fix-custom-target-anti-patterns",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/fix-custom-target-anti-patterns--isolated--run0",
+      "mtime": 1782154387106
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/fix-custom-target-anti-patterns--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Fix custom target anti-patterns (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "fix-custom-target-anti-patterns",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/fix-custom-target-anti-patterns--plugin--run0",
+      "mtime": 1782154387109
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/analyze-build-parallelism-bottlenecks--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Analyze build parallelism bottlenecks (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "analyze-build-parallelism-bottlenecks",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/analyze-build-parallelism-bottlenecks--baseline--run0",
+      "mtime": 1782154387136
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/analyze-build-parallelism-bottlenecks--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Analyze build parallelism bottlenecks (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "analyze-build-parallelism-bottlenecks",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/analyze-build-parallelism-bottlenecks--isolated--run0",
+      "mtime": 1782154387139
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/analyze-build-parallelism-bottlenecks--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Analyze build parallelism bottlenecks (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "analyze-build-parallelism-bottlenecks",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/analyze-build-parallelism-bottlenecks--plugin--run0",
+      "mtime": 1782154387143
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-slow-build-for-a-small-project--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose slow build for a small project (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "diagnose-slow-build-for-a-small-project",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-slow-build-for-a-small-project--baseline--run0",
+      "mtime": 1782154387146
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-slow-build-for-a-small-project--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose slow build for a small project (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "diagnose-slow-build-for-a-small-project",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-slow-build-for-a-small-project--isolated--run0",
+      "mtime": 1782154387149
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-slow-build-for-a-small-project--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose slow build for a small project (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "diagnose-slow-build-for-a-small-project",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-slow-build-for-a-small-project--plugin--run0",
+      "mtime": 1782154387152
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-bin-obj-output-path-clashes--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose bin/obj output path clashes (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "diagnose-bin-obj-output-path-clashes",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-bin-obj-output-path-clashes--baseline--run0",
+      "mtime": 1782154387155
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-bin-obj-output-path-clashes--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose bin/obj output path clashes (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "diagnose-bin-obj-output-path-clashes",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-bin-obj-output-path-clashes--isolated--run0",
+      "mtime": 1782154387158
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-bin-obj-output-path-clashes--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose bin/obj output path clashes (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "diagnose-bin-obj-output-path-clashes",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-bin-obj-output-path-clashes--plugin--run0",
+      "mtime": 1782154387161
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/organize-build-infrastructure-for-a-multi-project-repo--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Organize build infrastructure for a multi-project repo (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "organize-build-infrastructure-for-a-multi-project-repo",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/organize-build-infrastructure-for-a-multi-project-repo--baseline--run0",
+      "mtime": 1782154387165
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/organize-build-infrastructure-for-a-multi-project-repo--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Organize build infrastructure for a multi-project repo (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "organize-build-infrastructure-for-a-multi-project-repo",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/organize-build-infrastructure-for-a-multi-project-repo--isolated--run0",
+      "mtime": 1782154387168
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/organize-build-infrastructure-for-a-multi-project-repo--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Organize build infrastructure for a multi-project repo (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "organize-build-infrastructure-for-a-multi-project-repo",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/organize-build-infrastructure-for-a-multi-project-repo--plugin--run0",
+      "mtime": 1782154387171
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-nuget-package-and-repo-extension-conflicts--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose NuGet package and repo extension conflicts (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "diagnose-nuget-package-and-repo-extension-conflicts",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-nuget-package-and-repo-extension-conflicts--baseline--run0",
+      "mtime": 1782154387174
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-nuget-package-and-repo-extension-conflicts--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose NuGet package and repo extension conflicts (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "diagnose-nuget-package-and-repo-extension-conflicts",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-nuget-package-and-repo-extension-conflicts--isolated--run0",
+      "mtime": 1782154387177
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-nuget-package-and-repo-extension-conflicts--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose NuGet package and repo extension conflicts (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "diagnose-nuget-package-and-repo-extension-conflicts",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-nuget-package-and-repo-extension-conflicts--plugin--run0",
+      "mtime": 1782154387180
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-build-extension-point-failures--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose build extension point failures (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "diagnose-build-extension-point-failures",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-build-extension-point-failures--baseline--run0",
+      "mtime": 1782154387183
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-build-extension-point-failures--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose build extension point failures (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "diagnose-build-extension-point-failures",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-build-extension-point-failures--isolated--run0",
+      "mtime": 1782154387187
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-build-extension-point-failures--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose build extension point failures (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "diagnose-build-extension-point-failures",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-build-extension-point-failures--plugin--run0",
+      "mtime": 1782154387190
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/fix-extension-point-anti-patterns--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Fix extension point anti-patterns (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "fix-extension-point-anti-patterns",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/fix-extension-point-anti-patterns--baseline--run0",
+      "mtime": 1782154387193
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/fix-extension-point-anti-patterns--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Fix extension point anti-patterns (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "fix-extension-point-anti-patterns",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/fix-extension-point-anti-patterns--isolated--run0",
+      "mtime": 1782154387197
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/fix-extension-point-anti-patterns--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Fix extension point anti-patterns (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "fix-extension-point-anti-patterns",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/fix-extension-point-anti-patterns--plugin--run0",
+      "mtime": 1782154387200
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose cascading item and batching bugs in code generation pipeline (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline--baseline--run0",
+      "mtime": 1782154387204
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose cascading item and batching bugs in code generation pipeline (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline--isolated--run0",
+      "mtime": 1782154387207
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose cascading item and batching bugs in code generation pipeline (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline--plugin--run0",
+      "mtime": 1782154387211
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-item-group-and-batching-issues--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose item group and batching issues (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "diagnose-item-group-and-batching-issues",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-item-group-and-batching-issues--baseline--run0",
+      "mtime": 1782154387214
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-item-group-and-batching-issues--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose item group and batching issues (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "diagnose-item-group-and-batching-issues",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-item-group-and-batching-issues--isolated--run0",
+      "mtime": 1782154387218
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/diagnose-item-group-and-batching-issues--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Diagnose item group and batching issues (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "diagnose-item-group-and-batching-issues",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/diagnose-item-group-and-batching-issues--plugin--run0",
+      "mtime": 1782154387221
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/fix-item-management-anti-patterns--baseline--run0.jsonl",
+      "name": "dotnet-msbuild / Fix item management anti-patterns (baseline, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "fix-item-management-anti-patterns",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/fix-item-management-anti-patterns--baseline--run0",
+      "mtime": 1782154387224
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/fix-item-management-anti-patterns--isolated--run0.jsonl",
+      "name": "dotnet-msbuild / Fix item management anti-patterns (isolated, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "fix-item-management-anti-patterns",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/fix-item-management-anti-patterns--isolated--run0",
+      "mtime": 1782154387227
+    },
+    {
+      "url": "sessions/pr/804/dotnet-msbuild/fix-item-management-anti-patterns--plugin--run0.jsonl",
+      "name": "dotnet-msbuild / Fix item management anti-patterns (plugin, run 0)",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "fix-item-management-anti-patterns",
+        "pr-804"
+      ],
+      "id": "pr/804/dotnet-msbuild/fix-item-management-anti-patterns--plugin--run0",
+      "mtime": 1782154387230
+    },
     {
       "url": "sessions/pr/803/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--baseline--run0.jsonl",
       "tags": [
