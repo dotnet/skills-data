@@ -1,5 +1,4 @@
 {
-  "generated": "2026-06-22T15:15:51.2430000+00:00",
   "sessions": [
     {
       "name": "dotnet-test / Decline request to write new tests from scratch (baseline, run 0)",
@@ -413843,5 +413842,6 @@
       "name": "dotnet-msbuild / fix-shared-property-configuration (plugin)",
       "id": "pr/669/dotnet-msbuild/fix-shared-property-configuration--plugin--run2"
     }
-  ]
+  ],
+  "generated": "2026-06-22T15:15:51.2430000+00:00"
 }
