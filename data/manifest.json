@@ -1,8 +1,10 @@
 {
+  "generated": "2026-06-27T00:26:54.8880000+00:00",
   "sessions": [
     {
-      "name": "dotnet-ai / AGENTS.md stub when both instructions files exist (baseline, run 0)",
       "url": "sessions/pr/839/dotnet-ai/agents-md-stub-when-both-instructions-files-exist--baseline--run0.jsonl",
+      "name": "dotnet-ai / AGENTS.md stub when both instructions files exist (baseline, run 0)",
+      "mtime": 1782520013960,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -10,12 +12,12 @@
         "agents-md-stub-when-both-instructions-files-exist",
         "pr-839"
       ],
-      "mtime": 1782518372555,
       "id": "pr/839/dotnet-ai/agents-md-stub-when-both-instructions-files-exist--baseline--run0"
     },
     {
-      "name": "dotnet-ai / AGENTS.md stub when both instructions files exist (isolated, run 0)",
       "url": "sessions/pr/839/dotnet-ai/agents-md-stub-when-both-instructions-files-exist--isolated--run0.jsonl",
+      "name": "dotnet-ai / AGENTS.md stub when both instructions files exist (isolated, run 0)",
+      "mtime": 1782520013968,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -23,12 +25,12 @@
         "agents-md-stub-when-both-instructions-files-exist",
         "pr-839"
       ],
-      "mtime": 1782518372563,
       "id": "pr/839/dotnet-ai/agents-md-stub-when-both-instructions-files-exist--isolated--run0"
     },
     {
-      "name": "dotnet-ai / AGENTS.md stub when both instructions files exist (plugin, run 0)",
       "url": "sessions/pr/839/dotnet-ai/agents-md-stub-when-both-instructions-files-exist--plugin--run0.jsonl",
+      "name": "dotnet-ai / AGENTS.md stub when both instructions files exist (plugin, run 0)",
+      "mtime": 1782520013972,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -36,12 +38,12 @@
         "agents-md-stub-when-both-instructions-files-exist",
         "pr-839"
       ],
-      "mtime": 1782518372566,
       "id": "pr/839/dotnet-ai/agents-md-stub-when-both-instructions-files-exist--plugin--run0"
     },
     {
-      "name": "dotnet-ai / AGENTS.md stub when both instructions files exist (baseline, run 1)",
       "url": "sessions/pr/839/dotnet-ai/agents-md-stub-when-both-instructions-files-exist--baseline--run1.jsonl",
+      "name": "dotnet-ai / AGENTS.md stub when both instructions files exist (baseline, run 1)",
+      "mtime": 1782520013975,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -49,12 +51,12 @@
         "agents-md-stub-when-both-instructions-files-exist",
         "pr-839"
       ],
-      "mtime": 1782518372569,
       "id": "pr/839/dotnet-ai/agents-md-stub-when-both-instructions-files-exist--baseline--run1"
     },
     {
-      "name": "dotnet-ai / AGENTS.md stub when both instructions files exist (isolated, run 1)",
       "url": "sessions/pr/839/dotnet-ai/agents-md-stub-when-both-instructions-files-exist--isolated--run1.jsonl",
+      "name": "dotnet-ai / AGENTS.md stub when both instructions files exist (isolated, run 1)",
+      "mtime": 1782520013978,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -62,12 +64,12 @@
         "agents-md-stub-when-both-instructions-files-exist",
         "pr-839"
       ],
-      "mtime": 1782518372572,
       "id": "pr/839/dotnet-ai/agents-md-stub-when-both-instructions-files-exist--isolated--run1"
     },
     {
-      "name": "dotnet-ai / AGENTS.md stub when both instructions files exist (plugin, run 1)",
       "url": "sessions/pr/839/dotnet-ai/agents-md-stub-when-both-instructions-files-exist--plugin--run1.jsonl",
+      "name": "dotnet-ai / AGENTS.md stub when both instructions files exist (plugin, run 1)",
+      "mtime": 1782520013982,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -75,12 +77,12 @@
         "agents-md-stub-when-both-instructions-files-exist",
         "pr-839"
       ],
-      "mtime": 1782518372575,
       "id": "pr/839/dotnet-ai/agents-md-stub-when-both-instructions-files-exist--plugin--run1"
     },
     {
-      "name": "dotnet-ai / AGENTS.md stub when both instructions files exist (baseline, run 2)",
       "url": "sessions/pr/839/dotnet-ai/agents-md-stub-when-both-instructions-files-exist--baseline--run2.jsonl",
+      "name": "dotnet-ai / AGENTS.md stub when both instructions files exist (baseline, run 2)",
+      "mtime": 1782520013987,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -88,12 +90,12 @@
         "agents-md-stub-when-both-instructions-files-exist",
         "pr-839"
       ],
-      "mtime": 1782518372579,
       "id": "pr/839/dotnet-ai/agents-md-stub-when-both-instructions-files-exist--baseline--run2"
     },
     {
-      "name": "dotnet-ai / AGENTS.md stub when both instructions files exist (isolated, run 2)",
       "url": "sessions/pr/839/dotnet-ai/agents-md-stub-when-both-instructions-files-exist--isolated--run2.jsonl",
+      "name": "dotnet-ai / AGENTS.md stub when both instructions files exist (isolated, run 2)",
+      "mtime": 1782520013993,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -101,12 +103,12 @@
         "agents-md-stub-when-both-instructions-files-exist",
         "pr-839"
       ],
-      "mtime": 1782518372582,
       "id": "pr/839/dotnet-ai/agents-md-stub-when-both-instructions-files-exist--isolated--run2"
     },
     {
-      "name": "dotnet-ai / AGENTS.md stub when both instructions files exist (plugin, run 2)",
       "url": "sessions/pr/839/dotnet-ai/agents-md-stub-when-both-instructions-files-exist--plugin--run2.jsonl",
+      "name": "dotnet-ai / AGENTS.md stub when both instructions files exist (plugin, run 2)",
+      "mtime": 1782520013998,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -114,12 +116,12 @@
         "agents-md-stub-when-both-instructions-files-exist",
         "pr-839"
       ],
-      "mtime": 1782518372585,
       "id": "pr/839/dotnet-ai/agents-md-stub-when-both-instructions-files-exist--plugin--run2"
     },
     {
-      "name": "dotnet-ai / Append to existing copilot-instructions.md without disturbing user content (baseline, run 0)",
       "url": "sessions/pr/839/dotnet-ai/append-to-existing-copilot-instructions-md-without-disturbing-user-content--baseline--run0.jsonl",
+      "name": "dotnet-ai / Append to existing copilot-instructions.md without disturbing user content (baseline, run 0)",
+      "mtime": 1782520014002,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -127,12 +129,12 @@
         "append-to-existing-copilot-instructions-md-without-disturbing-user-content",
         "pr-839"
       ],
-      "mtime": 1782518372588,
       "id": "pr/839/dotnet-ai/append-to-existing-copilot-instructions-md-without-disturbing-user-content--baseline--run0"
     },
     {
-      "name": "dotnet-ai / Append to existing copilot-instructions.md without disturbing user content (isolated, run 0)",
       "url": "sessions/pr/839/dotnet-ai/append-to-existing-copilot-instructions-md-without-disturbing-user-content--isolated--run0.jsonl",
+      "name": "dotnet-ai / Append to existing copilot-instructions.md without disturbing user content (isolated, run 0)",
+      "mtime": 1782520014005,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -140,12 +142,12 @@
         "append-to-existing-copilot-instructions-md-without-disturbing-user-content",
         "pr-839"
       ],
-      "mtime": 1782518372591,
       "id": "pr/839/dotnet-ai/append-to-existing-copilot-instructions-md-without-disturbing-user-content--isolated--run0"
     },
     {
-      "name": "dotnet-ai / Append to existing copilot-instructions.md without disturbing user content (plugin, run 0)",
       "url": "sessions/pr/839/dotnet-ai/append-to-existing-copilot-instructions-md-without-disturbing-user-content--plugin--run0.jsonl",
+      "name": "dotnet-ai / Append to existing copilot-instructions.md without disturbing user content (plugin, run 0)",
+      "mtime": 1782520014009,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -153,12 +155,12 @@
         "append-to-existing-copilot-instructions-md-without-disturbing-user-content",
         "pr-839"
       ],
-      "mtime": 1782518372594,
       "id": "pr/839/dotnet-ai/append-to-existing-copilot-instructions-md-without-disturbing-user-content--plugin--run0"
     },
     {
-      "name": "dotnet-ai / Append to existing copilot-instructions.md without disturbing user content (baseline, run 1)",
       "url": "sessions/pr/839/dotnet-ai/append-to-existing-copilot-instructions-md-without-disturbing-user-content--baseline--run1.jsonl",
+      "name": "dotnet-ai / Append to existing copilot-instructions.md without disturbing user content (baseline, run 1)",
+      "mtime": 1782520014012,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -166,12 +168,12 @@
         "append-to-existing-copilot-instructions-md-without-disturbing-user-content",
         "pr-839"
       ],
-      "mtime": 1782518372597,
       "id": "pr/839/dotnet-ai/append-to-existing-copilot-instructions-md-without-disturbing-user-content--baseline--run1"
     },
     {
-      "name": "dotnet-ai / Append to existing copilot-instructions.md without disturbing user content (isolated, run 1)",
       "url": "sessions/pr/839/dotnet-ai/append-to-existing-copilot-instructions-md-without-disturbing-user-content--isolated--run1.jsonl",
+      "name": "dotnet-ai / Append to existing copilot-instructions.md without disturbing user content (isolated, run 1)",
+      "mtime": 1782520014017,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -179,12 +181,12 @@
         "append-to-existing-copilot-instructions-md-without-disturbing-user-content",
         "pr-839"
       ],
-      "mtime": 1782518372600,
       "id": "pr/839/dotnet-ai/append-to-existing-copilot-instructions-md-without-disturbing-user-content--isolated--run1"
     },
     {
-      "name": "dotnet-ai / Append to existing copilot-instructions.md without disturbing user content (plugin, run 1)",
       "url": "sessions/pr/839/dotnet-ai/append-to-existing-copilot-instructions-md-without-disturbing-user-content--plugin--run1.jsonl",
+      "name": "dotnet-ai / Append to existing copilot-instructions.md without disturbing user content (plugin, run 1)",
+      "mtime": 1782520014021,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -192,12 +194,12 @@
         "append-to-existing-copilot-instructions-md-without-disturbing-user-content",
         "pr-839"
       ],
-      "mtime": 1782518372603,
       "id": "pr/839/dotnet-ai/append-to-existing-copilot-instructions-md-without-disturbing-user-content--plugin--run1"
     },
     {
-      "name": "dotnet-ai / Append to existing copilot-instructions.md without disturbing user content (baseline, run 2)",
       "url": "sessions/pr/839/dotnet-ai/append-to-existing-copilot-instructions-md-without-disturbing-user-content--baseline--run2.jsonl",
+      "name": "dotnet-ai / Append to existing copilot-instructions.md without disturbing user content (baseline, run 2)",
+      "mtime": 1782520014024,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -205,12 +207,12 @@
         "append-to-existing-copilot-instructions-md-without-disturbing-user-content",
         "pr-839"
       ],
-      "mtime": 1782518372606,
       "id": "pr/839/dotnet-ai/append-to-existing-copilot-instructions-md-without-disturbing-user-content--baseline--run2"
     },
     {
-      "name": "dotnet-ai / Append to existing copilot-instructions.md without disturbing user content (isolated, run 2)",
       "url": "sessions/pr/839/dotnet-ai/append-to-existing-copilot-instructions-md-without-disturbing-user-content--isolated--run2.jsonl",
+      "name": "dotnet-ai / Append to existing copilot-instructions.md without disturbing user content (isolated, run 2)",
+      "mtime": 1782520014028,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -218,12 +220,12 @@
         "append-to-existing-copilot-instructions-md-without-disturbing-user-content",
         "pr-839"
       ],
-      "mtime": 1782518372609,
       "id": "pr/839/dotnet-ai/append-to-existing-copilot-instructions-md-without-disturbing-user-content--isolated--run2"
     },
     {
-      "name": "dotnet-ai / Append to existing copilot-instructions.md without disturbing user content (plugin, run 2)",
       "url": "sessions/pr/839/dotnet-ai/append-to-existing-copilot-instructions-md-without-disturbing-user-content--plugin--run2.jsonl",
+      "name": "dotnet-ai / Append to existing copilot-instructions.md without disturbing user content (plugin, run 2)",
+      "mtime": 1782520014032,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -231,12 +233,12 @@
         "append-to-existing-copilot-instructions-md-without-disturbing-user-content",
         "pr-839"
       ],
-      "mtime": 1782518372613,
       "id": "pr/839/dotnet-ai/append-to-existing-copilot-instructions-md-without-disturbing-user-content--plugin--run2"
     },
     {
-      "name": "dotnet-ai / Fresh install — creates copilot-instructions.md with managed block (baseline, run 0)",
       "url": "sessions/pr/839/dotnet-ai/fresh-install---creates-copilot-instructions-md-with-managed-block--baseline--run0.jsonl",
+      "name": "dotnet-ai / Fresh install — creates copilot-instructions.md with managed block (baseline, run 0)",
+      "mtime": 1782520014036,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -244,12 +246,12 @@
         "fresh-install---creates-copilot-instructions-md-with-managed-block",
         "pr-839"
       ],
-      "mtime": 1782518372616,
       "id": "pr/839/dotnet-ai/fresh-install---creates-copilot-instructions-md-with-managed-block--baseline--run0"
     },
     {
-      "name": "dotnet-ai / Fresh install — creates copilot-instructions.md with managed block (isolated, run 0)",
       "url": "sessions/pr/839/dotnet-ai/fresh-install---creates-copilot-instructions-md-with-managed-block--isolated--run0.jsonl",
+      "name": "dotnet-ai / Fresh install — creates copilot-instructions.md with managed block (isolated, run 0)",
+      "mtime": 1782520014039,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -257,12 +259,12 @@
         "fresh-install---creates-copilot-instructions-md-with-managed-block",
         "pr-839"
       ],
-      "mtime": 1782518372619,
       "id": "pr/839/dotnet-ai/fresh-install---creates-copilot-instructions-md-with-managed-block--isolated--run0"
     },
     {
-      "name": "dotnet-ai / Fresh install — creates copilot-instructions.md with managed block (plugin, run 0)",
       "url": "sessions/pr/839/dotnet-ai/fresh-install---creates-copilot-instructions-md-with-managed-block--plugin--run0.jsonl",
+      "name": "dotnet-ai / Fresh install — creates copilot-instructions.md with managed block (plugin, run 0)",
+      "mtime": 1782520014043,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -270,12 +272,12 @@
         "fresh-install---creates-copilot-instructions-md-with-managed-block",
         "pr-839"
       ],
-      "mtime": 1782518372623,
       "id": "pr/839/dotnet-ai/fresh-install---creates-copilot-instructions-md-with-managed-block--plugin--run0"
     },
     {
-      "name": "dotnet-ai / Fresh install — creates copilot-instructions.md with managed block (baseline, run 1)",
       "url": "sessions/pr/839/dotnet-ai/fresh-install---creates-copilot-instructions-md-with-managed-block--baseline--run1.jsonl",
+      "name": "dotnet-ai / Fresh install — creates copilot-instructions.md with managed block (baseline, run 1)",
+      "mtime": 1782520014048,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -283,12 +285,12 @@
         "fresh-install---creates-copilot-instructions-md-with-managed-block",
         "pr-839"
       ],
-      "mtime": 1782518372626,
       "id": "pr/839/dotnet-ai/fresh-install---creates-copilot-instructions-md-with-managed-block--baseline--run1"
     },
     {
-      "name": "dotnet-ai / Fresh install — creates copilot-instructions.md with managed block (isolated, run 1)",
       "url": "sessions/pr/839/dotnet-ai/fresh-install---creates-copilot-instructions-md-with-managed-block--isolated--run1.jsonl",
+      "name": "dotnet-ai / Fresh install — creates copilot-instructions.md with managed block (isolated, run 1)",
+      "mtime": 1782520014052,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -296,12 +298,12 @@
         "fresh-install---creates-copilot-instructions-md-with-managed-block",
         "pr-839"
       ],
-      "mtime": 1782518372630,
       "id": "pr/839/dotnet-ai/fresh-install---creates-copilot-instructions-md-with-managed-block--isolated--run1"
     },
     {
-      "name": "dotnet-ai / Fresh install — creates copilot-instructions.md with managed block (plugin, run 1)",
       "url": "sessions/pr/839/dotnet-ai/fresh-install---creates-copilot-instructions-md-with-managed-block--plugin--run1.jsonl",
+      "name": "dotnet-ai / Fresh install — creates copilot-instructions.md with managed block (plugin, run 1)",
+      "mtime": 1782520014056,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -309,12 +311,12 @@
         "fresh-install---creates-copilot-instructions-md-with-managed-block",
         "pr-839"
       ],
-      "mtime": 1782518372633,
       "id": "pr/839/dotnet-ai/fresh-install---creates-copilot-instructions-md-with-managed-block--plugin--run1"
     },
     {
-      "name": "dotnet-ai / Fresh install — creates copilot-instructions.md with managed block (baseline, run 2)",
       "url": "sessions/pr/839/dotnet-ai/fresh-install---creates-copilot-instructions-md-with-managed-block--baseline--run2.jsonl",
+      "name": "dotnet-ai / Fresh install — creates copilot-instructions.md with managed block (baseline, run 2)",
+      "mtime": 1782520014061,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -322,12 +324,12 @@
         "fresh-install---creates-copilot-instructions-md-with-managed-block",
         "pr-839"
       ],
-      "mtime": 1782518372637,
       "id": "pr/839/dotnet-ai/fresh-install---creates-copilot-instructions-md-with-managed-block--baseline--run2"
     },
     {
-      "name": "dotnet-ai / Fresh install — creates copilot-instructions.md with managed block (isolated, run 2)",
       "url": "sessions/pr/839/dotnet-ai/fresh-install---creates-copilot-instructions-md-with-managed-block--isolated--run2.jsonl",
+      "name": "dotnet-ai / Fresh install — creates copilot-instructions.md with managed block (isolated, run 2)",
+      "mtime": 1782520014065,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -335,12 +337,12 @@
         "fresh-install---creates-copilot-instructions-md-with-managed-block",
         "pr-839"
       ],
-      "mtime": 1782518372640,
       "id": "pr/839/dotnet-ai/fresh-install---creates-copilot-instructions-md-with-managed-block--isolated--run2"
     },
     {
-      "name": "dotnet-ai / Fresh install — creates copilot-instructions.md with managed block (plugin, run 2)",
       "url": "sessions/pr/839/dotnet-ai/fresh-install---creates-copilot-instructions-md-with-managed-block--plugin--run2.jsonl",
+      "name": "dotnet-ai / Fresh install — creates copilot-instructions.md with managed block (plugin, run 2)",
+      "mtime": 1782520014070,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -348,12 +350,12 @@
         "fresh-install---creates-copilot-instructions-md-with-managed-block",
         "pr-839"
       ],
-      "mtime": 1782518372644,
       "id": "pr/839/dotnet-ai/fresh-install---creates-copilot-instructions-md-with-managed-block--plugin--run2"
     },
     {
-      "name": "dotnet-ai / Idempotent re-install — current-version managed block is a no-op (baseline, run 0)",
       "url": "sessions/pr/839/dotnet-ai/idempotent-re-install---current-version-managed-block-is-a-no-op--baseline--run0.jsonl",
+      "name": "dotnet-ai / Idempotent re-install — current-version managed block is a no-op (baseline, run 0)",
+      "mtime": 1782520014077,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -361,12 +363,12 @@
         "idempotent-re-install---current-version-managed-block-is-a-no-op",
         "pr-839"
       ],
-      "mtime": 1782518372650,
       "id": "pr/839/dotnet-ai/idempotent-re-install---current-version-managed-block-is-a-no-op--baseline--run0"
     },
     {
-      "name": "dotnet-ai / Idempotent re-install — current-version managed block is a no-op (isolated, run 0)",
       "url": "sessions/pr/839/dotnet-ai/idempotent-re-install---current-version-managed-block-is-a-no-op--isolated--run0.jsonl",
+      "name": "dotnet-ai / Idempotent re-install — current-version managed block is a no-op (isolated, run 0)",
+      "mtime": 1782520014081,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -374,12 +376,12 @@
         "idempotent-re-install---current-version-managed-block-is-a-no-op",
         "pr-839"
       ],
-      "mtime": 1782518372653,
       "id": "pr/839/dotnet-ai/idempotent-re-install---current-version-managed-block-is-a-no-op--isolated--run0"
     },
     {
-      "name": "dotnet-ai / Idempotent re-install — current-version managed block is a no-op (plugin, run 0)",
       "url": "sessions/pr/839/dotnet-ai/idempotent-re-install---current-version-managed-block-is-a-no-op--plugin--run0.jsonl",
+      "name": "dotnet-ai / Idempotent re-install — current-version managed block is a no-op (plugin, run 0)",
+      "mtime": 1782520014084,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -387,12 +389,12 @@
         "idempotent-re-install---current-version-managed-block-is-a-no-op",
         "pr-839"
       ],
-      "mtime": 1782518372656,
       "id": "pr/839/dotnet-ai/idempotent-re-install---current-version-managed-block-is-a-no-op--plugin--run0"
     },
     {
-      "name": "dotnet-ai / Idempotent re-install — current-version managed block is a no-op (baseline, run 1)",
       "url": "sessions/pr/839/dotnet-ai/idempotent-re-install---current-version-managed-block-is-a-no-op--baseline--run1.jsonl",
+      "name": "dotnet-ai / Idempotent re-install — current-version managed block is a no-op (baseline, run 1)",
+      "mtime": 1782520014088,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -400,12 +402,12 @@
         "idempotent-re-install---current-version-managed-block-is-a-no-op",
         "pr-839"
       ],
-      "mtime": 1782518372659,
       "id": "pr/839/dotnet-ai/idempotent-re-install---current-version-managed-block-is-a-no-op--baseline--run1"
     },
     {
-      "name": "dotnet-ai / Idempotent re-install — current-version managed block is a no-op (isolated, run 1)",
       "url": "sessions/pr/839/dotnet-ai/idempotent-re-install---current-version-managed-block-is-a-no-op--isolated--run1.jsonl",
+      "name": "dotnet-ai / Idempotent re-install — current-version managed block is a no-op (isolated, run 1)",
+      "mtime": 1782520014091,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -413,12 +415,12 @@
         "idempotent-re-install---current-version-managed-block-is-a-no-op",
         "pr-839"
       ],
-      "mtime": 1782518372662,
       "id": "pr/839/dotnet-ai/idempotent-re-install---current-version-managed-block-is-a-no-op--isolated--run1"
     },
     {
-      "name": "dotnet-ai / Idempotent re-install — current-version managed block is a no-op (plugin, run 1)",
       "url": "sessions/pr/839/dotnet-ai/idempotent-re-install---current-version-managed-block-is-a-no-op--plugin--run1.jsonl",
+      "name": "dotnet-ai / Idempotent re-install — current-version managed block is a no-op (plugin, run 1)",
+      "mtime": 1782520014095,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -426,12 +428,12 @@
         "idempotent-re-install---current-version-managed-block-is-a-no-op",
         "pr-839"
       ],
-      "mtime": 1782518372665,
       "id": "pr/839/dotnet-ai/idempotent-re-install---current-version-managed-block-is-a-no-op--plugin--run1"
     },
     {
-      "name": "dotnet-ai / Idempotent re-install — current-version managed block is a no-op (baseline, run 2)",
       "url": "sessions/pr/839/dotnet-ai/idempotent-re-install---current-version-managed-block-is-a-no-op--baseline--run2.jsonl",
+      "name": "dotnet-ai / Idempotent re-install — current-version managed block is a no-op (baseline, run 2)",
+      "mtime": 1782520014099,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -439,12 +441,12 @@
         "idempotent-re-install---current-version-managed-block-is-a-no-op",
         "pr-839"
       ],
-      "mtime": 1782518372667,
       "id": "pr/839/dotnet-ai/idempotent-re-install---current-version-managed-block-is-a-no-op--baseline--run2"
     },
     {
-      "name": "dotnet-ai / Idempotent re-install — current-version managed block is a no-op (isolated, run 2)",
       "url": "sessions/pr/839/dotnet-ai/idempotent-re-install---current-version-managed-block-is-a-no-op--isolated--run2.jsonl",
+      "name": "dotnet-ai / Idempotent re-install — current-version managed block is a no-op (isolated, run 2)",
+      "mtime": 1782520014102,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -452,12 +454,12 @@
         "idempotent-re-install---current-version-managed-block-is-a-no-op",
         "pr-839"
       ],
-      "mtime": 1782518372670,
       "id": "pr/839/dotnet-ai/idempotent-re-install---current-version-managed-block-is-a-no-op--isolated--run2"
     },
     {
-      "name": "dotnet-ai / Idempotent re-install — current-version managed block is a no-op (plugin, run 2)",
       "url": "sessions/pr/839/dotnet-ai/idempotent-re-install---current-version-managed-block-is-a-no-op--plugin--run2.jsonl",
+      "name": "dotnet-ai / Idempotent re-install — current-version managed block is a no-op (plugin, run 2)",
+      "mtime": 1782520014106,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -465,12 +467,12 @@
         "idempotent-re-install---current-version-managed-block-is-a-no-op",
         "pr-839"
       ],
-      "mtime": 1782518372673,
       "id": "pr/839/dotnet-ai/idempotent-re-install---current-version-managed-block-is-a-no-op--plugin--run2"
     },
     {
-      "name": "dotnet-ai / Update from v0.2.0 — drops deprecated agent_count_max and llm_routed_edges_max_per_turn with warning (baseline, run 0)",
       "url": "sessions/pr/839/dotnet-ai/update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning--baseline--run0.jsonl",
+      "name": "dotnet-ai / Update from v0.2.0 — drops deprecated agent_count_max and llm_routed_edges_max_per_turn with warning (baseline, run 0)",
+      "mtime": 1782520014109,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -478,12 +480,12 @@
         "update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning",
         "pr-839"
       ],
-      "mtime": 1782518372676,
       "id": "pr/839/dotnet-ai/update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning--baseline--run0"
     },
     {
-      "name": "dotnet-ai / Update from v0.2.0 — drops deprecated agent_count_max and llm_routed_edges_max_per_turn with warning (isolated, run 0)",
       "url": "sessions/pr/839/dotnet-ai/update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning--isolated--run0.jsonl",
+      "name": "dotnet-ai / Update from v0.2.0 — drops deprecated agent_count_max and llm_routed_edges_max_per_turn with warning (isolated, run 0)",
+      "mtime": 1782520014113,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -491,12 +493,12 @@
         "update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning",
         "pr-839"
       ],
-      "mtime": 1782518372679,
       "id": "pr/839/dotnet-ai/update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning--isolated--run0"
     },
     {
-      "name": "dotnet-ai / Update from v0.2.0 — drops deprecated agent_count_max and llm_routed_edges_max_per_turn with warning (plugin, run 0)",
       "url": "sessions/pr/839/dotnet-ai/update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning--plugin--run0.jsonl",
+      "name": "dotnet-ai / Update from v0.2.0 — drops deprecated agent_count_max and llm_routed_edges_max_per_turn with warning (plugin, run 0)",
+      "mtime": 1782520014116,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -504,12 +506,12 @@
         "update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning",
         "pr-839"
       ],
-      "mtime": 1782518372681,
       "id": "pr/839/dotnet-ai/update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning--plugin--run0"
     },
     {
-      "name": "dotnet-ai / Update from v0.2.0 — drops deprecated agent_count_max and llm_routed_edges_max_per_turn with warning (baseline, run 1)",
       "url": "sessions/pr/839/dotnet-ai/update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning--baseline--run1.jsonl",
+      "name": "dotnet-ai / Update from v0.2.0 — drops deprecated agent_count_max and llm_routed_edges_max_per_turn with warning (baseline, run 1)",
+      "mtime": 1782520014120,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -517,12 +519,12 @@
         "update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning",
         "pr-839"
       ],
-      "mtime": 1782518372684,
       "id": "pr/839/dotnet-ai/update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning--baseline--run1"
     },
     {
-      "name": "dotnet-ai / Update from v0.2.0 — drops deprecated agent_count_max and llm_routed_edges_max_per_turn with warning (isolated, run 1)",
       "url": "sessions/pr/839/dotnet-ai/update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning--isolated--run1.jsonl",
+      "name": "dotnet-ai / Update from v0.2.0 — drops deprecated agent_count_max and llm_routed_edges_max_per_turn with warning (isolated, run 1)",
+      "mtime": 1782520014124,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -530,12 +532,12 @@
         "update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning",
         "pr-839"
       ],
-      "mtime": 1782518372687,
       "id": "pr/839/dotnet-ai/update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning--isolated--run1"
     },
     {
-      "name": "dotnet-ai / Update from v0.2.0 — drops deprecated agent_count_max and llm_routed_edges_max_per_turn with warning (plugin, run 1)",
       "url": "sessions/pr/839/dotnet-ai/update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning--plugin--run1.jsonl",
+      "name": "dotnet-ai / Update from v0.2.0 — drops deprecated agent_count_max and llm_routed_edges_max_per_turn with warning (plugin, run 1)",
+      "mtime": 1782520014127,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -543,12 +545,12 @@
         "update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning",
         "pr-839"
       ],
-      "mtime": 1782518372690,
       "id": "pr/839/dotnet-ai/update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning--plugin--run1"
     },
     {
-      "name": "dotnet-ai / Update from v0.2.0 — drops deprecated agent_count_max and llm_routed_edges_max_per_turn with warning (baseline, run 2)",
       "url": "sessions/pr/839/dotnet-ai/update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning--baseline--run2.jsonl",
+      "name": "dotnet-ai / Update from v0.2.0 — drops deprecated agent_count_max and llm_routed_edges_max_per_turn with warning (baseline, run 2)",
+      "mtime": 1782520014131,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -556,12 +558,12 @@
         "update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning",
         "pr-839"
       ],
-      "mtime": 1782518372693,
       "id": "pr/839/dotnet-ai/update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning--baseline--run2"
     },
     {
-      "name": "dotnet-ai / Update from v0.2.0 — drops deprecated agent_count_max and llm_routed_edges_max_per_turn with warning (isolated, run 2)",
       "url": "sessions/pr/839/dotnet-ai/update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning--isolated--run2.jsonl",
+      "name": "dotnet-ai / Update from v0.2.0 — drops deprecated agent_count_max and llm_routed_edges_max_per_turn with warning (isolated, run 2)",
+      "mtime": 1782520014134,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -569,12 +571,12 @@
         "update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning",
         "pr-839"
       ],
-      "mtime": 1782518372696,
       "id": "pr/839/dotnet-ai/update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning--isolated--run2"
     },
     {
-      "name": "dotnet-ai / Update from v0.2.0 — drops deprecated agent_count_max and llm_routed_edges_max_per_turn with warning (plugin, run 2)",
       "url": "sessions/pr/839/dotnet-ai/update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning--plugin--run2.jsonl",
+      "name": "dotnet-ai / Update from v0.2.0 — drops deprecated agent_count_max and llm_routed_edges_max_per_turn with warning (plugin, run 2)",
+      "mtime": 1782520014137,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -582,12 +584,12 @@
         "update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning",
         "pr-839"
       ],
-      "mtime": 1782518372698,
       "id": "pr/839/dotnet-ai/update-from-v0-2-0---drops-deprecated-agent_count_max-and-llm_routed_edges_max_per_turn-with-warning--plugin--run2"
     },
     {
-      "name": "dotnet-ai / Update older version — preserves user-edited threshold values (baseline, run 0)",
       "url": "sessions/pr/839/dotnet-ai/update-older-version---preserves-user-edited-threshold-values--baseline--run0.jsonl",
+      "name": "dotnet-ai / Update older version — preserves user-edited threshold values (baseline, run 0)",
+      "mtime": 1782520014141,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -595,12 +597,12 @@
         "update-older-version---preserves-user-edited-threshold-values",
         "pr-839"
       ],
-      "mtime": 1782518372701,
       "id": "pr/839/dotnet-ai/update-older-version---preserves-user-edited-threshold-values--baseline--run0"
     },
     {
-      "name": "dotnet-ai / Update older version — preserves user-edited threshold values (isolated, run 0)",
       "url": "sessions/pr/839/dotnet-ai/update-older-version---preserves-user-edited-threshold-values--isolated--run0.jsonl",
+      "name": "dotnet-ai / Update older version — preserves user-edited threshold values (isolated, run 0)",
+      "mtime": 1782520014145,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -608,12 +610,12 @@
         "update-older-version---preserves-user-edited-threshold-values",
         "pr-839"
       ],
-      "mtime": 1782518372704,
       "id": "pr/839/dotnet-ai/update-older-version---preserves-user-edited-threshold-values--isolated--run0"
     },
     {
-      "name": "dotnet-ai / Update older version — preserves user-edited threshold values (plugin, run 0)",
       "url": "sessions/pr/839/dotnet-ai/update-older-version---preserves-user-edited-threshold-values--plugin--run0.jsonl",
+      "name": "dotnet-ai / Update older version — preserves user-edited threshold values (plugin, run 0)",
+      "mtime": 1782520014149,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -621,12 +623,12 @@
         "update-older-version---preserves-user-edited-threshold-values",
         "pr-839"
       ],
-      "mtime": 1782518372707,
       "id": "pr/839/dotnet-ai/update-older-version---preserves-user-edited-threshold-values--plugin--run0"
     },
     {
-      "name": "dotnet-ai / Update older version — preserves user-edited threshold values (baseline, run 1)",
       "url": "sessions/pr/839/dotnet-ai/update-older-version---preserves-user-edited-threshold-values--baseline--run1.jsonl",
+      "name": "dotnet-ai / Update older version — preserves user-edited threshold values (baseline, run 1)",
+      "mtime": 1782520014152,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -634,12 +636,12 @@
         "update-older-version---preserves-user-edited-threshold-values",
         "pr-839"
       ],
-      "mtime": 1782518372710,
       "id": "pr/839/dotnet-ai/update-older-version---preserves-user-edited-threshold-values--baseline--run1"
     },
     {
-      "name": "dotnet-ai / Update older version — preserves user-edited threshold values (isolated, run 1)",
       "url": "sessions/pr/839/dotnet-ai/update-older-version---preserves-user-edited-threshold-values--isolated--run1.jsonl",
+      "name": "dotnet-ai / Update older version — preserves user-edited threshold values (isolated, run 1)",
+      "mtime": 1782520014156,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -647,12 +649,12 @@
         "update-older-version---preserves-user-edited-threshold-values",
         "pr-839"
       ],
-      "mtime": 1782518372712,
       "id": "pr/839/dotnet-ai/update-older-version---preserves-user-edited-threshold-values--isolated--run1"
     },
     {
-      "name": "dotnet-ai / Update older version — preserves user-edited threshold values (plugin, run 1)",
       "url": "sessions/pr/839/dotnet-ai/update-older-version---preserves-user-edited-threshold-values--plugin--run1.jsonl",
+      "name": "dotnet-ai / Update older version — preserves user-edited threshold values (plugin, run 1)",
+      "mtime": 1782520014159,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -660,12 +662,12 @@
         "update-older-version---preserves-user-edited-threshold-values",
         "pr-839"
       ],
-      "mtime": 1782518372715,
       "id": "pr/839/dotnet-ai/update-older-version---preserves-user-edited-threshold-values--plugin--run1"
     },
     {
-      "name": "dotnet-ai / Update older version — preserves user-edited threshold values (baseline, run 2)",
       "url": "sessions/pr/839/dotnet-ai/update-older-version---preserves-user-edited-threshold-values--baseline--run2.jsonl",
+      "name": "dotnet-ai / Update older version — preserves user-edited threshold values (baseline, run 2)",
+      "mtime": 1782520014163,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -673,12 +675,12 @@
         "update-older-version---preserves-user-edited-threshold-values",
         "pr-839"
       ],
-      "mtime": 1782518372718,
       "id": "pr/839/dotnet-ai/update-older-version---preserves-user-edited-threshold-values--baseline--run2"
     },
     {
-      "name": "dotnet-ai / Update older version — preserves user-edited threshold values (isolated, run 2)",
       "url": "sessions/pr/839/dotnet-ai/update-older-version---preserves-user-edited-threshold-values--isolated--run2.jsonl",
+      "name": "dotnet-ai / Update older version — preserves user-edited threshold values (isolated, run 2)",
+      "mtime": 1782520014166,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -686,12 +688,12 @@
         "update-older-version---preserves-user-edited-threshold-values",
         "pr-839"
       ],
-      "mtime": 1782518372721,
       "id": "pr/839/dotnet-ai/update-older-version---preserves-user-edited-threshold-values--isolated--run2"
     },
     {
-      "name": "dotnet-ai / Update older version — preserves user-edited threshold values (plugin, run 2)",
       "url": "sessions/pr/839/dotnet-ai/update-older-version---preserves-user-edited-threshold-values--plugin--run2.jsonl",
+      "name": "dotnet-ai / Update older version — preserves user-edited threshold values (plugin, run 2)",
+      "mtime": 1782520014170,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -699,12 +701,12 @@
         "update-older-version---preserves-user-edited-threshold-values",
         "pr-839"
       ],
-      "mtime": 1782518372724,
       "id": "pr/839/dotnet-ai/update-older-version---preserves-user-edited-threshold-values--plugin--run2"
     },
     {
-      "name": "dotnet-ai / clean-project-zero-criticals (baseline, run 0)",
       "url": "sessions/pr/839/dotnet-ai/clean-project-zero-criticals--baseline--run0.jsonl",
+      "name": "dotnet-ai / clean-project-zero-criticals (baseline, run 0)",
+      "mtime": 1782520014203,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -712,12 +714,12 @@
         "clean-project-zero-criticals",
         "pr-839"
       ],
-      "mtime": 1782518372753,
       "id": "pr/839/dotnet-ai/clean-project-zero-criticals--baseline--run0"
     },
     {
-      "name": "dotnet-ai / clean-project-zero-criticals (isolated, run 0)",
       "url": "sessions/pr/839/dotnet-ai/clean-project-zero-criticals--isolated--run0.jsonl",
+      "name": "dotnet-ai / clean-project-zero-criticals (isolated, run 0)",
+      "mtime": 1782520014208,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -725,12 +727,12 @@
         "clean-project-zero-criticals",
         "pr-839"
       ],
-      "mtime": 1782518372756,
       "id": "pr/839/dotnet-ai/clean-project-zero-criticals--isolated--run0"
     },
     {
-      "name": "dotnet-ai / clean-project-zero-criticals (plugin, run 0)",
       "url": "sessions/pr/839/dotnet-ai/clean-project-zero-criticals--plugin--run0.jsonl",
+      "name": "dotnet-ai / clean-project-zero-criticals (plugin, run 0)",
+      "mtime": 1782520014211,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -738,12 +740,12 @@
         "clean-project-zero-criticals",
         "pr-839"
       ],
-      "mtime": 1782518372759,
       "id": "pr/839/dotnet-ai/clean-project-zero-criticals--plugin--run0"
     },
     {
-      "name": "dotnet-ai / clean-project-zero-criticals (baseline, run 1)",
       "url": "sessions/pr/839/dotnet-ai/clean-project-zero-criticals--baseline--run1.jsonl",
+      "name": "dotnet-ai / clean-project-zero-criticals (baseline, run 1)",
+      "mtime": 1782520014214,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -751,12 +753,12 @@
         "clean-project-zero-criticals",
         "pr-839"
       ],
-      "mtime": 1782518372761,
       "id": "pr/839/dotnet-ai/clean-project-zero-criticals--baseline--run1"
     },
     {
-      "name": "dotnet-ai / clean-project-zero-criticals (isolated, run 1)",
       "url": "sessions/pr/839/dotnet-ai/clean-project-zero-criticals--isolated--run1.jsonl",
+      "name": "dotnet-ai / clean-project-zero-criticals (isolated, run 1)",
+      "mtime": 1782520014218,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -764,12 +766,12 @@
         "clean-project-zero-criticals",
         "pr-839"
       ],
-      "mtime": 1782518372764,
       "id": "pr/839/dotnet-ai/clean-project-zero-criticals--isolated--run1"
     },
     {
-      "name": "dotnet-ai / clean-project-zero-criticals (plugin, run 1)",
       "url": "sessions/pr/839/dotnet-ai/clean-project-zero-criticals--plugin--run1.jsonl",
+      "name": "dotnet-ai / clean-project-zero-criticals (plugin, run 1)",
+      "mtime": 1782520014221,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -777,12 +779,12 @@
         "clean-project-zero-criticals",
         "pr-839"
       ],
-      "mtime": 1782518372767,
       "id": "pr/839/dotnet-ai/clean-project-zero-criticals--plugin--run1"
     },
     {
-      "name": "dotnet-ai / clean-project-zero-criticals (baseline, run 2)",
       "url": "sessions/pr/839/dotnet-ai/clean-project-zero-criticals--baseline--run2.jsonl",
+      "name": "dotnet-ai / clean-project-zero-criticals (baseline, run 2)",
+      "mtime": 1782520014224,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -790,12 +792,12 @@
         "clean-project-zero-criticals",
         "pr-839"
       ],
-      "mtime": 1782518372770,
       "id": "pr/839/dotnet-ai/clean-project-zero-criticals--baseline--run2"
     },
     {
-      "name": "dotnet-ai / clean-project-zero-criticals (isolated, run 2)",
       "url": "sessions/pr/839/dotnet-ai/clean-project-zero-criticals--isolated--run2.jsonl",
+      "name": "dotnet-ai / clean-project-zero-criticals (isolated, run 2)",
+      "mtime": 1782520014227,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -803,12 +805,12 @@
         "clean-project-zero-criticals",
         "pr-839"
       ],
-      "mtime": 1782518372773,
       "id": "pr/839/dotnet-ai/clean-project-zero-criticals--isolated--run2"
     },
     {
-      "name": "dotnet-ai / clean-project-zero-criticals (plugin, run 2)",
       "url": "sessions/pr/839/dotnet-ai/clean-project-zero-criticals--plugin--run2.jsonl",
+      "name": "dotnet-ai / clean-project-zero-criticals (plugin, run 2)",
+      "mtime": 1782520014231,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -816,12 +818,12 @@
         "clean-project-zero-criticals",
         "pr-839"
       ],
-      "mtime": 1782518372776,
       "id": "pr/839/dotnet-ai/clean-project-zero-criticals--plugin--run2"
     },
     {
-      "name": "dotnet-ai / full-history-fixture-flags-message-history (baseline, run 0)",
       "url": "sessions/pr/839/dotnet-ai/full-history-fixture-flags-message-history--baseline--run0.jsonl",
+      "name": "dotnet-ai / full-history-fixture-flags-message-history (baseline, run 0)",
+      "mtime": 1782520014234,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -829,12 +831,12 @@
         "full-history-fixture-flags-message-history",
         "pr-839"
       ],
-      "mtime": 1782518372779,
       "id": "pr/839/dotnet-ai/full-history-fixture-flags-message-history--baseline--run0"
     },
     {
-      "name": "dotnet-ai / full-history-fixture-flags-message-history (isolated, run 0)",
       "url": "sessions/pr/839/dotnet-ai/full-history-fixture-flags-message-history--isolated--run0.jsonl",
+      "name": "dotnet-ai / full-history-fixture-flags-message-history (isolated, run 0)",
+      "mtime": 1782520014237,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -842,12 +844,12 @@
         "full-history-fixture-flags-message-history",
         "pr-839"
       ],
-      "mtime": 1782518372782,
       "id": "pr/839/dotnet-ai/full-history-fixture-flags-message-history--isolated--run0"
     },
     {
-      "name": "dotnet-ai / full-history-fixture-flags-message-history (plugin, run 0)",
       "url": "sessions/pr/839/dotnet-ai/full-history-fixture-flags-message-history--plugin--run0.jsonl",
+      "name": "dotnet-ai / full-history-fixture-flags-message-history (plugin, run 0)",
+      "mtime": 1782520014241,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -855,12 +857,12 @@
         "full-history-fixture-flags-message-history",
         "pr-839"
       ],
-      "mtime": 1782518372784,
       "id": "pr/839/dotnet-ai/full-history-fixture-flags-message-history--plugin--run0"
     },
     {
-      "name": "dotnet-ai / full-history-fixture-flags-message-history (baseline, run 1)",
       "url": "sessions/pr/839/dotnet-ai/full-history-fixture-flags-message-history--baseline--run1.jsonl",
+      "name": "dotnet-ai / full-history-fixture-flags-message-history (baseline, run 1)",
+      "mtime": 1782520014244,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -868,12 +870,12 @@
         "full-history-fixture-flags-message-history",
         "pr-839"
       ],
-      "mtime": 1782518372787,
       "id": "pr/839/dotnet-ai/full-history-fixture-flags-message-history--baseline--run1"
     },
     {
-      "name": "dotnet-ai / full-history-fixture-flags-message-history (isolated, run 1)",
       "url": "sessions/pr/839/dotnet-ai/full-history-fixture-flags-message-history--isolated--run1.jsonl",
+      "name": "dotnet-ai / full-history-fixture-flags-message-history (isolated, run 1)",
+      "mtime": 1782520014247,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -881,12 +883,12 @@
         "full-history-fixture-flags-message-history",
         "pr-839"
       ],
-      "mtime": 1782518372790,
       "id": "pr/839/dotnet-ai/full-history-fixture-flags-message-history--isolated--run1"
     },
     {
-      "name": "dotnet-ai / full-history-fixture-flags-message-history (plugin, run 1)",
       "url": "sessions/pr/839/dotnet-ai/full-history-fixture-flags-message-history--plugin--run1.jsonl",
+      "name": "dotnet-ai / full-history-fixture-flags-message-history (plugin, run 1)",
+      "mtime": 1782520014250,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -894,12 +896,12 @@
         "full-history-fixture-flags-message-history",
         "pr-839"
       ],
-      "mtime": 1782518372793,
       "id": "pr/839/dotnet-ai/full-history-fixture-flags-message-history--plugin--run1"
     },
     {
-      "name": "dotnet-ai / full-history-fixture-flags-message-history (baseline, run 2)",
       "url": "sessions/pr/839/dotnet-ai/full-history-fixture-flags-message-history--baseline--run2.jsonl",
+      "name": "dotnet-ai / full-history-fixture-flags-message-history (baseline, run 2)",
+      "mtime": 1782520014254,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -907,12 +909,12 @@
         "full-history-fixture-flags-message-history",
         "pr-839"
       ],
-      "mtime": 1782518372796,
       "id": "pr/839/dotnet-ai/full-history-fixture-flags-message-history--baseline--run2"
     },
     {
-      "name": "dotnet-ai / full-history-fixture-flags-message-history (isolated, run 2)",
       "url": "sessions/pr/839/dotnet-ai/full-history-fixture-flags-message-history--isolated--run2.jsonl",
+      "name": "dotnet-ai / full-history-fixture-flags-message-history (isolated, run 2)",
+      "mtime": 1782520014257,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -920,12 +922,12 @@
         "full-history-fixture-flags-message-history",
         "pr-839"
       ],
-      "mtime": 1782518372799,
       "id": "pr/839/dotnet-ai/full-history-fixture-flags-message-history--isolated--run2"
     },
     {
-      "name": "dotnet-ai / full-history-fixture-flags-message-history (plugin, run 2)",
       "url": "sessions/pr/839/dotnet-ai/full-history-fixture-flags-message-history--plugin--run2.jsonl",
+      "name": "dotnet-ai / full-history-fixture-flags-message-history (plugin, run 2)",
+      "mtime": 1782520014260,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -933,12 +935,12 @@
         "full-history-fixture-flags-message-history",
         "pr-839"
       ],
-      "mtime": 1782518372802,
       "id": "pr/839/dotnet-ai/full-history-fixture-flags-message-history--plugin--run2"
     },
     {
-      "name": "dotnet-ai / missing-otel-fixture-flags-otel-coverage (baseline, run 0)",
       "url": "sessions/pr/839/dotnet-ai/missing-otel-fixture-flags-otel-coverage--baseline--run0.jsonl",
+      "name": "dotnet-ai / missing-otel-fixture-flags-otel-coverage (baseline, run 0)",
+      "mtime": 1782520014263,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -946,12 +948,12 @@
         "missing-otel-fixture-flags-otel-coverage",
         "pr-839"
       ],
-      "mtime": 1782518372804,
       "id": "pr/839/dotnet-ai/missing-otel-fixture-flags-otel-coverage--baseline--run0"
     },
     {
-      "name": "dotnet-ai / missing-otel-fixture-flags-otel-coverage (isolated, run 0)",
       "url": "sessions/pr/839/dotnet-ai/missing-otel-fixture-flags-otel-coverage--isolated--run0.jsonl",
+      "name": "dotnet-ai / missing-otel-fixture-flags-otel-coverage (isolated, run 0)",
+      "mtime": 1782520014266,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -959,12 +961,12 @@
         "missing-otel-fixture-flags-otel-coverage",
         "pr-839"
       ],
-      "mtime": 1782518372807,
       "id": "pr/839/dotnet-ai/missing-otel-fixture-flags-otel-coverage--isolated--run0"
     },
     {
-      "name": "dotnet-ai / missing-otel-fixture-flags-otel-coverage (plugin, run 0)",
       "url": "sessions/pr/839/dotnet-ai/missing-otel-fixture-flags-otel-coverage--plugin--run0.jsonl",
+      "name": "dotnet-ai / missing-otel-fixture-flags-otel-coverage (plugin, run 0)",
+      "mtime": 1782520014269,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -972,12 +974,12 @@
         "missing-otel-fixture-flags-otel-coverage",
         "pr-839"
       ],
-      "mtime": 1782518372810,
       "id": "pr/839/dotnet-ai/missing-otel-fixture-flags-otel-coverage--plugin--run0"
     },
     {
-      "name": "dotnet-ai / missing-otel-fixture-flags-otel-coverage (baseline, run 1)",
       "url": "sessions/pr/839/dotnet-ai/missing-otel-fixture-flags-otel-coverage--baseline--run1.jsonl",
+      "name": "dotnet-ai / missing-otel-fixture-flags-otel-coverage (baseline, run 1)",
+      "mtime": 1782520014273,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -985,12 +987,12 @@
         "missing-otel-fixture-flags-otel-coverage",
         "pr-839"
       ],
-      "mtime": 1782518372813,
       "id": "pr/839/dotnet-ai/missing-otel-fixture-flags-otel-coverage--baseline--run1"
     },
     {
-      "name": "dotnet-ai / missing-otel-fixture-flags-otel-coverage (isolated, run 1)",
       "url": "sessions/pr/839/dotnet-ai/missing-otel-fixture-flags-otel-coverage--isolated--run1.jsonl",
+      "name": "dotnet-ai / missing-otel-fixture-flags-otel-coverage (isolated, run 1)",
+      "mtime": 1782520014276,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -998,12 +1000,12 @@
         "missing-otel-fixture-flags-otel-coverage",
         "pr-839"
       ],
-      "mtime": 1782518372816,
       "id": "pr/839/dotnet-ai/missing-otel-fixture-flags-otel-coverage--isolated--run1"
     },
     {
-      "name": "dotnet-ai / missing-otel-fixture-flags-otel-coverage (plugin, run 1)",
       "url": "sessions/pr/839/dotnet-ai/missing-otel-fixture-flags-otel-coverage--plugin--run1.jsonl",
+      "name": "dotnet-ai / missing-otel-fixture-flags-otel-coverage (plugin, run 1)",
+      "mtime": 1782520014279,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1011,12 +1013,12 @@
         "missing-otel-fixture-flags-otel-coverage",
         "pr-839"
       ],
-      "mtime": 1782518372819,
       "id": "pr/839/dotnet-ai/missing-otel-fixture-flags-otel-coverage--plugin--run1"
     },
     {
-      "name": "dotnet-ai / missing-otel-fixture-flags-otel-coverage (baseline, run 2)",
       "url": "sessions/pr/839/dotnet-ai/missing-otel-fixture-flags-otel-coverage--baseline--run2.jsonl",
+      "name": "dotnet-ai / missing-otel-fixture-flags-otel-coverage (baseline, run 2)",
+      "mtime": 1782520014282,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1024,12 +1026,12 @@
         "missing-otel-fixture-flags-otel-coverage",
         "pr-839"
       ],
-      "mtime": 1782518372822,
       "id": "pr/839/dotnet-ai/missing-otel-fixture-flags-otel-coverage--baseline--run2"
     },
     {
-      "name": "dotnet-ai / missing-otel-fixture-flags-otel-coverage (isolated, run 2)",
       "url": "sessions/pr/839/dotnet-ai/missing-otel-fixture-flags-otel-coverage--isolated--run2.jsonl",
+      "name": "dotnet-ai / missing-otel-fixture-flags-otel-coverage (isolated, run 2)",
+      "mtime": 1782520014285,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1037,12 +1039,12 @@
         "missing-otel-fixture-flags-otel-coverage",
         "pr-839"
       ],
-      "mtime": 1782518372825,
       "id": "pr/839/dotnet-ai/missing-otel-fixture-flags-otel-coverage--isolated--run2"
     },
     {
-      "name": "dotnet-ai / missing-otel-fixture-flags-otel-coverage (plugin, run 2)",
       "url": "sessions/pr/839/dotnet-ai/missing-otel-fixture-flags-otel-coverage--plugin--run2.jsonl",
+      "name": "dotnet-ai / missing-otel-fixture-flags-otel-coverage (plugin, run 2)",
+      "mtime": 1782520014288,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1050,12 +1052,12 @@
         "missing-otel-fixture-flags-otel-coverage",
         "pr-839"
       ],
-      "mtime": 1782518372828,
       "id": "pr/839/dotnet-ai/missing-otel-fixture-flags-otel-coverage--plugin--run2"
     },
     {
-      "name": "dotnet-ai / prompt-bloat-fixture-flags-prompt-weight (baseline, run 0)",
       "url": "sessions/pr/839/dotnet-ai/prompt-bloat-fixture-flags-prompt-weight--baseline--run0.jsonl",
+      "name": "dotnet-ai / prompt-bloat-fixture-flags-prompt-weight (baseline, run 0)",
+      "mtime": 1782520014292,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1063,12 +1065,12 @@
         "prompt-bloat-fixture-flags-prompt-weight",
         "pr-839"
       ],
-      "mtime": 1782518372831,
       "id": "pr/839/dotnet-ai/prompt-bloat-fixture-flags-prompt-weight--baseline--run0"
     },
     {
-      "name": "dotnet-ai / prompt-bloat-fixture-flags-prompt-weight (isolated, run 0)",
       "url": "sessions/pr/839/dotnet-ai/prompt-bloat-fixture-flags-prompt-weight--isolated--run0.jsonl",
+      "name": "dotnet-ai / prompt-bloat-fixture-flags-prompt-weight (isolated, run 0)",
+      "mtime": 1782520014297,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1076,12 +1078,12 @@
         "prompt-bloat-fixture-flags-prompt-weight",
         "pr-839"
       ],
-      "mtime": 1782518372835,
       "id": "pr/839/dotnet-ai/prompt-bloat-fixture-flags-prompt-weight--isolated--run0"
     },
     {
-      "name": "dotnet-ai / prompt-bloat-fixture-flags-prompt-weight (plugin, run 0)",
       "url": "sessions/pr/839/dotnet-ai/prompt-bloat-fixture-flags-prompt-weight--plugin--run0.jsonl",
+      "name": "dotnet-ai / prompt-bloat-fixture-flags-prompt-weight (plugin, run 0)",
+      "mtime": 1782520014300,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1089,12 +1091,12 @@
         "prompt-bloat-fixture-flags-prompt-weight",
         "pr-839"
       ],
-      "mtime": 1782518372839,
       "id": "pr/839/dotnet-ai/prompt-bloat-fixture-flags-prompt-weight--plugin--run0"
     },
     {
-      "name": "dotnet-ai / prompt-bloat-fixture-flags-prompt-weight (baseline, run 1)",
       "url": "sessions/pr/839/dotnet-ai/prompt-bloat-fixture-flags-prompt-weight--baseline--run1.jsonl",
+      "name": "dotnet-ai / prompt-bloat-fixture-flags-prompt-weight (baseline, run 1)",
+      "mtime": 1782520014303,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1102,12 +1104,12 @@
         "prompt-bloat-fixture-flags-prompt-weight",
         "pr-839"
       ],
-      "mtime": 1782518372842,
       "id": "pr/839/dotnet-ai/prompt-bloat-fixture-flags-prompt-weight--baseline--run1"
     },
     {
-      "name": "dotnet-ai / prompt-bloat-fixture-flags-prompt-weight (isolated, run 1)",
       "url": "sessions/pr/839/dotnet-ai/prompt-bloat-fixture-flags-prompt-weight--isolated--run1.jsonl",
+      "name": "dotnet-ai / prompt-bloat-fixture-flags-prompt-weight (isolated, run 1)",
+      "mtime": 1782520014306,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1115,12 +1117,12 @@
         "prompt-bloat-fixture-flags-prompt-weight",
         "pr-839"
       ],
-      "mtime": 1782518372846,
       "id": "pr/839/dotnet-ai/prompt-bloat-fixture-flags-prompt-weight--isolated--run1"
     },
     {
-      "name": "dotnet-ai / prompt-bloat-fixture-flags-prompt-weight (plugin, run 1)",
       "url": "sessions/pr/839/dotnet-ai/prompt-bloat-fixture-flags-prompt-weight--plugin--run1.jsonl",
+      "name": "dotnet-ai / prompt-bloat-fixture-flags-prompt-weight (plugin, run 1)",
+      "mtime": 1782520014310,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1128,12 +1130,12 @@
         "prompt-bloat-fixture-flags-prompt-weight",
         "pr-839"
       ],
-      "mtime": 1782518372854,
       "id": "pr/839/dotnet-ai/prompt-bloat-fixture-flags-prompt-weight--plugin--run1"
     },
     {
-      "name": "dotnet-ai / prompt-bloat-fixture-flags-prompt-weight (baseline, run 2)",
       "url": "sessions/pr/839/dotnet-ai/prompt-bloat-fixture-flags-prompt-weight--baseline--run2.jsonl",
+      "name": "dotnet-ai / prompt-bloat-fixture-flags-prompt-weight (baseline, run 2)",
+      "mtime": 1782520014313,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1141,12 +1143,12 @@
         "prompt-bloat-fixture-flags-prompt-weight",
         "pr-839"
       ],
-      "mtime": 1782518372857,
       "id": "pr/839/dotnet-ai/prompt-bloat-fixture-flags-prompt-weight--baseline--run2"
     },
     {
-      "name": "dotnet-ai / prompt-bloat-fixture-flags-prompt-weight (isolated, run 2)",
       "url": "sessions/pr/839/dotnet-ai/prompt-bloat-fixture-flags-prompt-weight--isolated--run2.jsonl",
+      "name": "dotnet-ai / prompt-bloat-fixture-flags-prompt-weight (isolated, run 2)",
+      "mtime": 1782520014316,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1154,12 +1156,12 @@
         "prompt-bloat-fixture-flags-prompt-weight",
         "pr-839"
       ],
-      "mtime": 1782518372860,
       "id": "pr/839/dotnet-ai/prompt-bloat-fixture-flags-prompt-weight--isolated--run2"
     },
     {
-      "name": "dotnet-ai / prompt-bloat-fixture-flags-prompt-weight (plugin, run 2)",
       "url": "sessions/pr/839/dotnet-ai/prompt-bloat-fixture-flags-prompt-weight--plugin--run2.jsonl",
+      "name": "dotnet-ai / prompt-bloat-fixture-flags-prompt-weight (plugin, run 2)",
+      "mtime": 1782520014319,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1167,12 +1169,12 @@
         "prompt-bloat-fixture-flags-prompt-weight",
         "pr-839"
       ],
-      "mtime": 1782518372863,
       "id": "pr/839/dotnet-ai/prompt-bloat-fixture-flags-prompt-weight--plugin--run2"
     },
     {
-      "name": "dotnet-ai / sprawl-fixture-flags-topology (baseline, run 0)",
       "url": "sessions/pr/839/dotnet-ai/sprawl-fixture-flags-topology--baseline--run0.jsonl",
+      "name": "dotnet-ai / sprawl-fixture-flags-topology (baseline, run 0)",
+      "mtime": 1782520014322,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1180,12 +1182,12 @@
         "sprawl-fixture-flags-topology",
         "pr-839"
       ],
-      "mtime": 1782518372867,
       "id": "pr/839/dotnet-ai/sprawl-fixture-flags-topology--baseline--run0"
     },
     {
-      "name": "dotnet-ai / sprawl-fixture-flags-topology (isolated, run 0)",
       "url": "sessions/pr/839/dotnet-ai/sprawl-fixture-flags-topology--isolated--run0.jsonl",
+      "name": "dotnet-ai / sprawl-fixture-flags-topology (isolated, run 0)",
+      "mtime": 1782520014325,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1193,12 +1195,12 @@
         "sprawl-fixture-flags-topology",
         "pr-839"
       ],
-      "mtime": 1782518372871,
       "id": "pr/839/dotnet-ai/sprawl-fixture-flags-topology--isolated--run0"
     },
     {
-      "name": "dotnet-ai / sprawl-fixture-flags-topology (plugin, run 0)",
       "url": "sessions/pr/839/dotnet-ai/sprawl-fixture-flags-topology--plugin--run0.jsonl",
+      "name": "dotnet-ai / sprawl-fixture-flags-topology (plugin, run 0)",
+      "mtime": 1782520014328,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1206,12 +1208,12 @@
         "sprawl-fixture-flags-topology",
         "pr-839"
       ],
-      "mtime": 1782518372875,
       "id": "pr/839/dotnet-ai/sprawl-fixture-flags-topology--plugin--run0"
     },
     {
-      "name": "dotnet-ai / sprawl-fixture-flags-topology (baseline, run 1)",
       "url": "sessions/pr/839/dotnet-ai/sprawl-fixture-flags-topology--baseline--run1.jsonl",
+      "name": "dotnet-ai / sprawl-fixture-flags-topology (baseline, run 1)",
+      "mtime": 1782520014332,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1219,12 +1221,12 @@
         "sprawl-fixture-flags-topology",
         "pr-839"
       ],
-      "mtime": 1782518372879,
       "id": "pr/839/dotnet-ai/sprawl-fixture-flags-topology--baseline--run1"
     },
     {
-      "name": "dotnet-ai / sprawl-fixture-flags-topology (isolated, run 1)",
       "url": "sessions/pr/839/dotnet-ai/sprawl-fixture-flags-topology--isolated--run1.jsonl",
+      "name": "dotnet-ai / sprawl-fixture-flags-topology (isolated, run 1)",
+      "mtime": 1782520014335,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1232,12 +1234,12 @@
         "sprawl-fixture-flags-topology",
         "pr-839"
       ],
-      "mtime": 1782518372883,
       "id": "pr/839/dotnet-ai/sprawl-fixture-flags-topology--isolated--run1"
     },
     {
-      "name": "dotnet-ai / sprawl-fixture-flags-topology (plugin, run 1)",
       "url": "sessions/pr/839/dotnet-ai/sprawl-fixture-flags-topology--plugin--run1.jsonl",
+      "name": "dotnet-ai / sprawl-fixture-flags-topology (plugin, run 1)",
+      "mtime": 1782520014338,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1245,12 +1247,12 @@
         "sprawl-fixture-flags-topology",
         "pr-839"
       ],
-      "mtime": 1782518372886,
       "id": "pr/839/dotnet-ai/sprawl-fixture-flags-topology--plugin--run1"
     },
     {
-      "name": "dotnet-ai / sprawl-fixture-flags-topology (baseline, run 2)",
       "url": "sessions/pr/839/dotnet-ai/sprawl-fixture-flags-topology--baseline--run2.jsonl",
+      "name": "dotnet-ai / sprawl-fixture-flags-topology (baseline, run 2)",
+      "mtime": 1782520014341,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1258,12 +1260,12 @@
         "sprawl-fixture-flags-topology",
         "pr-839"
       ],
-      "mtime": 1782518372889,
       "id": "pr/839/dotnet-ai/sprawl-fixture-flags-topology--baseline--run2"
     },
     {
-      "name": "dotnet-ai / sprawl-fixture-flags-topology (isolated, run 2)",
       "url": "sessions/pr/839/dotnet-ai/sprawl-fixture-flags-topology--isolated--run2.jsonl",
+      "name": "dotnet-ai / sprawl-fixture-flags-topology (isolated, run 2)",
+      "mtime": 1782520014347,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1271,12 +1273,12 @@
         "sprawl-fixture-flags-topology",
         "pr-839"
       ],
-      "mtime": 1782518372891,
       "id": "pr/839/dotnet-ai/sprawl-fixture-flags-topology--isolated--run2"
     },
     {
-      "name": "dotnet-ai / sprawl-fixture-flags-topology (plugin, run 2)",
       "url": "sessions/pr/839/dotnet-ai/sprawl-fixture-flags-topology--plugin--run2.jsonl",
+      "name": "dotnet-ai / sprawl-fixture-flags-topology (plugin, run 2)",
+      "mtime": 1782520014352,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1284,12 +1286,12 @@
         "sprawl-fixture-flags-topology",
         "pr-839"
       ],
-      "mtime": 1782518372894,
       "id": "pr/839/dotnet-ai/sprawl-fixture-flags-topology--plugin--run2"
     },
     {
-      "name": "dotnet-ai / compare-mode-is-opt-in-not-default (baseline, run 0)",
       "url": "sessions/pr/839/dotnet-ai/compare-mode-is-opt-in-not-default--baseline--run0.jsonl",
+      "name": "dotnet-ai / compare-mode-is-opt-in-not-default (baseline, run 0)",
+      "mtime": 1782520014396,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1297,12 +1299,12 @@
         "compare-mode-is-opt-in-not-default",
         "pr-839"
       ],
-      "mtime": 1782518372920,
       "id": "pr/839/dotnet-ai/compare-mode-is-opt-in-not-default--baseline--run0"
     },
     {
-      "name": "dotnet-ai / compare-mode-is-opt-in-not-default (isolated, run 0)",
       "url": "sessions/pr/839/dotnet-ai/compare-mode-is-opt-in-not-default--isolated--run0.jsonl",
+      "name": "dotnet-ai / compare-mode-is-opt-in-not-default (isolated, run 0)",
+      "mtime": 1782520014400,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1310,12 +1312,12 @@
         "compare-mode-is-opt-in-not-default",
         "pr-839"
       ],
-      "mtime": 1782518372923,
       "id": "pr/839/dotnet-ai/compare-mode-is-opt-in-not-default--isolated--run0"
     },
     {
-      "name": "dotnet-ai / compare-mode-is-opt-in-not-default (plugin, run 0)",
       "url": "sessions/pr/839/dotnet-ai/compare-mode-is-opt-in-not-default--plugin--run0.jsonl",
+      "name": "dotnet-ai / compare-mode-is-opt-in-not-default (plugin, run 0)",
+      "mtime": 1782520014403,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1323,12 +1325,12 @@
         "compare-mode-is-opt-in-not-default",
         "pr-839"
       ],
-      "mtime": 1782518372926,
       "id": "pr/839/dotnet-ai/compare-mode-is-opt-in-not-default--plugin--run0"
     },
     {
-      "name": "dotnet-ai / compare-mode-is-opt-in-not-default (baseline, run 1)",
       "url": "sessions/pr/839/dotnet-ai/compare-mode-is-opt-in-not-default--baseline--run1.jsonl",
+      "name": "dotnet-ai / compare-mode-is-opt-in-not-default (baseline, run 1)",
+      "mtime": 1782520014407,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1336,12 +1338,12 @@
         "compare-mode-is-opt-in-not-default",
         "pr-839"
       ],
-      "mtime": 1782518372929,
       "id": "pr/839/dotnet-ai/compare-mode-is-opt-in-not-default--baseline--run1"
     },
     {
-      "name": "dotnet-ai / compare-mode-is-opt-in-not-default (isolated, run 1)",
       "url": "sessions/pr/839/dotnet-ai/compare-mode-is-opt-in-not-default--isolated--run1.jsonl",
+      "name": "dotnet-ai / compare-mode-is-opt-in-not-default (isolated, run 1)",
+      "mtime": 1782520014410,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1349,12 +1351,12 @@
         "compare-mode-is-opt-in-not-default",
         "pr-839"
       ],
-      "mtime": 1782518372932,
       "id": "pr/839/dotnet-ai/compare-mode-is-opt-in-not-default--isolated--run1"
     },
     {
-      "name": "dotnet-ai / compare-mode-is-opt-in-not-default (plugin, run 1)",
       "url": "sessions/pr/839/dotnet-ai/compare-mode-is-opt-in-not-default--plugin--run1.jsonl",
+      "name": "dotnet-ai / compare-mode-is-opt-in-not-default (plugin, run 1)",
+      "mtime": 1782520014413,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1362,12 +1364,12 @@
         "compare-mode-is-opt-in-not-default",
         "pr-839"
       ],
-      "mtime": 1782518372935,
       "id": "pr/839/dotnet-ai/compare-mode-is-opt-in-not-default--plugin--run1"
     },
     {
-      "name": "dotnet-ai / compare-mode-is-opt-in-not-default (baseline, run 2)",
       "url": "sessions/pr/839/dotnet-ai/compare-mode-is-opt-in-not-default--baseline--run2.jsonl",
+      "name": "dotnet-ai / compare-mode-is-opt-in-not-default (baseline, run 2)",
+      "mtime": 1782520014416,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1375,12 +1377,12 @@
         "compare-mode-is-opt-in-not-default",
         "pr-839"
       ],
-      "mtime": 1782518372938,
       "id": "pr/839/dotnet-ai/compare-mode-is-opt-in-not-default--baseline--run2"
     },
     {
-      "name": "dotnet-ai / compare-mode-is-opt-in-not-default (isolated, run 2)",
       "url": "sessions/pr/839/dotnet-ai/compare-mode-is-opt-in-not-default--isolated--run2.jsonl",
+      "name": "dotnet-ai / compare-mode-is-opt-in-not-default (isolated, run 2)",
+      "mtime": 1782520014420,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1388,12 +1390,12 @@
         "compare-mode-is-opt-in-not-default",
         "pr-839"
       ],
-      "mtime": 1782518372941,
       "id": "pr/839/dotnet-ai/compare-mode-is-opt-in-not-default--isolated--run2"
     },
     {
-      "name": "dotnet-ai / compare-mode-is-opt-in-not-default (plugin, run 2)",
       "url": "sessions/pr/839/dotnet-ai/compare-mode-is-opt-in-not-default--plugin--run2.jsonl",
+      "name": "dotnet-ai / compare-mode-is-opt-in-not-default (plugin, run 2)",
+      "mtime": 1782520014423,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1401,12 +1403,12 @@
         "compare-mode-is-opt-in-not-default",
         "pr-839"
       ],
-      "mtime": 1782518372944,
       "id": "pr/839/dotnet-ai/compare-mode-is-opt-in-not-default--plugin--run2"
     },
     {
-      "name": "dotnet-ai / factory-emits-friendly-secrets-diagnostic (baseline, run 0)",
       "url": "sessions/pr/839/dotnet-ai/factory-emits-friendly-secrets-diagnostic--baseline--run0.jsonl",
+      "name": "dotnet-ai / factory-emits-friendly-secrets-diagnostic (baseline, run 0)",
+      "mtime": 1782520014426,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1414,12 +1416,12 @@
         "factory-emits-friendly-secrets-diagnostic",
         "pr-839"
       ],
-      "mtime": 1782518372947,
       "id": "pr/839/dotnet-ai/factory-emits-friendly-secrets-diagnostic--baseline--run0"
     },
     {
-      "name": "dotnet-ai / factory-emits-friendly-secrets-diagnostic (isolated, run 0)",
       "url": "sessions/pr/839/dotnet-ai/factory-emits-friendly-secrets-diagnostic--isolated--run0.jsonl",
+      "name": "dotnet-ai / factory-emits-friendly-secrets-diagnostic (isolated, run 0)",
+      "mtime": 1782520014432,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1427,12 +1429,12 @@
         "factory-emits-friendly-secrets-diagnostic",
         "pr-839"
       ],
-      "mtime": 1782518372950,
       "id": "pr/839/dotnet-ai/factory-emits-friendly-secrets-diagnostic--isolated--run0"
     },
     {
-      "name": "dotnet-ai / factory-emits-friendly-secrets-diagnostic (plugin, run 0)",
       "url": "sessions/pr/839/dotnet-ai/factory-emits-friendly-secrets-diagnostic--plugin--run0.jsonl",
+      "name": "dotnet-ai / factory-emits-friendly-secrets-diagnostic (plugin, run 0)",
+      "mtime": 1782520014436,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1440,12 +1442,12 @@
         "factory-emits-friendly-secrets-diagnostic",
         "pr-839"
       ],
-      "mtime": 1782518372955,
       "id": "pr/839/dotnet-ai/factory-emits-friendly-secrets-diagnostic--plugin--run0"
     },
     {
-      "name": "dotnet-ai / factory-emits-friendly-secrets-diagnostic (baseline, run 1)",
       "url": "sessions/pr/839/dotnet-ai/factory-emits-friendly-secrets-diagnostic--baseline--run1.jsonl",
+      "name": "dotnet-ai / factory-emits-friendly-secrets-diagnostic (baseline, run 1)",
+      "mtime": 1782520014439,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1453,12 +1455,12 @@
         "factory-emits-friendly-secrets-diagnostic",
         "pr-839"
       ],
-      "mtime": 1782518372958,
       "id": "pr/839/dotnet-ai/factory-emits-friendly-secrets-diagnostic--baseline--run1"
     },
     {
-      "name": "dotnet-ai / factory-emits-friendly-secrets-diagnostic (isolated, run 1)",
       "url": "sessions/pr/839/dotnet-ai/factory-emits-friendly-secrets-diagnostic--isolated--run1.jsonl",
+      "name": "dotnet-ai / factory-emits-friendly-secrets-diagnostic (isolated, run 1)",
+      "mtime": 1782520014443,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1466,12 +1468,12 @@
         "factory-emits-friendly-secrets-diagnostic",
         "pr-839"
       ],
-      "mtime": 1782518372962,
       "id": "pr/839/dotnet-ai/factory-emits-friendly-secrets-diagnostic--isolated--run1"
     },
     {
-      "name": "dotnet-ai / factory-emits-friendly-secrets-diagnostic (plugin, run 1)",
       "url": "sessions/pr/839/dotnet-ai/factory-emits-friendly-secrets-diagnostic--plugin--run1.jsonl",
+      "name": "dotnet-ai / factory-emits-friendly-secrets-diagnostic (plugin, run 1)",
+      "mtime": 1782520014446,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1479,12 +1481,12 @@
         "factory-emits-friendly-secrets-diagnostic",
         "pr-839"
       ],
-      "mtime": 1782518372965,
       "id": "pr/839/dotnet-ai/factory-emits-friendly-secrets-diagnostic--plugin--run1"
     },
     {
-      "name": "dotnet-ai / factory-emits-friendly-secrets-diagnostic (baseline, run 2)",
       "url": "sessions/pr/839/dotnet-ai/factory-emits-friendly-secrets-diagnostic--baseline--run2.jsonl",
+      "name": "dotnet-ai / factory-emits-friendly-secrets-diagnostic (baseline, run 2)",
+      "mtime": 1782520014450,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1492,12 +1494,12 @@
         "factory-emits-friendly-secrets-diagnostic",
         "pr-839"
       ],
-      "mtime": 1782518372968,
       "id": "pr/839/dotnet-ai/factory-emits-friendly-secrets-diagnostic--baseline--run2"
     },
     {
-      "name": "dotnet-ai / factory-emits-friendly-secrets-diagnostic (isolated, run 2)",
       "url": "sessions/pr/839/dotnet-ai/factory-emits-friendly-secrets-diagnostic--isolated--run2.jsonl",
+      "name": "dotnet-ai / factory-emits-friendly-secrets-diagnostic (isolated, run 2)",
+      "mtime": 1782520014453,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1505,12 +1507,12 @@
         "factory-emits-friendly-secrets-diagnostic",
         "pr-839"
       ],
-      "mtime": 1782518372972,
       "id": "pr/839/dotnet-ai/factory-emits-friendly-secrets-diagnostic--isolated--run2"
     },
     {
-      "name": "dotnet-ai / factory-emits-friendly-secrets-diagnostic (plugin, run 2)",
       "url": "sessions/pr/839/dotnet-ai/factory-emits-friendly-secrets-diagnostic--plugin--run2.jsonl",
+      "name": "dotnet-ai / factory-emits-friendly-secrets-diagnostic (plugin, run 2)",
+      "mtime": 1782520014457,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1518,12 +1520,12 @@
         "factory-emits-friendly-secrets-diagnostic",
         "pr-839"
       ],
-      "mtime": 1782518372975,
       "id": "pr/839/dotnet-ai/factory-emits-friendly-secrets-diagnostic--plugin--run2"
     },
     {
-      "name": "dotnet-ai / factory-loads-user-secrets-explicitly (baseline, run 0)",
       "url": "sessions/pr/839/dotnet-ai/factory-loads-user-secrets-explicitly--baseline--run0.jsonl",
+      "name": "dotnet-ai / factory-loads-user-secrets-explicitly (baseline, run 0)",
+      "mtime": 1782520014461,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1531,12 +1533,12 @@
         "factory-loads-user-secrets-explicitly",
         "pr-839"
       ],
-      "mtime": 1782518372979,
       "id": "pr/839/dotnet-ai/factory-loads-user-secrets-explicitly--baseline--run0"
     },
     {
-      "name": "dotnet-ai / factory-loads-user-secrets-explicitly (isolated, run 0)",
       "url": "sessions/pr/839/dotnet-ai/factory-loads-user-secrets-explicitly--isolated--run0.jsonl",
+      "name": "dotnet-ai / factory-loads-user-secrets-explicitly (isolated, run 0)",
+      "mtime": 1782520014464,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1544,12 +1546,12 @@
         "factory-loads-user-secrets-explicitly",
         "pr-839"
       ],
-      "mtime": 1782518372983,
       "id": "pr/839/dotnet-ai/factory-loads-user-secrets-explicitly--isolated--run0"
     },
     {
-      "name": "dotnet-ai / factory-loads-user-secrets-explicitly (plugin, run 0)",
       "url": "sessions/pr/839/dotnet-ai/factory-loads-user-secrets-explicitly--plugin--run0.jsonl",
+      "name": "dotnet-ai / factory-loads-user-secrets-explicitly (plugin, run 0)",
+      "mtime": 1782520014468,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1557,12 +1559,12 @@
         "factory-loads-user-secrets-explicitly",
         "pr-839"
       ],
-      "mtime": 1782518372986,
       "id": "pr/839/dotnet-ai/factory-loads-user-secrets-explicitly--plugin--run0"
     },
     {
-      "name": "dotnet-ai / factory-loads-user-secrets-explicitly (baseline, run 1)",
       "url": "sessions/pr/839/dotnet-ai/factory-loads-user-secrets-explicitly--baseline--run1.jsonl",
+      "name": "dotnet-ai / factory-loads-user-secrets-explicitly (baseline, run 1)",
+      "mtime": 1782520014471,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1570,12 +1572,12 @@
         "factory-loads-user-secrets-explicitly",
         "pr-839"
       ],
-      "mtime": 1782518372989,
       "id": "pr/839/dotnet-ai/factory-loads-user-secrets-explicitly--baseline--run1"
     },
     {
-      "name": "dotnet-ai / factory-loads-user-secrets-explicitly (isolated, run 1)",
       "url": "sessions/pr/839/dotnet-ai/factory-loads-user-secrets-explicitly--isolated--run1.jsonl",
+      "name": "dotnet-ai / factory-loads-user-secrets-explicitly (isolated, run 1)",
+      "mtime": 1782520014475,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1583,12 +1585,12 @@
         "factory-loads-user-secrets-explicitly",
         "pr-839"
       ],
-      "mtime": 1782518372993,
       "id": "pr/839/dotnet-ai/factory-loads-user-secrets-explicitly--isolated--run1"
     },
     {
-      "name": "dotnet-ai / factory-loads-user-secrets-explicitly (plugin, run 1)",
       "url": "sessions/pr/839/dotnet-ai/factory-loads-user-secrets-explicitly--plugin--run1.jsonl",
+      "name": "dotnet-ai / factory-loads-user-secrets-explicitly (plugin, run 1)",
+      "mtime": 1782520014478,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1596,12 +1598,12 @@
         "factory-loads-user-secrets-explicitly",
         "pr-839"
       ],
-      "mtime": 1782518372996,
       "id": "pr/839/dotnet-ai/factory-loads-user-secrets-explicitly--plugin--run1"
     },
     {
-      "name": "dotnet-ai / factory-loads-user-secrets-explicitly (baseline, run 2)",
       "url": "sessions/pr/839/dotnet-ai/factory-loads-user-secrets-explicitly--baseline--run2.jsonl",
+      "name": "dotnet-ai / factory-loads-user-secrets-explicitly (baseline, run 2)",
+      "mtime": 1782520014482,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1609,12 +1611,12 @@
         "factory-loads-user-secrets-explicitly",
         "pr-839"
       ],
-      "mtime": 1782518372999,
       "id": "pr/839/dotnet-ai/factory-loads-user-secrets-explicitly--baseline--run2"
     },
     {
-      "name": "dotnet-ai / factory-loads-user-secrets-explicitly (isolated, run 2)",
       "url": "sessions/pr/839/dotnet-ai/factory-loads-user-secrets-explicitly--isolated--run2.jsonl",
+      "name": "dotnet-ai / factory-loads-user-secrets-explicitly (isolated, run 2)",
+      "mtime": 1782520014485,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1622,12 +1624,12 @@
         "factory-loads-user-secrets-explicitly",
         "pr-839"
       ],
-      "mtime": 1782518373004,
       "id": "pr/839/dotnet-ai/factory-loads-user-secrets-explicitly--isolated--run2"
     },
     {
-      "name": "dotnet-ai / factory-loads-user-secrets-explicitly (plugin, run 2)",
       "url": "sessions/pr/839/dotnet-ai/factory-loads-user-secrets-explicitly--plugin--run2.jsonl",
+      "name": "dotnet-ai / factory-loads-user-secrets-explicitly (plugin, run 2)",
+      "mtime": 1782520014489,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1635,12 +1637,12 @@
         "factory-loads-user-secrets-explicitly",
         "pr-839"
       ],
-      "mtime": 1782518373009,
       "id": "pr/839/dotnet-ai/factory-loads-user-secrets-explicitly--plugin--run2"
     },
     {
-      "name": "dotnet-ai / ichatclient-detection-azure-openai (baseline, run 0)",
       "url": "sessions/pr/839/dotnet-ai/ichatclient-detection-azure-openai--baseline--run0.jsonl",
+      "name": "dotnet-ai / ichatclient-detection-azure-openai (baseline, run 0)",
+      "mtime": 1782520014492,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1648,12 +1650,12 @@
         "ichatclient-detection-azure-openai",
         "pr-839"
       ],
-      "mtime": 1782518373014,
       "id": "pr/839/dotnet-ai/ichatclient-detection-azure-openai--baseline--run0"
     },
     {
-      "name": "dotnet-ai / ichatclient-detection-azure-openai (isolated, run 0)",
       "url": "sessions/pr/839/dotnet-ai/ichatclient-detection-azure-openai--isolated--run0.jsonl",
+      "name": "dotnet-ai / ichatclient-detection-azure-openai (isolated, run 0)",
+      "mtime": 1782520014496,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1661,12 +1663,12 @@
         "ichatclient-detection-azure-openai",
         "pr-839"
       ],
-      "mtime": 1782518373017,
       "id": "pr/839/dotnet-ai/ichatclient-detection-azure-openai--isolated--run0"
     },
     {
-      "name": "dotnet-ai / ichatclient-detection-azure-openai (plugin, run 0)",
       "url": "sessions/pr/839/dotnet-ai/ichatclient-detection-azure-openai--plugin--run0.jsonl",
+      "name": "dotnet-ai / ichatclient-detection-azure-openai (plugin, run 0)",
+      "mtime": 1782520014500,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1674,12 +1676,12 @@
         "ichatclient-detection-azure-openai",
         "pr-839"
       ],
-      "mtime": 1782518373021,
       "id": "pr/839/dotnet-ai/ichatclient-detection-azure-openai--plugin--run0"
     },
     {
-      "name": "dotnet-ai / ichatclient-detection-azure-openai (baseline, run 1)",
       "url": "sessions/pr/839/dotnet-ai/ichatclient-detection-azure-openai--baseline--run1.jsonl",
+      "name": "dotnet-ai / ichatclient-detection-azure-openai (baseline, run 1)",
+      "mtime": 1782520014505,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1687,12 +1689,12 @@
         "ichatclient-detection-azure-openai",
         "pr-839"
       ],
-      "mtime": 1782518373024,
       "id": "pr/839/dotnet-ai/ichatclient-detection-azure-openai--baseline--run1"
     },
     {
-      "name": "dotnet-ai / ichatclient-detection-azure-openai (isolated, run 1)",
       "url": "sessions/pr/839/dotnet-ai/ichatclient-detection-azure-openai--isolated--run1.jsonl",
+      "name": "dotnet-ai / ichatclient-detection-azure-openai (isolated, run 1)",
+      "mtime": 1782520014510,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1700,12 +1702,12 @@
         "ichatclient-detection-azure-openai",
         "pr-839"
       ],
-      "mtime": 1782518373028,
       "id": "pr/839/dotnet-ai/ichatclient-detection-azure-openai--isolated--run1"
     },
     {
-      "name": "dotnet-ai / ichatclient-detection-azure-openai (plugin, run 1)",
       "url": "sessions/pr/839/dotnet-ai/ichatclient-detection-azure-openai--plugin--run1.jsonl",
+      "name": "dotnet-ai / ichatclient-detection-azure-openai (plugin, run 1)",
+      "mtime": 1782520014514,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1713,12 +1715,12 @@
         "ichatclient-detection-azure-openai",
         "pr-839"
       ],
-      "mtime": 1782518373031,
       "id": "pr/839/dotnet-ai/ichatclient-detection-azure-openai--plugin--run1"
     },
     {
-      "name": "dotnet-ai / ichatclient-detection-azure-openai (baseline, run 2)",
       "url": "sessions/pr/839/dotnet-ai/ichatclient-detection-azure-openai--baseline--run2.jsonl",
+      "name": "dotnet-ai / ichatclient-detection-azure-openai (baseline, run 2)",
+      "mtime": 1782520014518,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1726,12 +1728,12 @@
         "ichatclient-detection-azure-openai",
         "pr-839"
       ],
-      "mtime": 1782518373034,
       "id": "pr/839/dotnet-ai/ichatclient-detection-azure-openai--baseline--run2"
     },
     {
-      "name": "dotnet-ai / ichatclient-detection-azure-openai (isolated, run 2)",
       "url": "sessions/pr/839/dotnet-ai/ichatclient-detection-azure-openai--isolated--run2.jsonl",
+      "name": "dotnet-ai / ichatclient-detection-azure-openai (isolated, run 2)",
+      "mtime": 1782520014522,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1739,12 +1741,12 @@
         "ichatclient-detection-azure-openai",
         "pr-839"
       ],
-      "mtime": 1782518373038,
       "id": "pr/839/dotnet-ai/ichatclient-detection-azure-openai--isolated--run2"
     },
     {
-      "name": "dotnet-ai / ichatclient-detection-azure-openai (plugin, run 2)",
       "url": "sessions/pr/839/dotnet-ai/ichatclient-detection-azure-openai--plugin--run2.jsonl",
+      "name": "dotnet-ai / ichatclient-detection-azure-openai (plugin, run 2)",
+      "mtime": 1782520014526,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1752,12 +1754,12 @@
         "ichatclient-detection-azure-openai",
         "pr-839"
       ],
-      "mtime": 1782518373042,
       "id": "pr/839/dotnet-ai/ichatclient-detection-azure-openai--plugin--run2"
     },
     {
-      "name": "dotnet-ai / ichatclient-detection-missing-emits-stub (baseline, run 0)",
       "url": "sessions/pr/839/dotnet-ai/ichatclient-detection-missing-emits-stub--baseline--run0.jsonl",
+      "name": "dotnet-ai / ichatclient-detection-missing-emits-stub (baseline, run 0)",
+      "mtime": 1782520014529,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1765,12 +1767,12 @@
         "ichatclient-detection-missing-emits-stub",
         "pr-839"
       ],
-      "mtime": 1782518373045,
       "id": "pr/839/dotnet-ai/ichatclient-detection-missing-emits-stub--baseline--run0"
     },
     {
-      "name": "dotnet-ai / ichatclient-detection-missing-emits-stub (isolated, run 0)",
       "url": "sessions/pr/839/dotnet-ai/ichatclient-detection-missing-emits-stub--isolated--run0.jsonl",
+      "name": "dotnet-ai / ichatclient-detection-missing-emits-stub (isolated, run 0)",
+      "mtime": 1782520014533,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1778,12 +1780,12 @@
         "ichatclient-detection-missing-emits-stub",
         "pr-839"
       ],
-      "mtime": 1782518373048,
       "id": "pr/839/dotnet-ai/ichatclient-detection-missing-emits-stub--isolated--run0"
     },
     {
-      "name": "dotnet-ai / ichatclient-detection-missing-emits-stub (plugin, run 0)",
       "url": "sessions/pr/839/dotnet-ai/ichatclient-detection-missing-emits-stub--plugin--run0.jsonl",
+      "name": "dotnet-ai / ichatclient-detection-missing-emits-stub (plugin, run 0)",
+      "mtime": 1782520014537,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1791,12 +1793,12 @@
         "ichatclient-detection-missing-emits-stub",
         "pr-839"
       ],
-      "mtime": 1782518373052,
       "id": "pr/839/dotnet-ai/ichatclient-detection-missing-emits-stub--plugin--run0"
     },
     {
-      "name": "dotnet-ai / ichatclient-detection-missing-emits-stub (baseline, run 1)",
       "url": "sessions/pr/839/dotnet-ai/ichatclient-detection-missing-emits-stub--baseline--run1.jsonl",
+      "name": "dotnet-ai / ichatclient-detection-missing-emits-stub (baseline, run 1)",
+      "mtime": 1782520014541,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1804,12 +1806,12 @@
         "ichatclient-detection-missing-emits-stub",
         "pr-839"
       ],
-      "mtime": 1782518373055,
       "id": "pr/839/dotnet-ai/ichatclient-detection-missing-emits-stub--baseline--run1"
     },
     {
-      "name": "dotnet-ai / ichatclient-detection-missing-emits-stub (isolated, run 1)",
       "url": "sessions/pr/839/dotnet-ai/ichatclient-detection-missing-emits-stub--isolated--run1.jsonl",
+      "name": "dotnet-ai / ichatclient-detection-missing-emits-stub (isolated, run 1)",
+      "mtime": 1782520014547,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1817,12 +1819,12 @@
         "ichatclient-detection-missing-emits-stub",
         "pr-839"
       ],
-      "mtime": 1782518373061,
       "id": "pr/839/dotnet-ai/ichatclient-detection-missing-emits-stub--isolated--run1"
     },
     {
-      "name": "dotnet-ai / ichatclient-detection-missing-emits-stub (plugin, run 1)",
       "url": "sessions/pr/839/dotnet-ai/ichatclient-detection-missing-emits-stub--plugin--run1.jsonl",
+      "name": "dotnet-ai / ichatclient-detection-missing-emits-stub (plugin, run 1)",
+      "mtime": 1782520014551,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1830,12 +1832,12 @@
         "ichatclient-detection-missing-emits-stub",
         "pr-839"
       ],
-      "mtime": 1782518373064,
       "id": "pr/839/dotnet-ai/ichatclient-detection-missing-emits-stub--plugin--run1"
     },
     {
-      "name": "dotnet-ai / ichatclient-detection-missing-emits-stub (baseline, run 2)",
       "url": "sessions/pr/839/dotnet-ai/ichatclient-detection-missing-emits-stub--baseline--run2.jsonl",
+      "name": "dotnet-ai / ichatclient-detection-missing-emits-stub (baseline, run 2)",
+      "mtime": 1782520014555,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1843,12 +1845,12 @@
         "ichatclient-detection-missing-emits-stub",
         "pr-839"
       ],
-      "mtime": 1782518373068,
       "id": "pr/839/dotnet-ai/ichatclient-detection-missing-emits-stub--baseline--run2"
     },
     {
-      "name": "dotnet-ai / ichatclient-detection-missing-emits-stub (isolated, run 2)",
       "url": "sessions/pr/839/dotnet-ai/ichatclient-detection-missing-emits-stub--isolated--run2.jsonl",
+      "name": "dotnet-ai / ichatclient-detection-missing-emits-stub (isolated, run 2)",
+      "mtime": 1782520014559,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1856,12 +1858,12 @@
         "ichatclient-detection-missing-emits-stub",
         "pr-839"
       ],
-      "mtime": 1782518373071,
       "id": "pr/839/dotnet-ai/ichatclient-detection-missing-emits-stub--isolated--run2"
     },
     {
-      "name": "dotnet-ai / ichatclient-detection-missing-emits-stub (plugin, run 2)",
       "url": "sessions/pr/839/dotnet-ai/ichatclient-detection-missing-emits-stub--plugin--run2.jsonl",
+      "name": "dotnet-ai / ichatclient-detection-missing-emits-stub (plugin, run 2)",
+      "mtime": 1782520014563,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1869,12 +1871,12 @@
         "ichatclient-detection-missing-emits-stub",
         "pr-839"
       ],
-      "mtime": 1782518373075,
       "id": "pr/839/dotnet-ai/ichatclient-detection-missing-emits-stub--plugin--run2"
     },
     {
-      "name": "dotnet-ai / pitfalls-doc-warns-reasoning-models-reject-max-tokens (baseline, run 0)",
       "url": "sessions/pr/839/dotnet-ai/pitfalls-doc-warns-reasoning-models-reject-max-tokens--baseline--run0.jsonl",
+      "name": "dotnet-ai / pitfalls-doc-warns-reasoning-models-reject-max-tokens (baseline, run 0)",
+      "mtime": 1782520014567,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1882,12 +1884,12 @@
         "pitfalls-doc-warns-reasoning-models-reject-max-tokens",
         "pr-839"
       ],
-      "mtime": 1782518373078,
       "id": "pr/839/dotnet-ai/pitfalls-doc-warns-reasoning-models-reject-max-tokens--baseline--run0"
     },
     {
-      "name": "dotnet-ai / pitfalls-doc-warns-reasoning-models-reject-max-tokens (isolated, run 0)",
       "url": "sessions/pr/839/dotnet-ai/pitfalls-doc-warns-reasoning-models-reject-max-tokens--isolated--run0.jsonl",
+      "name": "dotnet-ai / pitfalls-doc-warns-reasoning-models-reject-max-tokens (isolated, run 0)",
+      "mtime": 1782520014570,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1895,12 +1897,12 @@
         "pitfalls-doc-warns-reasoning-models-reject-max-tokens",
         "pr-839"
       ],
-      "mtime": 1782518373081,
       "id": "pr/839/dotnet-ai/pitfalls-doc-warns-reasoning-models-reject-max-tokens--isolated--run0"
     },
     {
-      "name": "dotnet-ai / pitfalls-doc-warns-reasoning-models-reject-max-tokens (plugin, run 0)",
       "url": "sessions/pr/839/dotnet-ai/pitfalls-doc-warns-reasoning-models-reject-max-tokens--plugin--run0.jsonl",
+      "name": "dotnet-ai / pitfalls-doc-warns-reasoning-models-reject-max-tokens (plugin, run 0)",
+      "mtime": 1782520014574,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1908,12 +1910,12 @@
         "pitfalls-doc-warns-reasoning-models-reject-max-tokens",
         "pr-839"
       ],
-      "mtime": 1782518373084,
       "id": "pr/839/dotnet-ai/pitfalls-doc-warns-reasoning-models-reject-max-tokens--plugin--run0"
     },
     {
-      "name": "dotnet-ai / pitfalls-doc-warns-reasoning-models-reject-max-tokens (baseline, run 1)",
       "url": "sessions/pr/839/dotnet-ai/pitfalls-doc-warns-reasoning-models-reject-max-tokens--baseline--run1.jsonl",
+      "name": "dotnet-ai / pitfalls-doc-warns-reasoning-models-reject-max-tokens (baseline, run 1)",
+      "mtime": 1782520014578,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1921,12 +1923,12 @@
         "pitfalls-doc-warns-reasoning-models-reject-max-tokens",
         "pr-839"
       ],
-      "mtime": 1782518373088,
       "id": "pr/839/dotnet-ai/pitfalls-doc-warns-reasoning-models-reject-max-tokens--baseline--run1"
     },
     {
-      "name": "dotnet-ai / pitfalls-doc-warns-reasoning-models-reject-max-tokens (isolated, run 1)",
       "url": "sessions/pr/839/dotnet-ai/pitfalls-doc-warns-reasoning-models-reject-max-tokens--isolated--run1.jsonl",
+      "name": "dotnet-ai / pitfalls-doc-warns-reasoning-models-reject-max-tokens (isolated, run 1)",
+      "mtime": 1782520014581,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1934,12 +1936,12 @@
         "pitfalls-doc-warns-reasoning-models-reject-max-tokens",
         "pr-839"
       ],
-      "mtime": 1782518373091,
       "id": "pr/839/dotnet-ai/pitfalls-doc-warns-reasoning-models-reject-max-tokens--isolated--run1"
     },
     {
-      "name": "dotnet-ai / pitfalls-doc-warns-reasoning-models-reject-max-tokens (plugin, run 1)",
       "url": "sessions/pr/839/dotnet-ai/pitfalls-doc-warns-reasoning-models-reject-max-tokens--plugin--run1.jsonl",
+      "name": "dotnet-ai / pitfalls-doc-warns-reasoning-models-reject-max-tokens (plugin, run 1)",
+      "mtime": 1782520014585,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1947,12 +1949,12 @@
         "pitfalls-doc-warns-reasoning-models-reject-max-tokens",
         "pr-839"
       ],
-      "mtime": 1782518373094,
       "id": "pr/839/dotnet-ai/pitfalls-doc-warns-reasoning-models-reject-max-tokens--plugin--run1"
     },
     {
-      "name": "dotnet-ai / pitfalls-doc-warns-reasoning-models-reject-max-tokens (baseline, run 2)",
       "url": "sessions/pr/839/dotnet-ai/pitfalls-doc-warns-reasoning-models-reject-max-tokens--baseline--run2.jsonl",
+      "name": "dotnet-ai / pitfalls-doc-warns-reasoning-models-reject-max-tokens (baseline, run 2)",
+      "mtime": 1782520014589,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1960,12 +1962,12 @@
         "pitfalls-doc-warns-reasoning-models-reject-max-tokens",
         "pr-839"
       ],
-      "mtime": 1782518373097,
       "id": "pr/839/dotnet-ai/pitfalls-doc-warns-reasoning-models-reject-max-tokens--baseline--run2"
     },
     {
-      "name": "dotnet-ai / pitfalls-doc-warns-reasoning-models-reject-max-tokens (isolated, run 2)",
       "url": "sessions/pr/839/dotnet-ai/pitfalls-doc-warns-reasoning-models-reject-max-tokens--isolated--run2.jsonl",
+      "name": "dotnet-ai / pitfalls-doc-warns-reasoning-models-reject-max-tokens (isolated, run 2)",
+      "mtime": 1782520014592,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1973,12 +1975,12 @@
         "pitfalls-doc-warns-reasoning-models-reject-max-tokens",
         "pr-839"
       ],
-      "mtime": 1782518373101,
       "id": "pr/839/dotnet-ai/pitfalls-doc-warns-reasoning-models-reject-max-tokens--isolated--run2"
     },
     {
-      "name": "dotnet-ai / pitfalls-doc-warns-reasoning-models-reject-max-tokens (plugin, run 2)",
       "url": "sessions/pr/839/dotnet-ai/pitfalls-doc-warns-reasoning-models-reject-max-tokens--plugin--run2.jsonl",
+      "name": "dotnet-ai / pitfalls-doc-warns-reasoning-models-reject-max-tokens (plugin, run 2)",
+      "mtime": 1782520014596,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1986,12 +1988,12 @@
         "pitfalls-doc-warns-reasoning-models-reject-max-tokens",
         "pr-839"
       ],
-      "mtime": 1782518373104,
       "id": "pr/839/dotnet-ai/pitfalls-doc-warns-reasoning-models-reject-max-tokens--plugin--run2"
     },
     {
-      "name": "dotnet-ai / pitfalls-doc-warns-stylistic-agents-fail-completeness (baseline, run 0)",
       "url": "sessions/pr/839/dotnet-ai/pitfalls-doc-warns-stylistic-agents-fail-completeness--baseline--run0.jsonl",
+      "name": "dotnet-ai / pitfalls-doc-warns-stylistic-agents-fail-completeness (baseline, run 0)",
+      "mtime": 1782520014600,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -1999,12 +2001,12 @@
         "pitfalls-doc-warns-stylistic-agents-fail-completeness",
         "pr-839"
       ],
-      "mtime": 1782518373107,
       "id": "pr/839/dotnet-ai/pitfalls-doc-warns-stylistic-agents-fail-completeness--baseline--run0"
     },
     {
-      "name": "dotnet-ai / pitfalls-doc-warns-stylistic-agents-fail-completeness (isolated, run 0)",
       "url": "sessions/pr/839/dotnet-ai/pitfalls-doc-warns-stylistic-agents-fail-completeness--isolated--run0.jsonl",
+      "name": "dotnet-ai / pitfalls-doc-warns-stylistic-agents-fail-completeness (isolated, run 0)",
+      "mtime": 1782520014604,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2012,12 +2014,12 @@
         "pitfalls-doc-warns-stylistic-agents-fail-completeness",
         "pr-839"
       ],
-      "mtime": 1782518373110,
       "id": "pr/839/dotnet-ai/pitfalls-doc-warns-stylistic-agents-fail-completeness--isolated--run0"
     },
     {
-      "name": "dotnet-ai / pitfalls-doc-warns-stylistic-agents-fail-completeness (plugin, run 0)",
       "url": "sessions/pr/839/dotnet-ai/pitfalls-doc-warns-stylistic-agents-fail-completeness--plugin--run0.jsonl",
+      "name": "dotnet-ai / pitfalls-doc-warns-stylistic-agents-fail-completeness (plugin, run 0)",
+      "mtime": 1782520014607,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2025,12 +2027,12 @@
         "pitfalls-doc-warns-stylistic-agents-fail-completeness",
         "pr-839"
       ],
-      "mtime": 1782518373114,
       "id": "pr/839/dotnet-ai/pitfalls-doc-warns-stylistic-agents-fail-completeness--plugin--run0"
     },
     {
-      "name": "dotnet-ai / pitfalls-doc-warns-stylistic-agents-fail-completeness (baseline, run 1)",
       "url": "sessions/pr/839/dotnet-ai/pitfalls-doc-warns-stylistic-agents-fail-completeness--baseline--run1.jsonl",
+      "name": "dotnet-ai / pitfalls-doc-warns-stylistic-agents-fail-completeness (baseline, run 1)",
+      "mtime": 1782520014611,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2038,12 +2040,12 @@
         "pitfalls-doc-warns-stylistic-agents-fail-completeness",
         "pr-839"
       ],
-      "mtime": 1782518373117,
       "id": "pr/839/dotnet-ai/pitfalls-doc-warns-stylistic-agents-fail-completeness--baseline--run1"
     },
     {
-      "name": "dotnet-ai / pitfalls-doc-warns-stylistic-agents-fail-completeness (isolated, run 1)",
       "url": "sessions/pr/839/dotnet-ai/pitfalls-doc-warns-stylistic-agents-fail-completeness--isolated--run1.jsonl",
+      "name": "dotnet-ai / pitfalls-doc-warns-stylistic-agents-fail-completeness (isolated, run 1)",
+      "mtime": 1782520014615,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2051,12 +2053,12 @@
         "pitfalls-doc-warns-stylistic-agents-fail-completeness",
         "pr-839"
       ],
-      "mtime": 1782518373121,
       "id": "pr/839/dotnet-ai/pitfalls-doc-warns-stylistic-agents-fail-completeness--isolated--run1"
     },
     {
-      "name": "dotnet-ai / pitfalls-doc-warns-stylistic-agents-fail-completeness (plugin, run 1)",
       "url": "sessions/pr/839/dotnet-ai/pitfalls-doc-warns-stylistic-agents-fail-completeness--plugin--run1.jsonl",
+      "name": "dotnet-ai / pitfalls-doc-warns-stylistic-agents-fail-completeness (plugin, run 1)",
+      "mtime": 1782520014618,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2064,12 +2066,12 @@
         "pitfalls-doc-warns-stylistic-agents-fail-completeness",
         "pr-839"
       ],
-      "mtime": 1782518373124,
       "id": "pr/839/dotnet-ai/pitfalls-doc-warns-stylistic-agents-fail-completeness--plugin--run1"
     },
     {
-      "name": "dotnet-ai / pitfalls-doc-warns-stylistic-agents-fail-completeness (baseline, run 2)",
       "url": "sessions/pr/839/dotnet-ai/pitfalls-doc-warns-stylistic-agents-fail-completeness--baseline--run2.jsonl",
+      "name": "dotnet-ai / pitfalls-doc-warns-stylistic-agents-fail-completeness (baseline, run 2)",
+      "mtime": 1782520014622,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2077,12 +2079,12 @@
         "pitfalls-doc-warns-stylistic-agents-fail-completeness",
         "pr-839"
       ],
-      "mtime": 1782518373127,
       "id": "pr/839/dotnet-ai/pitfalls-doc-warns-stylistic-agents-fail-completeness--baseline--run2"
     },
     {
-      "name": "dotnet-ai / pitfalls-doc-warns-stylistic-agents-fail-completeness (isolated, run 2)",
       "url": "sessions/pr/839/dotnet-ai/pitfalls-doc-warns-stylistic-agents-fail-completeness--isolated--run2.jsonl",
+      "name": "dotnet-ai / pitfalls-doc-warns-stylistic-agents-fail-completeness (isolated, run 2)",
+      "mtime": 1782520014626,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2090,12 +2092,12 @@
         "pitfalls-doc-warns-stylistic-agents-fail-completeness",
         "pr-839"
       ],
-      "mtime": 1782518373130,
       "id": "pr/839/dotnet-ai/pitfalls-doc-warns-stylistic-agents-fail-completeness--isolated--run2"
     },
     {
-      "name": "dotnet-ai / pitfalls-doc-warns-stylistic-agents-fail-completeness (plugin, run 2)",
       "url": "sessions/pr/839/dotnet-ai/pitfalls-doc-warns-stylistic-agents-fail-completeness--plugin--run2.jsonl",
+      "name": "dotnet-ai / pitfalls-doc-warns-stylistic-agents-fail-completeness (plugin, run 2)",
+      "mtime": 1782520014630,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2103,12 +2105,12 @@
         "pitfalls-doc-warns-stylistic-agents-fail-completeness",
         "pr-839"
       ],
-      "mtime": 1782518373134,
       "id": "pr/839/dotnet-ai/pitfalls-doc-warns-stylistic-agents-fail-completeness--plugin--run2"
     },
     {
-      "name": "dotnet-ai / scaffold-emits-metrics-glossary (baseline, run 0)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-emits-metrics-glossary--baseline--run0.jsonl",
+      "name": "dotnet-ai / scaffold-emits-metrics-glossary (baseline, run 0)",
+      "mtime": 1782520014633,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2116,12 +2118,12 @@
         "scaffold-emits-metrics-glossary",
         "pr-839"
       ],
-      "mtime": 1782518373137,
       "id": "pr/839/dotnet-ai/scaffold-emits-metrics-glossary--baseline--run0"
     },
     {
-      "name": "dotnet-ai / scaffold-emits-metrics-glossary (isolated, run 0)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-emits-metrics-glossary--isolated--run0.jsonl",
+      "name": "dotnet-ai / scaffold-emits-metrics-glossary (isolated, run 0)",
+      "mtime": 1782520014637,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2129,12 +2131,12 @@
         "scaffold-emits-metrics-glossary",
         "pr-839"
       ],
-      "mtime": 1782518373141,
       "id": "pr/839/dotnet-ai/scaffold-emits-metrics-glossary--isolated--run0"
     },
     {
-      "name": "dotnet-ai / scaffold-emits-metrics-glossary (plugin, run 0)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-emits-metrics-glossary--plugin--run0.jsonl",
+      "name": "dotnet-ai / scaffold-emits-metrics-glossary (plugin, run 0)",
+      "mtime": 1782520014641,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2142,12 +2144,12 @@
         "scaffold-emits-metrics-glossary",
         "pr-839"
       ],
-      "mtime": 1782518373144,
       "id": "pr/839/dotnet-ai/scaffold-emits-metrics-glossary--plugin--run0"
     },
     {
-      "name": "dotnet-ai / scaffold-emits-metrics-glossary (baseline, run 1)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-emits-metrics-glossary--baseline--run1.jsonl",
+      "name": "dotnet-ai / scaffold-emits-metrics-glossary (baseline, run 1)",
+      "mtime": 1782520014645,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2155,12 +2157,12 @@
         "scaffold-emits-metrics-glossary",
         "pr-839"
       ],
-      "mtime": 1782518373147,
       "id": "pr/839/dotnet-ai/scaffold-emits-metrics-glossary--baseline--run1"
     },
     {
-      "name": "dotnet-ai / scaffold-emits-metrics-glossary (isolated, run 1)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-emits-metrics-glossary--isolated--run1.jsonl",
+      "name": "dotnet-ai / scaffold-emits-metrics-glossary (isolated, run 1)",
+      "mtime": 1782520014649,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2168,12 +2170,12 @@
         "scaffold-emits-metrics-glossary",
         "pr-839"
       ],
-      "mtime": 1782518373151,
       "id": "pr/839/dotnet-ai/scaffold-emits-metrics-glossary--isolated--run1"
     },
     {
-      "name": "dotnet-ai / scaffold-emits-metrics-glossary (plugin, run 1)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-emits-metrics-glossary--plugin--run1.jsonl",
+      "name": "dotnet-ai / scaffold-emits-metrics-glossary (plugin, run 1)",
+      "mtime": 1782520014653,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2181,12 +2183,12 @@
         "scaffold-emits-metrics-glossary",
         "pr-839"
       ],
-      "mtime": 1782518373155,
       "id": "pr/839/dotnet-ai/scaffold-emits-metrics-glossary--plugin--run1"
     },
     {
-      "name": "dotnet-ai / scaffold-emits-metrics-glossary (baseline, run 2)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-emits-metrics-glossary--baseline--run2.jsonl",
+      "name": "dotnet-ai / scaffold-emits-metrics-glossary (baseline, run 2)",
+      "mtime": 1782520014659,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2194,12 +2196,12 @@
         "scaffold-emits-metrics-glossary",
         "pr-839"
       ],
-      "mtime": 1782518373160,
       "id": "pr/839/dotnet-ai/scaffold-emits-metrics-glossary--baseline--run2"
     },
     {
-      "name": "dotnet-ai / scaffold-emits-metrics-glossary (isolated, run 2)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-emits-metrics-glossary--isolated--run2.jsonl",
+      "name": "dotnet-ai / scaffold-emits-metrics-glossary (isolated, run 2)",
+      "mtime": 1782520014663,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2207,12 +2209,12 @@
         "scaffold-emits-metrics-glossary",
         "pr-839"
       ],
-      "mtime": 1782518373164,
       "id": "pr/839/dotnet-ai/scaffold-emits-metrics-glossary--isolated--run2"
     },
     {
-      "name": "dotnet-ai / scaffold-emits-metrics-glossary (plugin, run 2)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-emits-metrics-glossary--plugin--run2.jsonl",
+      "name": "dotnet-ai / scaffold-emits-metrics-glossary (plugin, run 2)",
+      "mtime": 1782520014667,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2220,12 +2222,12 @@
         "scaffold-emits-metrics-glossary",
         "pr-839"
       ],
-      "mtime": 1782518373167,
       "id": "pr/839/dotnet-ai/scaffold-emits-metrics-glossary--plugin--run2"
     },
     {
-      "name": "dotnet-ai / scaffold-evals-tests-project-fresh (baseline, run 0)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-evals-tests-project-fresh--baseline--run0.jsonl",
+      "name": "dotnet-ai / scaffold-evals-tests-project-fresh (baseline, run 0)",
+      "mtime": 1782520014671,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2233,12 +2235,12 @@
         "scaffold-evals-tests-project-fresh",
         "pr-839"
       ],
-      "mtime": 1782518373171,
       "id": "pr/839/dotnet-ai/scaffold-evals-tests-project-fresh--baseline--run0"
     },
     {
-      "name": "dotnet-ai / scaffold-evals-tests-project-fresh (isolated, run 0)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-evals-tests-project-fresh--isolated--run0.jsonl",
+      "name": "dotnet-ai / scaffold-evals-tests-project-fresh (isolated, run 0)",
+      "mtime": 1782520014675,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2246,12 +2248,12 @@
         "scaffold-evals-tests-project-fresh",
         "pr-839"
       ],
-      "mtime": 1782518373174,
       "id": "pr/839/dotnet-ai/scaffold-evals-tests-project-fresh--isolated--run0"
     },
     {
-      "name": "dotnet-ai / scaffold-evals-tests-project-fresh (plugin, run 0)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-evals-tests-project-fresh--plugin--run0.jsonl",
+      "name": "dotnet-ai / scaffold-evals-tests-project-fresh (plugin, run 0)",
+      "mtime": 1782520014679,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2259,12 +2261,12 @@
         "scaffold-evals-tests-project-fresh",
         "pr-839"
       ],
-      "mtime": 1782518373178,
       "id": "pr/839/dotnet-ai/scaffold-evals-tests-project-fresh--plugin--run0"
     },
     {
-      "name": "dotnet-ai / scaffold-evals-tests-project-fresh (baseline, run 1)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-evals-tests-project-fresh--baseline--run1.jsonl",
+      "name": "dotnet-ai / scaffold-evals-tests-project-fresh (baseline, run 1)",
+      "mtime": 1782520014683,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2272,12 +2274,12 @@
         "scaffold-evals-tests-project-fresh",
         "pr-839"
       ],
-      "mtime": 1782518373181,
       "id": "pr/839/dotnet-ai/scaffold-evals-tests-project-fresh--baseline--run1"
     },
     {
-      "name": "dotnet-ai / scaffold-evals-tests-project-fresh (isolated, run 1)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-evals-tests-project-fresh--isolated--run1.jsonl",
+      "name": "dotnet-ai / scaffold-evals-tests-project-fresh (isolated, run 1)",
+      "mtime": 1782520014687,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2285,12 +2287,12 @@
         "scaffold-evals-tests-project-fresh",
         "pr-839"
       ],
-      "mtime": 1782518373185,
       "id": "pr/839/dotnet-ai/scaffold-evals-tests-project-fresh--isolated--run1"
     },
     {
-      "name": "dotnet-ai / scaffold-evals-tests-project-fresh (plugin, run 1)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-evals-tests-project-fresh--plugin--run1.jsonl",
+      "name": "dotnet-ai / scaffold-evals-tests-project-fresh (plugin, run 1)",
+      "mtime": 1782520014691,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2298,12 +2300,12 @@
         "scaffold-evals-tests-project-fresh",
         "pr-839"
       ],
-      "mtime": 1782518373189,
       "id": "pr/839/dotnet-ai/scaffold-evals-tests-project-fresh--plugin--run1"
     },
     {
-      "name": "dotnet-ai / scaffold-evals-tests-project-fresh (baseline, run 2)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-evals-tests-project-fresh--baseline--run2.jsonl",
+      "name": "dotnet-ai / scaffold-evals-tests-project-fresh (baseline, run 2)",
+      "mtime": 1782520014695,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2311,12 +2313,12 @@
         "scaffold-evals-tests-project-fresh",
         "pr-839"
       ],
-      "mtime": 1782518373192,
       "id": "pr/839/dotnet-ai/scaffold-evals-tests-project-fresh--baseline--run2"
     },
     {
-      "name": "dotnet-ai / scaffold-evals-tests-project-fresh (isolated, run 2)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-evals-tests-project-fresh--isolated--run2.jsonl",
+      "name": "dotnet-ai / scaffold-evals-tests-project-fresh (isolated, run 2)",
+      "mtime": 1782520014699,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2324,12 +2326,12 @@
         "scaffold-evals-tests-project-fresh",
         "pr-839"
       ],
-      "mtime": 1782518373196,
       "id": "pr/839/dotnet-ai/scaffold-evals-tests-project-fresh--isolated--run2"
     },
     {
-      "name": "dotnet-ai / scaffold-evals-tests-project-fresh (plugin, run 2)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-evals-tests-project-fresh--plugin--run2.jsonl",
+      "name": "dotnet-ai / scaffold-evals-tests-project-fresh (plugin, run 2)",
+      "mtime": 1782520014703,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2337,12 +2339,12 @@
         "scaffold-evals-tests-project-fresh",
         "pr-839"
       ],
-      "mtime": 1782518373200,
       "id": "pr/839/dotnet-ai/scaffold-evals-tests-project-fresh--plugin--run2"
     },
     {
-      "name": "dotnet-ai / scaffold-with-ci-workflow (baseline, run 0)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-with-ci-workflow--baseline--run0.jsonl",
+      "name": "dotnet-ai / scaffold-with-ci-workflow (baseline, run 0)",
+      "mtime": 1782520014707,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2350,12 +2352,12 @@
         "scaffold-with-ci-workflow",
         "pr-839"
       ],
-      "mtime": 1782518373203,
       "id": "pr/839/dotnet-ai/scaffold-with-ci-workflow--baseline--run0"
     },
     {
-      "name": "dotnet-ai / scaffold-with-ci-workflow (isolated, run 0)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-with-ci-workflow--isolated--run0.jsonl",
+      "name": "dotnet-ai / scaffold-with-ci-workflow (isolated, run 0)",
+      "mtime": 1782520014711,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2363,12 +2365,12 @@
         "scaffold-with-ci-workflow",
         "pr-839"
       ],
-      "mtime": 1782518373206,
       "id": "pr/839/dotnet-ai/scaffold-with-ci-workflow--isolated--run0"
     },
     {
-      "name": "dotnet-ai / scaffold-with-ci-workflow (plugin, run 0)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-with-ci-workflow--plugin--run0.jsonl",
+      "name": "dotnet-ai / scaffold-with-ci-workflow (plugin, run 0)",
+      "mtime": 1782520014715,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2376,12 +2378,12 @@
         "scaffold-with-ci-workflow",
         "pr-839"
       ],
-      "mtime": 1782518373210,
       "id": "pr/839/dotnet-ai/scaffold-with-ci-workflow--plugin--run0"
     },
     {
-      "name": "dotnet-ai / scaffold-with-ci-workflow (baseline, run 1)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-with-ci-workflow--baseline--run1.jsonl",
+      "name": "dotnet-ai / scaffold-with-ci-workflow (baseline, run 1)",
+      "mtime": 1782520014719,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2389,12 +2391,12 @@
         "scaffold-with-ci-workflow",
         "pr-839"
       ],
-      "mtime": 1782518373213,
       "id": "pr/839/dotnet-ai/scaffold-with-ci-workflow--baseline--run1"
     },
     {
-      "name": "dotnet-ai / scaffold-with-ci-workflow (isolated, run 1)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-with-ci-workflow--isolated--run1.jsonl",
+      "name": "dotnet-ai / scaffold-with-ci-workflow (isolated, run 1)",
+      "mtime": 1782520014723,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2402,12 +2404,12 @@
         "scaffold-with-ci-workflow",
         "pr-839"
       ],
-      "mtime": 1782518373217,
       "id": "pr/839/dotnet-ai/scaffold-with-ci-workflow--isolated--run1"
     },
     {
-      "name": "dotnet-ai / scaffold-with-ci-workflow (plugin, run 1)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-with-ci-workflow--plugin--run1.jsonl",
+      "name": "dotnet-ai / scaffold-with-ci-workflow (plugin, run 1)",
+      "mtime": 1782520014727,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2415,12 +2417,12 @@
         "scaffold-with-ci-workflow",
         "pr-839"
       ],
-      "mtime": 1782518373220,
       "id": "pr/839/dotnet-ai/scaffold-with-ci-workflow--plugin--run1"
     },
     {
-      "name": "dotnet-ai / scaffold-with-ci-workflow (baseline, run 2)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-with-ci-workflow--baseline--run2.jsonl",
+      "name": "dotnet-ai / scaffold-with-ci-workflow (baseline, run 2)",
+      "mtime": 1782520014730,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2428,12 +2430,12 @@
         "scaffold-with-ci-workflow",
         "pr-839"
       ],
-      "mtime": 1782518373223,
       "id": "pr/839/dotnet-ai/scaffold-with-ci-workflow--baseline--run2"
     },
     {
-      "name": "dotnet-ai / scaffold-with-ci-workflow (isolated, run 2)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-with-ci-workflow--isolated--run2.jsonl",
+      "name": "dotnet-ai / scaffold-with-ci-workflow (isolated, run 2)",
+      "mtime": 1782520014735,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2441,12 +2443,12 @@
         "scaffold-with-ci-workflow",
         "pr-839"
       ],
-      "mtime": 1782518373227,
       "id": "pr/839/dotnet-ai/scaffold-with-ci-workflow--isolated--run2"
     },
     {
-      "name": "dotnet-ai / scaffold-with-ci-workflow (plugin, run 2)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-with-ci-workflow--plugin--run2.jsonl",
+      "name": "dotnet-ai / scaffold-with-ci-workflow (plugin, run 2)",
+      "mtime": 1782520014741,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2454,12 +2456,12 @@
         "scaffold-with-ci-workflow",
         "pr-839"
       ],
-      "mtime": 1782518373230,
       "id": "pr/839/dotnet-ai/scaffold-with-ci-workflow--plugin--run2"
     },
     {
-      "name": "dotnet-ai / scaffold-with-safety-tier (baseline, run 0)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-with-safety-tier--baseline--run0.jsonl",
+      "name": "dotnet-ai / scaffold-with-safety-tier (baseline, run 0)",
+      "mtime": 1782520014745,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2467,12 +2469,12 @@
         "scaffold-with-safety-tier",
         "pr-839"
       ],
-      "mtime": 1782518373234,
       "id": "pr/839/dotnet-ai/scaffold-with-safety-tier--baseline--run0"
     },
     {
-      "name": "dotnet-ai / scaffold-with-safety-tier (isolated, run 0)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-with-safety-tier--isolated--run0.jsonl",
+      "name": "dotnet-ai / scaffold-with-safety-tier (isolated, run 0)",
+      "mtime": 1782520014749,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2480,12 +2482,12 @@
         "scaffold-with-safety-tier",
         "pr-839"
       ],
-      "mtime": 1782518373237,
       "id": "pr/839/dotnet-ai/scaffold-with-safety-tier--isolated--run0"
     },
     {
-      "name": "dotnet-ai / scaffold-with-safety-tier (plugin, run 0)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-with-safety-tier--plugin--run0.jsonl",
+      "name": "dotnet-ai / scaffold-with-safety-tier (plugin, run 0)",
+      "mtime": 1782520014753,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2493,12 +2495,12 @@
         "scaffold-with-safety-tier",
         "pr-839"
       ],
-      "mtime": 1782518373241,
       "id": "pr/839/dotnet-ai/scaffold-with-safety-tier--plugin--run0"
     },
     {
-      "name": "dotnet-ai / scaffold-with-safety-tier (baseline, run 1)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-with-safety-tier--baseline--run1.jsonl",
+      "name": "dotnet-ai / scaffold-with-safety-tier (baseline, run 1)",
+      "mtime": 1782520014757,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2506,12 +2508,12 @@
         "scaffold-with-safety-tier",
         "pr-839"
       ],
-      "mtime": 1782518373244,
       "id": "pr/839/dotnet-ai/scaffold-with-safety-tier--baseline--run1"
     },
     {
-      "name": "dotnet-ai / scaffold-with-safety-tier (isolated, run 1)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-with-safety-tier--isolated--run1.jsonl",
+      "name": "dotnet-ai / scaffold-with-safety-tier (isolated, run 1)",
+      "mtime": 1782520014761,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2519,12 +2521,12 @@
         "scaffold-with-safety-tier",
         "pr-839"
       ],
-      "mtime": 1782518373248,
       "id": "pr/839/dotnet-ai/scaffold-with-safety-tier--isolated--run1"
     },
     {
-      "name": "dotnet-ai / scaffold-with-safety-tier (plugin, run 1)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-with-safety-tier--plugin--run1.jsonl",
+      "name": "dotnet-ai / scaffold-with-safety-tier (plugin, run 1)",
+      "mtime": 1782520014765,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2532,12 +2534,12 @@
         "scaffold-with-safety-tier",
         "pr-839"
       ],
-      "mtime": 1782518373252,
       "id": "pr/839/dotnet-ai/scaffold-with-safety-tier--plugin--run1"
     },
     {
-      "name": "dotnet-ai / scaffold-with-safety-tier (baseline, run 2)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-with-safety-tier--baseline--run2.jsonl",
+      "name": "dotnet-ai / scaffold-with-safety-tier (baseline, run 2)",
+      "mtime": 1782520014769,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2545,12 +2547,12 @@
         "scaffold-with-safety-tier",
         "pr-839"
       ],
-      "mtime": 1782518373255,
       "id": "pr/839/dotnet-ai/scaffold-with-safety-tier--baseline--run2"
     },
     {
-      "name": "dotnet-ai / scaffold-with-safety-tier (isolated, run 2)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-with-safety-tier--isolated--run2.jsonl",
+      "name": "dotnet-ai / scaffold-with-safety-tier (isolated, run 2)",
+      "mtime": 1782520014774,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2558,12 +2560,12 @@
         "scaffold-with-safety-tier",
         "pr-839"
       ],
-      "mtime": 1782518373258,
       "id": "pr/839/dotnet-ai/scaffold-with-safety-tier--isolated--run2"
     },
     {
-      "name": "dotnet-ai / scaffold-with-safety-tier (plugin, run 2)",
       "url": "sessions/pr/839/dotnet-ai/scaffold-with-safety-tier--plugin--run2.jsonl",
+      "name": "dotnet-ai / scaffold-with-safety-tier (plugin, run 2)",
+      "mtime": 1782520014778,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2571,12 +2573,12 @@
         "scaffold-with-safety-tier",
         "pr-839"
       ],
-      "mtime": 1782518373262,
       "id": "pr/839/dotnet-ai/scaffold-with-safety-tier--plugin--run2"
     },
     {
-      "name": "dotnet-ai / skip-when-no-app-host (baseline, run 0)",
       "url": "sessions/pr/839/dotnet-ai/skip-when-no-app-host--baseline--run0.jsonl",
+      "name": "dotnet-ai / skip-when-no-app-host (baseline, run 0)",
+      "mtime": 1782520014784,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2584,12 +2586,12 @@
         "skip-when-no-app-host",
         "pr-839"
       ],
-      "mtime": 1782518373268,
       "id": "pr/839/dotnet-ai/skip-when-no-app-host--baseline--run0"
     },
     {
-      "name": "dotnet-ai / skip-when-no-app-host (isolated, run 0)",
       "url": "sessions/pr/839/dotnet-ai/skip-when-no-app-host--isolated--run0.jsonl",
+      "name": "dotnet-ai / skip-when-no-app-host (isolated, run 0)",
+      "mtime": 1782520014788,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2597,12 +2599,12 @@
         "skip-when-no-app-host",
         "pr-839"
       ],
-      "mtime": 1782518373271,
       "id": "pr/839/dotnet-ai/skip-when-no-app-host--isolated--run0"
     },
     {
-      "name": "dotnet-ai / skip-when-no-app-host (plugin, run 0)",
       "url": "sessions/pr/839/dotnet-ai/skip-when-no-app-host--plugin--run0.jsonl",
+      "name": "dotnet-ai / skip-when-no-app-host (plugin, run 0)",
+      "mtime": 1782520014792,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2610,12 +2612,12 @@
         "skip-when-no-app-host",
         "pr-839"
       ],
-      "mtime": 1782518373275,
       "id": "pr/839/dotnet-ai/skip-when-no-app-host--plugin--run0"
     },
     {
-      "name": "dotnet-ai / skip-when-no-app-host (baseline, run 1)",
       "url": "sessions/pr/839/dotnet-ai/skip-when-no-app-host--baseline--run1.jsonl",
+      "name": "dotnet-ai / skip-when-no-app-host (baseline, run 1)",
+      "mtime": 1782520014796,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2623,12 +2625,12 @@
         "skip-when-no-app-host",
         "pr-839"
       ],
-      "mtime": 1782518373278,
       "id": "pr/839/dotnet-ai/skip-when-no-app-host--baseline--run1"
     },
     {
-      "name": "dotnet-ai / skip-when-no-app-host (isolated, run 1)",
       "url": "sessions/pr/839/dotnet-ai/skip-when-no-app-host--isolated--run1.jsonl",
+      "name": "dotnet-ai / skip-when-no-app-host (isolated, run 1)",
+      "mtime": 1782520014800,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2636,12 +2638,12 @@
         "skip-when-no-app-host",
         "pr-839"
       ],
-      "mtime": 1782518373281,
       "id": "pr/839/dotnet-ai/skip-when-no-app-host--isolated--run1"
     },
     {
-      "name": "dotnet-ai / skip-when-no-app-host (plugin, run 1)",
       "url": "sessions/pr/839/dotnet-ai/skip-when-no-app-host--plugin--run1.jsonl",
+      "name": "dotnet-ai / skip-when-no-app-host (plugin, run 1)",
+      "mtime": 1782520014804,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2649,12 +2651,12 @@
         "skip-when-no-app-host",
         "pr-839"
       ],
-      "mtime": 1782518373285,
       "id": "pr/839/dotnet-ai/skip-when-no-app-host--plugin--run1"
     },
     {
-      "name": "dotnet-ai / skip-when-no-app-host (baseline, run 2)",
       "url": "sessions/pr/839/dotnet-ai/skip-when-no-app-host--baseline--run2.jsonl",
+      "name": "dotnet-ai / skip-when-no-app-host (baseline, run 2)",
+      "mtime": 1782520014808,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2662,12 +2664,12 @@
         "skip-when-no-app-host",
         "pr-839"
       ],
-      "mtime": 1782518373288,
       "id": "pr/839/dotnet-ai/skip-when-no-app-host--baseline--run2"
     },
     {
-      "name": "dotnet-ai / skip-when-no-app-host (isolated, run 2)",
       "url": "sessions/pr/839/dotnet-ai/skip-when-no-app-host--isolated--run2.jsonl",
+      "name": "dotnet-ai / skip-when-no-app-host (isolated, run 2)",
+      "mtime": 1782520014812,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2675,12 +2677,12 @@
         "skip-when-no-app-host",
         "pr-839"
       ],
-      "mtime": 1782518373292,
       "id": "pr/839/dotnet-ai/skip-when-no-app-host--isolated--run2"
     },
     {
-      "name": "dotnet-ai / skip-when-no-app-host (plugin, run 2)",
       "url": "sessions/pr/839/dotnet-ai/skip-when-no-app-host--plugin--run2.jsonl",
+      "name": "dotnet-ai / skip-when-no-app-host (plugin, run 2)",
+      "mtime": 1782520014816,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2688,12 +2690,12 @@
         "skip-when-no-app-host",
         "pr-839"
       ],
-      "mtime": 1782518373295,
       "id": "pr/839/dotnet-ai/skip-when-no-app-host--plugin--run2"
     },
     {
-      "name": "dotnet-ai / tier-banner-surfaces-in-chat-output (baseline, run 0)",
       "url": "sessions/pr/839/dotnet-ai/tier-banner-surfaces-in-chat-output--baseline--run0.jsonl",
+      "name": "dotnet-ai / tier-banner-surfaces-in-chat-output (baseline, run 0)",
+      "mtime": 1782520014820,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2701,12 +2703,12 @@
         "tier-banner-surfaces-in-chat-output",
         "pr-839"
       ],
-      "mtime": 1782518373299,
       "id": "pr/839/dotnet-ai/tier-banner-surfaces-in-chat-output--baseline--run0"
     },
     {
-      "name": "dotnet-ai / tier-banner-surfaces-in-chat-output (isolated, run 0)",
       "url": "sessions/pr/839/dotnet-ai/tier-banner-surfaces-in-chat-output--isolated--run0.jsonl",
+      "name": "dotnet-ai / tier-banner-surfaces-in-chat-output (isolated, run 0)",
+      "mtime": 1782520014824,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2714,12 +2716,12 @@
         "tier-banner-surfaces-in-chat-output",
         "pr-839"
       ],
-      "mtime": 1782518373303,
       "id": "pr/839/dotnet-ai/tier-banner-surfaces-in-chat-output--isolated--run0"
     },
     {
-      "name": "dotnet-ai / tier-banner-surfaces-in-chat-output (plugin, run 0)",
       "url": "sessions/pr/839/dotnet-ai/tier-banner-surfaces-in-chat-output--plugin--run0.jsonl",
+      "name": "dotnet-ai / tier-banner-surfaces-in-chat-output (plugin, run 0)",
+      "mtime": 1782520014828,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2727,12 +2729,12 @@
         "tier-banner-surfaces-in-chat-output",
         "pr-839"
       ],
-      "mtime": 1782518373306,
       "id": "pr/839/dotnet-ai/tier-banner-surfaces-in-chat-output--plugin--run0"
     },
     {
-      "name": "dotnet-ai / tier-banner-surfaces-in-chat-output (baseline, run 1)",
       "url": "sessions/pr/839/dotnet-ai/tier-banner-surfaces-in-chat-output--baseline--run1.jsonl",
+      "name": "dotnet-ai / tier-banner-surfaces-in-chat-output (baseline, run 1)",
+      "mtime": 1782520014832,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2740,12 +2742,12 @@
         "tier-banner-surfaces-in-chat-output",
         "pr-839"
       ],
-      "mtime": 1782518373310,
       "id": "pr/839/dotnet-ai/tier-banner-surfaces-in-chat-output--baseline--run1"
     },
     {
-      "name": "dotnet-ai / tier-banner-surfaces-in-chat-output (isolated, run 1)",
       "url": "sessions/pr/839/dotnet-ai/tier-banner-surfaces-in-chat-output--isolated--run1.jsonl",
+      "name": "dotnet-ai / tier-banner-surfaces-in-chat-output (isolated, run 1)",
+      "mtime": 1782520014836,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2753,12 +2755,12 @@
         "tier-banner-surfaces-in-chat-output",
         "pr-839"
       ],
-      "mtime": 1782518373314,
       "id": "pr/839/dotnet-ai/tier-banner-surfaces-in-chat-output--isolated--run1"
     },
     {
-      "name": "dotnet-ai / tier-banner-surfaces-in-chat-output (plugin, run 1)",
       "url": "sessions/pr/839/dotnet-ai/tier-banner-surfaces-in-chat-output--plugin--run1.jsonl",
+      "name": "dotnet-ai / tier-banner-surfaces-in-chat-output (plugin, run 1)",
+      "mtime": 1782520014840,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2766,12 +2768,12 @@
         "tier-banner-surfaces-in-chat-output",
         "pr-839"
       ],
-      "mtime": 1782518373317,
       "id": "pr/839/dotnet-ai/tier-banner-surfaces-in-chat-output--plugin--run1"
     },
     {
-      "name": "dotnet-ai / tier-banner-surfaces-in-chat-output (baseline, run 2)",
       "url": "sessions/pr/839/dotnet-ai/tier-banner-surfaces-in-chat-output--baseline--run2.jsonl",
+      "name": "dotnet-ai / tier-banner-surfaces-in-chat-output (baseline, run 2)",
+      "mtime": 1782520014844,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2779,12 +2781,12 @@
         "tier-banner-surfaces-in-chat-output",
         "pr-839"
       ],
-      "mtime": 1782518373321,
       "id": "pr/839/dotnet-ai/tier-banner-surfaces-in-chat-output--baseline--run2"
     },
     {
-      "name": "dotnet-ai / tier-banner-surfaces-in-chat-output (isolated, run 2)",
       "url": "sessions/pr/839/dotnet-ai/tier-banner-surfaces-in-chat-output--isolated--run2.jsonl",
+      "name": "dotnet-ai / tier-banner-surfaces-in-chat-output (isolated, run 2)",
+      "mtime": 1782520014848,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2792,12 +2794,12 @@
         "tier-banner-surfaces-in-chat-output",
         "pr-839"
       ],
-      "mtime": 1782518373324,
       "id": "pr/839/dotnet-ai/tier-banner-surfaces-in-chat-output--isolated--run2"
     },
     {
-      "name": "dotnet-ai / tier-banner-surfaces-in-chat-output (plugin, run 2)",
       "url": "sessions/pr/839/dotnet-ai/tier-banner-surfaces-in-chat-output--plugin--run2.jsonl",
+      "name": "dotnet-ai / tier-banner-surfaces-in-chat-output (plugin, run 2)",
+      "mtime": 1782520014852,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2805,12 +2807,12 @@
         "tier-banner-surfaces-in-chat-output",
         "pr-839"
       ],
-      "mtime": 1782518373328,
       "id": "pr/839/dotnet-ai/tier-banner-surfaces-in-chat-output--plugin--run2"
     },
     {
-      "name": "dotnet-ai / update-mode-preserves-user-data (baseline, run 0)",
       "url": "sessions/pr/839/dotnet-ai/update-mode-preserves-user-data--baseline--run0.jsonl",
+      "name": "dotnet-ai / update-mode-preserves-user-data (baseline, run 0)",
+      "mtime": 1782520014856,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2818,12 +2820,12 @@
         "update-mode-preserves-user-data",
         "pr-839"
       ],
-      "mtime": 1782518373332,
       "id": "pr/839/dotnet-ai/update-mode-preserves-user-data--baseline--run0"
     },
     {
-      "name": "dotnet-ai / update-mode-preserves-user-data (isolated, run 0)",
       "url": "sessions/pr/839/dotnet-ai/update-mode-preserves-user-data--isolated--run0.jsonl",
+      "name": "dotnet-ai / update-mode-preserves-user-data (isolated, run 0)",
+      "mtime": 1782520014860,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2831,12 +2833,12 @@
         "update-mode-preserves-user-data",
         "pr-839"
       ],
-      "mtime": 1782518373335,
       "id": "pr/839/dotnet-ai/update-mode-preserves-user-data--isolated--run0"
     },
     {
-      "name": "dotnet-ai / update-mode-preserves-user-data (plugin, run 0)",
       "url": "sessions/pr/839/dotnet-ai/update-mode-preserves-user-data--plugin--run0.jsonl",
+      "name": "dotnet-ai / update-mode-preserves-user-data (plugin, run 0)",
+      "mtime": 1782520014864,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2844,12 +2846,12 @@
         "update-mode-preserves-user-data",
         "pr-839"
       ],
-      "mtime": 1782518373339,
       "id": "pr/839/dotnet-ai/update-mode-preserves-user-data--plugin--run0"
     },
     {
-      "name": "dotnet-ai / update-mode-preserves-user-data (baseline, run 1)",
       "url": "sessions/pr/839/dotnet-ai/update-mode-preserves-user-data--baseline--run1.jsonl",
+      "name": "dotnet-ai / update-mode-preserves-user-data (baseline, run 1)",
+      "mtime": 1782520014868,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2857,12 +2859,12 @@
         "update-mode-preserves-user-data",
         "pr-839"
       ],
-      "mtime": 1782518373342,
       "id": "pr/839/dotnet-ai/update-mode-preserves-user-data--baseline--run1"
     },
     {
-      "name": "dotnet-ai / update-mode-preserves-user-data (isolated, run 1)",
       "url": "sessions/pr/839/dotnet-ai/update-mode-preserves-user-data--isolated--run1.jsonl",
+      "name": "dotnet-ai / update-mode-preserves-user-data (isolated, run 1)",
+      "mtime": 1782520014872,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2870,12 +2872,12 @@
         "update-mode-preserves-user-data",
         "pr-839"
       ],
-      "mtime": 1782518373346,
       "id": "pr/839/dotnet-ai/update-mode-preserves-user-data--isolated--run1"
     },
     {
-      "name": "dotnet-ai / update-mode-preserves-user-data (plugin, run 1)",
       "url": "sessions/pr/839/dotnet-ai/update-mode-preserves-user-data--plugin--run1.jsonl",
+      "name": "dotnet-ai / update-mode-preserves-user-data (plugin, run 1)",
+      "mtime": 1782520014876,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2883,12 +2885,12 @@
         "update-mode-preserves-user-data",
         "pr-839"
       ],
-      "mtime": 1782518373349,
       "id": "pr/839/dotnet-ai/update-mode-preserves-user-data--plugin--run1"
     },
     {
-      "name": "dotnet-ai / update-mode-preserves-user-data (baseline, run 2)",
       "url": "sessions/pr/839/dotnet-ai/update-mode-preserves-user-data--baseline--run2.jsonl",
+      "name": "dotnet-ai / update-mode-preserves-user-data (baseline, run 2)",
+      "mtime": 1782520014880,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2896,12 +2898,12 @@
         "update-mode-preserves-user-data",
         "pr-839"
       ],
-      "mtime": 1782518373353,
       "id": "pr/839/dotnet-ai/update-mode-preserves-user-data--baseline--run2"
     },
     {
-      "name": "dotnet-ai / update-mode-preserves-user-data (isolated, run 2)",
       "url": "sessions/pr/839/dotnet-ai/update-mode-preserves-user-data--isolated--run2.jsonl",
+      "name": "dotnet-ai / update-mode-preserves-user-data (isolated, run 2)",
+      "mtime": 1782520014884,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2909,12 +2911,12 @@
         "update-mode-preserves-user-data",
         "pr-839"
       ],
-      "mtime": 1782518373356,
       "id": "pr/839/dotnet-ai/update-mode-preserves-user-data--isolated--run2"
     },
     {
-      "name": "dotnet-ai / update-mode-preserves-user-data (plugin, run 2)",
       "url": "sessions/pr/839/dotnet-ai/update-mode-preserves-user-data--plugin--run2.jsonl",
+      "name": "dotnet-ai / update-mode-preserves-user-data (plugin, run 2)",
+      "mtime": 1782520014888,
       "tags": [
         "pr",
         "dotnet-ai",
@@ -2922,7 +2924,6 @@
         "update-mode-preserves-user-data",
         "pr-839"
       ],
-      "mtime": 1782518373360,
       "id": "pr/839/dotnet-ai/update-mode-preserves-user-data--plugin--run2"
     },
     {
@@ -488735,6 +488736,5 @@
         "pr-754"
       ]
     }
-  ],
-  "generated": "2026-06-26T23:59:33.3600000+00:00"
+  ]
 }
