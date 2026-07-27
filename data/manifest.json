@@ -1,5 +1,4 @@
 {
-  "generated": "2026-07-27T17:56:30.3070000+00:00",
   "sessions": [
     {
       "mtime": 1784598984088,
@@ -407473,5 +407472,6 @@
       ],
       "id": "pr/794/dotnet-test/write-unit-tests-for-a-service-class--plugin--run2"
     }
-  ]
+  ],
+  "generated": "2026-07-27T17:56:30.3070000+00:00"
 }
