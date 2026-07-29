@@ -1,4 +1,5 @@
 {
+  "generated": "2026-07-28T22:53:34.5280000+00:00",
   "sessions": [
     {
       "mtime": 1784740605323,
@@ -291902,6 +291903,5 @@
       "mtime": 1785279213032,
       "url": "sessions/pr/839/dotnet-ai/update-older-version---preserves-user-edited-threshold-values--plugin--run2.jsonl"
     }
-  ],
-  "generated": "2026-07-28T22:53:34.5280000+00:00"
+  ]
 }
