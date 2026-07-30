@@ -1,1527 +1,6 @@
 {
-  "generated": "2026-07-30T16:44:18.7010000+00:00",
+  "generated": "2026-07-30T19:21:58.2250000+00:00",
   "sessions": [
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/add-a-module-to-an-f--project--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/add-a-module-to-an-f--project--baseline--run0",
-      "mtime": 1784830140472,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "add-a-module-to-an-f--project",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / add-a-module-to-an-f--project (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/add-a-module-to-an-f--project--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/add-a-module-to-an-f--project--isolated--run0",
-      "mtime": 1784830140474,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "add-a-module-to-an-f--project",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / add-a-module-to-an-f--project (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/add-a-module-to-an-f--project--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/add-a-module-to-an-f--project--plugin--run0",
-      "mtime": 1784830140474,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "add-a-module-to-an-f--project",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / add-a-module-to-an-f--project (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/add-a-signature-file-to-define-public-api--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/add-a-signature-file-to-define-public-api--baseline--run0",
-      "mtime": 1784830140474,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "add-a-signature-file-to-define-public-api",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / add-a-signature-file-to-define-public-api (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/add-a-signature-file-to-define-public-api--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/add-a-signature-file-to-define-public-api--isolated--run0",
-      "mtime": 1784830140474,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "add-a-signature-file-to-define-public-api",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / add-a-signature-file-to-define-public-api (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/add-a-signature-file-to-define-public-api--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/add-a-signature-file-to-define-public-api--plugin--run0",
-      "mtime": 1784830140474,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "add-a-signature-file-to-define-public-api",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / add-a-signature-file-to-define-public-api (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/analyze-build-parallelism-bottlenecks--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/analyze-build-parallelism-bottlenecks--baseline--run0",
-      "mtime": 1784830140474,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "analyze-build-parallelism-bottlenecks",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / analyze-build-parallelism-bottlenecks (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/analyze-build-parallelism-bottlenecks--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/analyze-build-parallelism-bottlenecks--isolated--run0",
-      "mtime": 1784830140475,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "analyze-build-parallelism-bottlenecks",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / analyze-build-parallelism-bottlenecks (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/analyze-build-parallelism-bottlenecks--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/analyze-build-parallelism-bottlenecks--plugin--run0",
-      "mtime": 1784830140475,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "analyze-build-parallelism-bottlenecks",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / analyze-build-parallelism-bottlenecks (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/analyze-incremental-build-issues--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/analyze-incremental-build-issues--baseline--run0",
-      "mtime": 1784830140476,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "analyze-incremental-build-issues",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / analyze-incremental-build-issues (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/analyze-incremental-build-issues--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/analyze-incremental-build-issues--isolated--run0",
-      "mtime": 1784830140476,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "analyze-incremental-build-issues",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / analyze-incremental-build-issues (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/analyze-incremental-build-issues--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/analyze-incremental-build-issues--plugin--run0",
-      "mtime": 1784830140476,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "analyze-incremental-build-issues",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / analyze-incremental-build-issues (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/analyze-msbuild-evaluation-performance-issues--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/analyze-msbuild-evaluation-performance-issues--baseline--run0",
-      "mtime": 1784830140477,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "analyze-msbuild-evaluation-performance-issues",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / analyze-msbuild-evaluation-performance-issues (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/analyze-msbuild-evaluation-performance-issues--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/analyze-msbuild-evaluation-performance-issues--isolated--run0",
-      "mtime": 1784830140477,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "analyze-msbuild-evaluation-performance-issues",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / analyze-msbuild-evaluation-performance-issues (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/analyze-msbuild-evaluation-performance-issues--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/analyze-msbuild-evaluation-performance-issues--plugin--run0",
-      "mtime": 1784830140478,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "analyze-msbuild-evaluation-performance-issues",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / analyze-msbuild-evaluation-performance-issues (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/build-multiple-configurations-with-unique-binlogs--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/build-multiple-configurations-with-unique-binlogs--baseline--run0",
-      "mtime": 1784830140478,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "build-multiple-configurations-with-unique-binlogs",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / build-multiple-configurations-with-unique-binlogs (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/build-multiple-configurations-with-unique-binlogs--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/build-multiple-configurations-with-unique-binlogs--isolated--run0",
-      "mtime": 1784830140478,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "build-multiple-configurations-with-unique-binlogs",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / build-multiple-configurations-with-unique-binlogs (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/build-multiple-configurations-with-unique-binlogs--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/build-multiple-configurations-with-unique-binlogs--plugin--run0",
-      "mtime": 1784830140479,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "build-multiple-configurations-with-unique-binlogs",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / build-multiple-configurations-with-unique-binlogs (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/build-project-with--bl-flag--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/build-project-with--bl-flag--baseline--run0",
-      "mtime": 1784830140479,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "build-project-with--bl-flag",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / build-project-with--bl-flag (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/build-project-with--bl-flag--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/build-project-with--bl-flag--isolated--run0",
-      "mtime": 1784830140479,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "build-project-with--bl-flag",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / build-project-with--bl-flag (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/build-project-with--bl-flag--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/build-project-with--bl-flag--plugin--run0",
-      "mtime": 1784830140479,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "build-project-with--bl-flag",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / build-project-with--bl-flag (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/build-with--bl-in-powershell--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/build-with--bl-in-powershell--baseline--run0",
-      "mtime": 1784830140479,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "build-with--bl-in-powershell",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / build-with--bl-in-powershell (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/build-with--bl-in-powershell--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/build-with--bl-in-powershell--isolated--run0",
-      "mtime": 1784830140479,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "build-with--bl-in-powershell",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / build-with--bl-in-powershell (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/build-with--bl-in-powershell--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/build-with--bl-in-powershell--plugin--run0",
-      "mtime": 1784830140479,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "build-with--bl-in-powershell",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / build-with--bl-in-powershell (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-bin-obj-output-path-clashes--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-bin-obj-output-path-clashes--baseline--run0",
-      "mtime": 1784830140480,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "diagnose-bin-obj-output-path-clashes",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-bin-obj-output-path-clashes (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-bin-obj-output-path-clashes--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-bin-obj-output-path-clashes--isolated--run0",
-      "mtime": 1784830140480,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "diagnose-bin-obj-output-path-clashes",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-bin-obj-output-path-clashes (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-bin-obj-output-path-clashes--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-bin-obj-output-path-clashes--plugin--run0",
-      "mtime": 1784830140481,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "diagnose-bin-obj-output-path-clashes",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-bin-obj-output-path-clashes (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-broken-sdk-target-chain-across-files--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-broken-sdk-target-chain-across-files--baseline--run0",
-      "mtime": 1784830140481,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "diagnose-broken-sdk-target-chain-across-files",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-broken-sdk-target-chain-across-files (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-broken-sdk-target-chain-across-files--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-broken-sdk-target-chain-across-files--isolated--run0",
-      "mtime": 1784830140482,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "diagnose-broken-sdk-target-chain-across-files",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-broken-sdk-target-chain-across-files (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-broken-sdk-target-chain-across-files--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-broken-sdk-target-chain-across-files--plugin--run0",
-      "mtime": 1784830140482,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "diagnose-broken-sdk-target-chain-across-files",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-broken-sdk-target-chain-across-files (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-build-extension-point-failures--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-build-extension-point-failures--baseline--run0",
-      "mtime": 1784830140482,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "diagnose-build-extension-point-failures",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-build-extension-point-failures (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-build-extension-point-failures--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-build-extension-point-failures--isolated--run0",
-      "mtime": 1784830140483,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "diagnose-build-extension-point-failures",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-build-extension-point-failures (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-build-extension-point-failures--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-build-extension-point-failures--plugin--run0",
-      "mtime": 1784830140484,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "diagnose-build-extension-point-failures",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-build-extension-point-failures (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-build-failures-from-binlog-only--no-source-files---baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-build-failures-from-binlog-only--no-source-files---baseline--run0",
-      "mtime": 1784830140485,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "-baseline",
-        "diagnose-build-failures-from-binlog-only--no-source-files",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-build-failures-from-binlog-only--no-source-files (-baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-build-failures-from-binlog-only--no-source-files---isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-build-failures-from-binlog-only--no-source-files---isolated--run0",
-      "mtime": 1784830140485,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "-isolated",
-        "diagnose-build-failures-from-binlog-only--no-source-files",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-build-failures-from-binlog-only--no-source-files (-isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-build-failures-from-binlog-only--no-source-files---plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-build-failures-from-binlog-only--no-source-files---plugin--run0",
-      "mtime": 1784830140485,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "-plugin",
-        "diagnose-build-failures-from-binlog-only--no-source-files",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-build-failures-from-binlog-only--no-source-files (-plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline--baseline--run0",
-      "mtime": 1784830140485,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline--isolated--run0",
-      "mtime": 1784830140486,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline--plugin--run0",
-      "mtime": 1784830140486,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-custom-target-build-regression--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-custom-target-build-regression--baseline--run0",
-      "mtime": 1784830140487,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "diagnose-custom-target-build-regression",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-custom-target-build-regression (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-custom-target-build-regression--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-custom-target-build-regression--isolated--run0",
-      "mtime": 1784830140487,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "diagnose-custom-target-build-regression",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-custom-target-build-regression (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-custom-target-build-regression--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-custom-target-build-regression--plugin--run0",
-      "mtime": 1784830140487,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "diagnose-custom-target-build-regression",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-custom-target-build-regression (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-generated-file-inclusion-failure--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-generated-file-inclusion-failure--baseline--run0",
-      "mtime": 1784830140487,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "diagnose-generated-file-inclusion-failure",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-generated-file-inclusion-failure (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-generated-file-inclusion-failure--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-generated-file-inclusion-failure--isolated--run0",
-      "mtime": 1784830140487,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "diagnose-generated-file-inclusion-failure",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-generated-file-inclusion-failure (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-generated-file-inclusion-failure--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-generated-file-inclusion-failure--plugin--run0",
-      "mtime": 1784830140487,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "diagnose-generated-file-inclusion-failure",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-generated-file-inclusion-failure (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-item-group-and-batching-issues--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-item-group-and-batching-issues--baseline--run0",
-      "mtime": 1784830140488,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "diagnose-item-group-and-batching-issues",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-item-group-and-batching-issues (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-item-group-and-batching-issues--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-item-group-and-batching-issues--isolated--run0",
-      "mtime": 1784830140488,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "diagnose-item-group-and-batching-issues",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-item-group-and-batching-issues (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-item-group-and-batching-issues--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-item-group-and-batching-issues--plugin--run0",
-      "mtime": 1784830140488,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "diagnose-item-group-and-batching-issues",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-item-group-and-batching-issues (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-multi-level-property-hierarchy-bugs--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-multi-level-property-hierarchy-bugs--baseline--run0",
-      "mtime": 1784830140489,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "diagnose-multi-level-property-hierarchy-bugs",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-multi-level-property-hierarchy-bugs (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-multi-level-property-hierarchy-bugs--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-multi-level-property-hierarchy-bugs--isolated--run0",
-      "mtime": 1784830140490,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "diagnose-multi-level-property-hierarchy-bugs",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-multi-level-property-hierarchy-bugs (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-multi-level-property-hierarchy-bugs--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-multi-level-property-hierarchy-bugs--plugin--run0",
-      "mtime": 1784830140490,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "diagnose-multi-level-property-hierarchy-bugs",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-multi-level-property-hierarchy-bugs (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-nuget-package-and-repo-extension-conflicts--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-nuget-package-and-repo-extension-conflicts--baseline--run0",
-      "mtime": 1784830140490,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "diagnose-nuget-package-and-repo-extension-conflicts",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-nuget-package-and-repo-extension-conflicts (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-nuget-package-and-repo-extension-conflicts--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-nuget-package-and-repo-extension-conflicts--isolated--run0",
-      "mtime": 1784830140491,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "diagnose-nuget-package-and-repo-extension-conflicts",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-nuget-package-and-repo-extension-conflicts (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-nuget-package-and-repo-extension-conflicts--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-nuget-package-and-repo-extension-conflicts--plugin--run0",
-      "mtime": 1784830140491,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "diagnose-nuget-package-and-repo-extension-conflicts",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-nuget-package-and-repo-extension-conflicts (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-shared-build-property-issues--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-shared-build-property-issues--baseline--run0",
-      "mtime": 1784830140491,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "diagnose-shared-build-property-issues",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-shared-build-property-issues (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-shared-build-property-issues--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-shared-build-property-issues--isolated--run0",
-      "mtime": 1784830140491,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "diagnose-shared-build-property-issues",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-shared-build-property-issues (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-shared-build-property-issues--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-shared-build-property-issues--plugin--run0",
-      "mtime": 1784830140492,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "diagnose-shared-build-property-issues",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-shared-build-property-issues (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-slow-build-for-a-small-project--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-slow-build-for-a-small-project--baseline--run0",
-      "mtime": 1784830140492,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "diagnose-slow-build-for-a-small-project",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-slow-build-for-a-small-project (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-slow-build-for-a-small-project--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-slow-build-for-a-small-project--isolated--run0",
-      "mtime": 1784830140493,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "diagnose-slow-build-for-a-small-project",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-slow-build-for-a-small-project (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/diagnose-slow-build-for-a-small-project--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/diagnose-slow-build-for-a-small-project--plugin--run0",
-      "mtime": 1784830140493,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "diagnose-slow-build-for-a-small-project",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / diagnose-slow-build-for-a-small-project (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/establish-build-performance-baseline-and-recommend-optimizations--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/establish-build-performance-baseline-and-recommend-optimizations--baseline--run0",
-      "mtime": 1784830140493,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "establish-build-performance-baseline-and-recommend-optimizations",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / establish-build-performance-baseline-and-recommend-optimizations (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/establish-build-performance-baseline-and-recommend-optimizations--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/establish-build-performance-baseline-and-recommend-optimizations--isolated--run0",
-      "mtime": 1784830140494,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "establish-build-performance-baseline-and-recommend-optimizations",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / establish-build-performance-baseline-and-recommend-optimizations (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/establish-build-performance-baseline-and-recommend-optimizations--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/establish-build-performance-baseline-and-recommend-optimizations--plugin--run0",
-      "mtime": 1784830140495,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "establish-build-performance-baseline-and-recommend-optimizations",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / establish-build-performance-baseline-and-recommend-optimizations (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/explain-misleading-resolveprojectreferences-time--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/explain-misleading-resolveprojectreferences-time--baseline--run0",
-      "mtime": 1784830140495,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "explain-misleading-resolveprojectreferences-time",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / explain-misleading-resolveprojectreferences-time (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/explain-misleading-resolveprojectreferences-time--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/explain-misleading-resolveprojectreferences-time--isolated--run0",
-      "mtime": 1784830140495,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "explain-misleading-resolveprojectreferences-time",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / explain-misleading-resolveprojectreferences-time (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/explain-misleading-resolveprojectreferences-time--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/explain-misleading-resolveprojectreferences-time--plugin--run0",
-      "mtime": 1784830140496,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "explain-misleading-resolveprojectreferences-time",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / explain-misleading-resolveprojectreferences-time (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/fix-broken-file-order-causing-fs0039--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/fix-broken-file-order-causing-fs0039--baseline--run0",
-      "mtime": 1784830140496,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "fix-broken-file-order-causing-fs0039",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / fix-broken-file-order-causing-fs0039 (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/fix-broken-file-order-causing-fs0039--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/fix-broken-file-order-causing-fs0039--isolated--run0",
-      "mtime": 1784830140496,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "fix-broken-file-order-causing-fs0039",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / fix-broken-file-order-causing-fs0039 (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/fix-broken-file-order-causing-fs0039--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/fix-broken-file-order-causing-fs0039--plugin--run0",
-      "mtime": 1784830140496,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "fix-broken-file-order-causing-fs0039",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / fix-broken-file-order-causing-fs0039 (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/fix-custom-target-anti-patterns--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/fix-custom-target-anti-patterns--baseline--run0",
-      "mtime": 1784830140496,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "fix-custom-target-anti-patterns",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / fix-custom-target-anti-patterns (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/fix-custom-target-anti-patterns--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/fix-custom-target-anti-patterns--isolated--run0",
-      "mtime": 1784830140496,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "fix-custom-target-anti-patterns",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / fix-custom-target-anti-patterns (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/fix-custom-target-anti-patterns--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/fix-custom-target-anti-patterns--plugin--run0",
-      "mtime": 1784830140497,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "fix-custom-target-anti-patterns",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / fix-custom-target-anti-patterns (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/fix-extension-point-anti-patterns--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/fix-extension-point-anti-patterns--baseline--run0",
-      "mtime": 1784830140497,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "fix-extension-point-anti-patterns",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / fix-extension-point-anti-patterns (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/fix-extension-point-anti-patterns--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/fix-extension-point-anti-patterns--isolated--run0",
-      "mtime": 1784830140497,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "fix-extension-point-anti-patterns",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / fix-extension-point-anti-patterns (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/fix-extension-point-anti-patterns--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/fix-extension-point-anti-patterns--plugin--run0",
-      "mtime": 1784830140498,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "fix-extension-point-anti-patterns",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / fix-extension-point-anti-patterns (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/fix-item-management-anti-patterns--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/fix-item-management-anti-patterns--baseline--run0",
-      "mtime": 1784830140498,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "fix-item-management-anti-patterns",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / fix-item-management-anti-patterns (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/fix-item-management-anti-patterns--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/fix-item-management-anti-patterns--isolated--run0",
-      "mtime": 1784830140499,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "fix-item-management-anti-patterns",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / fix-item-management-anti-patterns (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/fix-item-management-anti-patterns--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/fix-item-management-anti-patterns--plugin--run0",
-      "mtime": 1784830140499,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "fix-item-management-anti-patterns",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / fix-item-management-anti-patterns (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/fix-shared-property-configuration--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/fix-shared-property-configuration--baseline--run0",
-      "mtime": 1784830140499,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "fix-shared-property-configuration",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / fix-shared-property-configuration (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/fix-shared-property-configuration--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/fix-shared-property-configuration--isolated--run0",
-      "mtime": 1784830140500,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "fix-shared-property-configuration",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / fix-shared-property-configuration (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/fix-shared-property-configuration--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/fix-shared-property-configuration--plugin--run0",
-      "mtime": 1784830140500,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "fix-shared-property-configuration",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / fix-shared-property-configuration (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/modernize-legacy-project-to-sdk-style--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/modernize-legacy-project-to-sdk-style--baseline--run0",
-      "mtime": 1784830140501,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "modernize-legacy-project-to-sdk-style",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / modernize-legacy-project-to-sdk-style (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/modernize-legacy-project-to-sdk-style--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/modernize-legacy-project-to-sdk-style--isolated--run0",
-      "mtime": 1784830140501,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "modernize-legacy-project-to-sdk-style",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / modernize-legacy-project-to-sdk-style (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/modernize-legacy-project-to-sdk-style--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/modernize-legacy-project-to-sdk-style--plugin--run0",
-      "mtime": 1784830140502,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "modernize-legacy-project-to-sdk-style",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / modernize-legacy-project-to-sdk-style (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/organize-build-infrastructure-for-a-multi-project-repo--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/organize-build-infrastructure-for-a-multi-project-repo--baseline--run0",
-      "mtime": 1784830140502,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "organize-build-infrastructure-for-a-multi-project-repo",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / organize-build-infrastructure-for-a-multi-project-repo (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/organize-build-infrastructure-for-a-multi-project-repo--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/organize-build-infrastructure-for-a-multi-project-repo--isolated--run0",
-      "mtime": 1784830140503,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "organize-build-infrastructure-for-a-multi-project-repo",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / organize-build-infrastructure-for-a-multi-project-repo (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/organize-build-infrastructure-for-a-multi-project-repo--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/organize-build-infrastructure-for-a-multi-project-repo--plugin--run0",
-      "mtime": 1784830140503,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "organize-build-infrastructure-for-a-multi-project-repo",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / organize-build-infrastructure-for-a-multi-project-repo (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/recommend-msbuild-server-for-slow-cli-incremental-builds--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/recommend-msbuild-server-for-slow-cli-incremental-builds--baseline--run0",
-      "mtime": 1784830140504,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "recommend-msbuild-server-for-slow-cli-incremental-builds",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / recommend-msbuild-server-for-slow-cli-incremental-builds (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/recommend-msbuild-server-for-slow-cli-incremental-builds--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/recommend-msbuild-server-for-slow-cli-incremental-builds--isolated--run0",
-      "mtime": 1784830140504,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "recommend-msbuild-server-for-slow-cli-incremental-builds",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / recommend-msbuild-server-for-slow-cli-incremental-builds (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/recommend-msbuild-server-for-slow-cli-incremental-builds--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/recommend-msbuild-server-for-slow-cli-incremental-builds--plugin--run0",
-      "mtime": 1784830140504,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "recommend-msbuild-server-for-slow-cli-incremental-builds",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / recommend-msbuild-server-for-slow-cli-incremental-builds (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/review-msbuild-files-for-anti-patterns-and-style-issues--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/review-msbuild-files-for-anti-patterns-and-style-issues--baseline--run0",
-      "mtime": 1784830140504,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "baseline",
-        "review-msbuild-files-for-anti-patterns-and-style-issues",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / review-msbuild-files-for-anti-patterns-and-style-issues (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/review-msbuild-files-for-anti-patterns-and-style-issues--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/review-msbuild-files-for-anti-patterns-and-style-issues--isolated--run0",
-      "mtime": 1784830140505,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "isolated",
-        "review-msbuild-files-for-anti-patterns-and-style-issues",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / review-msbuild-files-for-anti-patterns-and-style-issues (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-msbuild/review-msbuild-files-for-anti-patterns-and-style-issues--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-msbuild/review-msbuild-files-for-anti-patterns-and-style-issues--plugin--run0",
-      "mtime": 1784830140505,
-      "tags": [
-        "pr",
-        "dotnet-msbuild",
-        "plugin",
-        "review-msbuild-files-for-anti-patterns-and-style-issues",
-        "pr-876"
-      ],
-      "name": "dotnet-msbuild / review-msbuild-files-for-anti-patterns-and-style-issues (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-advanced/avoid-activating-for-language-agnostic-calendar-script--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-advanced/avoid-activating-for-language-agnostic-calendar-script--baseline--run0",
-      "mtime": 1784830140465,
-      "tags": [
-        "pr",
-        "dotnet-advanced",
-        "baseline",
-        "avoid-activating-for-language-agnostic-calendar-script",
-        "pr-876"
-      ],
-      "name": "dotnet-advanced / avoid-activating-for-language-agnostic-calendar-script (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-advanced/avoid-activating-for-language-agnostic-calendar-script--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-advanced/avoid-activating-for-language-agnostic-calendar-script--isolated--run0",
-      "mtime": 1784830140466,
-      "tags": [
-        "pr",
-        "dotnet-advanced",
-        "isolated",
-        "avoid-activating-for-language-agnostic-calendar-script",
-        "pr-876"
-      ],
-      "name": "dotnet-advanced / avoid-activating-for-language-agnostic-calendar-script (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-advanced/avoid-activating-for-language-agnostic-calendar-script--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-advanced/avoid-activating-for-language-agnostic-calendar-script--plugin--run0",
-      "mtime": 1784830140466,
-      "tags": [
-        "pr",
-        "dotnet-advanced",
-        "plugin",
-        "avoid-activating-for-language-agnostic-calendar-script",
-        "pr-876"
-      ],
-      "name": "dotnet-advanced / avoid-activating-for-language-agnostic-calendar-script (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-advanced/compose-a-file-based-app-from-helper-files--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-advanced/compose-a-file-based-app-from-helper-files--baseline--run0",
-      "mtime": 1784830140466,
-      "tags": [
-        "pr",
-        "dotnet-advanced",
-        "baseline",
-        "compose-a-file-based-app-from-helper-files",
-        "pr-876"
-      ],
-      "name": "dotnet-advanced / compose-a-file-based-app-from-helper-files (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-advanced/compose-a-file-based-app-from-helper-files--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-advanced/compose-a-file-based-app-from-helper-files--isolated--run0",
-      "mtime": 1784830140466,
-      "tags": [
-        "pr",
-        "dotnet-advanced",
-        "isolated",
-        "compose-a-file-based-app-from-helper-files",
-        "pr-876"
-      ],
-      "name": "dotnet-advanced / compose-a-file-based-app-from-helper-files (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-advanced/compose-a-file-based-app-from-helper-files--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-advanced/compose-a-file-based-app-from-helper-files--plugin--run0",
-      "mtime": 1784830140467,
-      "tags": [
-        "pr",
-        "dotnet-advanced",
-        "plugin",
-        "compose-a-file-based-app-from-helper-files",
-        "pr-876"
-      ],
-      "name": "dotnet-advanced / compose-a-file-based-app-from-helper-files (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-advanced/generate-libraryimport-declaration-from-c-header---net-8----baseline--run0.jsonl",
-      "id": "pr/876/dotnet-advanced/generate-libraryimport-declaration-from-c-header---net-8----baseline--run0",
-      "mtime": 1784830140467,
-      "tags": [
-        "pr",
-        "dotnet-advanced",
-        "baseline",
-        "generate-libraryimport-declaration-from-c-header---net-8--",
-        "pr-876"
-      ],
-      "name": "dotnet-advanced / generate-libraryimport-declaration-from-c-header---net-8-- (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-advanced/generate-libraryimport-declaration-from-c-header---net-8----isolated--run0.jsonl",
-      "id": "pr/876/dotnet-advanced/generate-libraryimport-declaration-from-c-header---net-8----isolated--run0",
-      "mtime": 1784830140468,
-      "tags": [
-        "pr",
-        "dotnet-advanced",
-        "isolated",
-        "generate-libraryimport-declaration-from-c-header---net-8--",
-        "pr-876"
-      ],
-      "name": "dotnet-advanced / generate-libraryimport-declaration-from-c-header---net-8-- (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-advanced/generate-libraryimport-declaration-from-c-header---net-8----plugin--run0.jsonl",
-      "id": "pr/876/dotnet-advanced/generate-libraryimport-declaration-from-c-header---net-8----plugin--run0",
-      "mtime": 1784830140468,
-      "tags": [
-        "pr",
-        "dotnet-advanced",
-        "plugin",
-        "generate-libraryimport-declaration-from-c-header---net-8--",
-        "pr-876"
-      ],
-      "name": "dotnet-advanced / generate-libraryimport-declaration-from-c-header---net-8-- (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-advanced/generate-libraryimport-declaration-from-c-header---net-framework---baseline--run0.jsonl",
-      "id": "pr/876/dotnet-advanced/generate-libraryimport-declaration-from-c-header---net-framework---baseline--run0",
-      "mtime": 1784830140468,
-      "tags": [
-        "pr",
-        "dotnet-advanced",
-        "-baseline",
-        "generate-libraryimport-declaration-from-c-header---net-framework",
-        "pr-876"
-      ],
-      "name": "dotnet-advanced / generate-libraryimport-declaration-from-c-header---net-framework (-baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-advanced/generate-libraryimport-declaration-from-c-header---net-framework---isolated--run0.jsonl",
-      "id": "pr/876/dotnet-advanced/generate-libraryimport-declaration-from-c-header---net-framework---isolated--run0",
-      "mtime": 1784830140468,
-      "tags": [
-        "pr",
-        "dotnet-advanced",
-        "-isolated",
-        "generate-libraryimport-declaration-from-c-header---net-framework",
-        "pr-876"
-      ],
-      "name": "dotnet-advanced / generate-libraryimport-declaration-from-c-header---net-framework (-isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-advanced/generate-libraryimport-declaration-from-c-header---net-framework---plugin--run0.jsonl",
-      "id": "pr/876/dotnet-advanced/generate-libraryimport-declaration-from-c-header---net-framework---plugin--run0",
-      "mtime": 1784830140468,
-      "tags": [
-        "pr",
-        "dotnet-advanced",
-        "-plugin",
-        "generate-libraryimport-declaration-from-c-header---net-framework",
-        "pr-876"
-      ],
-      "name": "dotnet-advanced / generate-libraryimport-declaration-from-c-header---net-framework (-plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-advanced/migrate-existing-workflow-from-api-key-to-trusted-publishing--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-advanced/migrate-existing-workflow-from-api-key-to-trusted-publishing--baseline--run0",
-      "mtime": 1784830140468,
-      "tags": [
-        "pr",
-        "dotnet-advanced",
-        "baseline",
-        "migrate-existing-workflow-from-api-key-to-trusted-publishing",
-        "pr-876"
-      ],
-      "name": "dotnet-advanced / migrate-existing-workflow-from-api-key-to-trusted-publishing (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-advanced/migrate-existing-workflow-from-api-key-to-trusted-publishing--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-advanced/migrate-existing-workflow-from-api-key-to-trusted-publishing--isolated--run0",
-      "mtime": 1784830140469,
-      "tags": [
-        "pr",
-        "dotnet-advanced",
-        "isolated",
-        "migrate-existing-workflow-from-api-key-to-trusted-publishing",
-        "pr-876"
-      ],
-      "name": "dotnet-advanced / migrate-existing-workflow-from-api-key-to-trusted-publishing (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-advanced/migrate-existing-workflow-from-api-key-to-trusted-publishing--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-advanced/migrate-existing-workflow-from-api-key-to-trusted-publishing--plugin--run0",
-      "mtime": 1784830140469,
-      "tags": [
-        "pr",
-        "dotnet-advanced",
-        "plugin",
-        "migrate-existing-workflow-from-api-key-to-trusted-publishing",
-        "pr-876"
-      ],
-      "name": "dotnet-advanced / migrate-existing-workflow-from-api-key-to-trusted-publishing (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-advanced/set-up-nuget-publishing-without-mentioning-trusted-publishing--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-advanced/set-up-nuget-publishing-without-mentioning-trusted-publishing--baseline--run0",
-      "mtime": 1784830140469,
-      "tags": [
-        "pr",
-        "dotnet-advanced",
-        "baseline",
-        "set-up-nuget-publishing-without-mentioning-trusted-publishing",
-        "pr-876"
-      ],
-      "name": "dotnet-advanced / set-up-nuget-publishing-without-mentioning-trusted-publishing (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-advanced/set-up-nuget-publishing-without-mentioning-trusted-publishing--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-advanced/set-up-nuget-publishing-without-mentioning-trusted-publishing--isolated--run0",
-      "mtime": 1784830140470,
-      "tags": [
-        "pr",
-        "dotnet-advanced",
-        "isolated",
-        "set-up-nuget-publishing-without-mentioning-trusted-publishing",
-        "pr-876"
-      ],
-      "name": "dotnet-advanced / set-up-nuget-publishing-without-mentioning-trusted-publishing (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-advanced/set-up-nuget-publishing-without-mentioning-trusted-publishing--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-advanced/set-up-nuget-publishing-without-mentioning-trusted-publishing--plugin--run0",
-      "mtime": 1784830140470,
-      "tags": [
-        "pr",
-        "dotnet-advanced",
-        "plugin",
-        "set-up-nuget-publishing-without-mentioning-trusted-publishing",
-        "pr-876"
-      ],
-      "name": "dotnet-advanced / set-up-nuget-publishing-without-mentioning-trusted-publishing (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-advanced/set-up-trusted-publishing-for-a-new-nuget-library--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-advanced/set-up-trusted-publishing-for-a-new-nuget-library--baseline--run0",
-      "mtime": 1784830140470,
-      "tags": [
-        "pr",
-        "dotnet-advanced",
-        "baseline",
-        "set-up-trusted-publishing-for-a-new-nuget-library",
-        "pr-876"
-      ],
-      "name": "dotnet-advanced / set-up-trusted-publishing-for-a-new-nuget-library (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-advanced/set-up-trusted-publishing-for-a-new-nuget-library--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-advanced/set-up-trusted-publishing-for-a-new-nuget-library--isolated--run0",
-      "mtime": 1784830140471,
-      "tags": [
-        "pr",
-        "dotnet-advanced",
-        "isolated",
-        "set-up-trusted-publishing-for-a-new-nuget-library",
-        "pr-876"
-      ],
-      "name": "dotnet-advanced / set-up-trusted-publishing-for-a-new-nuget-library (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-advanced/set-up-trusted-publishing-for-a-new-nuget-library--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-advanced/set-up-trusted-publishing-for-a-new-nuget-library--plugin--run0",
-      "mtime": 1784830140472,
-      "tags": [
-        "pr",
-        "dotnet-advanced",
-        "plugin",
-        "set-up-trusted-publishing-for-a-new-nuget-library",
-        "pr-876"
-      ],
-      "name": "dotnet-advanced / set-up-trusted-publishing-for-a-new-nuget-library (plugin)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-advanced/test-a-c--language-feature-with-a-file-based-app--baseline--run0.jsonl",
-      "id": "pr/876/dotnet-advanced/test-a-c--language-feature-with-a-file-based-app--baseline--run0",
-      "mtime": 1784830140472,
-      "tags": [
-        "pr",
-        "dotnet-advanced",
-        "baseline",
-        "test-a-c--language-feature-with-a-file-based-app",
-        "pr-876"
-      ],
-      "name": "dotnet-advanced / test-a-c--language-feature-with-a-file-based-app (baseline)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-advanced/test-a-c--language-feature-with-a-file-based-app--isolated--run0.jsonl",
-      "id": "pr/876/dotnet-advanced/test-a-c--language-feature-with-a-file-based-app--isolated--run0",
-      "mtime": 1784830140472,
-      "tags": [
-        "pr",
-        "dotnet-advanced",
-        "isolated",
-        "test-a-c--language-feature-with-a-file-based-app",
-        "pr-876"
-      ],
-      "name": "dotnet-advanced / test-a-c--language-feature-with-a-file-based-app (isolated)"
-    },
-    {
-      "url": "sessions/pr/876/dotnet-advanced/test-a-c--language-feature-with-a-file-based-app--plugin--run0.jsonl",
-      "id": "pr/876/dotnet-advanced/test-a-c--language-feature-with-a-file-based-app--plugin--run0",
-      "mtime": 1784830140472,
-      "tags": [
-        "pr",
-        "dotnet-advanced",
-        "plugin",
-        "test-a-c--language-feature-with-a-file-based-app",
-        "pr-876"
-      ],
-      "name": "dotnet-advanced / test-a-c--language-feature-with-a-file-based-app (plugin)"
-    },
     {
       "tags": [
         "pr",
@@ -291902,6 +290381,1527 @@
       ],
       "mtime": 1785429858504,
       "url": "sessions/pr/876/dotnet-template-engine/validate-template-with-multiple-errors--plugin--run0.jsonl"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/add-a-module-to-an-f--project--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/add-a-module-to-an-f--project--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "add-a-module-to-an-f--project",
+        "pr-876"
+      ],
+      "mtime": 1785439318158,
+      "name": "dotnet-msbuild / add-a-module-to-an-f--project (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/add-a-module-to-an-f--project--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/add-a-module-to-an-f--project--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "add-a-module-to-an-f--project",
+        "pr-876"
+      ],
+      "mtime": 1785439318160,
+      "name": "dotnet-msbuild / add-a-module-to-an-f--project (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/add-a-module-to-an-f--project--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/add-a-module-to-an-f--project--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "add-a-module-to-an-f--project",
+        "pr-876"
+      ],
+      "mtime": 1785439318160,
+      "name": "dotnet-msbuild / add-a-module-to-an-f--project (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/add-a-signature-file-to-define-public-api--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/add-a-signature-file-to-define-public-api--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "add-a-signature-file-to-define-public-api",
+        "pr-876"
+      ],
+      "mtime": 1785439318160,
+      "name": "dotnet-msbuild / add-a-signature-file-to-define-public-api (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/add-a-signature-file-to-define-public-api--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/add-a-signature-file-to-define-public-api--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "add-a-signature-file-to-define-public-api",
+        "pr-876"
+      ],
+      "mtime": 1785439318160,
+      "name": "dotnet-msbuild / add-a-signature-file-to-define-public-api (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/add-a-signature-file-to-define-public-api--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/add-a-signature-file-to-define-public-api--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "add-a-signature-file-to-define-public-api",
+        "pr-876"
+      ],
+      "mtime": 1785439318160,
+      "name": "dotnet-msbuild / add-a-signature-file-to-define-public-api (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/analyze-build-parallelism-bottlenecks--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/analyze-build-parallelism-bottlenecks--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "analyze-build-parallelism-bottlenecks",
+        "pr-876"
+      ],
+      "mtime": 1785439318160,
+      "name": "dotnet-msbuild / analyze-build-parallelism-bottlenecks (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/analyze-build-parallelism-bottlenecks--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/analyze-build-parallelism-bottlenecks--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "analyze-build-parallelism-bottlenecks",
+        "pr-876"
+      ],
+      "mtime": 1785439318161,
+      "name": "dotnet-msbuild / analyze-build-parallelism-bottlenecks (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/analyze-build-parallelism-bottlenecks--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/analyze-build-parallelism-bottlenecks--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "analyze-build-parallelism-bottlenecks",
+        "pr-876"
+      ],
+      "mtime": 1785439318173,
+      "name": "dotnet-msbuild / analyze-build-parallelism-bottlenecks (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/analyze-incremental-build-issues--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/analyze-incremental-build-issues--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "analyze-incremental-build-issues",
+        "pr-876"
+      ],
+      "mtime": 1785439318173,
+      "name": "dotnet-msbuild / analyze-incremental-build-issues (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/analyze-incremental-build-issues--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/analyze-incremental-build-issues--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "analyze-incremental-build-issues",
+        "pr-876"
+      ],
+      "mtime": 1785439318173,
+      "name": "dotnet-msbuild / analyze-incremental-build-issues (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/analyze-incremental-build-issues--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/analyze-incremental-build-issues--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "analyze-incremental-build-issues",
+        "pr-876"
+      ],
+      "mtime": 1785439318173,
+      "name": "dotnet-msbuild / analyze-incremental-build-issues (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/analyze-msbuild-evaluation-performance-issues--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/analyze-msbuild-evaluation-performance-issues--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "analyze-msbuild-evaluation-performance-issues",
+        "pr-876"
+      ],
+      "mtime": 1785439318174,
+      "name": "dotnet-msbuild / analyze-msbuild-evaluation-performance-issues (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/analyze-msbuild-evaluation-performance-issues--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/analyze-msbuild-evaluation-performance-issues--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "analyze-msbuild-evaluation-performance-issues",
+        "pr-876"
+      ],
+      "mtime": 1785439318174,
+      "name": "dotnet-msbuild / analyze-msbuild-evaluation-performance-issues (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/analyze-msbuild-evaluation-performance-issues--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/analyze-msbuild-evaluation-performance-issues--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "analyze-msbuild-evaluation-performance-issues",
+        "pr-876"
+      ],
+      "mtime": 1785439318174,
+      "name": "dotnet-msbuild / analyze-msbuild-evaluation-performance-issues (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/build-multiple-configurations-with-unique-binlogs--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/build-multiple-configurations-with-unique-binlogs--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "build-multiple-configurations-with-unique-binlogs",
+        "pr-876"
+      ],
+      "mtime": 1785439318175,
+      "name": "dotnet-msbuild / build-multiple-configurations-with-unique-binlogs (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/build-multiple-configurations-with-unique-binlogs--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/build-multiple-configurations-with-unique-binlogs--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "build-multiple-configurations-with-unique-binlogs",
+        "pr-876"
+      ],
+      "mtime": 1785439318175,
+      "name": "dotnet-msbuild / build-multiple-configurations-with-unique-binlogs (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/build-multiple-configurations-with-unique-binlogs--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/build-multiple-configurations-with-unique-binlogs--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "build-multiple-configurations-with-unique-binlogs",
+        "pr-876"
+      ],
+      "mtime": 1785439318175,
+      "name": "dotnet-msbuild / build-multiple-configurations-with-unique-binlogs (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/build-project-with--bl-flag--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/build-project-with--bl-flag--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "build-project-with--bl-flag",
+        "pr-876"
+      ],
+      "mtime": 1785439318175,
+      "name": "dotnet-msbuild / build-project-with--bl-flag (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/build-project-with--bl-flag--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/build-project-with--bl-flag--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "build-project-with--bl-flag",
+        "pr-876"
+      ],
+      "mtime": 1785439318176,
+      "name": "dotnet-msbuild / build-project-with--bl-flag (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/build-project-with--bl-flag--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/build-project-with--bl-flag--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "build-project-with--bl-flag",
+        "pr-876"
+      ],
+      "mtime": 1785439318176,
+      "name": "dotnet-msbuild / build-project-with--bl-flag (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/build-with--bl-in-powershell--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/build-with--bl-in-powershell--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "build-with--bl-in-powershell",
+        "pr-876"
+      ],
+      "mtime": 1785439318176,
+      "name": "dotnet-msbuild / build-with--bl-in-powershell (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/build-with--bl-in-powershell--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/build-with--bl-in-powershell--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "build-with--bl-in-powershell",
+        "pr-876"
+      ],
+      "mtime": 1785439318176,
+      "name": "dotnet-msbuild / build-with--bl-in-powershell (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/build-with--bl-in-powershell--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/build-with--bl-in-powershell--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "build-with--bl-in-powershell",
+        "pr-876"
+      ],
+      "mtime": 1785439318176,
+      "name": "dotnet-msbuild / build-with--bl-in-powershell (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-bin-obj-output-path-clashes--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-bin-obj-output-path-clashes--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "diagnose-bin-obj-output-path-clashes",
+        "pr-876"
+      ],
+      "mtime": 1785439318176,
+      "name": "dotnet-msbuild / diagnose-bin-obj-output-path-clashes (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-bin-obj-output-path-clashes--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-bin-obj-output-path-clashes--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "diagnose-bin-obj-output-path-clashes",
+        "pr-876"
+      ],
+      "mtime": 1785439318177,
+      "name": "dotnet-msbuild / diagnose-bin-obj-output-path-clashes (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-bin-obj-output-path-clashes--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-bin-obj-output-path-clashes--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "diagnose-bin-obj-output-path-clashes",
+        "pr-876"
+      ],
+      "mtime": 1785439318177,
+      "name": "dotnet-msbuild / diagnose-bin-obj-output-path-clashes (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-broken-sdk-target-chain-across-files--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-broken-sdk-target-chain-across-files--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "diagnose-broken-sdk-target-chain-across-files",
+        "pr-876"
+      ],
+      "mtime": 1785439318178,
+      "name": "dotnet-msbuild / diagnose-broken-sdk-target-chain-across-files (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-broken-sdk-target-chain-across-files--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-broken-sdk-target-chain-across-files--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "diagnose-broken-sdk-target-chain-across-files",
+        "pr-876"
+      ],
+      "mtime": 1785439318178,
+      "name": "dotnet-msbuild / diagnose-broken-sdk-target-chain-across-files (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-broken-sdk-target-chain-across-files--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-broken-sdk-target-chain-across-files--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "diagnose-broken-sdk-target-chain-across-files",
+        "pr-876"
+      ],
+      "mtime": 1785439318179,
+      "name": "dotnet-msbuild / diagnose-broken-sdk-target-chain-across-files (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-build-extension-point-failures--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-build-extension-point-failures--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "diagnose-build-extension-point-failures",
+        "pr-876"
+      ],
+      "mtime": 1785439318179,
+      "name": "dotnet-msbuild / diagnose-build-extension-point-failures (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-build-extension-point-failures--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-build-extension-point-failures--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "diagnose-build-extension-point-failures",
+        "pr-876"
+      ],
+      "mtime": 1785439318179,
+      "name": "dotnet-msbuild / diagnose-build-extension-point-failures (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-build-extension-point-failures--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-build-extension-point-failures--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "diagnose-build-extension-point-failures",
+        "pr-876"
+      ],
+      "mtime": 1785439318180,
+      "name": "dotnet-msbuild / diagnose-build-extension-point-failures (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-build-failures-from-binlog-only--no-source-files---baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-build-failures-from-binlog-only--no-source-files---baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "-baseline",
+        "diagnose-build-failures-from-binlog-only--no-source-files",
+        "pr-876"
+      ],
+      "mtime": 1785439318181,
+      "name": "dotnet-msbuild / diagnose-build-failures-from-binlog-only--no-source-files (-baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-build-failures-from-binlog-only--no-source-files---isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-build-failures-from-binlog-only--no-source-files---isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "-isolated",
+        "diagnose-build-failures-from-binlog-only--no-source-files",
+        "pr-876"
+      ],
+      "mtime": 1785439318181,
+      "name": "dotnet-msbuild / diagnose-build-failures-from-binlog-only--no-source-files (-isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-build-failures-from-binlog-only--no-source-files---plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-build-failures-from-binlog-only--no-source-files---plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "-plugin",
+        "diagnose-build-failures-from-binlog-only--no-source-files",
+        "pr-876"
+      ],
+      "mtime": 1785439318181,
+      "name": "dotnet-msbuild / diagnose-build-failures-from-binlog-only--no-source-files (-plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline",
+        "pr-876"
+      ],
+      "mtime": 1785439318182,
+      "name": "dotnet-msbuild / diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline",
+        "pr-876"
+      ],
+      "mtime": 1785439318182,
+      "name": "dotnet-msbuild / diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline",
+        "pr-876"
+      ],
+      "mtime": 1785439318182,
+      "name": "dotnet-msbuild / diagnose-cascading-item-and-batching-bugs-in-code-generation-pipeline (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-custom-target-build-regression--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-custom-target-build-regression--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "diagnose-custom-target-build-regression",
+        "pr-876"
+      ],
+      "mtime": 1785439318182,
+      "name": "dotnet-msbuild / diagnose-custom-target-build-regression (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-custom-target-build-regression--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-custom-target-build-regression--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "diagnose-custom-target-build-regression",
+        "pr-876"
+      ],
+      "mtime": 1785439318183,
+      "name": "dotnet-msbuild / diagnose-custom-target-build-regression (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-custom-target-build-regression--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-custom-target-build-regression--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "diagnose-custom-target-build-regression",
+        "pr-876"
+      ],
+      "mtime": 1785439318183,
+      "name": "dotnet-msbuild / diagnose-custom-target-build-regression (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-generated-file-inclusion-failure--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-generated-file-inclusion-failure--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "diagnose-generated-file-inclusion-failure",
+        "pr-876"
+      ],
+      "mtime": 1785439318183,
+      "name": "dotnet-msbuild / diagnose-generated-file-inclusion-failure (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-generated-file-inclusion-failure--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-generated-file-inclusion-failure--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "diagnose-generated-file-inclusion-failure",
+        "pr-876"
+      ],
+      "mtime": 1785439318195,
+      "name": "dotnet-msbuild / diagnose-generated-file-inclusion-failure (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-generated-file-inclusion-failure--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-generated-file-inclusion-failure--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "diagnose-generated-file-inclusion-failure",
+        "pr-876"
+      ],
+      "mtime": 1785439318195,
+      "name": "dotnet-msbuild / diagnose-generated-file-inclusion-failure (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-item-group-and-batching-issues--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-item-group-and-batching-issues--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "diagnose-item-group-and-batching-issues",
+        "pr-876"
+      ],
+      "mtime": 1785439318195,
+      "name": "dotnet-msbuild / diagnose-item-group-and-batching-issues (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-item-group-and-batching-issues--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-item-group-and-batching-issues--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "diagnose-item-group-and-batching-issues",
+        "pr-876"
+      ],
+      "mtime": 1785439318195,
+      "name": "dotnet-msbuild / diagnose-item-group-and-batching-issues (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-item-group-and-batching-issues--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-item-group-and-batching-issues--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "diagnose-item-group-and-batching-issues",
+        "pr-876"
+      ],
+      "mtime": 1785439318195,
+      "name": "dotnet-msbuild / diagnose-item-group-and-batching-issues (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-multi-level-property-hierarchy-bugs--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-multi-level-property-hierarchy-bugs--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "diagnose-multi-level-property-hierarchy-bugs",
+        "pr-876"
+      ],
+      "mtime": 1785439318196,
+      "name": "dotnet-msbuild / diagnose-multi-level-property-hierarchy-bugs (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-multi-level-property-hierarchy-bugs--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-multi-level-property-hierarchy-bugs--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "diagnose-multi-level-property-hierarchy-bugs",
+        "pr-876"
+      ],
+      "mtime": 1785439318197,
+      "name": "dotnet-msbuild / diagnose-multi-level-property-hierarchy-bugs (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-multi-level-property-hierarchy-bugs--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-multi-level-property-hierarchy-bugs--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "diagnose-multi-level-property-hierarchy-bugs",
+        "pr-876"
+      ],
+      "mtime": 1785439318197,
+      "name": "dotnet-msbuild / diagnose-multi-level-property-hierarchy-bugs (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-nuget-package-and-repo-extension-conflicts--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-nuget-package-and-repo-extension-conflicts--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "diagnose-nuget-package-and-repo-extension-conflicts",
+        "pr-876"
+      ],
+      "mtime": 1785439318198,
+      "name": "dotnet-msbuild / diagnose-nuget-package-and-repo-extension-conflicts (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-nuget-package-and-repo-extension-conflicts--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-nuget-package-and-repo-extension-conflicts--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "diagnose-nuget-package-and-repo-extension-conflicts",
+        "pr-876"
+      ],
+      "mtime": 1785439318198,
+      "name": "dotnet-msbuild / diagnose-nuget-package-and-repo-extension-conflicts (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-nuget-package-and-repo-extension-conflicts--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-nuget-package-and-repo-extension-conflicts--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "diagnose-nuget-package-and-repo-extension-conflicts",
+        "pr-876"
+      ],
+      "mtime": 1785439318198,
+      "name": "dotnet-msbuild / diagnose-nuget-package-and-repo-extension-conflicts (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-shared-build-property-issues--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-shared-build-property-issues--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "diagnose-shared-build-property-issues",
+        "pr-876"
+      ],
+      "mtime": 1785439318198,
+      "name": "dotnet-msbuild / diagnose-shared-build-property-issues (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-shared-build-property-issues--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-shared-build-property-issues--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "diagnose-shared-build-property-issues",
+        "pr-876"
+      ],
+      "mtime": 1785439318198,
+      "name": "dotnet-msbuild / diagnose-shared-build-property-issues (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-shared-build-property-issues--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-shared-build-property-issues--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "diagnose-shared-build-property-issues",
+        "pr-876"
+      ],
+      "mtime": 1785439318199,
+      "name": "dotnet-msbuild / diagnose-shared-build-property-issues (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-slow-build-for-a-small-project--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-slow-build-for-a-small-project--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "diagnose-slow-build-for-a-small-project",
+        "pr-876"
+      ],
+      "mtime": 1785439318199,
+      "name": "dotnet-msbuild / diagnose-slow-build-for-a-small-project (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-slow-build-for-a-small-project--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-slow-build-for-a-small-project--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "diagnose-slow-build-for-a-small-project",
+        "pr-876"
+      ],
+      "mtime": 1785439318199,
+      "name": "dotnet-msbuild / diagnose-slow-build-for-a-small-project (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/diagnose-slow-build-for-a-small-project--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/diagnose-slow-build-for-a-small-project--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "diagnose-slow-build-for-a-small-project",
+        "pr-876"
+      ],
+      "mtime": 1785439318200,
+      "name": "dotnet-msbuild / diagnose-slow-build-for-a-small-project (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/establish-build-performance-baseline-and-recommend-optimizations--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/establish-build-performance-baseline-and-recommend-optimizations--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "establish-build-performance-baseline-and-recommend-optimizations",
+        "pr-876"
+      ],
+      "mtime": 1785439318200,
+      "name": "dotnet-msbuild / establish-build-performance-baseline-and-recommend-optimizations (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/establish-build-performance-baseline-and-recommend-optimizations--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/establish-build-performance-baseline-and-recommend-optimizations--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "establish-build-performance-baseline-and-recommend-optimizations",
+        "pr-876"
+      ],
+      "mtime": 1785439318201,
+      "name": "dotnet-msbuild / establish-build-performance-baseline-and-recommend-optimizations (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/establish-build-performance-baseline-and-recommend-optimizations--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/establish-build-performance-baseline-and-recommend-optimizations--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "establish-build-performance-baseline-and-recommend-optimizations",
+        "pr-876"
+      ],
+      "mtime": 1785439318201,
+      "name": "dotnet-msbuild / establish-build-performance-baseline-and-recommend-optimizations (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/explain-misleading-resolveprojectreferences-time--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/explain-misleading-resolveprojectreferences-time--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "explain-misleading-resolveprojectreferences-time",
+        "pr-876"
+      ],
+      "mtime": 1785439318201,
+      "name": "dotnet-msbuild / explain-misleading-resolveprojectreferences-time (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/explain-misleading-resolveprojectreferences-time--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/explain-misleading-resolveprojectreferences-time--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "explain-misleading-resolveprojectreferences-time",
+        "pr-876"
+      ],
+      "mtime": 1785439318202,
+      "name": "dotnet-msbuild / explain-misleading-resolveprojectreferences-time (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/explain-misleading-resolveprojectreferences-time--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/explain-misleading-resolveprojectreferences-time--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "explain-misleading-resolveprojectreferences-time",
+        "pr-876"
+      ],
+      "mtime": 1785439318202,
+      "name": "dotnet-msbuild / explain-misleading-resolveprojectreferences-time (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/fix-broken-file-order-causing-fs0039--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/fix-broken-file-order-causing-fs0039--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "fix-broken-file-order-causing-fs0039",
+        "pr-876"
+      ],
+      "mtime": 1785439318202,
+      "name": "dotnet-msbuild / fix-broken-file-order-causing-fs0039 (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/fix-broken-file-order-causing-fs0039--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/fix-broken-file-order-causing-fs0039--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "fix-broken-file-order-causing-fs0039",
+        "pr-876"
+      ],
+      "mtime": 1785439318202,
+      "name": "dotnet-msbuild / fix-broken-file-order-causing-fs0039 (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/fix-broken-file-order-causing-fs0039--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/fix-broken-file-order-causing-fs0039--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "fix-broken-file-order-causing-fs0039",
+        "pr-876"
+      ],
+      "mtime": 1785439318202,
+      "name": "dotnet-msbuild / fix-broken-file-order-causing-fs0039 (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/fix-custom-target-anti-patterns--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/fix-custom-target-anti-patterns--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "fix-custom-target-anti-patterns",
+        "pr-876"
+      ],
+      "mtime": 1785439318202,
+      "name": "dotnet-msbuild / fix-custom-target-anti-patterns (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/fix-custom-target-anti-patterns--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/fix-custom-target-anti-patterns--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "fix-custom-target-anti-patterns",
+        "pr-876"
+      ],
+      "mtime": 1785439318217,
+      "name": "dotnet-msbuild / fix-custom-target-anti-patterns (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/fix-custom-target-anti-patterns--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/fix-custom-target-anti-patterns--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "fix-custom-target-anti-patterns",
+        "pr-876"
+      ],
+      "mtime": 1785439318217,
+      "name": "dotnet-msbuild / fix-custom-target-anti-patterns (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/fix-extension-point-anti-patterns--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/fix-extension-point-anti-patterns--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "fix-extension-point-anti-patterns",
+        "pr-876"
+      ],
+      "mtime": 1785439318217,
+      "name": "dotnet-msbuild / fix-extension-point-anti-patterns (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/fix-extension-point-anti-patterns--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/fix-extension-point-anti-patterns--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "fix-extension-point-anti-patterns",
+        "pr-876"
+      ],
+      "mtime": 1785439318217,
+      "name": "dotnet-msbuild / fix-extension-point-anti-patterns (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/fix-extension-point-anti-patterns--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/fix-extension-point-anti-patterns--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "fix-extension-point-anti-patterns",
+        "pr-876"
+      ],
+      "mtime": 1785439318218,
+      "name": "dotnet-msbuild / fix-extension-point-anti-patterns (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/fix-item-management-anti-patterns--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/fix-item-management-anti-patterns--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "fix-item-management-anti-patterns",
+        "pr-876"
+      ],
+      "mtime": 1785439318218,
+      "name": "dotnet-msbuild / fix-item-management-anti-patterns (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/fix-item-management-anti-patterns--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/fix-item-management-anti-patterns--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "fix-item-management-anti-patterns",
+        "pr-876"
+      ],
+      "mtime": 1785439318219,
+      "name": "dotnet-msbuild / fix-item-management-anti-patterns (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/fix-item-management-anti-patterns--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/fix-item-management-anti-patterns--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "fix-item-management-anti-patterns",
+        "pr-876"
+      ],
+      "mtime": 1785439318219,
+      "name": "dotnet-msbuild / fix-item-management-anti-patterns (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/fix-shared-property-configuration--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/fix-shared-property-configuration--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "fix-shared-property-configuration",
+        "pr-876"
+      ],
+      "mtime": 1785439318220,
+      "name": "dotnet-msbuild / fix-shared-property-configuration (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/fix-shared-property-configuration--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/fix-shared-property-configuration--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "fix-shared-property-configuration",
+        "pr-876"
+      ],
+      "mtime": 1785439318220,
+      "name": "dotnet-msbuild / fix-shared-property-configuration (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/fix-shared-property-configuration--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/fix-shared-property-configuration--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "fix-shared-property-configuration",
+        "pr-876"
+      ],
+      "mtime": 1785439318221,
+      "name": "dotnet-msbuild / fix-shared-property-configuration (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/modernize-legacy-project-to-sdk-style--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/modernize-legacy-project-to-sdk-style--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "modernize-legacy-project-to-sdk-style",
+        "pr-876"
+      ],
+      "mtime": 1785439318221,
+      "name": "dotnet-msbuild / modernize-legacy-project-to-sdk-style (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/modernize-legacy-project-to-sdk-style--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/modernize-legacy-project-to-sdk-style--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "modernize-legacy-project-to-sdk-style",
+        "pr-876"
+      ],
+      "mtime": 1785439318221,
+      "name": "dotnet-msbuild / modernize-legacy-project-to-sdk-style (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/modernize-legacy-project-to-sdk-style--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/modernize-legacy-project-to-sdk-style--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "modernize-legacy-project-to-sdk-style",
+        "pr-876"
+      ],
+      "mtime": 1785439318222,
+      "name": "dotnet-msbuild / modernize-legacy-project-to-sdk-style (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/organize-build-infrastructure-for-a-multi-project-repo--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/organize-build-infrastructure-for-a-multi-project-repo--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "organize-build-infrastructure-for-a-multi-project-repo",
+        "pr-876"
+      ],
+      "mtime": 1785439318222,
+      "name": "dotnet-msbuild / organize-build-infrastructure-for-a-multi-project-repo (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/organize-build-infrastructure-for-a-multi-project-repo--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/organize-build-infrastructure-for-a-multi-project-repo--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "organize-build-infrastructure-for-a-multi-project-repo",
+        "pr-876"
+      ],
+      "mtime": 1785439318223,
+      "name": "dotnet-msbuild / organize-build-infrastructure-for-a-multi-project-repo (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/organize-build-infrastructure-for-a-multi-project-repo--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/organize-build-infrastructure-for-a-multi-project-repo--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "organize-build-infrastructure-for-a-multi-project-repo",
+        "pr-876"
+      ],
+      "mtime": 1785439318223,
+      "name": "dotnet-msbuild / organize-build-infrastructure-for-a-multi-project-repo (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/recommend-msbuild-server-for-slow-cli-incremental-builds--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/recommend-msbuild-server-for-slow-cli-incremental-builds--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "recommend-msbuild-server-for-slow-cli-incremental-builds",
+        "pr-876"
+      ],
+      "mtime": 1785439318223,
+      "name": "dotnet-msbuild / recommend-msbuild-server-for-slow-cli-incremental-builds (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/recommend-msbuild-server-for-slow-cli-incremental-builds--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/recommend-msbuild-server-for-slow-cli-incremental-builds--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "recommend-msbuild-server-for-slow-cli-incremental-builds",
+        "pr-876"
+      ],
+      "mtime": 1785439318223,
+      "name": "dotnet-msbuild / recommend-msbuild-server-for-slow-cli-incremental-builds (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/recommend-msbuild-server-for-slow-cli-incremental-builds--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/recommend-msbuild-server-for-slow-cli-incremental-builds--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "recommend-msbuild-server-for-slow-cli-incremental-builds",
+        "pr-876"
+      ],
+      "mtime": 1785439318224,
+      "name": "dotnet-msbuild / recommend-msbuild-server-for-slow-cli-incremental-builds (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/review-msbuild-files-for-anti-patterns-and-style-issues--baseline--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/review-msbuild-files-for-anti-patterns-and-style-issues--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "baseline",
+        "review-msbuild-files-for-anti-patterns-and-style-issues",
+        "pr-876"
+      ],
+      "mtime": 1785439318224,
+      "name": "dotnet-msbuild / review-msbuild-files-for-anti-patterns-and-style-issues (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/review-msbuild-files-for-anti-patterns-and-style-issues--isolated--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/review-msbuild-files-for-anti-patterns-and-style-issues--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "isolated",
+        "review-msbuild-files-for-anti-patterns-and-style-issues",
+        "pr-876"
+      ],
+      "mtime": 1785439318225,
+      "name": "dotnet-msbuild / review-msbuild-files-for-anti-patterns-and-style-issues (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-msbuild/review-msbuild-files-for-anti-patterns-and-style-issues--plugin--run0",
+      "url": "sessions/pr/876/dotnet-msbuild/review-msbuild-files-for-anti-patterns-and-style-issues--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-msbuild",
+        "plugin",
+        "review-msbuild-files-for-anti-patterns-and-style-issues",
+        "pr-876"
+      ],
+      "mtime": 1785439318225,
+      "name": "dotnet-msbuild / review-msbuild-files-for-anti-patterns-and-style-issues (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-advanced/avoid-activating-for-language-agnostic-calendar-script--baseline--run0",
+      "url": "sessions/pr/876/dotnet-advanced/avoid-activating-for-language-agnostic-calendar-script--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-advanced",
+        "baseline",
+        "avoid-activating-for-language-agnostic-calendar-script",
+        "pr-876"
+      ],
+      "mtime": 1785439318152,
+      "name": "dotnet-advanced / avoid-activating-for-language-agnostic-calendar-script (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-advanced/avoid-activating-for-language-agnostic-calendar-script--isolated--run0",
+      "url": "sessions/pr/876/dotnet-advanced/avoid-activating-for-language-agnostic-calendar-script--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-advanced",
+        "isolated",
+        "avoid-activating-for-language-agnostic-calendar-script",
+        "pr-876"
+      ],
+      "mtime": 1785439318153,
+      "name": "dotnet-advanced / avoid-activating-for-language-agnostic-calendar-script (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-advanced/avoid-activating-for-language-agnostic-calendar-script--plugin--run0",
+      "url": "sessions/pr/876/dotnet-advanced/avoid-activating-for-language-agnostic-calendar-script--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-advanced",
+        "plugin",
+        "avoid-activating-for-language-agnostic-calendar-script",
+        "pr-876"
+      ],
+      "mtime": 1785439318153,
+      "name": "dotnet-advanced / avoid-activating-for-language-agnostic-calendar-script (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-advanced/compose-a-file-based-app-from-helper-files--baseline--run0",
+      "url": "sessions/pr/876/dotnet-advanced/compose-a-file-based-app-from-helper-files--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-advanced",
+        "baseline",
+        "compose-a-file-based-app-from-helper-files",
+        "pr-876"
+      ],
+      "mtime": 1785439318153,
+      "name": "dotnet-advanced / compose-a-file-based-app-from-helper-files (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-advanced/compose-a-file-based-app-from-helper-files--isolated--run0",
+      "url": "sessions/pr/876/dotnet-advanced/compose-a-file-based-app-from-helper-files--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-advanced",
+        "isolated",
+        "compose-a-file-based-app-from-helper-files",
+        "pr-876"
+      ],
+      "mtime": 1785439318153,
+      "name": "dotnet-advanced / compose-a-file-based-app-from-helper-files (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-advanced/compose-a-file-based-app-from-helper-files--plugin--run0",
+      "url": "sessions/pr/876/dotnet-advanced/compose-a-file-based-app-from-helper-files--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-advanced",
+        "plugin",
+        "compose-a-file-based-app-from-helper-files",
+        "pr-876"
+      ],
+      "mtime": 1785439318153,
+      "name": "dotnet-advanced / compose-a-file-based-app-from-helper-files (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-advanced/generate-libraryimport-declaration-from-c-header---net-8----baseline--run0",
+      "url": "sessions/pr/876/dotnet-advanced/generate-libraryimport-declaration-from-c-header---net-8----baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-advanced",
+        "baseline",
+        "generate-libraryimport-declaration-from-c-header---net-8--",
+        "pr-876"
+      ],
+      "mtime": 1785439318154,
+      "name": "dotnet-advanced / generate-libraryimport-declaration-from-c-header---net-8-- (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-advanced/generate-libraryimport-declaration-from-c-header---net-8----isolated--run0",
+      "url": "sessions/pr/876/dotnet-advanced/generate-libraryimport-declaration-from-c-header---net-8----isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-advanced",
+        "isolated",
+        "generate-libraryimport-declaration-from-c-header---net-8--",
+        "pr-876"
+      ],
+      "mtime": 1785439318154,
+      "name": "dotnet-advanced / generate-libraryimport-declaration-from-c-header---net-8-- (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-advanced/generate-libraryimport-declaration-from-c-header---net-8----plugin--run0",
+      "url": "sessions/pr/876/dotnet-advanced/generate-libraryimport-declaration-from-c-header---net-8----plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-advanced",
+        "plugin",
+        "generate-libraryimport-declaration-from-c-header---net-8--",
+        "pr-876"
+      ],
+      "mtime": 1785439318154,
+      "name": "dotnet-advanced / generate-libraryimport-declaration-from-c-header---net-8-- (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-advanced/generate-libraryimport-declaration-from-c-header---net-framework---baseline--run0",
+      "url": "sessions/pr/876/dotnet-advanced/generate-libraryimport-declaration-from-c-header---net-framework---baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-advanced",
+        "-baseline",
+        "generate-libraryimport-declaration-from-c-header---net-framework",
+        "pr-876"
+      ],
+      "mtime": 1785439318154,
+      "name": "dotnet-advanced / generate-libraryimport-declaration-from-c-header---net-framework (-baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-advanced/generate-libraryimport-declaration-from-c-header---net-framework---isolated--run0",
+      "url": "sessions/pr/876/dotnet-advanced/generate-libraryimport-declaration-from-c-header---net-framework---isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-advanced",
+        "-isolated",
+        "generate-libraryimport-declaration-from-c-header---net-framework",
+        "pr-876"
+      ],
+      "mtime": 1785439318155,
+      "name": "dotnet-advanced / generate-libraryimport-declaration-from-c-header---net-framework (-isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-advanced/generate-libraryimport-declaration-from-c-header---net-framework---plugin--run0",
+      "url": "sessions/pr/876/dotnet-advanced/generate-libraryimport-declaration-from-c-header---net-framework---plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-advanced",
+        "-plugin",
+        "generate-libraryimport-declaration-from-c-header---net-framework",
+        "pr-876"
+      ],
+      "mtime": 1785439318155,
+      "name": "dotnet-advanced / generate-libraryimport-declaration-from-c-header---net-framework (-plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-advanced/migrate-existing-workflow-from-api-key-to-trusted-publishing--baseline--run0",
+      "url": "sessions/pr/876/dotnet-advanced/migrate-existing-workflow-from-api-key-to-trusted-publishing--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-advanced",
+        "baseline",
+        "migrate-existing-workflow-from-api-key-to-trusted-publishing",
+        "pr-876"
+      ],
+      "mtime": 1785439318155,
+      "name": "dotnet-advanced / migrate-existing-workflow-from-api-key-to-trusted-publishing (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-advanced/migrate-existing-workflow-from-api-key-to-trusted-publishing--isolated--run0",
+      "url": "sessions/pr/876/dotnet-advanced/migrate-existing-workflow-from-api-key-to-trusted-publishing--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-advanced",
+        "isolated",
+        "migrate-existing-workflow-from-api-key-to-trusted-publishing",
+        "pr-876"
+      ],
+      "mtime": 1785439318155,
+      "name": "dotnet-advanced / migrate-existing-workflow-from-api-key-to-trusted-publishing (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-advanced/migrate-existing-workflow-from-api-key-to-trusted-publishing--plugin--run0",
+      "url": "sessions/pr/876/dotnet-advanced/migrate-existing-workflow-from-api-key-to-trusted-publishing--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-advanced",
+        "plugin",
+        "migrate-existing-workflow-from-api-key-to-trusted-publishing",
+        "pr-876"
+      ],
+      "mtime": 1785439318155,
+      "name": "dotnet-advanced / migrate-existing-workflow-from-api-key-to-trusted-publishing (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-advanced/set-up-nuget-publishing-without-mentioning-trusted-publishing--baseline--run0",
+      "url": "sessions/pr/876/dotnet-advanced/set-up-nuget-publishing-without-mentioning-trusted-publishing--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-advanced",
+        "baseline",
+        "set-up-nuget-publishing-without-mentioning-trusted-publishing",
+        "pr-876"
+      ],
+      "mtime": 1785439318156,
+      "name": "dotnet-advanced / set-up-nuget-publishing-without-mentioning-trusted-publishing (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-advanced/set-up-nuget-publishing-without-mentioning-trusted-publishing--isolated--run0",
+      "url": "sessions/pr/876/dotnet-advanced/set-up-nuget-publishing-without-mentioning-trusted-publishing--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-advanced",
+        "isolated",
+        "set-up-nuget-publishing-without-mentioning-trusted-publishing",
+        "pr-876"
+      ],
+      "mtime": 1785439318156,
+      "name": "dotnet-advanced / set-up-nuget-publishing-without-mentioning-trusted-publishing (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-advanced/set-up-nuget-publishing-without-mentioning-trusted-publishing--plugin--run0",
+      "url": "sessions/pr/876/dotnet-advanced/set-up-nuget-publishing-without-mentioning-trusted-publishing--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-advanced",
+        "plugin",
+        "set-up-nuget-publishing-without-mentioning-trusted-publishing",
+        "pr-876"
+      ],
+      "mtime": 1785439318157,
+      "name": "dotnet-advanced / set-up-nuget-publishing-without-mentioning-trusted-publishing (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-advanced/set-up-trusted-publishing-for-a-new-nuget-library--baseline--run0",
+      "url": "sessions/pr/876/dotnet-advanced/set-up-trusted-publishing-for-a-new-nuget-library--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-advanced",
+        "baseline",
+        "set-up-trusted-publishing-for-a-new-nuget-library",
+        "pr-876"
+      ],
+      "mtime": 1785439318157,
+      "name": "dotnet-advanced / set-up-trusted-publishing-for-a-new-nuget-library (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-advanced/set-up-trusted-publishing-for-a-new-nuget-library--isolated--run0",
+      "url": "sessions/pr/876/dotnet-advanced/set-up-trusted-publishing-for-a-new-nuget-library--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-advanced",
+        "isolated",
+        "set-up-trusted-publishing-for-a-new-nuget-library",
+        "pr-876"
+      ],
+      "mtime": 1785439318157,
+      "name": "dotnet-advanced / set-up-trusted-publishing-for-a-new-nuget-library (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-advanced/set-up-trusted-publishing-for-a-new-nuget-library--plugin--run0",
+      "url": "sessions/pr/876/dotnet-advanced/set-up-trusted-publishing-for-a-new-nuget-library--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-advanced",
+        "plugin",
+        "set-up-trusted-publishing-for-a-new-nuget-library",
+        "pr-876"
+      ],
+      "mtime": 1785439318158,
+      "name": "dotnet-advanced / set-up-trusted-publishing-for-a-new-nuget-library (plugin)"
+    },
+    {
+      "id": "pr/876/dotnet-advanced/test-a-c--language-feature-with-a-file-based-app--baseline--run0",
+      "url": "sessions/pr/876/dotnet-advanced/test-a-c--language-feature-with-a-file-based-app--baseline--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-advanced",
+        "baseline",
+        "test-a-c--language-feature-with-a-file-based-app",
+        "pr-876"
+      ],
+      "mtime": 1785439318158,
+      "name": "dotnet-advanced / test-a-c--language-feature-with-a-file-based-app (baseline)"
+    },
+    {
+      "id": "pr/876/dotnet-advanced/test-a-c--language-feature-with-a-file-based-app--isolated--run0",
+      "url": "sessions/pr/876/dotnet-advanced/test-a-c--language-feature-with-a-file-based-app--isolated--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-advanced",
+        "isolated",
+        "test-a-c--language-feature-with-a-file-based-app",
+        "pr-876"
+      ],
+      "mtime": 1785439318158,
+      "name": "dotnet-advanced / test-a-c--language-feature-with-a-file-based-app (isolated)"
+    },
+    {
+      "id": "pr/876/dotnet-advanced/test-a-c--language-feature-with-a-file-based-app--plugin--run0",
+      "url": "sessions/pr/876/dotnet-advanced/test-a-c--language-feature-with-a-file-based-app--plugin--run0.jsonl",
+      "tags": [
+        "pr",
+        "dotnet-advanced",
+        "plugin",
+        "test-a-c--language-feature-with-a-file-based-app",
+        "pr-876"
+      ],
+      "mtime": 1785439318158,
+      "name": "dotnet-advanced / test-a-c--language-feature-with-a-file-based-app (plugin)"
     }
   ]
 }
