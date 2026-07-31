@@ -1,5 +1,4 @@
 {
-  "generated": "2026-07-30T23:50:45.5170000+00:00",
   "sessions": [
     {
       "mtime": 1784883317585,
@@ -291903,5 +291902,6 @@
       "name": "dotnet-diag / windows-modern--net-with-admin-high-cpu (plugin)",
       "url": "sessions/pr/882/dotnet-diag/windows-modern--net-with-admin-high-cpu--plugin--run0.jsonl"
     }
-  ]
+  ],
+  "generated": "2026-07-30T23:50:45.5170000+00:00"
 }
