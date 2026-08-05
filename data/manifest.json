@@ -1,5 +1,4 @@
 {
-  "generated": "2026-08-04T23:02:41.9620000+00:00",
   "sessions": [
     {
       "mtime": 1785345577692,
@@ -291903,5 +291902,6 @@
       "mtime": 1785884555999,
       "url": "sessions/pr/629/dotnet-upgrade/ef-core-app-with-cosmos-db-provider-using-sync-apis--plugin--run2.jsonl"
     }
-  ]
+  ],
+  "generated": "2026-08-04T23:02:41.9620000+00:00"
 }
