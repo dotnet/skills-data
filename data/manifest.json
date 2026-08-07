@@ -1,4 +1,5 @@
 {
+  "generated": "2026-08-07T09:31:17.0580000+00:00",
   "sessions": [
     {
       "id": "pr/881/dotnet/basic-local-sdk-setup-with--net-11-preview--baseline--run0",
@@ -291902,6 +291903,5 @@
       "name": "dotnet-experimental / recommend-data-driven-patterns-with-display-names-for-unclear-parameters (plugin)",
       "mtime": 1786095077058
     }
-  ],
-  "generated": "2026-08-07T09:31:17.0580000+00:00"
+  ]
 }
