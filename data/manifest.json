@@ -1,747 +1,6 @@
 {
   "sessions": [
     {
-      "id": "pr/881/dotnet/basic-local-sdk-setup-with--net-11-preview--baseline--run0",
-      "mtime": 1785556628903,
-      "name": "dotnet / basic-local-sdk-setup-with--net-11-preview (baseline)",
-      "url": "sessions/pr/881/dotnet/basic-local-sdk-setup-with--net-11-preview--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet",
-        "baseline",
-        "basic-local-sdk-setup-with--net-11-preview",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet/basic-local-sdk-setup-with--net-11-preview--isolated--run0",
-      "mtime": 1785556628904,
-      "name": "dotnet / basic-local-sdk-setup-with--net-11-preview (isolated)",
-      "url": "sessions/pr/881/dotnet/basic-local-sdk-setup-with--net-11-preview--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet",
-        "isolated",
-        "basic-local-sdk-setup-with--net-11-preview",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet/basic-local-sdk-setup-with--net-11-preview--plugin--run0",
-      "mtime": 1785556628905,
-      "name": "dotnet / basic-local-sdk-setup-with--net-11-preview (plugin)",
-      "url": "sessions/pr/881/dotnet/basic-local-sdk-setup-with--net-11-preview--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet",
-        "plugin",
-        "basic-local-sdk-setup-with--net-11-preview",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet/create-team-install-scripts--baseline--run0",
-      "mtime": 1785556628905,
-      "name": "dotnet / create-team-install-scripts (baseline)",
-      "url": "sessions/pr/881/dotnet/create-team-install-scripts--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet",
-        "baseline",
-        "create-team-install-scripts",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet/create-team-install-scripts--isolated--run0",
-      "mtime": 1785556628905,
-      "name": "dotnet / create-team-install-scripts (isolated)",
-      "url": "sessions/pr/881/dotnet/create-team-install-scripts--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet",
-        "isolated",
-        "create-team-install-scripts",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet/create-team-install-scripts--plugin--run0",
-      "mtime": 1785556628905,
-      "name": "dotnet / create-team-install-scripts (plugin)",
-      "url": "sessions/pr/881/dotnet/create-team-install-scripts--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet",
-        "plugin",
-        "create-team-install-scripts",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet/detect-incompatible--net-host-version--baseline--run0",
-      "mtime": 1785556628905,
-      "name": "dotnet / detect-incompatible--net-host-version (baseline)",
-      "url": "sessions/pr/881/dotnet/detect-incompatible--net-host-version--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet",
-        "baseline",
-        "detect-incompatible--net-host-version",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet/detect-incompatible--net-host-version--isolated--run0",
-      "mtime": 1785556628906,
-      "name": "dotnet / detect-incompatible--net-host-version (isolated)",
-      "url": "sessions/pr/881/dotnet/detect-incompatible--net-host-version--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet",
-        "isolated",
-        "detect-incompatible--net-host-version",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet/detect-incompatible--net-host-version--plugin--run0",
-      "mtime": 1785556628906,
-      "name": "dotnet / detect-incompatible--net-host-version (plugin)",
-      "url": "sessions/pr/881/dotnet/detect-incompatible--net-host-version--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet",
-        "plugin",
-        "detect-incompatible--net-host-version",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet/install-a-specific-sdk-version-locally--baseline--run0",
-      "mtime": 1785556628906,
-      "name": "dotnet / install-a-specific-sdk-version-locally (baseline)",
-      "url": "sessions/pr/881/dotnet/install-a-specific-sdk-version-locally--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet",
-        "baseline",
-        "install-a-specific-sdk-version-locally",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet/install-a-specific-sdk-version-locally--isolated--run0",
-      "mtime": 1785556628906,
-      "name": "dotnet / install-a-specific-sdk-version-locally (isolated)",
-      "url": "sessions/pr/881/dotnet/install-a-specific-sdk-version-locally--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet",
-        "isolated",
-        "install-a-specific-sdk-version-locally",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet/install-a-specific-sdk-version-locally--plugin--run0",
-      "mtime": 1785556628906,
-      "name": "dotnet / install-a-specific-sdk-version-locally (plugin)",
-      "url": "sessions/pr/881/dotnet/install-a-specific-sdk-version-locally--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet",
-        "plugin",
-        "install-a-specific-sdk-version-locally",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet/set-up-local-sdk-with-maui-workload--baseline--run0",
-      "mtime": 1785556628906,
-      "name": "dotnet / set-up-local-sdk-with-maui-workload (baseline)",
-      "url": "sessions/pr/881/dotnet/set-up-local-sdk-with-maui-workload--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet",
-        "baseline",
-        "set-up-local-sdk-with-maui-workload",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet/set-up-local-sdk-with-maui-workload--isolated--run0",
-      "mtime": 1785556628906,
-      "name": "dotnet / set-up-local-sdk-with-maui-workload (isolated)",
-      "url": "sessions/pr/881/dotnet/set-up-local-sdk-with-maui-workload--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet",
-        "isolated",
-        "set-up-local-sdk-with-maui-workload",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet/set-up-local-sdk-with-maui-workload--plugin--run0",
-      "mtime": 1785556628907,
-      "name": "dotnet / set-up-local-sdk-with-maui-workload (plugin)",
-      "url": "sessions/pr/881/dotnet/set-up-local-sdk-with-maui-workload--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet",
-        "plugin",
-        "set-up-local-sdk-with-maui-workload",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/add-a-new-api-endpoint-to-an-existing-controller-based-project--baseline--run0",
-      "mtime": 1785556628860,
-      "name": "dotnet-aspnetcore / add-a-new-api-endpoint-to-an-existing-controller-based-project (baseline)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/add-a-new-api-endpoint-to-an-existing-controller-based-project--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "baseline",
-        "add-a-new-api-endpoint-to-an-existing-controller-based-project",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/add-a-new-api-endpoint-to-an-existing-controller-based-project--isolated--run0",
-      "mtime": 1785556628861,
-      "name": "dotnet-aspnetcore / add-a-new-api-endpoint-to-an-existing-controller-based-project (isolated)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/add-a-new-api-endpoint-to-an-existing-controller-based-project--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "isolated",
-        "add-a-new-api-endpoint-to-an-existing-controller-based-project",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/add-a-new-api-endpoint-to-an-existing-controller-based-project--plugin--run0",
-      "mtime": 1785556628862,
-      "name": "dotnet-aspnetcore / add-a-new-api-endpoint-to-an-existing-controller-based-project (plugin)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/add-a-new-api-endpoint-to-an-existing-controller-based-project--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "plugin",
-        "add-a-new-api-endpoint-to-an-existing-controller-based-project",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/add-error-handling-with-problemdetails-and-iexceptionhandler--baseline--run0",
-      "mtime": 1785556628862,
-      "name": "dotnet-aspnetcore / add-error-handling-with-problemdetails-and-iexceptionhandler (baseline)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/add-error-handling-with-problemdetails-and-iexceptionhandler--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "baseline",
-        "add-error-handling-with-problemdetails-and-iexceptionhandler",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/add-error-handling-with-problemdetails-and-iexceptionhandler--isolated--run0",
-      "mtime": 1785556628862,
-      "name": "dotnet-aspnetcore / add-error-handling-with-problemdetails-and-iexceptionhandler (isolated)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/add-error-handling-with-problemdetails-and-iexceptionhandler--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "isolated",
-        "add-error-handling-with-problemdetails-and-iexceptionhandler",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/add-error-handling-with-problemdetails-and-iexceptionhandler--plugin--run0",
-      "mtime": 1785556628862,
-      "name": "dotnet-aspnetcore / add-error-handling-with-problemdetails-and-iexceptionhandler (plugin)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/add-error-handling-with-problemdetails-and-iexceptionhandler--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "plugin",
-        "add-error-handling-with-problemdetails-and-iexceptionhandler",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/blazor-server-app-with-cascadingauthenticationstate--baseline--run0",
-      "mtime": 1785556628862,
-      "name": "dotnet-aspnetcore / blazor-server-app-with-cascadingauthenticationstate (baseline)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/blazor-server-app-with-cascadingauthenticationstate--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "baseline",
-        "blazor-server-app-with-cascadingauthenticationstate",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/blazor-server-app-with-cascadingauthenticationstate--isolated--run0",
-      "mtime": 1785556628862,
-      "name": "dotnet-aspnetcore / blazor-server-app-with-cascadingauthenticationstate (isolated)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/blazor-server-app-with-cascadingauthenticationstate--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "isolated",
-        "blazor-server-app-with-cascadingauthenticationstate",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/blazor-server-app-with-cascadingauthenticationstate--plugin--run0",
-      "mtime": 1785556628863,
-      "name": "dotnet-aspnetcore / blazor-server-app-with-cascadingauthenticationstate (plugin)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/blazor-server-app-with-cascadingauthenticationstate--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "plugin",
-        "blazor-server-app-with-cascadingauthenticationstate",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/configure-all-three-opentelemetry-signals-with-correct-otlp-export--baseline--run0",
-      "mtime": 1785556628863,
-      "name": "dotnet-aspnetcore / configure-all-three-opentelemetry-signals-with-correct-otlp-export (baseline)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/configure-all-three-opentelemetry-signals-with-correct-otlp-export--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "baseline",
-        "configure-all-three-opentelemetry-signals-with-correct-otlp-export",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/configure-all-three-opentelemetry-signals-with-correct-otlp-export--isolated--run0",
-      "mtime": 1785556628863,
-      "name": "dotnet-aspnetcore / configure-all-three-opentelemetry-signals-with-correct-otlp-export (isolated)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/configure-all-three-opentelemetry-signals-with-correct-otlp-export--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "isolated",
-        "configure-all-three-opentelemetry-signals-with-correct-otlp-export",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/configure-all-three-opentelemetry-signals-with-correct-otlp-export--plugin--run0",
-      "mtime": 1785556628864,
-      "name": "dotnet-aspnetcore / configure-all-three-opentelemetry-signals-with-correct-otlp-export (plugin)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/configure-all-three-opentelemetry-signals-with-correct-otlp-export--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "plugin",
-        "configure-all-three-opentelemetry-signals-with-correct-otlp-export",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics--baseline--run0",
-      "mtime": 1785556628864,
-      "name": "dotnet-aspnetcore / create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics (baseline)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "baseline",
-        "create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics--isolated--run0",
-      "mtime": 1785556628864,
-      "name": "dotnet-aspnetcore / create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics (isolated)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "isolated",
-        "create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics--plugin--run0",
-      "mtime": 1785556628864,
-      "name": "dotnet-aspnetcore / create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics (plugin)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "plugin",
-        "create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/implement-secure-file-upload-in-asp-net-core-8-minimal-api--baseline--run0",
-      "mtime": 1785556628864,
-      "name": "dotnet-aspnetcore / implement-secure-file-upload-in-asp-net-core-8-minimal-api (baseline)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/implement-secure-file-upload-in-asp-net-core-8-minimal-api--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "baseline",
-        "implement-secure-file-upload-in-asp-net-core-8-minimal-api",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/implement-secure-file-upload-in-asp-net-core-8-minimal-api--isolated--run0",
-      "mtime": 1785556628864,
-      "name": "dotnet-aspnetcore / implement-secure-file-upload-in-asp-net-core-8-minimal-api (isolated)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/implement-secure-file-upload-in-asp-net-core-8-minimal-api--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "isolated",
-        "implement-secure-file-upload-in-asp-net-core-8-minimal-api",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/implement-secure-file-upload-in-asp-net-core-8-minimal-api--plugin--run0",
-      "mtime": 1785556628865,
-      "name": "dotnet-aspnetcore / implement-secure-file-upload-in-asp-net-core-8-minimal-api (plugin)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/implement-secure-file-upload-in-asp-net-core-8-minimal-api--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "plugin",
-        "implement-secure-file-upload-in-asp-net-core-8-minimal-api",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/propagate-trace-context-across-a-message-queue--baseline--run0",
-      "mtime": 1785556628865,
-      "name": "dotnet-aspnetcore / propagate-trace-context-across-a-message-queue (baseline)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/propagate-trace-context-across-a-message-queue--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "baseline",
-        "propagate-trace-context-across-a-message-queue",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/propagate-trace-context-across-a-message-queue--isolated--run0",
-      "mtime": 1785556628865,
-      "name": "dotnet-aspnetcore / propagate-trace-context-across-a-message-queue (isolated)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/propagate-trace-context-across-a-message-queue--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "isolated",
-        "propagate-trace-context-across-a-message-queue",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/propagate-trace-context-across-a-message-queue--plugin--run0",
-      "mtime": 1785556628865,
-      "name": "dotnet-aspnetcore / propagate-trace-context-across-a-message-queue (plugin)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/propagate-trace-context-across-a-message-queue--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "plugin",
-        "propagate-trace-context-across-a-message-queue",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core--baseline--run0",
-      "mtime": 1785556628865,
-      "name": "dotnet-aspnetcore / set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core (baseline)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "baseline",
-        "set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core--isolated--run0",
-      "mtime": 1785556628865,
-      "name": "dotnet-aspnetcore / set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core (isolated)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "isolated",
-        "set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core--plugin--run0",
-      "mtime": 1785556628865,
-      "name": "dotnet-aspnetcore / set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core (plugin)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "plugin",
-        "set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/stream-very-large-file-uploads-without-buffering--baseline--run0",
-      "mtime": 1785556628865,
-      "name": "dotnet-aspnetcore / stream-very-large-file-uploads-without-buffering (baseline)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/stream-very-large-file-uploads-without-buffering--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "baseline",
-        "stream-very-large-file-uploads-without-buffering",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/stream-very-large-file-uploads-without-buffering--isolated--run0",
-      "mtime": 1785556628866,
-      "name": "dotnet-aspnetcore / stream-very-large-file-uploads-without-buffering (isolated)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/stream-very-large-file-uploads-without-buffering--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "isolated",
-        "stream-very-large-file-uploads-without-buffering",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/stream-very-large-file-uploads-without-buffering--plugin--run0",
-      "mtime": 1785556628866,
-      "name": "dotnet-aspnetcore / stream-very-large-file-uploads-without-buffering (plugin)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/stream-very-large-file-uploads-without-buffering--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "plugin",
-        "stream-very-large-file-uploads-without-buffering",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/upload-multiple-files-with-metadata-in-minimal-api--baseline--run0",
-      "mtime": 1785556628866,
-      "name": "dotnet-aspnetcore / upload-multiple-files-with-metadata-in-minimal-api (baseline)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/upload-multiple-files-with-metadata-in-minimal-api--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "baseline",
-        "upload-multiple-files-with-metadata-in-minimal-api",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/upload-multiple-files-with-metadata-in-minimal-api--isolated--run0",
-      "mtime": 1785556628866,
-      "name": "dotnet-aspnetcore / upload-multiple-files-with-metadata-in-minimal-api (isolated)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/upload-multiple-files-with-metadata-in-minimal-api--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "isolated",
-        "upload-multiple-files-with-metadata-in-minimal-api",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/881/dotnet-aspnetcore/upload-multiple-files-with-metadata-in-minimal-api--plugin--run0",
-      "mtime": 1785556628866,
-      "name": "dotnet-aspnetcore / upload-multiple-files-with-metadata-in-minimal-api (plugin)",
-      "url": "sessions/pr/881/dotnet-aspnetcore/upload-multiple-files-with-metadata-in-minimal-api--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-aspnetcore",
-        "plugin",
-        "upload-multiple-files-with-metadata-in-minimal-api",
-        "pr-881"
-      ]
-    },
-    {
-      "id": "pr/887/dotnet11/non-activation--camelcase-json-serialization-on--net-8--baseline--run0",
-      "mtime": 1785556629018,
-      "name": "dotnet11 / non-activation--camelcase-json-serialization-on--net-8 (baseline)",
-      "url": "sessions/pr/887/dotnet11/non-activation--camelcase-json-serialization-on--net-8--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet11",
-        "baseline",
-        "non-activation--camelcase-json-serialization-on--net-8",
-        "pr-887"
-      ]
-    },
-    {
-      "id": "pr/887/dotnet11/non-activation--camelcase-json-serialization-on--net-8--isolated--run0",
-      "mtime": 1785556629019,
-      "name": "dotnet11 / non-activation--camelcase-json-serialization-on--net-8 (isolated)",
-      "url": "sessions/pr/887/dotnet11/non-activation--camelcase-json-serialization-on--net-8--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet11",
-        "isolated",
-        "non-activation--camelcase-json-serialization-on--net-8",
-        "pr-887"
-      ]
-    },
-    {
-      "id": "pr/887/dotnet11/non-activation--camelcase-json-serialization-on--net-8--plugin--run0",
-      "mtime": 1785556629019,
-      "name": "dotnet11 / non-activation--camelcase-json-serialization-on--net-8 (plugin)",
-      "url": "sessions/pr/887/dotnet11/non-activation--camelcase-json-serialization-on--net-8--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet11",
-        "plugin",
-        "non-activation--camelcase-json-serialization-on--net-8",
-        "pr-887"
-      ]
-    },
-    {
-      "id": "pr/887/dotnet11/serialize-json-in--net-11-with-pascalcase-property-names--baseline--run0",
-      "mtime": 1785556629019,
-      "name": "dotnet11 / serialize-json-in--net-11-with-pascalcase-property-names (baseline)",
-      "url": "sessions/pr/887/dotnet11/serialize-json-in--net-11-with-pascalcase-property-names--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet11",
-        "baseline",
-        "serialize-json-in--net-11-with-pascalcase-property-names",
-        "pr-887"
-      ]
-    },
-    {
-      "id": "pr/887/dotnet11/serialize-json-in--net-11-with-pascalcase-property-names--isolated--run0",
-      "mtime": 1785556629019,
-      "name": "dotnet11 / serialize-json-in--net-11-with-pascalcase-property-names (isolated)",
-      "url": "sessions/pr/887/dotnet11/serialize-json-in--net-11-with-pascalcase-property-names--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet11",
-        "isolated",
-        "serialize-json-in--net-11-with-pascalcase-property-names",
-        "pr-887"
-      ]
-    },
-    {
-      "id": "pr/887/dotnet11/serialize-json-in--net-11-with-pascalcase-property-names--plugin--run0",
-      "mtime": 1785556629019,
-      "name": "dotnet11 / serialize-json-in--net-11-with-pascalcase-property-names (plugin)",
-      "url": "sessions/pr/887/dotnet11/serialize-json-in--net-11-with-pascalcase-property-names--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet11",
-        "plugin",
-        "serialize-json-in--net-11-with-pascalcase-property-names",
-        "pr-887"
-      ]
-    },
-    {
-      "id": "pr/887/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--baseline--run0",
-      "mtime": 1785556629019,
-      "name": "dotnet11 / type-safe-jsontypeinfo-access-without-exceptions-in--net-11 (baseline)",
-      "url": "sessions/pr/887/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet11",
-        "baseline",
-        "type-safe-jsontypeinfo-access-without-exceptions-in--net-11",
-        "pr-887"
-      ]
-    },
-    {
-      "id": "pr/887/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--isolated--run0",
-      "mtime": 1785556629019,
-      "name": "dotnet11 / type-safe-jsontypeinfo-access-without-exceptions-in--net-11 (isolated)",
-      "url": "sessions/pr/887/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet11",
-        "isolated",
-        "type-safe-jsontypeinfo-access-without-exceptions-in--net-11",
-        "pr-887"
-      ]
-    },
-    {
-      "id": "pr/887/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--plugin--run0",
-      "mtime": 1785556629019,
-      "name": "dotnet11 / type-safe-jsontypeinfo-access-without-exceptions-in--net-11 (plugin)",
-      "url": "sessions/pr/887/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet11",
-        "plugin",
-        "type-safe-jsontypeinfo-access-without-exceptions-in--net-11",
-        "pr-887"
-      ]
-    },
-    {
-      "id": "pr/887/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--baseline--run0",
-      "mtime": 1785556629014,
-      "name": "dotnet-data / optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete (baseline)",
-      "url": "sessions/pr/887/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--baseline--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-data",
-        "baseline",
-        "optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete",
-        "pr-887"
-      ]
-    },
-    {
-      "id": "pr/887/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--isolated--run0",
-      "mtime": 1785556629015,
-      "name": "dotnet-data / optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete (isolated)",
-      "url": "sessions/pr/887/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--isolated--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-data",
-        "isolated",
-        "optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete",
-        "pr-887"
-      ]
-    },
-    {
-      "id": "pr/887/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--plugin--run0",
-      "mtime": 1785556629015,
-      "name": "dotnet-data / optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete (plugin)",
-      "url": "sessions/pr/887/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--plugin--run0.jsonl",
-      "tags": [
-        "pr",
-        "dotnet-data",
-        "plugin",
-        "optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete",
-        "pr-887"
-      ]
-    },
-    {
       "name": "dotnet-data / optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete (baseline)",
       "mtime": 1785817781150,
       "id": "pr/701/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--baseline--run0",
@@ -291901,7 +291160,748 @@
       "id": "pr/911/dotnet-experimental/recommend-data-driven-patterns-with-display-names-for-unclear-parameters--plugin--run0",
       "name": "dotnet-experimental / recommend-data-driven-patterns-with-display-names-for-unclear-parameters (plugin)",
       "mtime": 1786095077058
+    },
+    {
+      "url": "sessions/pr/881/dotnet/basic-local-sdk-setup-with--net-11-preview--baseline--run0.jsonl",
+      "id": "pr/881/dotnet/basic-local-sdk-setup-with--net-11-preview--baseline--run0",
+      "mtime": 1786237483347,
+      "name": "dotnet / basic-local-sdk-setup-with--net-11-preview (baseline)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "baseline",
+        "basic-local-sdk-setup-with--net-11-preview",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet/basic-local-sdk-setup-with--net-11-preview--isolated--run0.jsonl",
+      "id": "pr/881/dotnet/basic-local-sdk-setup-with--net-11-preview--isolated--run0",
+      "mtime": 1786237483348,
+      "name": "dotnet / basic-local-sdk-setup-with--net-11-preview (isolated)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "isolated",
+        "basic-local-sdk-setup-with--net-11-preview",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet/basic-local-sdk-setup-with--net-11-preview--plugin--run0.jsonl",
+      "id": "pr/881/dotnet/basic-local-sdk-setup-with--net-11-preview--plugin--run0",
+      "mtime": 1786237483348,
+      "name": "dotnet / basic-local-sdk-setup-with--net-11-preview (plugin)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "plugin",
+        "basic-local-sdk-setup-with--net-11-preview",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet/create-team-install-scripts--baseline--run0.jsonl",
+      "id": "pr/881/dotnet/create-team-install-scripts--baseline--run0",
+      "mtime": 1786237483349,
+      "name": "dotnet / create-team-install-scripts (baseline)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "baseline",
+        "create-team-install-scripts",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet/create-team-install-scripts--isolated--run0.jsonl",
+      "id": "pr/881/dotnet/create-team-install-scripts--isolated--run0",
+      "mtime": 1786237483349,
+      "name": "dotnet / create-team-install-scripts (isolated)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "isolated",
+        "create-team-install-scripts",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet/create-team-install-scripts--plugin--run0.jsonl",
+      "id": "pr/881/dotnet/create-team-install-scripts--plugin--run0",
+      "mtime": 1786237483349,
+      "name": "dotnet / create-team-install-scripts (plugin)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "plugin",
+        "create-team-install-scripts",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet/detect-incompatible--net-host-version--baseline--run0.jsonl",
+      "id": "pr/881/dotnet/detect-incompatible--net-host-version--baseline--run0",
+      "mtime": 1786237483349,
+      "name": "dotnet / detect-incompatible--net-host-version (baseline)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "baseline",
+        "detect-incompatible--net-host-version",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet/detect-incompatible--net-host-version--isolated--run0.jsonl",
+      "id": "pr/881/dotnet/detect-incompatible--net-host-version--isolated--run0",
+      "mtime": 1786237483349,
+      "name": "dotnet / detect-incompatible--net-host-version (isolated)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "isolated",
+        "detect-incompatible--net-host-version",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet/detect-incompatible--net-host-version--plugin--run0.jsonl",
+      "id": "pr/881/dotnet/detect-incompatible--net-host-version--plugin--run0",
+      "mtime": 1786237483350,
+      "name": "dotnet / detect-incompatible--net-host-version (plugin)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "plugin",
+        "detect-incompatible--net-host-version",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet/install-a-specific-sdk-version-locally--baseline--run0.jsonl",
+      "id": "pr/881/dotnet/install-a-specific-sdk-version-locally--baseline--run0",
+      "mtime": 1786237483350,
+      "name": "dotnet / install-a-specific-sdk-version-locally (baseline)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "baseline",
+        "install-a-specific-sdk-version-locally",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet/install-a-specific-sdk-version-locally--isolated--run0.jsonl",
+      "id": "pr/881/dotnet/install-a-specific-sdk-version-locally--isolated--run0",
+      "mtime": 1786237483350,
+      "name": "dotnet / install-a-specific-sdk-version-locally (isolated)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "isolated",
+        "install-a-specific-sdk-version-locally",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet/install-a-specific-sdk-version-locally--plugin--run0.jsonl",
+      "id": "pr/881/dotnet/install-a-specific-sdk-version-locally--plugin--run0",
+      "mtime": 1786237483350,
+      "name": "dotnet / install-a-specific-sdk-version-locally (plugin)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "plugin",
+        "install-a-specific-sdk-version-locally",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet/set-up-local-sdk-with-maui-workload--baseline--run0.jsonl",
+      "id": "pr/881/dotnet/set-up-local-sdk-with-maui-workload--baseline--run0",
+      "mtime": 1786237483350,
+      "name": "dotnet / set-up-local-sdk-with-maui-workload (baseline)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "baseline",
+        "set-up-local-sdk-with-maui-workload",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet/set-up-local-sdk-with-maui-workload--isolated--run0.jsonl",
+      "id": "pr/881/dotnet/set-up-local-sdk-with-maui-workload--isolated--run0",
+      "mtime": 1786237483350,
+      "name": "dotnet / set-up-local-sdk-with-maui-workload (isolated)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "isolated",
+        "set-up-local-sdk-with-maui-workload",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet/set-up-local-sdk-with-maui-workload--plugin--run0.jsonl",
+      "id": "pr/881/dotnet/set-up-local-sdk-with-maui-workload--plugin--run0",
+      "mtime": 1786237483350,
+      "name": "dotnet / set-up-local-sdk-with-maui-workload (plugin)",
+      "tags": [
+        "pr",
+        "dotnet",
+        "plugin",
+        "set-up-local-sdk-with-maui-workload",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/add-a-new-api-endpoint-to-an-existing-controller-based-project--baseline--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/add-a-new-api-endpoint-to-an-existing-controller-based-project--baseline--run0",
+      "mtime": 1786237483305,
+      "name": "dotnet-aspnetcore / add-a-new-api-endpoint-to-an-existing-controller-based-project (baseline)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "baseline",
+        "add-a-new-api-endpoint-to-an-existing-controller-based-project",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/add-a-new-api-endpoint-to-an-existing-controller-based-project--isolated--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/add-a-new-api-endpoint-to-an-existing-controller-based-project--isolated--run0",
+      "mtime": 1786237483305,
+      "name": "dotnet-aspnetcore / add-a-new-api-endpoint-to-an-existing-controller-based-project (isolated)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "isolated",
+        "add-a-new-api-endpoint-to-an-existing-controller-based-project",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/add-a-new-api-endpoint-to-an-existing-controller-based-project--plugin--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/add-a-new-api-endpoint-to-an-existing-controller-based-project--plugin--run0",
+      "mtime": 1786237483306,
+      "name": "dotnet-aspnetcore / add-a-new-api-endpoint-to-an-existing-controller-based-project (plugin)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "plugin",
+        "add-a-new-api-endpoint-to-an-existing-controller-based-project",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/add-error-handling-with-problemdetails-and-iexceptionhandler--baseline--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/add-error-handling-with-problemdetails-and-iexceptionhandler--baseline--run0",
+      "mtime": 1786237483306,
+      "name": "dotnet-aspnetcore / add-error-handling-with-problemdetails-and-iexceptionhandler (baseline)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "baseline",
+        "add-error-handling-with-problemdetails-and-iexceptionhandler",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/add-error-handling-with-problemdetails-and-iexceptionhandler--isolated--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/add-error-handling-with-problemdetails-and-iexceptionhandler--isolated--run0",
+      "mtime": 1786237483307,
+      "name": "dotnet-aspnetcore / add-error-handling-with-problemdetails-and-iexceptionhandler (isolated)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "isolated",
+        "add-error-handling-with-problemdetails-and-iexceptionhandler",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/add-error-handling-with-problemdetails-and-iexceptionhandler--plugin--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/add-error-handling-with-problemdetails-and-iexceptionhandler--plugin--run0",
+      "mtime": 1786237483307,
+      "name": "dotnet-aspnetcore / add-error-handling-with-problemdetails-and-iexceptionhandler (plugin)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "plugin",
+        "add-error-handling-with-problemdetails-and-iexceptionhandler",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/blazor-server-app-with-cascadingauthenticationstate--baseline--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/blazor-server-app-with-cascadingauthenticationstate--baseline--run0",
+      "mtime": 1786237483307,
+      "name": "dotnet-aspnetcore / blazor-server-app-with-cascadingauthenticationstate (baseline)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "baseline",
+        "blazor-server-app-with-cascadingauthenticationstate",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/blazor-server-app-with-cascadingauthenticationstate--isolated--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/blazor-server-app-with-cascadingauthenticationstate--isolated--run0",
+      "mtime": 1786237483307,
+      "name": "dotnet-aspnetcore / blazor-server-app-with-cascadingauthenticationstate (isolated)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "isolated",
+        "blazor-server-app-with-cascadingauthenticationstate",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/blazor-server-app-with-cascadingauthenticationstate--plugin--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/blazor-server-app-with-cascadingauthenticationstate--plugin--run0",
+      "mtime": 1786237483307,
+      "name": "dotnet-aspnetcore / blazor-server-app-with-cascadingauthenticationstate (plugin)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "plugin",
+        "blazor-server-app-with-cascadingauthenticationstate",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/configure-all-three-opentelemetry-signals-with-correct-otlp-export--baseline--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/configure-all-three-opentelemetry-signals-with-correct-otlp-export--baseline--run0",
+      "mtime": 1786237483308,
+      "name": "dotnet-aspnetcore / configure-all-three-opentelemetry-signals-with-correct-otlp-export (baseline)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "baseline",
+        "configure-all-three-opentelemetry-signals-with-correct-otlp-export",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/configure-all-three-opentelemetry-signals-with-correct-otlp-export--isolated--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/configure-all-three-opentelemetry-signals-with-correct-otlp-export--isolated--run0",
+      "mtime": 1786237483308,
+      "name": "dotnet-aspnetcore / configure-all-three-opentelemetry-signals-with-correct-otlp-export (isolated)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "isolated",
+        "configure-all-three-opentelemetry-signals-with-correct-otlp-export",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/configure-all-three-opentelemetry-signals-with-correct-otlp-export--plugin--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/configure-all-three-opentelemetry-signals-with-correct-otlp-export--plugin--run0",
+      "mtime": 1786237483308,
+      "name": "dotnet-aspnetcore / configure-all-three-opentelemetry-signals-with-correct-otlp-export (plugin)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "plugin",
+        "configure-all-three-opentelemetry-signals-with-correct-otlp-export",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics--baseline--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics--baseline--run0",
+      "mtime": 1786237483308,
+      "name": "dotnet-aspnetcore / create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics (baseline)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "baseline",
+        "create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics--isolated--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics--isolated--run0",
+      "mtime": 1786237483308,
+      "name": "dotnet-aspnetcore / create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics (isolated)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "isolated",
+        "create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics--plugin--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics--plugin--run0",
+      "mtime": 1786237483309,
+      "name": "dotnet-aspnetcore / create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics (plugin)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "plugin",
+        "create-a-crud-web-api-with-minimal-apis--openapi--and-proper-http-semantics",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/implement-secure-file-upload-in-asp-net-core-8-minimal-api--baseline--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/implement-secure-file-upload-in-asp-net-core-8-minimal-api--baseline--run0",
+      "mtime": 1786237483309,
+      "name": "dotnet-aspnetcore / implement-secure-file-upload-in-asp-net-core-8-minimal-api (baseline)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "baseline",
+        "implement-secure-file-upload-in-asp-net-core-8-minimal-api",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/implement-secure-file-upload-in-asp-net-core-8-minimal-api--isolated--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/implement-secure-file-upload-in-asp-net-core-8-minimal-api--isolated--run0",
+      "mtime": 1786237483309,
+      "name": "dotnet-aspnetcore / implement-secure-file-upload-in-asp-net-core-8-minimal-api (isolated)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "isolated",
+        "implement-secure-file-upload-in-asp-net-core-8-minimal-api",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/implement-secure-file-upload-in-asp-net-core-8-minimal-api--plugin--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/implement-secure-file-upload-in-asp-net-core-8-minimal-api--plugin--run0",
+      "mtime": 1786237483309,
+      "name": "dotnet-aspnetcore / implement-secure-file-upload-in-asp-net-core-8-minimal-api (plugin)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "plugin",
+        "implement-secure-file-upload-in-asp-net-core-8-minimal-api",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/propagate-trace-context-across-a-message-queue--baseline--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/propagate-trace-context-across-a-message-queue--baseline--run0",
+      "mtime": 1786237483309,
+      "name": "dotnet-aspnetcore / propagate-trace-context-across-a-message-queue (baseline)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "baseline",
+        "propagate-trace-context-across-a-message-queue",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/propagate-trace-context-across-a-message-queue--isolated--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/propagate-trace-context-across-a-message-queue--isolated--run0",
+      "mtime": 1786237483310,
+      "name": "dotnet-aspnetcore / propagate-trace-context-across-a-message-queue (isolated)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "isolated",
+        "propagate-trace-context-across-a-message-queue",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/propagate-trace-context-across-a-message-queue--plugin--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/propagate-trace-context-across-a-message-queue--plugin--run0",
+      "mtime": 1786237483310,
+      "name": "dotnet-aspnetcore / propagate-trace-context-across-a-message-queue (plugin)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "plugin",
+        "propagate-trace-context-across-a-message-queue",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core--baseline--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core--baseline--run0",
+      "mtime": 1786237483310,
+      "name": "dotnet-aspnetcore / set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core (baseline)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "baseline",
+        "set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core--isolated--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core--isolated--run0",
+      "mtime": 1786237483310,
+      "name": "dotnet-aspnetcore / set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core (isolated)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "isolated",
+        "set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core--plugin--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core--plugin--run0",
+      "mtime": 1786237483310,
+      "name": "dotnet-aspnetcore / set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core (plugin)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "plugin",
+        "set-up-opentelemetry-tracing-and-metrics-with-custom-spans-in-asp-net-core",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/stream-very-large-file-uploads-without-buffering--baseline--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/stream-very-large-file-uploads-without-buffering--baseline--run0",
+      "mtime": 1786237483310,
+      "name": "dotnet-aspnetcore / stream-very-large-file-uploads-without-buffering (baseline)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "baseline",
+        "stream-very-large-file-uploads-without-buffering",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/stream-very-large-file-uploads-without-buffering--isolated--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/stream-very-large-file-uploads-without-buffering--isolated--run0",
+      "mtime": 1786237483310,
+      "name": "dotnet-aspnetcore / stream-very-large-file-uploads-without-buffering (isolated)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "isolated",
+        "stream-very-large-file-uploads-without-buffering",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/stream-very-large-file-uploads-without-buffering--plugin--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/stream-very-large-file-uploads-without-buffering--plugin--run0",
+      "mtime": 1786237483310,
+      "name": "dotnet-aspnetcore / stream-very-large-file-uploads-without-buffering (plugin)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "plugin",
+        "stream-very-large-file-uploads-without-buffering",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/upload-multiple-files-with-metadata-in-minimal-api--baseline--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/upload-multiple-files-with-metadata-in-minimal-api--baseline--run0",
+      "mtime": 1786237483311,
+      "name": "dotnet-aspnetcore / upload-multiple-files-with-metadata-in-minimal-api (baseline)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "baseline",
+        "upload-multiple-files-with-metadata-in-minimal-api",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/upload-multiple-files-with-metadata-in-minimal-api--isolated--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/upload-multiple-files-with-metadata-in-minimal-api--isolated--run0",
+      "mtime": 1786237483311,
+      "name": "dotnet-aspnetcore / upload-multiple-files-with-metadata-in-minimal-api (isolated)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "isolated",
+        "upload-multiple-files-with-metadata-in-minimal-api",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/881/dotnet-aspnetcore/upload-multiple-files-with-metadata-in-minimal-api--plugin--run0.jsonl",
+      "id": "pr/881/dotnet-aspnetcore/upload-multiple-files-with-metadata-in-minimal-api--plugin--run0",
+      "mtime": 1786237483311,
+      "name": "dotnet-aspnetcore / upload-multiple-files-with-metadata-in-minimal-api (plugin)",
+      "tags": [
+        "pr",
+        "dotnet-aspnetcore",
+        "plugin",
+        "upload-multiple-files-with-metadata-in-minimal-api",
+        "pr-881"
+      ]
+    },
+    {
+      "url": "sessions/pr/887/dotnet11/non-activation--camelcase-json-serialization-on--net-8--baseline--run0.jsonl",
+      "id": "pr/887/dotnet11/non-activation--camelcase-json-serialization-on--net-8--baseline--run0",
+      "mtime": 1786237483459,
+      "name": "dotnet11 / non-activation--camelcase-json-serialization-on--net-8 (baseline)",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "baseline",
+        "non-activation--camelcase-json-serialization-on--net-8",
+        "pr-887"
+      ]
+    },
+    {
+      "url": "sessions/pr/887/dotnet11/non-activation--camelcase-json-serialization-on--net-8--isolated--run0.jsonl",
+      "id": "pr/887/dotnet11/non-activation--camelcase-json-serialization-on--net-8--isolated--run0",
+      "mtime": 1786237483461,
+      "name": "dotnet11 / non-activation--camelcase-json-serialization-on--net-8 (isolated)",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "isolated",
+        "non-activation--camelcase-json-serialization-on--net-8",
+        "pr-887"
+      ]
+    },
+    {
+      "url": "sessions/pr/887/dotnet11/non-activation--camelcase-json-serialization-on--net-8--plugin--run0.jsonl",
+      "id": "pr/887/dotnet11/non-activation--camelcase-json-serialization-on--net-8--plugin--run0",
+      "mtime": 1786237483461,
+      "name": "dotnet11 / non-activation--camelcase-json-serialization-on--net-8 (plugin)",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "plugin",
+        "non-activation--camelcase-json-serialization-on--net-8",
+        "pr-887"
+      ]
+    },
+    {
+      "url": "sessions/pr/887/dotnet11/serialize-json-in--net-11-with-pascalcase-property-names--baseline--run0.jsonl",
+      "id": "pr/887/dotnet11/serialize-json-in--net-11-with-pascalcase-property-names--baseline--run0",
+      "mtime": 1786237483461,
+      "name": "dotnet11 / serialize-json-in--net-11-with-pascalcase-property-names (baseline)",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "baseline",
+        "serialize-json-in--net-11-with-pascalcase-property-names",
+        "pr-887"
+      ]
+    },
+    {
+      "url": "sessions/pr/887/dotnet11/serialize-json-in--net-11-with-pascalcase-property-names--isolated--run0.jsonl",
+      "id": "pr/887/dotnet11/serialize-json-in--net-11-with-pascalcase-property-names--isolated--run0",
+      "mtime": 1786237483461,
+      "name": "dotnet11 / serialize-json-in--net-11-with-pascalcase-property-names (isolated)",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "isolated",
+        "serialize-json-in--net-11-with-pascalcase-property-names",
+        "pr-887"
+      ]
+    },
+    {
+      "url": "sessions/pr/887/dotnet11/serialize-json-in--net-11-with-pascalcase-property-names--plugin--run0.jsonl",
+      "id": "pr/887/dotnet11/serialize-json-in--net-11-with-pascalcase-property-names--plugin--run0",
+      "mtime": 1786237483461,
+      "name": "dotnet11 / serialize-json-in--net-11-with-pascalcase-property-names (plugin)",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "plugin",
+        "serialize-json-in--net-11-with-pascalcase-property-names",
+        "pr-887"
+      ]
+    },
+    {
+      "url": "sessions/pr/887/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--baseline--run0.jsonl",
+      "id": "pr/887/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--baseline--run0",
+      "mtime": 1786237483461,
+      "name": "dotnet11 / type-safe-jsontypeinfo-access-without-exceptions-in--net-11 (baseline)",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "baseline",
+        "type-safe-jsontypeinfo-access-without-exceptions-in--net-11",
+        "pr-887"
+      ]
+    },
+    {
+      "url": "sessions/pr/887/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--isolated--run0.jsonl",
+      "id": "pr/887/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--isolated--run0",
+      "mtime": 1786237483461,
+      "name": "dotnet11 / type-safe-jsontypeinfo-access-without-exceptions-in--net-11 (isolated)",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "isolated",
+        "type-safe-jsontypeinfo-access-without-exceptions-in--net-11",
+        "pr-887"
+      ]
+    },
+    {
+      "url": "sessions/pr/887/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--plugin--run0.jsonl",
+      "id": "pr/887/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--plugin--run0",
+      "mtime": 1786237483461,
+      "name": "dotnet11 / type-safe-jsontypeinfo-access-without-exceptions-in--net-11 (plugin)",
+      "tags": [
+        "pr",
+        "dotnet11",
+        "plugin",
+        "type-safe-jsontypeinfo-access-without-exceptions-in--net-11",
+        "pr-887"
+      ]
+    },
+    {
+      "url": "sessions/pr/887/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--baseline--run0.jsonl",
+      "id": "pr/887/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--baseline--run0",
+      "mtime": 1786237483456,
+      "name": "dotnet-data / optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete (baseline)",
+      "tags": [
+        "pr",
+        "dotnet-data",
+        "baseline",
+        "optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete",
+        "pr-887"
+      ]
+    },
+    {
+      "url": "sessions/pr/887/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--isolated--run0.jsonl",
+      "id": "pr/887/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--isolated--run0",
+      "mtime": 1786237483457,
+      "name": "dotnet-data / optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete (isolated)",
+      "tags": [
+        "pr",
+        "dotnet-data",
+        "isolated",
+        "optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete",
+        "pr-887"
+      ]
+    },
+    {
+      "url": "sessions/pr/887/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--plugin--run0.jsonl",
+      "id": "pr/887/dotnet-data/optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete--plugin--run0",
+      "mtime": 1786237483457,
+      "name": "dotnet-data / optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete (plugin)",
+      "tags": [
+        "pr",
+        "dotnet-data",
+        "plugin",
+        "optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete",
+        "pr-887"
+      ]
     }
   ],
-  "generated": "2026-08-07T09:31:17.0580000+00:00"
+  "generated": "2026-08-09T01:04:43.4610000+00:00"
 }
