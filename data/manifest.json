@@ -1,5 +1,4 @@
 {
-  "generated": "2026-08-09T01:04:43.4610000+00:00",
   "sessions": [
     {
       "name": "dotnet-data / optimize-bulk-operations-with-ef-core-7--executeupdate-and-executedelete (baseline)",
@@ -291903,5 +291902,6 @@
         "pr-887"
       ]
     }
-  ]
+  ],
+  "generated": "2026-08-09T01:04:43.4610000+00:00"
 }
