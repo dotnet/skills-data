@@ -1,5 +1,4 @@
 {
-  "generated": "2026-08-13T03:01:24.3250000+00:00",
   "sessions": [
     {
       "url": "sessions/pr/647/dotnet-test/coverage-plateau-diagnosis--baseline--run0.jsonl",
@@ -291903,5 +291902,6 @@
       ],
       "mtime": 1786590081497
     }
-  ]
+  ],
+  "generated": "2026-08-13T03:01:24.3250000+00:00"
 }
