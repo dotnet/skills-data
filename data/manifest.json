@@ -1,5 +1,4 @@
 {
-  "generated": "2026-08-19T00:12:13.5150000+00:00",
   "sessions": [
     {
       "name": "dotnet-test / decline-request-to-write-new-tests-from-scratch (baseline)",
@@ -291903,5 +291902,6 @@
       "url": "sessions/pr/878/dotnet-msbuild/diagnose-build-failures-from-binlog-only--no-source-files---plugin--run2.jsonl",
       "mtime": 1787098333493
     }
-  ]
+  ],
+  "generated": "2026-08-19T00:12:13.5150000+00:00"
 }
