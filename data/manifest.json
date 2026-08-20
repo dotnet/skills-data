@@ -1,4 +1,5 @@
 {
+  "generated": "2026-08-20T09:36:18.5670000+00:00",
   "sessions": [
     {
       "url": "sessions/pr/641/dotnet-test/configure-conditional-execution--retry--and-cleanup--baseline--run0.jsonl",
@@ -291902,6 +291903,5 @@
       "name": "dotnet-nuget / recommend-cpm-when-updating-packages-with-version-conflicts (plugin)",
       "mtime": 1787218576082
     }
-  ],
-  "generated": "2026-08-20T09:36:18.5670000+00:00"
+  ]
 }
