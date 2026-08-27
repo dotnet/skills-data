@@ -1,5 +1,4 @@
 {
-  "generated": "2026-08-27T10:15:28.0690000+00:00",
   "sessions": [
     {
       "name": "dotnet-aspnetcore / add-a-new-api-endpoint-to-an-existing-controller-based-project (baseline)",
@@ -291903,5 +291902,6 @@
       "mtime": 1787825726021,
       "name": "dotnet-nuget / recommend-cpm-when-updating-packages-with-version-conflicts (plugin)"
     }
-  ]
+  ],
+  "generated": "2026-08-27T10:15:28.0690000+00:00"
 }
