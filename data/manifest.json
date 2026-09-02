@@ -1,4 +1,5 @@
 {
+  "generated": "2026-09-02T11:23:09.8800000+00:00",
   "sessions": [
     {
       "url": "sessions/pr/502/dotnet-msbuild/analyze-build-parallelism-bottlenecks--baseline--run0.jsonl",
@@ -291902,6 +291903,5 @@
       "mtime": 1788348189858,
       "name": "dotnet-msbuild / diagnose-build-failures-from-binlog-only--no-source-files (-plugin)"
     }
-  ],
-  "generated": "2026-09-02T11:23:09.8800000+00:00"
+  ]
 }
