@@ -1,5 +1,4 @@
 {
-  "generated": "2026-09-03T11:16:13.9090000+00:00",
   "sessions": [
     {
       "name": "dotnet-aspnetcore / add-a-new-api-endpoint-to-an-existing-controller-based-project (baseline)",
@@ -291903,5 +291902,6 @@
       "name": "dotnet-msbuild / explain-misleading-resolveprojectreferences-time (plugin)",
       "mtime": 1788434171381
     }
-  ]
+  ],
+  "generated": "2026-09-03T11:16:13.9090000+00:00"
 }
