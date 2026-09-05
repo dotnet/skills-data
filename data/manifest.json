@@ -1,4 +1,5 @@
 {
+  "generated": "2026-09-04T13:05:31.9020000+00:00",
   "sessions": [
     {
       "name": "dotnet-blazor / application-settings-page-with-nested-tab-panels (baseline)",
@@ -291902,6 +291903,5 @@
       "name": "dotnet-diag / windows-modern--net-with-admin-high-cpu (plugin)",
       "id": "pr/716/dotnet-diag/windows-modern--net-with-admin-high-cpu--plugin--run0"
     }
-  ],
-  "generated": "2026-09-04T13:05:31.9020000+00:00"
+  ]
 }
