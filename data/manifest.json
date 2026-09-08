@@ -1,4 +1,5 @@
 {
+  "generated": "2026-09-06T17:29:41.0430000+00:00",
   "sessions": [
     {
       "tags": [
@@ -291902,6 +291903,5 @@
       "id": "pr/887/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--plugin--run0",
       "url": "sessions/pr/887/dotnet11/type-safe-jsontypeinfo-access-without-exceptions-in--net-11--plugin--run0.jsonl"
     }
-  ],
-  "generated": "2026-09-06T17:29:41.0430000+00:00"
+  ]
 }
