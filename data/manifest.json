@@ -1,5 +1,4 @@
 {
-  "generated": "2026-11-23T14:32:12.5210000+00:00",
   "sessions": [
     {
       "name": "dotnet-msbuild / add-a-module-to-an-f--project (baseline)",
@@ -291903,5 +291902,6 @@
         "pr-684"
       ]
     }
-  ]
+  ],
+  "generated": "2026-11-23T14:32:12.5210000+00:00"
 }
